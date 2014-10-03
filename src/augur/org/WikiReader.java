@@ -52,8 +52,6 @@ public class WikiReader {
 	 * @return the XML string
 	 */
 	private static String wikiTableToXml(String text) {
-		
-		
 		return null;
 	}
 
