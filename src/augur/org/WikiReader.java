@@ -4,6 +4,9 @@
 package augur.org;
 
 import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -39,11 +42,22 @@ public class WikiReader {
 		String pageTitle = year + " in film";
 		String pageText = reader.getPageText(pageTitle);
 		
-		String Xml = wikiTableToXml(pageText);
+		String table = getMovieByYearTable(pageText, year);
+		String Xml = wikiTableToXml(table);
 		
-		System.out.println(pageText);
+//		 System.out.println(pageText);
 		
 		return movieUrlList;
+	}
+
+	private static String getMovieByYearTable(String pageText, int year) throws IOException {
+		dumpToLog(pageText, "movies.txt");
+		return null;
+	}
+
+	private static void dumpToLog(String text, String filePath) throws IOException {
+		Path file = Paths.get(filePath);
+		Files.write(file, text.getBytes());
 	}
 
 	/**
@@ -52,6 +66,7 @@ public class WikiReader {
 	 * @return the XML string
 	 */
 	private static String wikiTableToXml(String text) {
+		
 		return null;
 	}
 
