@@ -46,8 +46,14 @@ public class WikiReader {
 		return movieUrlList;
 	}
 
-	private static String wikiTableToXml(String pageText) {
-		// TODO Auto-generated method stub
+	/**
+	 * Converts the string wiki table to parse-able XML
+	 * @param text the table text
+	 * @return the XML string
+	 */
+	private static String wikiTableToXml(String text) {
+		
+		
 		return null;
 	}
 
