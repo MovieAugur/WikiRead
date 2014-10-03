@@ -39,9 +39,16 @@ public class WikiReader {
 		String pageTitle = year + " in film";
 		String pageText = reader.getPageText(pageTitle);
 		
+		String Xml = wikiTableToXml(pageText);
+		
 		System.out.println(pageText);
 		
 		return movieUrlList;
+	}
+
+	private static String wikiTableToXml(String pageText) {
+		// TODO Auto-generated method stub
+		return null;
 	}
 
 }
