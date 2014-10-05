@@ -1,0 +1,1227 @@
+{{For|the 1968 science-fiction film, novel and related items|2001: A Space Odyssey}}
+{{Year nav topic5|2001|film|home video|television}}
+
+The year '''2001 in film''' involved some significant events, including the first of the [[Harry Potter]] series and also the first of ''[[The Lord of the Rings]]'' trilogy. Significant non-English language films released included ''[[Monsoon Wedding]]'' and ''[[Amélie]]''.
+__TOC__
+<!-- formerly (4May07): 
+{{yearbox
+| in?=in film | in2?=in home video | in3?=in television
+| cp=20th century | c=21st century | cf=22nd century
+| yp1=1998 | yp2=1999 | yp3=2000
+| year=2001 
+| ya1=2002 | ya2=2003 | ya3=2004 
+| dp3=1970s | dp2=1980s | dp1=1990s
+| d=2000s | da=0
+| dn1=2010s | dn2=2020s | dn3=2030s |}}
+  -->
+
+==Highest-grossing films==
+{| class="wikitable sortable" style="margin:auto; margin:auto;"
+|+ Highest-grossing films of 2001<ref>{{cite web|url=http://boxofficemojo.com/yearly/chart/?view2=worldwide&yr=2001&p=.htm |title=2001 Worldwide Grosses |work=[[Box Office Mojo]]}}</ref>
+|-
+!Rank!!Title!!Studio!!Worldwide Gross
+|-
+| 1.
+| ''[[Harry Potter and the Philosopher's Stone (film)|Harry Potter and the Philosopher's Stone]]''
+| [[Warner Bros.]]
+| $974,733,550
+|-
+| 2.
+| ''[[The Lord of the Rings: The Fellowship of the Ring]]''
+| [[New Line Cinema]]
+| $870,761,744
+|-
+| 3.
+| ''[[Monsters, Inc.]]''
+| [[Walt Disney Pictures|Disney]] / [[Pixar]]
+| $525,366,597<ref>{{cite web |title=Monsters, Inc. (2001) |work=[[Box Office Mojo]] |url=http://www.boxofficemojo.com/movies/?page=main&id=monstersinc.htm |archiveurl=http://web.archive.org/web/20120629132627/http://www.boxofficemojo.com/movies/?page=main&id=monstersinc.htm |archivedate=29 June 2012}}</ref>
+|-
+| 4.
+| ''[[Shrek]]''
+| [[DreamWorks]]
+| $484,409,218
+|-
+| 5.
+| ''[[Ocean's Eleven (2001 film)|Ocean's Eleven]]''
+| Warner Bros
+| $450,717,150
+|-
+| 6.
+| ''[[Pearl Harbor (film)|Pearl Harbor]]''
+| [[Touchstone Pictures|Touchstone]]
+| $449,220,945
+|-
+| 7.
+| ''[[The Mummy Returns]]''
+| [[Universal Studios|Universal]]
+| $433,013,274
+|-
+| 8.
+| ''[[Jurassic Park III]]''
+| Universal
+| $368,780,809
+|-
+| 9.
+| ''[[Planet of the Apes (2001 film)|Planet of the Apes]]''
+| [[20th Century Fox]]
+| $362,211,740
+|-
+| 10.
+| ''[[Hannibal (film)|Hannibal]]''
+| [[Metro-Goldwyn-Mayer|MGM]] / Universal
+| $351,692,268
+|}
+
+''[[Harry Potter and the Philosopher's Stone]]'' has grossed $974.7 million; it was the highest-grossing film in the [[Harry Potter (film series)|''Harry Potter'']] film franchise until ''[[Harry Potter and the Deathly Hallows – Part 2]]'' surpassed it in [[2011 in film|2011]].
+
+==Events==
+{{Yearsinfilm}}<!-- SIDEBAR NAV-BOX -->
+* August 8 – Actor [[Tom Cruise]] and actress [[Nicole Kidman]] get divorced.
+* November 2 – ''[[Monsters, Inc.]]'' debuts with the best ticket sales ever for an [[animated film]] and the 6th best of all time.
+* November 4 and December 19 – The beginning of two film series based on best-sellers: ''[[Harry Potter]]'' and ''[[The Lord of the Rings]]'', respectively.
+
+===Award ceremonies===
+* [[6th Empire Awards]]
+
+==Awards==
+{| class="wikitable" style="font-size: 90%;"
+|-
+! rowspan="2" style="width:200px;"| Category/Organization !! rowspan="2" style="width:250px;"| [[7th Critics' Choice Awards]]<br /> January 11, 2002 !! colspan="2" style="width:250px;"| [[59th Golden Globe Awards]]<br />January 20, 2002 !! rowspan="2" style="width:250px;"| [[55th British Academy Film Awards|55th BAFTA Awards]]<br />February 24, 2002 !! rowspan="2" style="width:250px;"| [[8th Screen Actors Guild Awards]]<br /> March 9, 2002!! rowspan="2" style="width:250px;"| [[74th Academy Awards]]<br /> March 24, 2002
+|-
+! width=200| Drama !! style="width:200px;"| Musical or Comedy
+|-
+| Best Film || '''''[[A Beautiful Mind (film)|A Beautiful Mind]]''''' || '''''[[A Beautiful Mind (film)|A Beautiful Mind]]'''''|| '''''[[Moulin Rouge!]]''''' || '''''[[The Lord of the Rings: The Fellowship of the Ring]]''''' || '''''[[Gosford Park]]''''' '''(cast)''' || '''''[[A Beautiful Mind (film)|A Beautiful Mind]]''''' 
+|-
+| Best Director || '''[[Ron Howard]]'''<br />''[[A Beautiful Mind (film)|A Beautiful Mind]]''<br>'''[[Baz Luhrmann]]'''<br />''[[Moulin Rouge!]]'' || colspan=2| '''[[Robert Altman]]'''<br />''[[Gosford Park]]'' || '''[[Peter Jackson]]'''<br />''[[The Lord of the Rings: The Fellowship of the Ring]]'' ||—|| '''[[Ron Howard]]'''<br />''[[A Beautiful Mind (film)|A Beautiful Mind]]''
+|-
+| Best Actor || '''[[Russell Crowe]]'''<br />''[[A Beautiful Mind (film)|A Beautiful Mind]]'' || '''[[Russell Crowe]]'''<br />''[[A Beautiful Mind (film)|A Beautiful Mind]]'' || '''[[Gene Hackman]]'''<br />''[[The Royal Tenenbaums]]'' ||'''[[Russell Crowe]]'''<br />''[[A Beautiful Mind (film)|A Beautiful Mind]]'' || '''[[Russell Crowe]]'''<br />''[[A Beautiful Mind (film)|A Beautiful Mind]]'' || '''[[Denzel Washington]]'''<br />''[[Training Day]]'' 
+|-
+| Best Actress || '''[[Sissy Spacek]]'''<br />''[[In the Bedroom]]'' || '''[[Sissy Spacek]]'''<br />''[[In the Bedroom]]'' || '''[[Nicole Kidman]]'''<br />''[[Moulin Rouge!]]'' || '''[[Judi Dench]]'''<br />''[[Iris (film)|Iris]]'' || '''[[Halle Berry]]'''<br />''[[Monster's Ball]]'' || '''[[Halle Berry]]'''<br />''[[Monster's Ball]]''
+|-
+| Best Supporting Actor || '''[[Ben Kingsley]]'''<br />''[[Sexy Beast]]'' || colspan=2| '''[[Jim Broadbent]]'''<br />''[[Iris (film)|Iris]]'' || '''[[Jim Broadbent]]'''<br />''[[Moulin Rouge!]]'' || '''[[Ian McKellen]]'''<br />''[[The Lord of the Rings: The Fellowship of the Ring]]'' || '''[[Jim Broadbent]]'''<br />''[[Iris (film)|Iris]]''
+|-
+| Best Supporting Actress || '''[[Jennifer Connelly]]'''<br />''[[A Beautiful Mind (film)|A Beautiful Mind]]'' || colspan=2| '''[[Jennifer Connelly]]'''<br />''[[A Beautiful Mind (film)|A Beautiful Mind]]'' || '''[[Jennifer Connelly]]'''<br />''[[A Beautiful Mind (film)|A Beautiful Mind]]'' || '''[[Helen Mirren]]'''<br />''[[Gosford Park]]''|| '''[[Jennifer Connelly]]'''<br />''[[A Beautiful Mind (film)|A Beautiful Mind]]''
+|-
+| Best Screenplay (Adapted) || rowspan=2| ''''[[Memento (film)|Memento]]''''<br />[[Christopher Nolan]],|| rowspan=2 colspan=2| '''''[[A Beautiful Mind (film)|A Beautiful Mind]]'''''<br />[[Akiva Goldsman]] || '''''[[Shrek]]'''''<br />[[Ted Elliott (screenwriter)|Ted Elliott]], [[Terry Rossio]], [[Joe Stillman]] and [[Roger S. H. Schulman]] ||—|| '''''[[A Beautiful Mind (film)|A Beautiful Mind]]'''''<br />[[Akiva Goldsman]]
+|-
+| Best Screenplay (Original) || '''''[[Amélie]]'''''<br />[[Guillaume Laurant]] and [[Jean-Pierre Jeunet]] ||—|| '''''[[Gosford Park]]'''''<br />[[Julian Fellowes]]
+|-
+| Best Score || '''''[[The Lord of the Rings: The Fellowship of the Ring]]'''''<br />[[Howard Shore]] || colspan=2| '''''"[[Moulin Rouge!]]"'''''<br />[[Craig Armstrong (composer)|Craig Armstrong]] || '''''"[[Moulin Rouge!]]"'''''<br />[[Craig Armstrong (composer)|Craig Armstrong]] and [[Marius de Vries]] ||—|| '''''[[The Lord of the Rings: The Fellowship of the Ring]]'''''<br />Howard Shore 
+|-
+| Best Foreign Language Film || '''''[[Amélie]]'''''<br />(''Le fabuleux destin d'Amélie Poulain'') || colspan=2| '''''[[No Man's Land (2001 film)|No Man's Land]]''''' || '''''[[Love's a Bitch]]''''' ||—|| '''''[[No Man's Land (2001 film)|No Man's Land]]'''''<br />(''Ni?ija zemlja'')
+|-
+| Best Animated Film || '''''[[Shrek]]''''' || colspan=2| — || — ||—|| '''''[[Shrek]]'''''
+|}
+
+'''[[Palme d'Or]] (Cannes Film Festival):'''
+:'''''[[The Son's Room]]''''' (''La stanza del figlio''), directed by [[Nanni Moretti]], Italy / France
+
+'''[[Golden Lion]] (Venice Film Festival):'''
+:'''''[[Monsoon Wedding]]''''', directed by [[Mira Nair]], India / U.S.A. / France / Italy / Germany
+
+'''[[Berlin Film Festival|Golden Bear]] (Berlin Film Festival):'''
+:'''''[[Intimacy (film)|Intimacy]]''''' (''Intimité''), directed by [[Patrice Chéreau]], France / U.K. / Germany / Spain
+
+==2001 Wide-release films==
+
+===January–March===
+{| class="wikitable"
+|+ "align=bottom" |
+! colspan="2" | Opening
+! style="width:17%;"| Title
+! style="width:16%;"| Studio
+! Cast and crew
+! style="width:10%"| Genre
+! style="width:8%"| Medium
+|-
+! rowspan="6" style="text-align:center; background:#ffa07a; textcolor:#000;"|'''J<br />A<br />N<br />U<br />A<br />R<br />Y'''
+| rowspan="3" style="text-align:center; background:#ffdacc;"| 12
+| ''[[Antitrust (film)|Antitrust]]'' || [[Metro-Goldwyn-Mayer]] || [[Peter Howitt]] (director); [[Howard Franklin]] (screenplay); [[Ryan Phillippe]], [[Tim Robbins]], [[Rachael Leigh Cook]], [[Claire Forlani]] || [[thriller (genre)|Thriller]] || [[Live Action]]
+|-
+| ''[[Double Take (2001 film)|Double Take]]'' || [[Touchstone Pictures]] || [[George Gallo]] (director/screenplay); [[Eddie Griffin]], [[Orlando Jones]], [[Edward Hermann]], [[Gary Grubbs]], [[Daniel Roebuck]], Sterling Macer Jr || [[comedy film|Comedy]] || [[Live Action]]
+|-
+| ''[[Save the Last Dance]]'' || [[Paramount Pictures]] / [[MTV Films]] || [[Thomas Carter (director)|Thomas Carter]] (director); [[Duane Adler]], Cheryl Edwards (screenplay); [[Julia Stiles]], [[Sean Patrick Thomas]], [[Kerry Washington]], [[Terry Kinney]] || [[drama film|Drama]] || [[Live Action]]
+|-
+| rowspan="1" style="text-align:center; background:#ffdacc;"| 19
+| ''[[The Pledge (film)|The Pledge]]'' || [[Warner Bros.]] || [[Sean Penn]] (director); Jerzy Kromolowski, Mary Olson-Kromolowski (screenplay); [[Jack Nicholson]], [[Aaron Eckhart]], [[Helen Mirren]], [[Robin Wright]], [[Vanessa Redgrave]], [[Sam Shepard]] || [[mystery film|Mystery]] || [[Live Action]]
+|-
+| rowspan="2" style="text-align:center; background:#ffdacc;"| 26
+| ''[[Sugar & Spice]]'' || [[New Line Cinema]] || [[Francine McDougall]] (director); Mandy Nelson (screenplay); [[Marla Sokoloff]], [[Marley Shelton]], [[Mena Suvari]], [[Melissa George]], [[Rachel Blanchard]], [[Alexandra Holden]], Sara Marsh, [[James Marsden]] || [[crime fiction|Crime]], [[comedy film|Comedy]] || [[Live Action]]
+|-
+| ''[[The Wedding Planner]]'' || [[Columbia Pictures]] || [[Adam Shankman]] (director); [[Michael J. Ellis|Michael Ellis]], Pamela Falk (screenplay); [[Jennifer Lopez]], [[Matthew McConaughey]] || [[romance film|Romance]], [[comedy film|Comedy]] || [[Live Action]]
+|-
+! rowspan="11" style="text-align:center; background:thistle; textcolor:#000;"|'''F<br />E<br />B<br />R<br />U<br />A<br />R<br />Y'''
+| rowspan="2" style="text-align:center; background:#d8d8d8;"| 2
+| ''[[Head over Heels (2001 film)|Head over Heels]]'' || [[Universal Studios|Universal Pictures]] || [[Mark Waters (director)|Mark Waters]] (director); [[John J. Strauss]], [[Ed Decter]], David Kidd, Ron Burch (screenplay); [[Monica Potter]], [[Freddie Prinze, Jr.]], [[Shalom Harlow]] || [[romance film|Romance]], [[comedy film|Comedy]] || [[Live Action]]
+|-
+| ''[[Valentine (film)|Valentine]]'' || [[Warner Bros.]] || [[Jamie Blanks]] (director); Donna Powers, Wayne Powers, Gretchen J. Berg, Aaron Harberts (screenplay); [[David Boreanaz]], [[Denise Richards]], [[Marley Shelton]], [[Katherine Heigl]] || [[horror film|Horror]] || [[Live Action]]
+|-
+| rowspan="2" style="text-align:center; background:#d8d8d8;"| 9
+| ''[[Hannibal (film)|Hannibal]]'' || [[Metro-Goldwyn-Mayer]] / [[Universal Studios|Universal Pictures]] || [[Ridley Scott]] (director); [[David Mamet]], [[Steven Zaillian]] (screenplay); [[Anthony Hopkins]], [[Julianne Moore]], [[Gary Oldman]], [[Ray Liotta]], [[Frankie Faison|Frankie R. Faison]], [[Giancarlo Giannini]], [[Francesca Neri]], [[Zeljko Ivanek]], [[Hazelle Goodman]], [[David Andrews (actor)|David Andrews]], [[Francis Guinan]], [[Mark Margolis]] || [[horror film|Horror]], [[thriller (genre)|Thriller]] || [[Live Action]]
+|-
+| ''[[Saving Silverman]]'' || [[Columbia Pictures]] || [[Dennis Dugan]] (director); Hank Nelken, Greg DePaul (screenplay); [[Jason Biggs]], [[Steve Zahn]], [[Jack Black]], [[Amanda Peet]], [[Amanda Detmer]], [[R. Lee Ermey]], [[Neil Diamond]] || [[comedy film|Comedy]] || [[Live Action]]
+|-
+| rowspan="5" style="text-align:center; background:#d8d8d8;"| 16
+| ''[[Recess: School's Out]]'' || [[Walt Disney Pictures]] || [[Chuck Sheetz]] (director); Jonathan Greenberg (screenplay); [[Rickey D'Shon Collins]], [[Jason Davis (actor)|Jason Davis]], [[James Woods]], [[Paul Willson]], [[Ashley Johnson]], [[Andrew Lawrence (actor)|Andrew Lawrence]], [[Courtland Mead]], [[Melissa Joan Hart]], [[Pamela Adlon|Pamela Segall]], [[Dabney Coleman]], [[April Winchell]] || [[comedy film|Comedy]], [[mystery film|Mystery]] || [[Animation]]
+|-
+| ''[[Down to Earth (2001 film)|Down to Earth]]'' || [[Paramount Pictures]] || [[Chris Weitz]], [[Paul Weitz (filmmaker)|Paul Weitz]] (director); [[Chris Rock]], [[Lance Crouther]], [[Ali LeRoi]], [[Louis C.K.]] (screenplay); Chris Rock, [[Regina King]], [[Mark Addy]], [[Eugene Levy]], [[Frankie Faison|Frankie R. Faison]], [[Greg Germann]], [[Jennifer Coolidge]], [[Chazz Palminteri]] || [[comedy film|Comedy]] || [[Live Action]]
+|-
+| ''[[Revolution OS]]'' || [[New Line Cinema]] || [[J. T. S. Moore]] (director/screenplay); [[Richard Stallman]], [[Linus Torvalds]], [[Eric S. Raymond]], [[Bruce Perens]] || [[documentary film|Documentary]] || [[Live Action]]
+|-
+| ''[[Super Troopers]]'' || [[Fox Searchlight|Fox Searchlight Pictures]] || [[Jay Chandrasekhar]] (director); [[Broken Lizard]] (screenplay); Jay Chandrasekhar, [[Kevin Heffernan (actor)|Kevin Heffernan]], [[Steve Lemme]], [[Paul Soter]], [[Erik Stolhanske]], [[Brian Cox (actor)|Brian Cox]], [[Marisa Coughlan]] || [[comedy film|Comedy]] || [[Live Action]]
+|-
+| ''[[Sweet November (2001 film)|Sweet November]]'' || [[Warner Bros.]] || [[Pat O'Connor (director)|Pat O'Connor]] (director); Paul Yurick, Kurt Voelker (screenplay); [[Keanu Reeves]], [[Charlize Theron]], [[Jason Isaacs]], [[Greg Germann]], [[Liam Aiken]], [[Lauren Graham]], [[Frank Langella]] || [[romance film|Romance]], [[drama film|Drama]] || [[Live Action]]
+|-
+| rowspan="2" style="text-align:center; background:#d8d8d8;"| 23
+| ''[[3000 Miles to Graceland]]'' || [[Warner Bros.]] || Demian Lichtenstein (director/screenplay); Richard Recco (screenplay); [[Kurt Russell]], [[Kevin Costner]], [[Courteney Cox Arquette]], [[Christian Slater]], [[Kevin Pollak]], [[David Arquette]], [[Jon Lovitz]], [[Howie Long]], [[Thomas Haden Church]], [[Bokeem Woodbine]], [[Ice-T]] || [[crime fiction|Crime]] || [[Live Action]]
+|-
+| ''[[Monkeybone]]'' || [[20th Century Fox]] || [[Henry Selick]] (director); [[Sam Hamm]] (screenplay); [[Brendan Fraser]], [[Bridget Fonda]], [[Chris Kattan]], [[Whoopi Goldberg]], [[Rose McGowan]], [[Giancarlo Esposito]], [[John Turturro]] || [[comedy film|Comedy]], [[fantasy film|Fantasy]] || [[Live Action]]/[[Animation]]
+|-
+! rowspan="14" style="text-align:center; background:#98fb98; textcolor:#000;"|'''M<br />A<br />R<br />C<br />H'''
+| rowspan="2" style="text-align:center; background:#e0f9e0;"| 2
+| ''[[The Mexican]]'' || [[DreamWorks|DreamWorks Pictures]] || [[Gore Verbinski]] (director); [[J. H. Wyman]] (screenplay); [[Brad Pitt]], [[Julia Roberts]], [[James Gandolfini]], [[J. K. Simmons]] || [[comedy film|Comedy]] || [[Live Action]]
+|-
+| ''[[See Spot Run]]'' || [[Warner Bros.]] || [[John Whitesell]] (director); [[George Gallo]], Gregory Poirer, Dan Baron, Chris Faber (screenplay); [[David Arquette]], [[Angus T. Jones]], [[Paul Sorvino]], [[Michael Clarke Duncan]] || [[comedy film|Comedy]] || [[Live Action]]
+|-
+| rowspan="2" style="text-align:center; background:#e0f9e0;"| 9
+| ''[[15 Minutes]]'' || [[New Line Cinema]] || [[John Herzfeld]] (director/screenplay); [[Robert De Niro]], [[Edward Burns]], [[Kelsey Grammer]], [[Avery Brooks]], [[Karel Roden]], [[Oleg Taktarov]], [[Melina Kanakaredes]] || [[thriller (genre)|Thriller]] || [[Live Action]]
+|-
+| ''[[Get Over It (film)|Get Over It]]'' || [[Miramax Films]] || [[Tommy O'Haver]] (director); [[R. Lee Fleming, Jr.]] (screenplay); [[Kirsten Dunst]], [[Ben Foster]], [[Melissa Sagemiller]], [[Sisqó]], [[Shane West]], [[Colin Hanks]], [[Swoosie Kurtz]], [[Ed Begley, Jr.]], [[Zoe Saldana]], [[Mila Kunis]], [[Carmen Electra]], [[Martin Short]] || [[romance film|Romance]], [[comedy film|Comedy]] || [[Live Action]]
+|-
+| rowspan="3" style="text-align:center; background:#e0f9e0;"| 16
+| ''[[Enemy at the Gates]]'' || [[Paramount Pictures]] || [[Jean-Jacques Annaud]] (director/screenplay); Alain Godard (screenplay); [[Jude Law]], [[Joseph Fiennes]], [[Rachel Weisz]], [[Bob Hoskins]], [[Ed Harris]], [[Ron Perlman]] || [[action film|Action]], [[drama film|Drama]] || [[Live Action]]
+|-
+| ''[[Exit Wounds]]'' || [[Warner Bros.]] || [[Andrzej Bartkowiak]] (director); Ed Horowitz, Richard D'Ovidio (screenplay); [[Steven Seagal]], [[DMX (rapper)|DMX]] || [[action film|Action]] || [[Live Action]]
+|-
+| ''[[Memento (film)|Memento]]'' || [[Summit Entertainment]] || [[Christopher Nolan]] (director/screenplay); [[Guy Pearce]], [[Carrie-Anne Moss]], [[Joe Pantoliano]] || [[thriller (genre)|Thriller]] || [[Live Action]]
+|-
+| rowspan="3" style="text-align:center; background:#e0f9e0;"| 23
+| ''[[The Brothers (2001 film)|The Brothers]]'' || [[Screen Gems]] || Gary Hardwick (director/screenplay); [[Morris Chestnut]], [[D. L. Hughley]], [[Bill Bellamy]], [[Shemar Moore]], [[Gabrielle Union]] || [[comedy film|Comedy]], [[romance film|Romance]] || [[Live Action]]
+|-
+| ''[[Heartbreakers (2001 film)|Heartbreakers]]'' || [[Metro-Goldwyn-Mayer]] || [[David Mirkin]] (director); [[Robert Dunn (screenwriter)|Robert Dunn]], Paul Guay, [[Stephen Mazur]] (screenplay); [[Sigourney Weaver]], [[Jennifer Love Hewitt]], [[Ray Liotta]], [[Jason Lee (entertainer)|Jason Lee]], [[Gene Hackman]] || [[romance film|Romance]] || [[Live Action]]
+|-
+| ''[[Say It Isn't So (film)|Say It Isn't So]]'' || [[20th Century Fox]] || [[J. B. Rogers]] (director); Peter Gaulke, Gerry Swallow (screenplay); [[Chris Klein (actor)|Chris Klein]], [[Heather Graham]] || [[comedy film|Comedy]] || [[Live Action]]
+|-
+| rowspan="4" style="text-align:center; background:#e0f9e0;"| 30
+| ''[[Someone Like You (film)|Someone Like You]]'' || [[20th Century Fox]] || [[Tony Goldwyn]] (director); [[Elizabeth Chandler]] (screenplay); [[Ashley Judd]], [[Greg Kinnear]], [[Hugh Jackman]], [[Marisa Tomei]], [[Ellen Barkin]] || [[romance film|Romance]], [[comedy film|Comedy]] || [[Live Action]]
+|-
+| ''[[Spy Kids]]'' || [[Dimension Films]] || [[Robert Rodriguez]] (director/screenplay); [[Antonio Banderas]], [[Carla Gugino]], [[Alan Cumming]], [[Teri Hatcher]], [[Cheech Marin]], [[Danny Trejo]], [[Robert Patrick]], [[Tony Shalhoub]], [[Alexa Vega]], [[Daryl Sabara]] || [[science fiction film|Sci-Fi]], [[fantasy film|Fantasy]], [[family film|Family]] || [[Live Action]]
+|-
+| ''[[The Tailor of Panama]]'' || [[Columbia Pictures]] || [[John Boorman]] (director/screenplay); [[Andrew Davies (writer)|Andrew Davies]], [[John le Carré]] (screenplay); [[Pierce Brosnan]], [[Geoffrey Rush]], [[Jamie Lee Curtis]], [[Brendan Gleeson]], [[Daniel Radcliffe]], [[Catherine McCormack]], and [[Harold Pinter]] || [[thriller (genre)|Thriller]] || [[Live Action]]
+|-
+| ''[[Tomcats (2001 film)|Tomcats]]'' || [[Columbia Pictures]] || [[Gregory Poirier]] (director/screenplay); [[Jerry O'Connell]], [[Shannon Elizabeth]], [[Jake Busey]] || [[comedy film|Comedy]] || [[Live Action]]
+|}
+
+===April–June===
+{| class="wikitable"
+|+ "align=bottom" |
+! colspan="2" | Opening
+! style="width:17%;"| Title
+! style="width:16%;"| Studio
+! Cast and crew
+! style="width:10%"| Genre
+! style="width:8%"| Medium
+|-
+! rowspan="12" style="text-align:center; background:#ffa07a; textcolor:#000;"|'''A<br />P<br />R<br />I<br />L'''
+| rowspan="4" style="text-align:center; background:#ffdacc;"| 6
+| ''[[Along Came a Spider (film)|Along Came a Spider]]'' || [[Paramount Pictures]] || [[Lee Tamahori]] (director); [[Marc Moss]] (screenplay); [[Morgan Freeman]], [[Monica Potter]], [[Michael Wincott]] || [[thriller (genre)|Thriller]] || [[Live Action]]
+|-
+| ''[[Blow (film)|Blow]]'' || [[New Line Cinema]] || [[Ted Demme]] (director); [[Nick Cassavetes]], [[David McKenna (writer)|David McKenna]] (screenplay); [[Johnny Depp]], [[Jordi Mollà]], [[Penélope Cruz]], [[Ray Liotta]], [[Paul Reubens]], [[Franka Potente]], [[Rachel Griffiths]] || [[biographical film|Biography]] || [[Live Action]]
+|-
+| ''[[Just Visiting (film)|Just Visiting]]'' || [[Hollywood Pictures]] || [[Jean-Marie Poiré|Jean-Marie Gaubert]] (director); [[Jean-Marie Poiré]], [[Christian Clavier]], [[John Hughes (filmmaker)|John Hughes]] (screenplay); [[Jean Reno]], [[Christina Applegate]], [[Christian Clavier]], [[Malcolm McDowell]], [[Tara Reid]], [[Bridgette Wilson]] || [[comedy film|Comedy]] || [[Live Action]]
+|-
+| ''[[Pokémon 3: The Movie]]'' || [[Warner Bros.]] || [[Kunihiko Yuyama]] (director); Hideki Sonoda, [[Takeshi Shudo]] (screenplay); [[Veronica Taylor]], [[Ikue ?tani]], [[Rachael Lillis]], [[Eric Stuart]], [[Lisa Ortiz]], [[Ted Lewis (voice actor)|Ted Lewis]], [[Kayzie Rogers]], [[Ryan Drummond]], [[Tara Sands|Tara Jayne]], Roger Kay, [[Rodger Parsons|Ken Gates]], [[Amy Birnbaum]], Lee Quick, Kathy Pilon, Peter R. Bird, [[Stuart Zagnit]], [[Dan Green (voice actor)|Dan Green]] || [[fantasy film|Fantasy]] || [[Animation]]
+|-
+| rowspan="4" style="text-align:center; background:#ffdacc;"| 13
+| ''[[Bridget Jones's Diary (film)|Bridget Jones's Diary]]'' || [[Miramax Films]] || [[Sharon Maguire]] (director); [[Andrew Davies (writer)|Andrew Davies]], [[Richard Curtis]] (screenplay); [[Renée Zellweger]], [[Hugh Grant]], [[Colin Firth]], [[Jim Broadbent]], [[Embeth Davidtz]], [[Gemma Jones]] || [[romance film|Romance]], [[comedy film|Comedy]] || [[Live Action]]
+|-
+| ''[[Joe Dirt]]'' || [[Columbia Pictures]] || [[Dennie Gordon]] (director); [[David Spade]], [[Fred Wolf (writer)|Fred Wolf]] (screenplay); [[David Spade]], [[Brittany Daniel]], [[Dennis Miller]], [[Adam Beach]], [[Christopher Walken]], [[Jaime Pressly]], [[Kid Rock]] || [[adventure film|Adventure]], [[comedy film|Comedy]] || [[Live Action]]
+|-
+| ''[[Josie and the Pussycats (film)|Josie and the Pussycats]]'' || [[Universal Studios|Universal Pictures]] / [[Metro-Goldwyn-Mayer]] || [[Harry Elfont]], [[Deborah Kaplan]] (director/screenplay); [[Rachael Leigh Cook]], [[Tara Reid]], [[Rosario Dawson]], [[Alan Cumming]], [[Parker Posey]], [[Gabriel Mann (actor)|Gabriel Mann]], [[Paulo Costanzo]], [[Missi Pyle]], [[Eugene Levy]], [[Justin Chatwin]] || [[comedy film|Comedy]], [[musical film|Musical]] || [[Live Action]]
+|-
+| ''[[Kingdom Come (2001 film)|Kingdom Come]]'' || [[20th Century Fox]] || [[Doug McHenry]] (director); [[David Dean Bottrell]], [[Jessie Jones]] (screenplay); [[LL Cool J]], [[Jada Pinkett Smith]], [[Vivica A. Fox]], [[Anthony Anderson]], [[Toni Braxton]], [[Whoopi Goldberg]] || [[comedy film|Comedy]], [[drama film|Drama]] || [[Live Action]]
+|-
+| rowspan="2" style="text-align:center; background:#ffdacc;"| 20
+| ''[[Crocodile Dundee in Los Angeles]]'' || [[Paramount Pictures]] || [[Simon Wincer]] (director); [[Matthew Berry]], Eric Abrams (screenplay); [[Paul Hogan]], [[Linda Kozlowski]], [[Jere Burns]], [[Jonathan Banks]], [[Aida Turturro]], [[Paul Rodriguez]] || [[comedy film|Comedy]], [[drama film|Drama]] || [[Live Action]]
+|-
+| ''[[Freddy Got Fingered]]'' || [[20th Century Fox]] || [[Tom Green]] (director/screenplay); [[Derek Harvie]] (screenplay); [[Tom Green]], [[Rip Torn]], [[Marisa Coughlan]], [[Eddie Kaye Thomas]], [[Harland Williams]], [[Anthony Michael Hall]], [[Julie Hagerty]] || [[comedy film|Comedy]], [[drama film|Drama]] || [[Live Action]]
+|-
+| rowspan="2" style="text-align:center; background:#ffdacc;"| 27
+| ''[[Driven]]'' || [[Warner Bros.]] || [[Renny Harlin]] (director); [[Sylvester Stallone]] (screenplay); [[Sylvester Stallone]], [[Burt Reynolds]], [[Kip Pardue]], [[Til Schweiger]], [[Gina Gershon]], [[Estella Warren]], [[Cristian de la Fuente]] || [[action film|Action]], [[drama film|Drama]] || [[Live Action]]
+|-
+| ''[[Town & Country (film)|Town & Country]]'' || [[New Line Cinema]] || [[Peter Chelsom]] (director); [[Michael Laughlin]], [[Buck Henry]] (screenplay); [[Warren Beatty]], [[Diane Keaton]], [[Goldie Hawn]], [[Garry Shandling]], [[Andie MacDowell]], [[Jenna Elfman]], [[Nastassja Kinski]], [[Charlton Heston]] || [[romance film|Romance]], [[comedy film|Comedy]] || [[Live Action]]
+|-
+! rowspan="6" style="text-align:center; background:thistle; textcolor:#000;"|'''M<br />A<br />Y'''
+| rowspan="2" style="text-align:center; background:#d8d8d8;"| 4
+| ''[[Mockingbird Don't Sing]]'' || [[Paramount Pictures]] || [[Harry Bromley Davenport]] (director); [[Daryl Haney]] (screenplay); [[Tarra Steele]], [[Melissa Errico]], [[Sean Young]], [[Kim Darby]] || [[horror film|Horror]] || [[Live Action]]
+|-
+| ''[[The Mummy Returns]]'' || [[Universal Studios|Universal Pictures]] / [[Amblin Entertainment]] || [[Stephen Sommers]] (director/screenplay); [[Brendan Fraser]], [[Rachel Weisz]], [[John Hannah (actor)|John Hannah]], [[Freddie Boath]], [[Oded Fehr]], [[Arnold Vosloo]], [[Patricia Velásquez]], [[Alun Armstrong]], [[Adewale Akinnuoye-Agbaje]], [[Shaun Parkes]], [[Dwayne Johnson]] || [[adventure film|Adventure]] || [[Live Action]]
+|-
+| rowspan="1" style="text-align:center; background:#d8d8d8;"| 11
+| ''[[A Knight's Tale]]'' || [[Columbia Pictures]] || [[Brian Helgeland]] (director/screenplay); [[Heath Ledger]], [[Mark Addy]], [[Rufus Sewell]], [[Paul Bettany]], [[Shannyn Sossamon]], [[Alan Tudyk]] || [[adventure film|Adventure]], [[comedy film|Comedy]] || [[Live Action]]
+|-
+| rowspan="2" style="text-align:center; background:#d8d8d8;"| 18
+| ''[[Angel Eyes (film)|Angel Eyes]]'' || [[Warner Bros.]] || [[Luis Mandoki]] (director); [[Gerald Di Pego]] (screenplay); [[Jennifer Lopez]], [[Jim Caviezel]], [[Jeremy Sisto]], [[Terrence Howard]], [[Sônia Braga]] || [[romance film|Romance]], [[drama film|Drama]] || [[Live Action]]
+|-
+| ''[[Shrek]]'' || [[DreamWorks|DreamWorks Pictures]] || [[Andrew Adamson]], [[Vicky Jenson]] (director); [[Ted Elliott (screenwriter)|Ted Elliott]], [[Terry Rossio]], [[Joe Stillman]], [[Roger S. H. Schulman]] (screenplay); [[Mike Myers]], [[Eddie Murphy]], [[Cameron Diaz]], [[John Lithgow]] ||  [[comedy film|Comedy]], [[fantasy film|fantasy]]|| [[Animation]]
+|-
+| rowspan="1" style="text-align:center; background:#d8d8d8;"| 25
+| ''[[Pearl Harbor (film)|Pearl Harbor]]'' || [[Touchstone Pictures]] || [[Michael Bay]] (director); [[Randall Wallace]] (screenplay); [[Ben Affleck]], [[Josh Hartnett]], [[Kate Beckinsale]], [[Cuba Gooding, Jr.]], [[Tom Sizemore]], [[Jon Voight]], [[Colm Feore]], [[Mako Iwamatsu|Mako]], [[Alec Baldwin]] || [[action film|Action]], [[drama film|Drama]] || [[Live Action]]
+|-
+! rowspan="12" style="text-align:center; background:#98fb98; textcolor:#000;"|'''J<br />U<br />N<br />E'''
+| rowspan="3" style="text-align:center; background:#e0f9e0;"| 1
+| ''[[The Animal]]'' || [[Columbia Pictures]] || [[Luke Greenfield]] (director); [[Rob Schneider]], [[Tom Brady (film director)|Tom Brady]] (screenplay); [[Rob Schneider]], [[Colleen Haskell]], [[John C. McGinley]], [[Guy Torry]], [[Edward Asner]] || [[comedy film|Comedy]] || [[Live Action]]
+|-
+| ''[[Moulin Rouge!]]'' || [[20th Century Fox]] || [[Baz Luhrmann]] (director/screenplay); [[Craig Pearce]] (screenplay); [[Nicole Kidman]], [[Ewan McGregor]], [[Jim Broadbent]], [[Richard Roxburgh]], [[John Leguizamo]], [[Jacek Koman]], [[Caroline O'Connor (actress)|Caroline O'Connor]] || [[musical film|Musical]] || [[Live Action]]
+|-
+| ''[[What's the Worst That Could Happen?]]'' || [[Metro-Goldwyn-Mayer]] || [[Sam Weisman]] (director); [[Matthew Chapman (author)|Matthew Chapman]] (screenplay); [[Martin Lawrence]], [[Danny DeVito]] || [[comedy film|Comedy]] || [[Live Action]]
+|-
+| rowspan="2" style="text-align:center; background:#e0f9e0;"| 8
+| ''[[Evolution (film)|Evolution]]'' || [[DreamWorks|DreamWorks Pictures]] / [[Columbia Pictures]] || [[Ivan Reitman]] (director); [[David Diamond (screenwriter)|David Diamond]], [[David Weissman]], Don Jakoby (screenplay); [[David Duchovny]], [[Orlando Jones]], [[Seann William Scott]], [[Julianne Moore]], [[Ted Levine]], [[Ethan Suplee]], [[Ty Burrell]], [[Dan Aykroyd]], [[Michael Bower]], [[Pat Kilbane]], [[Katharine Towne]], [[Gregory Itzin]], [[Stephanie Hodge]], [[Kyle Gass]], [[Sarah Silverman]], [[Richard Moll]], [[Tom Davis (comedian)|Tom Davis]], [[Jerry Trainor]], [[Miriam Flynn]], [[John Cho]], Caroline Reitman, Ashley Clark || [[science fiction film|Sci-Fi]], [[comedy film|Comedy]] || [[Live Action]]
+|-
+| ''[[Swordfish (film)|Swordfish]]'' || [[Warner Bros.]] || [[Dominic Sena]] (director); [[Skip Woods]] (screenplay); [[John Travolta]], [[Hugh Jackman]], [[Halle Berry]], [[Don Cheadle]], [[Vinnie Jones]] || [[thriller (genre)|Thriller]] || [[Live Action]]
+|-
+| rowspan="2" style="text-align:center; background:#e0f9e0;"| 15
+| ''[[Atlantis: The Lost Empire]]'' || [[Walt Disney Pictures]] || [[Gary Trousdale]], [[Kirk Wise]] (director); Tab Murphy (screenplay); [[Michael J. Fox]], [[Cree Summer]], [[James Garner]], [[Corey Burton]], [[Don Novello]], [[Phil Morris (actor)|Phil Morris]], [[John Mahoney]], [[Claudia Christian]], [[Jacqueline Obradors]], [[Florence Stanley]], [[David Ogden Stiers]], [[Jim Varney]], [[Leonard Nimoy]] || [[adventure film|Adventure]], [[science fiction film|Sci-Fi]], [[thriller film|Thriller]] || [[Animation]]
+|-
+| ''[[Lara Croft: Tomb Raider]]'' || [[Paramount Pictures]] || [[Simon West]] (director); [[Patrick Massett]], [[John Zinman]] (screenplay); [[Angelina Jolie]], [[Jon Voight]], [[Chris Barrie]], [[Iain Glen]], [[Noah Taylor]], [[Daniel Craig]] || [[action film|Action]], [[fantasy film|Fantasy]] || [[Live Action]]
+|-
+| rowspan="2" style="text-align:center; background:#e0f9e0;"| 22
+| ''[[Dr. Dolittle 2]]'' || [[20th Century Fox]] || [[Steve Carr]] (director); [[Hugh Lofting]], Larry Levin (screenplay); [[Eddie Murphy]], [[Raven-Symoné]], [[Steve Zahn]], [[Norm Macdonald]], [[Lisa Kudrow]], [[Jeffrey Jones]], [[Kevin Pollak]], [[Steve Irwin]] || [[comedy film|Comedy]] || [[Live Action]]
+|-
+| ''[[The Fast and the Furious (2001 film)|The Fast and the Furious]]'' || [[Universal Studios|Universal Pictures]] || [[Rob Cohen]] (director); [[Gary Scott Thompson]], [[Erik Bergquist]], [[David Ayer]] (screenplay); [[Paul Walker]], [[Vin Diesel]], [[Michelle Rodriguez]], [[Jordana Brewster]], [[Rick Yune]], [[Chad Lindberg]], [[Johnny Strong]], [[Matt Schulze]], [[Ted Levine]], [[Thom Barry]] || [[action film|Action]] || [[Live Action]]
+|-
+| rowspan="3" style="text-align:center; background:#e0f9e0;"| 29
+| ''[[A.I. Artificial Intelligence]]'' || [[DreamWorks|DreamWorks Pictures]] / [[Warner Bros.]] || [[Steven Spielberg]] (director/screenplay); [[Haley Joel Osment]], [[Jude Law]], [[Frances O'Connor]], [[Brendan Gleeson]], [[William Hurt]], [[Ben Kingsley]], [[Robin Williams]], [[Meryl Streep]], [[Chris Rock]], [[April Grace]], [[Clark Gregg]], [[Kathryn Morris]], [[Sam Robards]], [[Fred Astaire]], [[Jake Thomas]], [[Ashley Scott]], [[Jack Angel]] || [[science fiction film|Sci-Fi]], [[drama film|Drama]] || [[Live Action]]
+|-
+| ''[[Baby Boy (film)|Baby Boy]]'' || [[Columbia Pictures]] || [[John Singleton]] (director/screenplay); [[Tyrese Gibson]], [[Omar Gooding]], [[Taraji P. Henson]], [[Adrienne-Joi Johnson|A.J. Johnson]], [[Snoop Dogg]], [[Ving Rhames]] || [[comedy film|Comedy]], [[drama film|Drama]] || [[Live Action]]
+|-
+| ''[[Crazy/Beautiful]]'' || [[Touchstone Pictures]] || [[John Stockwell (actor)|John Stockwell]] (director); [[Phil Hay (screenwriter)|Phil Hay]], [[Matt Manfredi]] (screenplay); [[Kirsten Dunst]], [[Jay Hernandez]], [[Bruce Davison]], [[Taryn Manning]] || [[romance film|Romance]], [[drama film|Drama]] || [[Live Action]]
+|}
+
+===July–September===
+{| class="wikitable"
+|+ "align=bottom" |
+! colspan="2" | Opening
+! style="width:17%;"| Title
+! style="width:16%;"| Studio
+! Cast and crew
+! style="width:10%"| Genre
+! style="width:8%"| Medium
+|-
+! rowspan="9" style="text-align:center; background:#ffa07a; textcolor:#000;"|'''J<br />U<br />L<br />Y'''
+| rowspan="1" style="text-align:center; background:#ffdacc;"| 4
+| ''[[Cats & Dogs]]'' || [[Warner Bros.]] || [[Lawrence Guterman]] (director); [[John Requa]], [[Glenn Ficarra]] (screenplay); [[Jeff Goldblum]], [[Elizabeth Perkins]], [[Alexander Pollock]], [[Tobey Maguire]], [[Alec Baldwin]], [[Charlton Heston]] || [[action film|Action]], [[comedy film|Comedy]] || [[Live Action]]
+|-
+| rowspan="2" style="text-align:center; background:#ffdacc;"| 6
+| ''[[Kiss of the Dragon]]'' || [[20th Century Fox]] || [[Chris Nahon]] (director); [[Luc Besson]], [[Robert Mark Kamen]] (screenplay); [[Jet Li]], [[Bridget Fonda]], [[Tchéky Karyo]], [[Max Ryan]] || [[martial arts film|Martial Arts]] || [[Live Action]]
+|-
+| ''[[Scary Movie 2]]'' || [[Dimension Films]] || [[Keenen Ivory Wayans]] (director); [[Shawn Wayans]], [[Marlon Wayans]], Alyson Fouse, Greg Grabianski, [[Dave Polsky]], Michael Anthony Snowden, [[Craig Wayans]] (screenplay); [[Anna Faris]], [[Regina Hall]], [[Shawn Wayans]], [[Marlon Wayans]], [[Chris Masterson]], [[Kathleen Robertson]], [[David Cross]], [[James Woods]], [[Tim Curry]], [[Tori Spelling]], [[Chris Elliott]] || [[comedy film|Comedy]], [[parody film|Spoof]] || [[Live Action]]
+|-
+| rowspan="3" style="text-align:center; background:#ffdacc;"| 13
+| ''[[Final Fantasy: The Spirits Within]]'' || [[Columbia Pictures]] || [[Hironobu Sakaguchi]], Moto Sakakibara (director); [[Al Reinert]], [[Jeff Vintar]] (screenplay); [[Ming-Na]], [[Alec Baldwin]], [[James Woods]], [[Donald Sutherland]], [[Ving Rhames]], [[Steve Buscemi]], [[Peri Gilpin]] || [[science fiction film|Sci-Fi]] || [[Animation]]
+|-
+| ''[[Legally Blonde]]'' || [[Metro-Goldwyn-Mayer]] || [[Robert Luketic]] (director); [[Karen McCullah Lutz]], [[Kirsten Smith (writer)|Kirsten Smith]] (screenplay); [[Reese Witherspoon]], [[Luke Wilson]], [[Selma Blair]], [[Matthew Davis]], [[Victor Garber]], [[Jennifer Coolidge]] || [[comedy film|Comedy]] || [[Live Action]]
+|-
+| ''[[The Score (2001 film)|The Score]]'' || [[Paramount Pictures]] || [[Frank Oz]] (director); Scott Marshall Smith, Daniel E. Taylor, [[Kario Salem]] (screenplay); [[Marlon Brando]], [[Robert De Niro]], [[Edward Norton]], [[Angela Bassett]] || [[crime fiction|Crime]], [[thriller (genre)|Thriller]] || [[Live Action]]
+|-
+| rowspan="1" style="text-align:center; background:#ffdacc;"| 18
+| ''[[Jurassic Park III]]'' || [[Universal Studios|Universal Pictures]] || [[Joe Johnston]] (director); [[Peter Buchman]], [[Alexander Payne]], [[Jim Taylor (writer)|Jim Taylor]] (screenplay); [[Sam Neill]], [[William H. Macy]], [[Téa Leoni]], [[Alessandro Nivola]], [[Trevor Morgan (actor)|Trevor Morgan]], [[Michael Jeter]], [[Laura Dern]] || [[science fiction film|Sci-Fi]], [[adventure film|Adventure]], [[thriller (genre)|Thriller]] || [[Live Action]]
+|-
+| rowspan="1" style="text-align:center; background:#ffdacc;"| 20
+| ''[[America's Sweethearts]]'' || [[Columbia Pictures]] || [[Joe Roth]] (director); [[Billy Crystal]], [[Peter Tolan]] (screenplay); [[Julia Roberts]], [[Billy Crystal]], [[Catherine Zeta-Jones]], [[John Cusack]] || [[romance film|Romance]], [[comedy film|Comedy]] || [[Live Action]]
+|-
+| rowspan="1" style="text-align:center; background:#ffdacc;"| 27
+| ''[[Planet of the Apes (2001 film)|Planet of the Apes]]'' || [[20th Century Fox]] || [[Tim Burton]] (director); [[William Broyles, Jr.]], [[Lawrence Konner]], [[Mark Rosenthal]] (screenplay); [[Mark Wahlberg]], [[Tim Roth]], [[Helena Bonham Carter]], [[Michael Clarke Duncan]], [[Paul Giamatti]], [[Estella Warren]] || [[science fiction film|Sci-Fi]] || [[Live Action]]
+|-
+! rowspan="15" style="text-align:center; background:thistle; textcolor:#000;"|'''A<br />U<br />G<br />U<br />S<br />T'''
+| rowspan="3" style="text-align:center; background:#d8d8d8;"| 3
+| ''[[Original Sin (2001 film)|Original Sin]]'' || [[Metro-Goldwyn-Mayer]] || [[Michael Cristofer]] (director); [[Cornell Woolrich]], [[Michael Cristofer]] (screenplay); [[Antonio Banderas]], [[Angelina Jolie]], [[Thomas Jane]], [[Jack Thompson (actor)|Jack Thompson]] || [[romance film|Romance]], [[thriller (genre)|Thriller]] || [[Live Action]]
+|-
+| ''[[The Princess Diaries (film)|The Princess Diaries]]'' || [[Walt Disney Pictures]] || [[Garry Marshall]] (director); Gina Wendkos (screenplay); [[Anne Hathaway]], [[Heather Matarazzo]], [[Héctor Elizondo]], [[Mandy Moore]], [[Caroline Goodall]], [[Robert Coppola Schwartzman|Robert Schwartzman]], [[Julie Andrews]] || [[comedy film|Comedy]] || [[Live Action]]
+|-
+| ''[[Rush Hour 2]]'' || [[New Line Cinema]] || [[Brett Ratner]] (director); [[Jeff Nathanson]] (screenplay); [[Jackie Chan]], [[Chris Tucker]], [[John Lone]], [[Alan King (comedian)|Alan King]], [[Roselyn Sánchez]], [[Harris Yulin]], [[Zhang Ziyi]] || [[action film|Action]], [[comedy film|Comedy]] || [[Live Action]]
+|-
+| rowspan="3" style="text-align:center; background:#d8d8d8;"| 10
+| ''[[American Pie 2]]'' || [[Universal Studios|Universal Pictures]] || [[J. B. Rogers]] (director); [[Adam Herz]] (screenplay); [[Jason Biggs]], [[Seann William Scott]], [[Chris Klein (actor)|Chris Klein]], [[Thomas Ian Nicholas]], [[Eddie Kaye Thomas]], [[Shannon Elizabeth]], [[Alyson Hannigan]], [[Natasha Lyonne]], [[Tara Reid]], [[Mena Suvari]], [[Eugene Levy]] || [[comedy film|Comedy]] || [[Live Action]]
+|-
+| ''[[Osmosis Jones]]'' || [[Warner Bros.]] || [[Tom Sito]], Piet Kroon, [[Farrelly brothers|Robert Farrelly, Peter Farrelly]] (director); [[Marc Hyman]] (screenplay); [[Chris Rock]], [[Laurence Fishburne]], [[David Hyde Pierce]], [[Brandy Norwood]], [[William Shatner]], [[Molly Shannon]], [[Chris Elliott]], [[Bill Murray]] || [[comedy film|Comedy]] || [[Live Action]]/[[Animation]]
+|-
+| ''[[The Others (2001 film)|The Others]]'' || [[Dimension Films]] || [[Alejandro Amenábar]] (director/screenplay); [[Nicole Kidman]], [[Fionnula Flanagan]], [[Christopher Eccleston]], [[Elaine Cassidy]], [[Eric Sykes]], [[Alakina Mann]], [[James Bentley (actor)|James Bentley]] || [[horror film|Horror]] || [[Live Action]]
+|-
+| rowspan="3" style="text-align:center; background:#d8d8d8;"| 17
+| ''[[American Outlaws]]'' || [[Warner Bros.]] || [[Les Mayfield]] (director); [[Roderick Taylor]], [[John Rogers (writer)|John Rogers]] (screenplay); [[Colin Farrell]], [[Scott Caan]], [[Ali Larter]], [[Nathaniel Arcand]], [[Gabriel Macht]], [[Gregory Smith (actor)|Gregory Smith]], [[Harris Yulin]], [[Will McCormack]], [[Ronny Cox]], [[Terry O'Quinn]], [[Kathy Bates]], [[Timothy Dalton]] || [[western (genre)|Western]] || [[Live Action]]
+|-
+| ''[[Captain Corelli's Mandolin (film)|Captain Corelli's Mandolin]]'' || [[Universal Studios|Universal Pictures]] || [[John Madden (director)|John Madden]] (director); [[Shawn Slovo]] (screenplay); [[Nicolas Cage]], [[Penélope Cruz]], [[John Hurt]], [[Christian Bale]], [[David Morrissey]], [[Irene Papas]] || [[drama film|Drama]] || [[Live Action]]
+|-
+| ''[[Rat Race (2001 film)|Rat Race]]'' || [[Paramount Pictures]] || [[Jerry Zucker (film director)|Jerry Zucker]] (director); [[Andy Breckman]] (screenplay); [[John Cleese]], [[Breckin Meyer]], [[Amy Smart]], [[Rowan Atkinson]], [[Cuba Gooding, Jr.]], [[Whoopi Goldberg]], [[Seth Green]], [[Vince Vieluf]], [[Jon Lovitz]], [[Lanei Chapman|Lanai Chapman]], [[Kathy Najimy]], [[Dave Thomas (actor)|Dave Thomas]], [[Wayne Knight]] || [[comedy film|Comedy]] || [[Live Action]]
+|-
+| rowspan="2" style="text-align:center; background:#d8d8d8;"| 24
+| ''[[Jeepers Creepers (2001 film)|Jeepers Creepers]]'' || [[United Artists]] || [[Victor Salva]] (director/screenplay); [[Gina Philips]], [[Justin Long]], [[Jonathan Breck]], [[Patricia Belcher]], [[Brandon Mychal Smith|Brandon Smith]], [[Eileen Brennan]] || [[horror film|Horror]] || [[Live Action]]
+|-
+| ''[[O (film)|O]]'' || [[Lions Gate Entertainment]] || [[Tim Blake Nelson]] (director); Brad Kaaya (screenplay); [[Mekhi Phifer]], [[Josh Hartnett]], [[Andrew Keegan]], [[Julia Stiles]], [[Rain Phoenix]], [[Elden Henson]], [[Martin Sheen]], [[John Heard (actor)|John Heard]] || [[drama film|Drama]] || [[Live Action]]
+|-
+| rowspan="4" style="text-align:center; background:#d8d8d8;"| 31
+| ''[[Bubble Boy (film)|Bubble Boy]]'' || [[Touchstone Pictures]] || Blair Hayes (director); [[Cinco Paul and Ken Daurio|Cinco Paul, Ken Daurio]] (screenplay); [[Jake Gyllenhaal]], [[Swoosie Kurtz]], [[Marley Shelton]], [[Danny Trejo]], [[John Carroll Lynch]], [[Verne Troyer]] || [[comedy film|Comedy]] || [[Live Action]]
+|-
+| ''[[Ghosts of Mars]]'' || [[Screen Gems]] || [[John Carpenter]] (director/screenplay); Larry Sulkis (screenplay); [[Ice Cube]], [[Natasha Henstridge]], [[Jason Statham]], [[Pam Grier]], [[Clea DuVall]], [[Joanna Cassidy]] || [[science fiction film|Sci-Fi]], [[horror film|Horror]] || [[Live Action]]
+|-
+| ''[[Jay and Silent Bob Strike Back]]'' || [[Dimension Films]] || [[Kevin Smith]] (director/screenplay); [[Jason Mewes]], [[Kevin Smith]], [[Jason Lee (actor)|Jason Lee]], [[Ben Affleck]], [[Shannon Elizabeth]], [[Eliza Dushku]], [[Will Ferrell]], [[Ali Larter]], [[Chris Rock]], [[Jennifer Schwalbach Smith]], [[Brian O'Halloran]], [[Jeff Anderson]] || [[comedy film|Comedy]] || [[Live Action]]
+|-
+| ''[[Summer Catch]]'' || [[Warner Bros.]] || [[Michael Tollin|Mike Tollin]] (director); [[Kevin Falls]], [[John Gatins]] (screenplay); [[Freddie Prinze, Jr.]], [[Jessica Biel]], [[Fred Ward]], [[Jason Gedrick]], [[Brittany Murphy]], [[Gabriel Mann]], [[Bruce Davison]], [[Marc Blucas]], [[Matthew Lillard]], [[Brian Dennehy]] || [[romance film|Romance]], [[comedy film|Comedy]] || [[Live Action]]
+|-
+! rowspan="11" style="text-align:center; background:#98fb98; textcolor:#000;"|'''S<br />E<br />P<br />T<br />E<br />M<br />B<br />E<br />R'''
+| rowspan="5" style="text-align:center; background:#e0f9e0;"| 7
+| ''[[Megiddo: The Omega Code 2]]'' || [[Gener8Xion Entertainment]] || [[Brian Trenchard-Smith]] (director); Stephan Blinn, Hollis Barton, [[John Fasano]] (screenplay); [[Michael York]], [[Michael Biehn]], [[Diane Venora]], [[R. Lee Ermey]], [[Udo Kier]], and [[Franco Nero]] || [[thriller (genre)|Thriller]] || [[Live Action]]
+|-
+| ''[[The Musketeer]]'' || [[Universal Studios|Universal Pictures]] || [[Peter Hyams]] (director); [[Gene Quintano]] (screenplay); [[Catherine Deneuve]], [[Mena Suvari]], [[Stephen Rea]], [[Tim Roth]], [[Justin Chambers]] || [[action film|Action]] || [[Live Action]]
+|-
+| ''[[Rock Star (2001 film)|Rock Star]]'' || [[Warner Bros.]] || [[Stephen Herek]] (director); [[John Stockwell (actor)|John Stockwell]] (screenplay); [[Mark Wahlberg]], [[Jennifer Aniston]], [[Dominic West]], [[Timothy Spall]], [[Timothy Olyphant]] || [[comedy film|Comedy]], [[drama film|Drama]] || [[Live Action]]
+|-
+| ''[[Soul Survivors]]'' || [[Summit Entertainment]] || [[Stephen Carpenter (writer)|Stephen Carpenter]] (director/screenplay); [[Melissa Sagemiller]], [[Casey Affleck]], [[Eliza Dushku]], [[Wes Bentley]], [[Luke Wilson]] || [[horror film|Horror]] || [[Live Action]]
+|-
+| ''[[Two Can Play That Game]]'' || [[Screen Gems]] ||  (director);  (screenplay); [[Vivica A. Fox]], [[Morris Chestnut]], [[Anthony Anderson]], [[Gabrielle Union]], [[Wendy Raquel Robinson]] || [[romance film|Romance]], [[comedy film|Comedy]] || [[Live Action]]
+|-
+| rowspan="2" style="text-align:center; background:#e0f9e0;"| 14
+| ''[[The Glass House (2001 film)|The Glass House]]'' || [[Columbia Pictures]] || Mark Brown (director); [[Wesley Strick]] (screenplay); [[Leelee Sobieski]], [[Diane Lane]], [[Stellan Skarsgård]], [[Bruce Dern]], [[Kathy Baker]], [[Trevor Morgan (actor)|Trevor Morgan]], [[Chris Noth]] || [[thriller (genre)|Thriller]] || [[Live Action]]
+|-
+| ''[[Hardball (film)|Hardball]]'' || [[Paramount Pictures]] || [[Brian Robbins]] (director); [[John Gatins]] (screenplay); [[Keanu Reeves]], [[Diane Lane]], [[D. B. Sweeney]], [[Michael B. Jordan]] || [[comedy film|Comedy]], [[drama film|Drama]] || [[Live Action]]
+|-
+| rowspan="1" style="text-align:center; background:#e0f9e0;"| 21
+| ''[[Glitter (film)|Glitter]]'' || [[Columbia Pictures]] / [[20th Century Fox]] || [[Vondie Curtis-Hall|Vondie Curtis Hall]] (director); [[Kate Lanier]] (screenplay); [[Mariah Carey]], [[Max Beesley]], [[Terrence Howard]], [[Da Brat]], [[Tia Texada]], [[Eric Benét]], [[Valarie Pettiford]], [[Ann Magnuson]], [[Dorian Harewood]], [[Padma Lakshmi]], [[Bill Sage]], Isabel Gomes, Lindsey Pickering, Courtnie Beceiro, Grant Nickalls, Kate Stebbins, Kim Roberts || [[romance film|Romance]], [[musical film|Musical]] || [[Live Action]]
+|-
+| rowspan="3" style="text-align:center; background:#e0f9e0;"| 28
+| ''[[Don't Say a Word]]'' || [[20th Century Fox]] || [[Gary Fleder]] (director); [[Anthony Peckham]], Patrick Smith Kelly (screenplay); [[Michael Douglas]], [[Sean Bean]], [[Brittany Murphy]], [[Guy Torry]], [[Jennifer Esposito]], [[Famke Janssen]], [[Oliver Platt]] || [[thriller (genre)|Thriller]] || [[Live Action]]
+|-
+| ''[[Hearts in Atlantis (film)|Hearts in Atlantis]]'' || [[Warner Bros.]] || [[Scott Hicks]] (director); [[William Goldman]] (screenplay); [[Anthony Hopkins]], [[Anton Yelchin]], [[Hope Davis]], [[Mika Boorem]], [[David Morse (actor)|David Morse]] || [[drama film|Drama]], [[thriller (genre)|Thriller]] || [[Live Action]]
+|-
+| ''[[Zoolander]]'' || [[Paramount Pictures]] || [[Ben Stiller]] (director); [[Drake Sather]], Ben Stiller, [[John Hamburg]] (screenplay); Ben Stiller, [[Owen Wilson]], [[Will Ferrell]], [[Christine Taylor]], [[Milla Jovovich]], [[Jerry Stiller]], [[David Duchovny]], [[Jon Voight]] || [[comedy film|Comedy]] || [[Live Action]]
+|}
+
+===October–December===
+{| class="wikitable"
+|+ "align=bottom" |
+! colspan="2" | Opening
+! style="width:17%;"| Title
+! style="width:16%;"| Studio
+! Cast and crew
+! style="width:10%"| Genre
+! style="width:8%"| Medium
+|-
+! rowspan="13" style="text-align:center; background:#ffa07a; textcolor:#000;"|'''O<br />C<br />T<br />O<br />B<br />E<br />R'''
+| rowspan="4" style="text-align:center; background:#ffdacc;"| 5
+| ''[[Joy Ride (2001 film)|Joy Ride]]'' || [[20th Century Fox]] || [[John Dahl]] (director); [[J. J. Abrams]], [[Clay Tarver]] (screenplay); [[Paul Walker]], [[Steve Zahn]], [[Leelee Sobieski]], [[Jessica Bowman]] || [[thriller (genre)|Thriller]], [[adventure film|Adventure]] || [[Live Action]]
+|-
+| ''[[Max Keeble's Big Move]]'' || [[Walt Disney Pictures]] || [[Tim Hill (director)|Tim Hill]] (director); David L. Watts, [[James Greer]], Jonathan Bernstein, Mark Blackwell (screenplay); [[Alex D. Linz]], [[Josh Peck]], [[Zena Grey]], [[Larry Miller (actor)|Larry Miller]], [[Robert Carradine]], [[Nora Dunn]], [[Jamie Kennedy]] || [[comedy film|Comedy]] || [[Live Action]]
+|-
+| ''[[Serendipity (film)|Serendipity]]'' || [[Miramax Films]] || [[Peter Chelsom]] (director); Marc Klein (screenplay); [[John Cusack]], [[Kate Beckinsale]], [[Bridget Moynahan]], [[John Corbett (actor)|John Corbett]], [[Jeremy Piven]], [[Eugene Levy]], [[Molly Shannon]] || [[romance film|Romance]], [[comedy film|Comedy]] || [[Live Action]]
+|-
+| ''[[Training Day]]'' || [[Warner Bros.]] || [[Antoine Fuqua]] (director); [[David Ayer]] (screenplay); [[Denzel Washington]], [[Ethan Hawke]], [[Eva Mendes]], [[Scott Glenn]] || [[crime fiction|Crime]], [[drama film|Drama]] || [[Live Action]]
+|-
+| rowspan="3" style="text-align:center; background:#ffdacc;"| 12
+| ''[[Bandits (2001 film)|Bandits]]'' || [[Metro-Goldwyn-Mayer]] || [[Barry Levinson]] (director); [[Harley Peyton]] (screenplay); [[Bruce Willis]], [[Billy Bob Thornton]], [[Cate Blanchett]] || [[crime fiction|Crime]], [[comedy film|Comedy]] || [[Live Action]]
+|-
+| ''[[Corky Romano]]'' || [[Touchstone Pictures]] || Rob Pritts (director); [[David Garrett (screen writer)|David Garrett]], Jason Ward (screenplay); [[Chris Kattan]], [[Vinessa Shaw]], [[Peter Berg]], [[Chris Penn]], [[Richard Roundtree]], [[Fred Ward]], [[Peter Falk]], [[Matthew Glave]], [[Roger Fan]], [[Dave Sheridan (actor)|Dave Sheridan]] || [[comedy film|Comedy]] || [[Live Action]]
+|-
+| ''[[Iron Monkey (1993 film)|Iron Monkey]]'' || [[Miramax Films]] || [[Yuen Woo-ping|Woo-ping]] (director); [[Tsui Hark]] (screenplay); [[Donnie Yen]], [[Yu Rongguang]], Jean Wang, [[Angie Tsang]], Yuen Shun-yi || [[martial arts film|Martial Arts]] || [[Live Action]]
+|-
+| rowspan="3" style="text-align:center; background:#ffdacc;"| 19
+| ''[[From Hell (film)|From Hell]]'' || [[20th Century Fox]] || [[Hughes Brothers|Albert Hughes, Allen Hughes]] (director); [[Terry Hayes]], [[Rafael Yglesias]] (screenplay); [[Johnny Depp]], [[Heather Graham (actress)|Heather Graham]], [[Ian Holm]], [[Robbie Coltrane]], [[Ian Richardson]], [[Jason Flemyng]] || [[horror film|Horror]], [[mystery film|Mystery]] || [[Live Action]]
+|-
+| ''[[The Last Castle]]'' || [[DreamWorks|DreamWorks Pictures]] || [[Rod Lurie]] (director); [[David Scarpa]], [[Graham Yost]], [[Sam Mercer]] (screenplay); [[Robert Redford]], [[James Gandolfini]], [[Mark Ruffalo]], [[Steve Burton (actor)|Steve Burton]], [[Delroy Lindo]] || [[drama film|Drama]] || [[Live Action]]
+|-
+| ''[[Riding in Cars with Boys]]'' || [[Columbia Pictures]] || [[Penny Marshall]] (director); Morgan Ward (screenplay); [[Drew Barrymore]], [[Steve Zahn]], [[Brittany Murphy]], [[James Woods]], [[Lorraine Bracco]], [[Sara Gilbert]], [[Vincent Pastore]] || [[biographical film|Biography]] || [[Live Action]]
+|-
+| rowspan="3" style="text-align:center; background:#ffdacc;"| 26
+| ''[[K-PAX (film)|K-PAX]]'' || [[Universal Pictures]] || [[Iain Softley]] (director); [[Charles Leavitt]] (screenplay); [[Kevin Spacey]], [[Jeff Bridges]], [[Mary McCormack]], [[Alfre Woodard]] || [[science fiction film|Sci-Fi]], [[mystery film|Mystery]] || [[Live Action]]
+|-
+| ''[[On the Line (2001 film)|On the Line]]'' || [[Miramax Films]] || [[Eric Bross]] (director); Eric Aronson, [[Paul Stanton (screenwriter)|Paul Stanton]] (screenplay); [[Lance Bass]], [[Joey Fatone]], [[Emmanuelle Chriqui]], [[GQ (actor)|GQ]], [[Al Green]], [[Tamala Jones]], [[Dave Foley]], [[Jerry Stiller]] || [[romance film|Romance]], [[comedy film|Comedy]] || [[Live Action]]
+|-
+| ''[[Thirteen Ghosts]]'' || [[Warner Bros.]] / [[Columbia Pictures]] || [[Steve Beck (director)|Steve Beck]] (director); [[Robb White]], Neal Marshall Stevens (screenplay); [[Tony Shalhoub]], [[Matthew Lillard]], [[Embeth Davidtz]], [[Shannon Elizabeth]], [[Rah Digga]], [[F. Murray Abraham]], [[J. R. Bourne]], Adam Kaminski, Alec Roberts || [[horror film|Horror]] || [[Live Action]]
+|-
+! rowspan="13" style="text-align:center; background:thistle; textcolor:#000;"|'''N<br />O<br />V<br />E<br />M<br />B<br />E<br />R'''
+| rowspan="3" style="text-align:center; background:#d8d8d8;"| 2
+| ''[[Domestic Disturbance]]'' || [[Paramount Pictures]] || [[Harold Becker]] (director); [[Lewis Colick]], [[William S. Comanor]], [[Gary Drucker]] (screenplay); [[John Travolta]], [[Vince Vaughn]], [[Teri Polo]], [[Matt O'Leary]], [[Steve Buscemi]] || [[thriller (genre)|Thriller]] || [[Live Action]]
+|-
+| ''[[Monsters, Inc.]]'' || [[Walt Disney Pictures]] / [[Pixar]] || [[Pete Docter]] (director); [[Andrew Stanton]], [[Daniel Gerson]] (screenplay); [[John Goodman]], [[Billy Crystal]], Mary Gibbs, [[Steve Buscemi]], [[James Coburn]], [[Jennifer Tilly]], [[Frank Oz]] || [[comedy film|Comedy]], [[fantasy film|Fantasy]] || [[Animation]]
+|-
+| ''[[The One (2001 film)|The One]]'' || [[Columbia Pictures]] || [[James Wong (producer)|James Wong]] (director/screenplay); [[Glen Morgan]] (screenplay); [[Jet Li]], [[Delroy Lindo]], [[Jason Statham]], [[Carla Gugino]] || [[action film|Action]] || [[Live Action]]
+|-
+| rowspan="3" style="text-align:center; background:#d8d8d8;"| 9
+| ''[[Heist (film)|Heist]]'' || [[Warner Bros.]] || [[David Mamet]] (director/screenplay); [[Gene Hackman]], [[Danny DeVito]], [[Delroy Lindo]], [[Sam Rockwell]], [[Rebecca Pidgeon]] || [[crime fiction|Crime]] || [[Live Action]]
+|-
+| ''[[Life as a House]]'' || [[New Line Cinema]] || [[Irwin Winkler]] (director); [[Mark Andrus]] (screenplay); [[Kevin Kline]], [[Kristin Scott Thomas]], [[Hayden Christensen]], [[Jena Malone]], [[Mary Steenburgen]] || [[drama film|Drama]] || [[Live Action]]
+|-
+| ''[[Shallow Hal]]'' || [[20th Century Fox]] || [[Farrelly brothers|Peter Farrelly, Robert Farrelly]] (directors/screenplay); Sean Moynihan (screenplay); [[Jack Black]], [[Gwyneth Paltrow]], [[Jason Alexander]], [[Joe Viterelli]] || [[romance film|Romance]], [[comedy film|Comedy]] || [[Live Action]]
+|-
+| rowspan="2" style="text-align:center; background:#d8d8d8;"| 16
+| ''[[Harry Potter and the Philosopher's Stone (film)|Harry Potter and the Philosopher's Stone]]'' || [[Warner Bros.]] || [[Chris Columbus (filmmaker)|Chris Columbus]] (director); [[Steve Kloves]] (screenplay); [[Daniel Radcliffe]], [[Rupert Grint]], [[Emma Watson]], [[John Cleese]], [[Warwick Davis]], [[Richard Griffiths]], [[Richard Harris]], [[Ian Hart]], [[John Hurt]], [[Alan Rickman]], [[Fiona Shaw]], [[Maggie Smith]], [[Julie Walters]] || [[fantasy film|Fantasy]] || [[Live Action]]
+|-
+| ''[[The Wash (film)|The Wash]]'' || [[Lions Gate Entertainment]] || [[DJ Pooh]] (director/screenplay); [[Dr. Dre]], [[Snoop Dogg]], [[George Wallace (comedian)|George Wallace]], DJ Pooh, [[Angell Conwell]], [[Tom Lister, Jr.]], [[Eminem]], [[Bruce Bruce]] || [[comedy film|Comedy]], [[drama film|Drama]] || [[Live Action]]
+|-
+| rowspan="3" style="text-align:center; background:#d8d8d8;"| 21
+| ''[[Black Knight (film)|Black Knight]]'' || [[20th Century Fox]] || [[Gil Junger]] (director); Darryl J. Quarles, Peter Gaulke, Gerry Swallow (screenplay); [[Martin Lawrence]], [[Marsha Thomason]], [[Tom Wilkinson]], [[Kevin Conway (actor)|Kevin Conway]] || [[comedy film|Comedy]] || [[Live Action]]
+|-
+| ''[[Out Cold (2001 film)|Out Cold]]'' || [[Touchstone Pictures]] || [[The Malloys]] (director); [[Jon Zach]] (screenplay); [[Jason London]], [[A. J. Cook]], [[Lee Majors]], [[Zach Galifianakis]], [[Derek Hamilton (actor)|Derek Hamilton]], [[Willie Garson]], [[Caroline Dhavernas]] || [[comedy film|Comedy]] || [[Live Action]]
+|-
+| ''[[Spy Game]]'' || [[Universal Studios|Universal Pictures]] || [[Tony Scott]] (director); [[Michael Frost Beckner]], David Arata (screenplay); [[Robert Redford]], [[Brad Pitt]], [[Catherine McCormack]] || [[thriller (genre)|Thriller]] || [[Live Action]]
+|-
+| rowspan="2" style="text-align:center; background:#d8d8d8;"| 30
+| ''[[The Affair of the Necklace]]'' || [[Warner Bros.]] || [[Charles Shyer]] (director); John Sweet (screenplay); [[Hilary Swank]], [[Jonathan Pryce]], [[Simon Baker]], [[Adrien Brody]], [[Joely Richardson]], [[Christopher Walken]] || [[drama film|Drama]] || [[Live Action]]
+|-
+| ''[[Behind Enemy Lines (2001 film)|Behind Enemy Lines]]'' || [[20th Century Fox]] || [[John Moore (director)|John Moore]] (director); David Veloz, [[Zak Penn]] (screenplay); [[Owen Wilson]], [[Gene Hackman]], [[Vladimir Mashkov]], [[Joaquim de Almeida]], [[David Keith]], [[Olek Krupa]] || [[action film|Action]] || [[Live Action]]
+|-
+! rowspan="14" style="text-align:center; background:#98fb98; textcolor:#000;"|'''D<br />E<br />C<br />E<br />M<br />B<br />E<br />R'''
+| style="text-align:center; background:#e0f9e0;"| 7
+| ''[[Ocean's Eleven (2001 film)|Ocean's Eleven]]'' || [[Warner Bros.]] || [[Steven Soderbergh]] (director); [[Ted Griffin]] (screenplay); [[George Clooney]], [[Matt Damon]], [[Andy García]], [[Brad Pitt]], [[Julia Roberts]], [[Casey Affleck]], [[Scott Caan]], [[Elliott Gould]], [[Bernie Mac]], [[Carl Reiner]], [[Minka Kelly]] || [[comedy film|Comedy]], [[crime fiction|Crime]] || [[Live Action]]
+|-
+| rowspan="3" style="text-align:center; background:#e0f9e0;"| 14
+| ''[[Not Another Teen Movie]]'' || [[Columbia Pictures]] || [[Joel Gallen]] (director); Mike Bender, Adam Jay Epstein, Andrew Jacobson, Phil Beauman, Buddy Johnson (screenplay); [[Chyler Leigh]], [[Chris Evans (actor)|Chris Evans]], [[Jaime Pressly]], [[Eric Christian Olsen]], [[Eric Jungmann]], [[Mia Kirshner]], [[Deon Richmond]], [[Cody McMains]], [[Sam Huntington]], [[Samm Levine]], [[Cerina Vincent]], [[Ron Lester]], [[Lacey Chabert]], [[Riley Smith]] || [[comedy film|Comedy]], [[parody film|Spoof]] || [[Live Action]]
+|-
+| ''[[The Royal Tenenbaums]]'' || [[Touchstone Pictures]] || [[Wes Anderson]] (director/screenplay); [[Owen Wilson]] (screenplay); [[Danny Glover]], [[Gene Hackman]], [[Anjelica Huston]], [[Bill Murray]], [[Gwyneth Paltrow]], [[Ben Stiller]], [[Luke Wilson]], [[Owen Wilson]] || [[comedy film|Comedy]], [[drama film|Drama]] || [[Live Action]]
+|-
+| ''[[Vanilla Sky]]'' || [[Paramount Pictures]] || [[Cameron Crowe]] (director/screenplay); [[Tom Cruise]], [[Penélope Cruz]], [[Kurt Russell]], [[Jason Lee (actor)|Jason Lee]], [[Noah Taylor]], [[Cameron Diaz]] || [[drama film|Drama]] || [[Live Action]]
+|-
+| rowspan="1" style="text-align:center; background:#e0f9e0;"| 18
+| ''[[The Shipping News (film)|The Shipping News]] '' || [[Miramax Films]] || [[Lasse Hallström]] (director); [[Robert Nelson Jacobs]] (screenplay); [[Kevin Spacey]], [[Julianne Moore]], [[Judi Dench]], [[Cate Blanchett]] || [[drama film|Drama]] || [[Live Action]]
+|-
+| rowspan="1" style="text-align:center; background:#e0f9e0;"| 19
+| ''[[The Lord of the Rings: The Fellowship of the Ring]]'' || [[New Line Cinema]] || [[Peter Jackson]] (director/screenplay); [[Fran Walsh]], [[Philippa Boyens]] (screenplay); [[Elijah Wood]], [[Ian McKellen]], [[Liv Tyler]], [[Viggo Mortensen]], [[Sean Astin]], [[Cate Blanchett]], [[John Rhys-Davies]], [[Billy Boyd (actor)|Billy Boyd]], [[Dominic Monaghan]], [[Orlando Bloom]], [[Christopher Lee]], [[Hugo Weaving]], [[Sean Bean]], [[Ian Holm]], [[Andy Serkis]] || [[fantasy film|Fantasy]] || [[Live Action]]
+|-
+| rowspan="5" style="text-align:center; background:#e0f9e0;"| 21
+| ''[[How High]]'' || [[Universal Studios|Universal Pictures]] || [[Jesse Dylan]] (director); [[Dustin Abraham]] (screenplay); [[Method Man]], [[Redman (rapper)|Redman]], [[Obba Babatundé]], [[Mike Epps]] || [[comedy film|Comedy]] || [[Live Action]]
+|-
+| ''[[In the Bedroom]]'' || [[Miramax Films]] || [[Todd Field]] (director/screenplay); [[Tom Wilkinson]], [[Sissy Spacek]], [[Nick Stahl]], [[Marisa Tomei]] || [[crime fiction|Crime]], [[drama film|Drama]] || [[Live Action]]
+|-
+| ''[[Jimmy Neutron: Boy Genius (film)|Jimmy Neutron: Boy Genius]]'' || [[Paramount Pictures]] / [[Nickelodeon Movies]] || [[John A. Davis]] (director/screenplay); [[David N. Weiss]], J. David Stem, [[Steve Oedekerk]] (screenplay); [[Debi Derryberry]], [[Patrick Stewart]], [[Martin Short]], [[Rob Paulsen]], [[Jeffrey Garcia]], [[Frank Welker]], [[Carolyn Lawrence]], [[Crystal Scales]], [[Shaun Fleming]] || [[science fiction film|Sci-Fi]], [[comedy film|Comedy]] || [[Animation]]
+|-
+| ''[[Joe Somebody]]'' || [[20th Century Fox]] || [[John Pasquin]] (director); John Scott Shepherd (screenplay); [[Tim Allen]], [[Julie Bowen]], [[Kelly Lynch]], [[Greg Germann]], [[Hayden Panettiere]], [[Patrick Warburton]], [[James Belushi|Jim Belushi]] || [[comedy film|Comedy]], [[drama film|Drama]] || [[Live Action]]
+|-
+| ''[[The Majestic (film)|The Majestic]]'' || [[Warner Bros.]] || [[Frank Darabont]] (director); [[Michael Sloane]] (screenplay); [[Jim Carrey]], [[Bob Balaban]], [[Brent Briscoe]], [[Jeffrey DeMunn]], [[Amanda Detmer]], [[Allen Garfield]], [[Hal Holbrook]], [[Laurie Holden]], [[Martin Landau]], [[Ron Rifkin]], [[David Ogden Stiers]], [[James Whitmore]] || [[drama film|Drama]] || [[Live Action]]
+|-
+| rowspan="2" style="text-align:center; background:#e0f9e0;"| 25
+| ''[[Ali (film)|Ali]]'' || [[Columbia Pictures]] || [[Michael Mann (director)|Michael Mann]] (director/screenplay); [[Eric Roth]], Stephen J. Rivele, [[Christopher Wilkinson]] (screenplay); [[Will Smith]], [[Jamie Foxx]], [[Jon Voight]], [[Mario Van Peebles]], [[Ron Silver]], [[Jeffrey Wright (actor)|Jeffrey Wright]], [[Mykelti Williamson]] || [[biographical film|Biography]] || [[Live Action]]
+|-
+| ''[[Kate & Leopold]]'' || [[Miramax Films]] || [[James Mangold]] (director); [[Steven Rogers (screenwriter)|Steven Rogers]], [[James Mangold]] (screenplay); [[Meg Ryan]], [[Hugh Jackman]], [[Liev Schreiber]], [[Breckin Meyer]], [[Natasha Lyonne]] || [[romance film|Romance]], [[comedy film|Comedy]] || [[Live Action]]
+|-
+| rowspan="1" style="text-align:center; background:#e0f9e0;"| 28
+| ''[[Black Hawk Down (film)|Black Hawk Down]]'' || [[Columbia Pictures]] || [[Ridley Scott]] (director); Ken Nolan (screenplay); [[Josh Hartnett]], [[Tom Sizemore]], [[Ewan McGregor]], [[Jeremy Piven]], [[Eric Bana]], [[Ewen Bremner]], [[William Fichtner]], [[Tom Hardy]], [[Sam Shepard]], [[Jason Isaacs]], [[Glenn Morshower]], [[Orlando Bloom]] || [[action film|Action]] || [[Live Action]]
+|}
+
+==Notable films released in 2001==
+[[American films of 2001|USA]] unless stated
+
+'''#'''
+*''[[12 Horas|12 Hours]]'' (12 Horas) - ([[List of Puerto Rican films|Puerto Rico]])
+*''[[15 Minutes]]'', starring [[Robert De Niro]], [[Edward Burns]], [[Kelsey Grammer]]
+*''[[The 51st State]]'', starring [[Samuel L. Jackson]], [[Robert Carlyle]] - ([[British films of 2001|UK]])
+*''[[61*]]'', directed by [[Billy Crystal]], starring [[Barry Pepper]] and [[Thomas Jane]]
+*''[[3000 Miles to Graceland]]'', starring [[Kurt Russell]], [[Kevin Costner]], [[David Arquette]], [[Courteney Cox]]
+
+===A-D===
+'''A'''
+*''[[A.I. Artificial Intelligence]]'', directed by [[Steven Spielberg]], starring [[Haley Joel Osment]], [[William Hurt]], [[Frances O'Connor]], [[Jude Law]]
+*''[[Absolute 100]]'' (Apsolutnih sto) - ([[List of Yugoslav films 1990-2003|Yugoslavia]])
+*''[[Address Unknown (2001 film)|Address Unknown]]'' (uchwiin bulmyeong) - ([[List of South Korean films of 2001|South Korea]])
+*''[[The Affair of the Necklace]]'', starring [[Hilary Swank]]
+*''[[Ali (film)|Ali]]'', directed by [[Michael Mann (director)|Michael Mann]], starring [[Will Smith]], [[Jamie Foxx]], [[Jon Voight]], [[Mario Van Peebles]], [[Ron Silver]]
+*''[[All About Lily Chou-Chou]]'' (Rir? Shushu no Subete) - ([[Japanese films of 2001|Japan]])
+*''[[All Over the Guy]]''
+*''[[Along Came a Spider (film)|Along Came a Spider]]'', directed by [[Lee Tamahori]], starring [[Morgan Freeman]] and [[Monica Potter]]
+*''[[The Amati Girls]]'', starring [[Cloris Leachman]], [[Mercedes Ruehl]], [[Sean Young]]
+*''[[Amélie]]'' (a.k.a. Le Fabuleux Destin d'Amélie Poulain), starring [[Audrey Tautou]] - ([[French films of 2001|France]])
+*''[[The American Astronaut]]''
+*''[[American Outlaws]]'', starring [[Colin Farrell]], [[Scott Caan]], [[Ali Larter]]
+*''[[American Pie 2]]'', starring [[Jason Biggs]], [[Seann William Scott]], [[Chris Klein (actor)|Chris Klein]], [[Shannon Elizabeth]], [[Eugene Levy]]
+*''[[America's Sweethearts]]'', starring [[Julia Roberts]], [[John Cusack]], [[Billy Crystal]], [[Catherine Zeta-Jones]]
+*''[[Amy's Orgasm]]''
+*''[[Angel Eyes (film)|Angel Eyes]]'', starring [[Jennifer Lopez]]
+*''[[Animal (2001 film)|Animal]]'' (Animalada) - ([[Argentine films of 2001|Argentina]])
+*''[[The Animal]]'', starring [[Rob Schneider]]
+*''[[The Anniversary Party]]'', starring [[Jennifer Jason Leigh]], [[Alan Cumming]], [[Kevin Kline]], [[Phoebe Cates]]
+*''[[Another Life (film)|Another Life]]'', starring [[Ioan Gruffudd]], [[Imelda Staunton]], [[Tom Wilkinson]] - ([[British films of 2001|UK]])
+*''[[Antitrust (film)|Antitrust]]'', starring [[Ryan Phillippe]] and [[Claire Forlani]]
+*''[[Asoka (2001 film)|Asoka]]'' - ([[Bollywood films of 2001|India]])
+*''[[Atanarjuat]]'' - ([[List of Canadian films of 2001|Canada]])
+*''[[Atlantis: The Lost Empire]]'', starring [[Michael J. Fox]] (voice only)
+*''[[Avalon (2001 film)|Avalon]]'' - ([[Japanese films of 2001|Japan]])
+*''[[Ayyam El Sadat]]'' (The Days of Sadat) - ([[Egyptian films of the 2000s|Egypt]])
+'''B'''
+*''[[Baby Boy (film)|Baby Boy]]'', directed by [[John Singleton]]
+*''[[Bandits (2001 film)|Bandits]]'', directed by [[Barry Levinson]], starring [[Bruce Willis]], [[Billy Bob Thornton]], [[Cate Blanchett]]
+*''[[The Bank (2001 film)|The Bank]]'', starring [[David Wenham]] and [[Anthony LaPaglia]] - ([[Australian films of 2001|Australia]])
+*''[[Baran (film)|Baran]]'' (Rain) - ([[Iranian films of the 2000s|Iran]])
+*''[[A Beautiful Mind (film)|A Beautiful Mind]]'', directed by [[Ron Howard]], starring [[Russell Crowe]], [[Jennifer Connelly]], [[Paul Bettany]], [[Ed Harris]]
+*''[[Behind Enemy Lines (2001 film)|Behind Enemy Lines]]'', starring [[Owen Wilson]] and [[Gene Hackman]]
+*''[[Behind the Sun (film)|Behind the Sun]]'' (Abril Despedaçado) - ([[Brazilian films of 2001|Brazil]])
+*''[[Beijing Bicycle]]'' (Shí q? suì de d?n ch?) - ([[Chinese films of the 2000s|China]])
+*''[[Beijing Rocks]]'' (Bak Ging lok yue liu) - ([[Hong Kong films of 2001|Hong Kong]])
+*''[[Berlin Babylon]]'' - ([[List of German films: 2000s|Germany]])
+*''[[The Believer (film)|The Believer]]'', starring [[Ryan Gosling]]
+*''[[Big Bad Love]]'', directed by and starring [[Arliss Howard]], with [[Debra Winger]], [[Rosanna Arquette]], [[Angie Dickinson]]
+*''[[Big Man, Little Love]]'' (Büyük Adam Küçük A?k) - ([[Turkish films of the 2000s|Turkey]])
+*''[[Bintou]]'' - ([[List of Burkinabé films|Burkina Faso]])
+*''[[Birthday Girl]]'', starring [[Nicole Kidman]] and [[Ben Chaplin]] - ([[British films of 2001|UK]])
+*''[[Black Chicks Talking]]'' - ([[Australian films of 2001|Australia]])
+*''[[Black Hawk Down (film)|Black Hawk Down]]'', directed by [[Ridley Scott]], starring [[Eric Bana]], [[Ewan McGregor]], [[Josh Hartnett]]
+*''[[Black Knight (film)|Black Knight]]'', starring [[Martin Lawrence]]
+*''[[Blow (film)|Blow]]'', starring [[Johnny Depp]], [[Penélope Cruz]], [[Ray Liotta]], [[Rachel Griffiths]], [[Paul Reubens]]
+*''[[Bolivia (film)|Bolivia]]'' - ([[List of Argentine films of 2001|Argentina]]/[[Dutch films of the 2000s|Netherlands]])
+*''[[A Boy Named Sue (film)|A Boy Named Sue]]''
+*''[[Bicho de Sete Cabeças|Brainstorm]]'' (Bicho de Sete Cabeças) - ([[Brazilian films of 2001|Brazil]])
+*''[[Bread and Milk]]'' (Kruh in mleko) - ([[List of Slovenian films|Slovenia]])
+*''[[Bridget Jones's Diary (film)|Bridget Jones's Diary]]'', starring [[Renée Zellweger]], [[Hugh Grant]], [[Colin Firth]] - ([[British films of 2001|UK]])
+*''[[Brotherhood of the Wolf]]'' (Le Pacte des loups), starring [[Vincent Cassel]] - ([[French films of 2001|France]])
+*''[[The Brothers (2001 film)|The Brothers]]'', starring [[Morris Chestnut]] and [[D. L. Hughley]]
+*''[[Bubble Boy (film)|Bubble Boy]]'', starring [[Jake Gyllenhaal]]
+*''[[Buffalo Soldiers (2001 film)|Buffalo Soldiers]]'', starring [[Joaquin Phoenix]], [[Ed Harris]], [[Elizabeth McGovern]]
+*''[[Bully (2001 film)|Bully]]'', starring [[Brad Renfro]]
+*''[[Bungee Jumping of Their Own]]'' (Beonjijeompeureul hada) - ([[List of South Korean films of 2001|South Korea]])
+*''[[The Bunker (2001 film)|The Bunker]]'', starring [[Jason Flemyng]] - ([[British films of 2001|UK]])
+'''C'''
+*''[[A Cab for Three]]'' (Taxi para tres) - ([[List of Chilean films|Chile]])
+*''[[Captain Corelli's Mandolin (film)|Captain Corelli's Mandolin]]'', starring [[Nicolas Cage]] and [[Penélope Cruz]] - ([[British films of 2001|UK]]/[[American films of 2001|USA]]/[[French films of 2001|France]])
+*''[[Carving Out Our Name (2001 film)|Carving Out Our Name]]''
+*''[[The Cat's Meow]]'', directed by [[Peter Bogdanovich]], starring [[Kirsten Dunst]], [[Cary Elwes]], [[Eddie Izzard]], [[Edward Herrmann]], [[Joanna Lumley]] - ([[British films of 2001|UK]]/[[American films of 2001|USA]]/[[List of German films: 2000s|Germany]])
+*''[[Cats & Dogs]]'', with voices of [[Jeff Goldblum]], [[Elizabeth Perkins]], [[Tobey Maguire]], [[Charlton Heston]] - ([[American films of 2001|USA]]/[[Australian films of 2001|Australia]])
+*''[[The Center of the World]]'', starring [[Peter Sarsgaard]] and [[Molly Parker]]
+*''[[Chandni Bar]]'', starring [[Tabu (actress)|Tabu]] - ([[Bollywood films of 2001|India]])
+*''[[Chaos (2001 film)|Chaos]]'' - ([[French films of 2001|France]])
+*''[[Charlotte Gray (film)|Charlotte Gray]]'', starring [[Cate Blanchett]] - ([[British films of 2001|UK]]/[[Australian films of 2001|Australia]]/[[List of German films: 2000s|Germany]])
+*''[[La Ciénaga (film)|La Ciénaga]]'' (The Swamp) - ([[Argentine films of 2001|Argentina]]/[[Spanish films of 2001|Spain]]/[[French films of 2001|France]])
+*''[[The Closet (2001 film)|The Closet]]'' (Le Placard), starring [[Daniel Auteuil]] and [[Gérard Depardieu]] - ([[French films of 2001|France]])
+*''[[The Code (2001 film)|The Code]]'' - ([[List of Finnish films: 2000s|Finland]])
+*''[[Come Look at Me]]'' (Prikhodi Na Menya Posmotret) - ([[Russian films of 2001|Russia]])
+*''[[CQ (film)|CQ]]'', starring [[Jeremy Davies]], [[Jason Schwartzman]], [[Giancarlo Giannini]], [[Gérard Depardieu]]
+*''[[Crazy/Beautiful]]'', starring [[Kirsten Dunst]] and [[Jay Hernandez]]
+*''[[Crocodile Dundee in Los Angeles]]'', starring [[Paul Hogan]] - ([[Australian films of 2001|Australia]]/[[American films of 2001|USA]])
+*''[[Crush (2001 film)|Crush]]'', starring [[Andie MacDowell]] - ([[British films of 2001|UK]])
+*''[[Crying... Silicon Tears]]'' (To Klama vgike apo ton paradeiso) - ([[Greek films of the 2000s|Greece]])
+*''[[The Curse of the Jade Scorpion]]'', directed by and starring [[Woody Allen]], with [[Helen Hunt]], [[Charlize Theron]], [[Dan Aykroyd]]
+'''D'''
+*''[[Dark Blue World]]'' (Tmavomodrý sv?t) - ([[Czech films of the 2000s|Czech Republic]])
+*''[[Darpan Chaya]]'' (????? ?????) - ([[List of Nepalese films|Napal]])
+*''[[Delivering Milo]]'', starring [[Anton Yelchin]] and [[Albert Finney]]
+*''[[Den (film)|Den]]'' - ([[American films of 2001|USA]]/[[Australian films of 2001|Australia]])
+*''[[The Devil's Backbone]]'' (El espinazo del diablo), directed by [[Guillermo del Toro]] - ([[Spanish films of 2001|Spain]]/[[Mexican films of 2001|Mexico]])
+*''[[Dil Chahta Hai]]'' (The Heart Desires) - ([[Bollywood films of 2001|India]])
+*''[[Disco Pigs]]'', starring [[Cillian Murphy]] - ([[List of Irish films|Ireland]])
+*''[[Distance (film)|Distance]]'' - ([[Japanese films of 2001|Japan]])
+*''[[Dog Days (2001 film)|Dog Days]]'' (Hundstage) - ([[Austrian films of the 2000s|Austria]])
+*''[[Dogtown and Z-Boys]]''
+*''[[Domestic Disturbance]]'', starring [[John Travolta]] and [[Vince Vaughn]]
+*''[[Don't Say a Word]]'', starring [[Michael Douglas]]
+*''[[Donnie Darko]]'', starring [[Jake Gyllenhaal]], [[Maggie Gyllenhaal]], [[Drew Barrymore]], [[Mary McDonnell]], [[Jena Malone]]
+*''[[Down House (film)|Down House]]'' (???? ????) - ([[Russian films of 2001|Russia]])
+*''[[Down to Earth (2001 film)|Down to Earth]]'', starring [[Chris Rock]]
+*''[[Dr. Dolittle 2]]'', starring [[Eddie Murphy]]
+*''[[Driven]]'', starring [[Sylvester Stallone]], [[Kip Pardue]], [[Estella Warren]], [[Burt Reynolds]]
+
+===E-K===
+'''E'''
+*''[[Earth vs. the Spider (2001 film)|Earth vs. the Spider]]'', starring [[Dan Aykroyd]]
+*''[[Edges of the Lord]]'' (Boze skrawki), starring [[Haley Joel Osment]] and [[Willem Dafoe]] - ([[List of Polish films of the 2000s|Poland]]/[[American films of 2001|USA]])
+*''[[Elephants and Grass]]'' (Filler ve Çimen) - ([[Turkish films of the 2000s|Turkey]])
+*''[[Elling]]'' - ([[Norwegian films of the 2000s|Norway]])
+*''[[Elvira's Haunted Hills]]'', starring [[Cassandra Peterson]]
+*''[[L'Emploi du Temps]]'' (Time Out) - ([[French films of 2001|France]])
+*''[[The Emperor's New Clothes (2001 film)|The Emperor's New Clothes]]'', starring [[Ian Holm]] - ([[Italian films of 2001|Italy]]/[[List of German films: 2000s|Ger]]/[[British films of 2001|UK]])
+*''[[Enemy at the Gates]]'', directed by [[Jean-Jacques Annaud]], starring [[Ed Harris]] and [[Jude Law]] - ([[French films of 2001|Fr]]/[[American films of 2001|USA]]/[[List of German films: 2000s|Ger]]/[[British films of 2001|UK]]/[[List of Irish films|Ire]])
+*''[[Enigma (2001 film)|Enigma]]'', directed by [[Michael Apted]], starring [[Kate Winslet]], [[Dougray Scott]], [[Jeremy Northam]], [[Saffron Burrows]] - ([[British films of 2001|UK]])
+*''[[Evolution (film)|Evolution]]'', starring [[David Duchovny]] and [[Julianne Moore]]
+*''[[Exit Wounds]]'', starring [[Steven Seagal]] and [[DMX (rapper)|DMX]]
+*''[[Das Experiment|The Experiment]]'' (Das Experiment) - ([[List of German films: 2000s|Germany]])
+*''[[Pulse (2001 film)|Kairo]]'' (Pulse), directed by [[Kiyoshi Kurosawa]] - ([[Japanese films of 2001|Japan]])
+'''F'''
+*''[[Failan]]'' - ([[List of South Korean films of 2001|South Korea]])
+*''[[The Fast and the Furious (2001 film)|The Fast and the Furious]]'', directed by [[Rob Cohen]], starring [[Paul Walker]] and [[Vin Diesel]]
+*''[[Fat Girl]]'' (À ma sœur!) - ([[French films of 2001|France]])
+*''[[Fate (2001 film)|Fate]]'' (Yazgi) - ([[Turkish films of the 2000s|Turkey]])
+*''[[Festival in Cannes]]'', directed by [[Henry Jaglom]], starring [[Anouk Aimée]], [[Greta Scacchi]], [[Maximilian Schell]]
+*''[[La Fiebre del Loco]]'' (Abalone Fever) - ([[List of Chilean films|Chile]])
+*''[[Final Fantasy: The Spirits Within]]'', starring [[Ming-Na]] and [[Alec Baldwin]] - ([[American films of 2001|USA]]/[[Japanese films of 2001|Japan]])
+*''[[Finder's Fee]]'', starring [[Erik Palladino]], [[Ryan Reynolds]], [[Robert Forster]], [[James Earl Jones]]
+*''[[Fish and Elephant]]'' (Jin nian xia tian), directed by [[Li Yu (director)|Li Yu]] - ([[Chinese films of the 2000s|China]])
+*''[[Flower Island]]'' (Ggot Seom) - ([[List of South Korean films of 2001|South Korea]])
+*''[[The Forsaken (film)|The Forsaken]]''
+*''[[The Fourth Angel]]'', starring [[Jeremy Irons]] and [[Forest Whitaker]] - ([[British films of 2001|UK]]/[[List of Canadian films of 2001|Canada]])
+*''[[Frailty (film)|Frailty]]'', directed by and starring [[Bill Paxton]]
+*''[[Freddy Got Fingered]]'', directed by and starring [[Tom Green]]
+*''[[Freedom (2001 film)|Freedom]]'' (La Libertad) - ([[List of Argentine films of 2001|Argentina]])
+*''[[Friend (2001 film)|Friend]]'' (Chin-gu) - ([[List of South Korean films of 2001|South Korea]])
+*''[[From Hell (film)|From Hell]]'', directed by the [[Hughes brothers]], starring [[Johnny Depp]] and [[Heather Graham]]
+*''[[La Fuga]]'' (The Escape) - ([[Argentine films of 2001|Argentina]])
+*''[[Fulltime Killer]]'' (Quanzhi Shashou), starring [[Andy Lau]] - ([[Hong Kong films of 2001|Hong Kong]])
+'''G'''
+*''[[Gadar: Ek Prem Katha]]'' (Traitor: A Love Story), starring [[Sunny Deol]] - ([[Bollywood films of 2001|India]])
+*''[[Gasoline (film)|Gasoline]]'' (Benzina) - ([[Italian films of 2001|Italy]])
+*''[[Get a Life (film)|Get a Life]]'' (Ganhar a Vida) - ([[List of Portuguese films of the 2000s|Portugal]])
+*''[[Get Over It (film)|Get Over It]]'', starring [[Kirsten Dunst]], [[Shane West]], [[Ben Foster]], [[Colin Hanks]]
+*''[[Ghost World (film)|Ghost World]]'', directed by [[Terry Zwigoff]], starring [[Steve Buscemi]], [[Thora Birch]], [[Scarlett Johansson]]
+*''[[Ghosts of Mars]]'', directed by [[John Carpenter]], starring [[Ice Cube]], [[Jason Statham]], [[Pam Grier]], [[Natasha Henstridge]]
+*''[[The Glass House (2001 film)|The Glass House]]'', starring [[Leelee Sobieski]], [[Diane Lane]], [[Kathy Baker]], [[Bruce Dern]]
+*''[[Go (2001 film)|Go]]'' - ([[Japanese films of 2001|Japan]])
+*''[[Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack]]'' - ([[Japanese films of 2001|Japan]])
+*''[[Gosford Park]]'', directed by [[Robert Altman]], starring [[Helen Mirren]], [[Michael Gambon]], [[Bob Balaban]], [[Kristin Scott Thomas]], [[Clive Owen]], [[Ryan Phillippe]] - ([[British films of 2001|UK]]/[[American films of 2001|USA]])
+*''[[The Grey Zone]]'', directed by [[Tim Blake Nelson]], starring [[David Arquette]], [[Steve Buscemi]], [[Harvey Keitel]], [[Daniel Benzali]]
+'''H'''
+*''[[Hannibal (film)|Hannibal]]'', directed by [[Ridley Scott]], starring [[Anthony Hopkins]], [[Julianne Moore]], [[Gary Oldman]], [[Ray Liotta]], [[Giancarlo Giannini]]
+*''[[The Happiness of the Katakuris]]'' (takuri-ke no k?fuku), directed by [[Takashi Miike]] - ([[Japanese films of 2001|Japan]])
+*''[[Hardball (film)|Hardball]]'', starring [[Keanu Reeves]] and [[D. B. Sweeney]]
+*''[[Harrison's Flowers]]'', starring [[Andie MacDowell]] and [[Elias Koteas]] - ([[French films of 2001|France]])
+*''[[Harry Potter and the Philosopher's Stone (film)|Harry Potter and the Philosopher's Stone]]'', aka ''Harry Potter and the Sorcerer's Stone'', directed by [[Chris Columbus (filmmaker)|Chris Columbus]], starring [[Daniel Radcliffe]], [[Emma Watson]], [[Rupert Grint]], [[Richard Harris]], [[Maggie Smith]], [[Alan Rickman]] - ([[British films of 2001|UK]]/[[American films of 2001|USA]])
+*''[[Harvard Man]]'', starring [[Adrian Grenier]], [[Sarah Michelle Gellar]], [[Joey Lauren Adams]]
+*''[[He Died with a Felafel in His Hand (film)|He Died with a Felafel in His Hand]]'' - ([[Australian films of 2001|Australia]])
+*''[[Head over Heels (2001 film)|Head over Heels]]'', starring [[Monica Potter]] and [[Freddie Prinze, Jr.]]
+*''[[Heartbreakers (2001 film)|Heartbreakers]]'', starring [[Sigourney Weaver]], [[Jennifer Love Hewitt]], [[Jason Lee (actor)|Jason Lee]], [[Ray Liotta]], [[Gene Hackman]]
+*''[[Hearts in Atlantis (film)|Hearts in Atlantis]]'', starring [[Anthony Hopkins]], [[Anton Yelchin]], [[Hope Davis]]
+*''[[Hedwig and the Angry Inch (film)|Hedwig and the Angry Inch]]''
+*''[[Heist (film)|Heist]]'', directed by [[David Mamet]], starring [[Gene Hackman]], [[Danny DeVito]], [[Delroy Lindo]], [[Rebecca Pidgeon]], [[Sam Rockwell]], [[Ricky Jay]]
+*''[[Her Majesty (film)|Her Majesty]]'' - ([[List of New Zealand films|New Zealand]])
+*''[[Herkes Kendi Evinde]]'' (Away from Home) - ([[Turkish films of the 2000s|Turkey]])
+*''[[Herman U. S. A.]]''
+*''[[Une hirondelle a fait le printemps]]'' (a.k.a. The Girl from Paris) - ([[French films of 2001|France]])
+*''[[Hotel (2001 film)|Hotel]]'', directed by [[Mike Figgis]], starring [[Saffron Burrows]] - ([[British films of 2001|UK]]/[[Italian films of 2001|Italy]])
+*''[[How High]]'', starring [[Method Man]] and [[Redman (rapper)|Redman]]
+*''[[How I Killed My Father]]'' (Comment j'ai tué mon père) - ([[French films of 2001|France]])
+*''[[Human Nature (film)|Human Nature]]'', starring [[Tim Robbins]], [[Rhys Ifans]], [[Patricia Arquette]]
+'''I'''
+*''[[I Am Sam]]'', starring [[Sean Penn]], [[Michelle Pfeiffer]], [[Dakota Fanning]], [[Laura Dern]]
+*''[[I Wish I Had a Wife]]'' (Nado anaega isseosseumyeon johgessda) - ([[List of South Korean films of 2001|South Korea]])
+*''[[Ichi the Killer (film)|Ichi the Killer]]'' (Koroshiya 1), directed by [[Takashi Miike]] - ([[Japanese films of 2001|Japan]])
+*''[[The Ignorant Fairies]]'' (Le fate ignoranti) - ([[Italian films of 2001|Italy]])
+*''[[I'm Going Home (film)|I'm Going Home]]'' (Je rentre à la maison), starring [[Michel Piccoli]] and [[Catherine Deneuve]] - ([[French films of 2001|France]]/[[Portuguese films of the 2000s|Portugal]])
+*''[[In the Bedroom]]'', starring [[Tom Wilkinson]], [[Sissy Spacek]], [[Nick Stahl]], [[Marisa Tomei]]
+*''[[In Vanda's Room]]'' (No Quarto da Vanda) - ([[List of Portuguese films of the 2000s|Portugal]])
+*''[[Intacto]]'' - ([[Spanish films of 2001|Spain]])
+*''[[Intimacy (film)|Intimacy]]'' - ([[French films of 2001|Fr]]/[[British films of 2001|UK]]/[[List of German films: 2000s|Ger]]/[[Spanish films of 2001|Sp]]) – Golden Bear award
+*''[[InuYasha the Movie: Affections Touching Across Time]]'' (Inuyasha - Jidai wo koeru omoi) - ([[Japanese films of 2001|Japan]])
+*''[[Iris (film)|Iris]]'', starring [[Judi Dench]] and [[Jim Broadbent]] - ([[British films of 2001|UK]])
+'''J'''
+*''[[Jan Dara (2001 film)|Jan Dara]]'' (??? ????) - ([[List of Thai films|Thailand]])
+*''[[Jay and Silent Bob Strike Back]]'', directed by [[Kevin Smith]]
+*''[[Jeepers Creepers (2001 film)|Jeepers Creepers]]''
+*''[[Jimmy Neutron: Boy Genius]]''
+*''[[The Jimmy Show]]'', starring [[Frank Whaley]], [[Carla Gugino]], [[Ethan Hawke]]
+*''[[Joe Dirt]]'', starring [[David Spade]]
+*''[[Joe Somebody]]'', starring [[Tim Allen]]
+*''[[Josie and the Pussycats (film)|Josie and the Pussycats]]'', starring [[Rosario Dawson]], [[Rachael Leigh Cook]], [[Tara Reid]]
+*''[[Joy Ride (2001 film)|Joy Ride]]'', starring [[Paul Walker]] and [[Steve Zahn]]
+*''[[July Rhapsody]]'' (Laam yan sei sap), starring [[Jacky Cheung]] - ([[Hong Kong films of 2001|Hong Kong]])
+*''[[Jurassic Park III]]'', directed by [[Joe Johnston]], starring [[Sam Neill]], [[William H. Macy]], [[Téa Leoni]]
+*''[[Just Visiting (film)|Just Visiting]]'', starring [[Jean Reno]] and [[Christina Applegate]] - ([[American films of 2001|USA]]/[[French films of 2001|France]])
+'''K'''
+*''[[K-PAX (film)|K-PAX]]'', starring [[Jeff Bridges]] and [[Kevin Spacey]]
+*''[[Kabhi Khushi Kabhie Gham]]'' (Sometimes there's happiness, sometimes there's sadness) - ([[Bollywood films of 2001|India]])
+*''[[Kandahar (2001 film)|Kandahar]]'' (Safar-e Ghandehar) - ([[Iranian films of the 2000s|Iran]])
+*''[[Kate & Leopold]]'', directed by [[James Mangold]], starring [[Meg Ryan]] and [[Hugh Jackman]]
+*''[[Kick the Moon]]'' (Shinlaui dalbam) - ([[List of South Korean films of 2001|South Korea]])
+*''[[Kill Me Later]]'', starring [[Selma Blair]] and [[Max Beesley]]
+*''[[Kingdom Come (2001 film)|Kingdom Come]]'', starring [[LL Cool J]] and [[Jada Pinkett Smith]]
+*''[[Kira's Reason: A Love Story]]'' (En Kærlighedshistoriefilm) - ([[Danish films of the 2000s|Denmark]])
+*''[[Kiss of the Dragon]]'', starring [[Jet Li]] and [[Bridget Fonda]] - ([[American films of 2001|USA]]/[[French films of 2001|France]])
+*''[[Kissing Jessica Stein]]'', starring [[Heather Juergensen]] and [[Jennifer Westfeldt]]
+*''[[A Knight's Tale (film)|A Knight's Tale]]'', directed by [[Brian Helgeland]], starring [[Heath Ledger]], [[Shannyn Sossamon]], [[Rufus Sewell]]
+
+===L-Q===
+'''L'''
+*''[[L.I.E.]]'', starring [[Brian Cox (actor)|Brian Cox]]
+*''[[Lagaan]]'' (Land Tax) - ([[Bollywood films of 2001|India]])
+*''[[Lajja (film)|Lajja]]'', starring [[Manisha Koirala]] and [[Jackie Shroff]] - ([[Bollywood films of 2001|India]])
+*''[[Lan Yu (film)|Lan Yu]]'' (??), directed by [[Stanley Kwan]] - ([[Hong Kong films of 2001|Hong Kong]]/[[Chinese films of the 2000s|China]])
+*''[[Lantana (film)|Lantana]]'', starring [[Anthony LaPaglia]] and [[Geoffrey Rush]] - ([[Australian films of 2001|Australia]])
+*''[[Lara Croft: Tomb Raider]]'', starring [[Angelina Jolie]]
+*''[[The Last Castle]]'', directed by [[Rod Lurie]], starring [[Robert Redford]], [[Mark Ruffalo]], [[James Gandolfini]]
+*''[[The Last Kiss (2001 film)|The Last Kiss]]'' (L'ultimo bacio) - ([[Italian films of 2001|Italy]])
+*''[[Last Orders (film)|Last Orders]]'', starring [[Bob Hoskins]], [[Michael Caine]], [[Ray Winstone]], [[Helen Mirren]] - ([[British films of 2001|UK]])
+*''[[Last Present]]'' (Seon Mul) - ([[List of South Korean films of 2001|South Korea]])
+*''[[Last Wedding]]'' - ([[List of Canadian films of 2001|Canada]])
+*''[[Late Marriage (film)|Late Marriage]]'' (Hatuna Meuheret) - ([[2001 in Israeli film|Israel]])
+*''[[Late Night Shopping]]'' - ([[British films of 2001|UK]])
+*''[[Legally Blonde]]'', starring [[Reese Witherspoon]], [[Luke Wilson]], [[Jennifer Coolidge]], [[Selma Blair]], [[Ali Larter]]
+*''[[The Legend of Suriyothai]]'' - ([[List of Thai films|Thailand]])
+*''[[Letter to America (film)|Letter to America]]'' (Pismo do Amerika) - ([[Bulgarian films of the 2000s|Bulgaria]])
+*''[[Life as a House]]'', starring [[Kevin Kline]] and [[Kristin Scott Thomas]]
+*''[[Lijmen/Het Been]]'' - ([[List of Belgian films: 2000s|Belgium]]/[[Dutch films of the 2000s|Netherlands]])
+*''[[Lloyd (film)|Lloyd]]''
+*''[[The Lord of the Rings: The Fellowship of the Ring]]'', directed by [[Peter Jackson]], starring [[Elijah Wood]], [[Ian McKellen]], [[Viggo Mortensen]] - ([[American films of 2001|USA]]/[[List of New Zealand films|New Zealand]])
+*''[[Lost and Delirious]]'' - ([[List of Canadian films of 2001|Canada]])
+*''[[Lovely & Amazing]]'', starring [[Catherine Keener]], [[Jake Gyllenhaal]], [[Emily Mortimer]]
+*''[[Lucía y el sexo]]'' (Sex and Lucia) - ([[Spanish films of 2001|Spain]])
+*''[[The Luzhin Defence]]'', starring [[John Turturro]] and [[Emily Watson]] - ([[British films of 2001|UK]]/[[French films of 2001|France]])
+'''M'''
+*''[[Maangamizi: The Ancient One]]'' - ([[List of Tanzanian films|Tanzania]]/[[American films of 2001|USA]])
+*''[[Mad Love (2001 film)|Mad Love]]'' (Juana la Loco) - ([[Spanish films of 2001|Spain]])
+*''[[The Majestic (film)|The Majestic]]'', directed by [[Frank Darabont]], starring [[Jim Carrey]]
+*''[[Man Walking on Snow]]'' (Aruku, hito), starring [[Ken Ogata]] - ([[Japanese films of 2001|Japan]])
+*''[[The Man Who Sued God]]'', starring [[Billy Connolly]] - ([[Australian films of 2001|Australia]])
+*''[[The Man Who Wasn't There (2001 film)|The Man Who Wasn't There]]'', directed by the [[Coen Brothers]], starring [[Billy Bob Thornton]], [[Frances McDormand]], [[James Gandolfini]]
+*''[[Max Keeble's Big Move]]'', starring [[Alex D. Linz]]
+*''[[Me Without You (film)|Me Without You]]'', starring [[Anna Friel]] and [[Kyle MacLachlan]] - ([[British films of 2001|UK]])
+*''[[Mean Machine (film)|Mean Machine]]'', starring [[Vinnie Jones]] - ([[British films of 2001|UK]])
+*''[[Megiddo: The Omega Code 2]]'', starring [[Michael York]], [[Michael Biehn]]
+*''[[Metropolis (2001 film)|Metropolis]]'' (??????) - ([[Japanese films of 2001|Japan]])
+*''[[The Mexican]]'', starring [[Brad Pitt]] and [[Julia Roberts]]
+*''[[Mike Bassett: England Manager]]'', starring [[Ricky Tomlinson]] - ([[British films of 2001|UK]])
+*''[[Millennium Actress]]'' (Sennen Joy?) - ([[Japanese films of 2001|Japan]])
+*''[[Millennium Mambo]]'' (Qi?nx? Mànb?) - ([[List of Taiwanese films|Taiwan]])
+*''[[Mind Meld]]''
+*''[[Mockingbird Don't Sing]]''
+*''[[Monkeybone]]'', starring [[Brendan Fraser]], [[Bridget Fonda]], [[Whoopi Goldberg]]
+*''[[Monrak Transistor]]'' (aka Transistor Love Story) - ([[List of Thai films|Thailand]])
+*''[[Monsoon Wedding]]'', directed by [[Mira Nair]] - ([[American films of 2001|USA]]/[[List of Indian Punjabi films|India]])
+*''[[Monster's Ball]]'', starring [[Halle Berry]], [[Billy Bob Thornton]], [[Heath Ledger]]
+*''[[Monsters, Inc.]]'', with voices of [[John Goodman]] and [[Billy Crystal]]
+*''[[Moscow Square (film)|Moscow Square]]'' (Moszkva tér) - ([[List of Hungarian films since 1990|Hungary]])
+*''[[Moulin Rouge!]]'', directed by [[Baz Luhrmann]], starring [[Nicole Kidman]] and [[Ewan McGregor]] - ([[British films of 2001|UK]]/[[American films of 2001|USA]]/[[Australian films of 2001|Australia]])
+*''[[The Moving True Story of a Woman Ahead of Her Time]]'' (aka Nynka) - ([[Dutch films of the 2000s|Netherlands]])
+*''[[Mulholland Drive (film)|Mulholland Drive]]'', directed by [[David Lynch]], starring [[Naomi Watts]], [[Laura Harring]], [[Justin Theroux]]
+*''[[The Mummy Returns]]'', starring [[Brendan Fraser]] and [[Rachel Weisz]]
+*''[[My First Mister]]'', directed by [[Christine Lahti]], starring [[Leelee Sobieski]] and [[Albert Brooks]]
+*''[[My Sassy Girl]]'' (Yeopgijeogin geunyeo) - ([[List of South Korean films of 2001|South Korea]])
+'''N'''
+*''[[Nabi (film)|Nabi]]'' (Butterfly) - ([[List of South Korean films of 2001|South Korea]])
+*''[[Nandha]]'' - ([[Tamil films of 2001|India]])
+*''[[Nayak (2001 film)|Nayak: The Real Hero]]'', starring [[Anil Kapoor]] - ([[Bollywood films of 2001|India]])
+*''[[No Man's Land (2001 film)|No Man's Land]]'' (Ni?ija zemlja) - ([[List of Bosnian films|Bosnia-Herzegovina]]/[[French films of 2001|France]]/[[Italian films of 2001|Italy]]/[[British films of 2001|UK]])
+*''[[Not Another Teen Movie]]''
+*''[[The Notice of the Day]]'' (Arregui, La Noticia del Día) - ([[Argentine films of 2001|Argentina]])
+*''[[Nowhere in Africa]]'' (Nirgendwo in Afrika) - ([[List of German films: 2000s|Germany]])
+'''O'''
+*''[[O (film)|O]]'', starring [[Mekhi Phifer]], [[Josh Hartnett]], [[Julia Stiles]]
+*''[[Ocean's Eleven (2001 film)|Ocean's Eleven]]'', directed by [[Steven Soderbergh]], starring [[George Clooney]], [[Brad Pitt]], [[Matt Damon]], [[Don Cheadle]], [[Andy García]], [[Julia Roberts]]
+*''[[The Officers' Ward (film)|The Officers' Ward]]'' (La chambre des officiers) - ([[French films of 2001|France]])
+*''[[On the Green Carpet]]'' - ([[List of North Korean films|North Korea]])
+*''[[The One (2001 film)|The One]]'', starring [[Jet Li]], [[Delroy Lindo]], [[Carla Gugino]], [[Jason Statham]]
+*''[[One Fine Spring Day]]'' (Bomnaleun Ganda) - ([[List of South Korean films of 2001|South Korea]])
+*''[[One Night at McCool's]]'', starring [[Liv Tyler]], [[Matt Dillon]], [[Paul Reiser]], [[Michael Douglas]]
+*''[[Original Sin (2001 film)|Original Sin]]'', starring [[Angelina Jolie]] and [[Antonio Banderas]]
+*''[[The Orphan of Anyang]]'' (Anyangde guer) - ([[Chinese films of the 2000s|China]])
+*''[[Osmosis Jones]]'', starring [[Chris Rock]] and [[Bill Murray]]
+*''[[The Others (2001 film)|The Others]]'', directed by [[Alejandro Amenábar]], starring [[Nicole Kidman]] - ([[American films of 2001|USA]]/[[Spanish films of 2001|Spain]])
+*''[[Out Cold (2001 film)|Out Cold]]''
+'''P-Q'''
+*''[[Pau and His Brother]]'' (Pau i el seu germà) - ([[Spanish films of 2001|Spain]]/[[French films of 2001|France]])
+*''[[Pearl Harbor (film)|Pearl Harbor]]'', directed by [[Michael Bay]], starring [[Ben Affleck]], [[Kate Beckinsale]], [[Josh Hartnett]]
+*''[[Perfume (2001 film)|Perfume]]'', starring [[Estella Warren]], [[Jeff Goldblum]], [[Mariel Hemingway]]
+*''[[Le Peuple Migrateur]]'' (Winged Migration) - ([[French films of 2001|Fr]]/[[Italian films of 2001|It]]/[[List of German films: 2000s|Ger]]/[[Spanish films of 2001|Sp]]/[[List of Swiss films|Swi]]/[[American films of 2001|USA]])
+*''[[The Piano Teacher (2001 film)|The Piano Teacher]]'' (La Pianiste), directed by [[Michael Haneke]], starring [[Isabelle Huppert]] - ([[French films of 2001|France]]/[[Austrian films of the 2000s|Austria]])
+*''[[Piñero]]'', starring [[Benjamin Bratt]]
+*''[[Planet of the Apes (2001 film)|Planet of the Apes]]'', directed by [[Tim Burton]], starring [[Mark Wahlberg]], [[Helena Bonham Carter]], [[Tim Roth]], [[Estella Warren]]
+*''[[The Pledge (film)|The Pledge]]'', directed by [[Sean Penn]], starring [[Jack Nicholson]]
+*''[[Princesa (2001 film)|Princesa]]'' - ([[Italian films of 2001|Italy]]/[[Spanish films of 2001|Spain]])
+*''[[The Princess Diaries (film)|The Princess Diaries]]'', directed by [[Garry Marshall]], starring [[Anne Hathaway]] and [[Julie Andrews]]
+*''[[The Profession of Arms (2001 film)|The Profession of Arms]]'' (Il mestiere delle armi), directed by [[Ermanno Olmi]] - ([[Italian films of 2001|Italy]])
+*''[[Pulse (2001 film)|Pulse]]'' (Kairo) - ([[Japanese films of 2001|Japan]])
+*''[[Purple Sunset]]'' (Ziri) - ([[Chinese films of the 2000s|China]])
+*''[[Quitting]]'' (Zuotian) - (China)
+
+===R-Z===
+'''R'''
+*''[[Rain (2001 film)|Rain]]'' - ([[List of New Zealand films|New Zealand]])
+*''[[Rat Race (film)|Rat Race]]'', starring [[Breckin Meyer]], [[Seth Green]], [[Cuba Gooding, Jr.]], [[John Cleese]], [[Whoopi Goldberg]], [[Amy Smart]], [[Rowan Atkinson]]
+*''[[Recess: School's Out]]''
+*''[[Revolution OS]]''
+*''[[Riding in Cars with Boys]]'', directed by [[Penny Marshall]], starring [[Drew Barrymore]], [[Steve Zahn]], [[Brittany Murphy]]
+*''[[The River (2001 film)|The River]]'' (Joki) - ([[List of Finnish films of the 2000s|Finland]])
+*''[[Roberto Succo (film)|Roberto Succo]]'' - ([[French films of 2001|France]])
+*''[[Rock Star (2001 film)|Rock Star]]'', starring [[Mark Wahlberg]] and [[Jennifer Aniston]]
+*''[[The Royal Tenenbaums]]'', starring [[Gene Hackman]], [[Ben Stiller]], [[Owen Wilson]], [[Luke Wilson]], [[Gwyneth Paltrow]], [[Danny Glover]], [[Anjelica Huston]], [[Bill Murray]]
+*''[[Rush Hour 2]]'', directed by [[Brett Ratner]], starring [[Jackie Chan]] and [[Chris Tucker]] - ([[American films of 2001|USA]]/[[Hong Kong films of 2001|Hong Kong]])
+'''S'''
+*''[[The Safety of Objects]]'', starring [[Joshua Jackson]], [[Dermot Mulroney]], [[Moira Kelly]], [[Patricia Clarkson]], [[Glenn Close]]
+*''[[Samsara (2001 film)|Samsara]]'' - ([[List of Tibetan films|Tibet]]/[[Bollywood films of 2001|India]])
+*''[[Save the Last Dance]]'', starring [[Julia Stiles]] and [[Sean Patrick Thomas]]
+*''[[Saving Silverman]]'', starring [[Jason Biggs]], [[Jack Black]], [[Amanda Peet]]
+*''[[Say It Isn't So (film)|Say It Isn't So]]'', starring [[Heather Graham]], [[Chris Klein (actor)|Chris Klein]], [[Sally Field]]
+*''[[Say Yes (film)|Say Yes]]'' (?? ??) - ([[List of South Korean films of 2001|South Korea]])
+*''[[Scary Movie 2]]'', starring [[Shawn Wayans]], [[Marlon Wayans]], [[Anna Faris]]
+*''[[The Score (2001 film)|The Score]]'', directed by [[Frank Oz]], starring [[Robert De Niro]], [[Edward Norton]], [[Angela Bassett]], [[Marlon Brando]]
+*''[[Scotland, PA]]''
+*''[[Scratch (2001 film)|Scratch]]''
+*''[[Secret Ballot (film)|Secret Ballot]]'' (Ra'ye makhfi) - ([[Iranian films of the 2000s|Iran]])
+*''[[See Spot Run]]'', starring [[David Arquette]] - ([[List of Canadian films of 2001|Canada]])
+*''[[Serendipity (film)|Serendipity]]'', starring [[John Cusack]] and [[Kate Beckinsale]]
+*''[[Session 9]]'', starring [[David Caruso]] and [[Peter Mullan]]
+*''[[Shallow Hal]]'', directed by the [[Farrelly brothers]], starring [[Jack Black]], [[Jason Alexander]], [[Gwyneth Paltrow]]
+*''[[Shaolin Soccer]]'' (Siu lam juk kau) - ([[Hong Kong films of 2001|Hong Kong]])
+*''[[She Creature]]'', starring [[Rufus Sewell]] and [[Carla Gugino]]
+*''[[The Shipment (film)|The Shipment]]'', starring [[Matthew Modine]] - ([[List of Canadian films of 2001|Canada]])
+*''[[The Shipping News (film)|The Shipping News]]'', directed by [[Lasse Hallstrom]], starring [[Kevin Spacey]], [[Judi Dench]], [[Julianne Moore]], [[Cate Blanchett]]
+*''[[Shrek]]'', with voices of [[Mike Myers]], [[Eddie Murphy]], [[Cameron Diaz]]
+*''[[Sia, le rêve du python|Sia, the Dream of the Python]]'' (Sia, le rêve du python) - ([[List of Burkinabé films|Burkina Faso]])
+*''[[Sidewalks of New York (2001 film)|Sidewalks of New York]]'', directed by and starring [[Edward Burns]], with [[Rosario Dawson]], [[Heather Graham]], [[Dennis Farina]]
+*''[[Sisters (2001 film)|Sisters]]'' (Syostry) - ([[Russian films of 2001|Russia]])
+*''[[Slogans (film)|Slogans]]'' (Parullat) - ([[List of Albanian films|Albania]])
+*''[[Sobibor, October 14, 1943, 4 p.m.]]'' (Sobibór, 14 octobre 1943, 16 heures) - ([[French films of 2001|France]])
+*''[[Someone Like You (film)|Someone Like You]]'', directed by [[Tony Goldwyn]], starring [[Ashley Judd]], [[Hugh Jackman]], [[Greg Kinnear]]
+*''[[Son of the Bride]]'' (El hijo de la novia) - ([[List of Argentine films of 2001|Argentina]])
+*''[[The Son's Room]]'' (La stanza del figlio) - ([[Italian films of 2001|Italy]])
+*''[[Sorum]]'' - ([[List of South Korean films of 2001|South Korea]])
+*''[[Southern Comfort (2001 film)|Southern Comfort]]''
+*''[[Southlander]]'', starring [[Rory Cochrane]], [[Beck]], [[Beth Orton]]
+*''[[Spirited Away]]'' (Sen to Chihiro no Kamikakushi) - ([[Japanese films of 2001|Japan]])
+*''[[Spy Game]]'', directed by [[Tony Scott]], starring [[Robert Redford]] and [[Brad Pitt]]
+*''[[Spy Kids]]'', directed by [[Robert Rodriguez]], starring [[Carla Gugino]] and [[Antonio Banderas]]
+*''[[Storytelling (film)|Storytelling]]'', directed by [[Todd Solondz]], starring [[Paul Giamatti]], [[John Goodman]], [[Julie Hagerty]], [[Robert Wisdom]], [[Selma Blair]]
+*''[[Stranger Inside]]''
+*''[[Stuck (2001 film)|Stuck]]''
+*''[[Super Troopers]]''
+*''[[Sur mes lèvres]]'' (Read My Lips), starring [[Vincent Cassel]] - ([[French films of 2001|France]])
+*''[[Sweet November (2001 film)|Sweet November]]'', starring [[Keanu Reeves]] and [[Charlize Theron]]
+*''[[Swordfish (film)|Swordfish]]'', starring [[Hugh Jackman]], [[Halle Berry]], [[Don Cheadle]], [[John Travolta]]
+'''T'''
+*''[[The Tailor of Panama]]'', directed by [[John Boorman]], starring [[Pierce Brosnan]], [[Geoffrey Rush]], [[Jamie Lee Curtis]], [[Brendan Gleeson]]
+*''[[Take Care of My Cat]]'' (Goyangireul Butakhae) - ([[List of South Korean films of 2001|South Korea]])
+*''[[Tape (film)|Tape]]'', starring [[Ethan Hawke]] and [[Uma Thurman]]
+*''[[Taurus (film)|Taurus]]'' (Telets) - ([[Russian films of 2001|Russia]])
+*''[[El cielo abierto|Ten Days Without Love]]'' (El cielo abierto) - ([[Spanish films of 2001|Spain]])
+*''[[Thirteen Conversations About One Thing]]'', starring [[Matthew McConaughey]], [[Alan Arkin]], [[John Turturro]]
+*''[[Thirteen Ghosts]]'', starring [[Tony Shalhoub]]
+*''[[To End All Wars]]'', starring [[Robert Carlyle]] and [[Kiefer Sutherland]]
+*''[[Lavoura Arcaica|To the Left of the Father]]'' (Lavoura Arcaica) - ([[Brazilian films of 2001|Brazil]])
+*''[[Tomcats (2001 film)|Tomcats]]'', starring [[Jerry O'Connell]] and [[Shannon Elizabeth]]
+*''[[Tomorrow (2001 film)|Tomorrow]]'' (Domani) - ([[Italian films of 2001|Italy]])
+*''[[Tortilla Soup]]'', starring [[Héctor Elizondo]], [[Elizabeth Peña]], [[Raquel Welch]]
+*''[[Town & Country (film)|Town & Country]]'', starring [[Warren Beatty]], [[Diane Keaton]], [[Goldie Hawn]], [[Garry Shandling]], [[Andie MacDowell]], [[Charlton Heston]]
+*''[[Training Day]]'', starring [[Denzel Washington]] and [[Ethan Hawke]]
+*''[[Treed Murray]]'' - ([[List of Canadian films of 2001|Canada]])
+*''[[The Tunnel (2001 film)|The Tunnel]]'' (Der Tunnel) - ([[List of German films: 2000s|Germany]])
+*''[[Two Can Play That Game]]'', starring [[Vivica A. Fox]] and [[Morris Chestnut]]
+'''U'''
+*''[[Ultraman Cosmos: The First Contact]]'' (??????????) - ([[Japanese films of 2001|Japan]])
+*''[[Concorrenza sleale|Unfair Competition]]'' (Concorrenza sleale), directed by [[Ettore Scola]] - ([[Italian films of 2001|Italy]])
+*''[[Musa (film)|The Ultimate Warrior]]'' (Musa) - ([[List of South Korean films of 2001|South Korea]])
+*''[[Undercover Kitty (film)|Undercover Kitty]]'' (aka Minoes) - ([[Dutch films of the 2000s|Netherlands]])
+*''[[Uprising (2001 film)|Uprising]]'', starring [[Leelee Sobieski]], [[Hank Azaria]], [[David Schwimmer]]
+'''V'''
+*''[[Va savoir]]'' (Who Knows?), directed by [[Jacques Rivette]] - ([[French films of 2001|France]])
+*''[[Valentine (film)|Valentine]]'', starring [[Denise Richards]] and [[Katherine Heigl]]
+*''[[Vanilla Sky]]'', directed by [[Cameron Crowe]], starring [[Tom Cruise]], [[Penélope Cruz]], [[Cameron Diaz]], [[Kurt Russell]]
+*''[[Vidocq (2001 film)|Vidocq]]'', starring [[Gérard Depardieu]] - ([[French films of 2001|France]])
+*''[[Vizontele]]'', directed by [[Y?lmaz Erdo?an]] - ([[Turkish films of the 2000s|Turkey]])
+'''W'''
+*''[[Waikiki Brothers]]'' (Waikiki beuladeoseu) - ([[List of South Korean films of 2001|South Korea]])
+*''[[Waking Life]]''
+*''[[War Photographer]]'' (Photographe de guerre) - ([[List of Swiss films|Switzerland]])
+*''[[Warm Water Under a Red Bridge]]'' (Akai Hashi no Shita no Nurui Mizu), directed by [[Sh?hei Imamura]] - ([[Japanese films of 2001|Japan]])
+*''[[Musa (film)|The Warrior]]'' (Musa) - ([[List of South Korean films of 2001|South Korea]])
+*''[[Wasabi (film)|Wasabi]]'', starring [[Jean Reno]] - ([[French films of 2001|France]])
+*''[[Waterboys (film)|Waterboys]]'' (?????????) - ([[Japanese films of 2001|Japan]])
+*''[[The Wedding Planner]]'', starring [[Jennifer Lopez]] and [[Matthew McConaughey]]
+*''[[Welcome to Pyongyang Animal Park]]'' (?????) - ([[List of North Korean films|North Korea]])
+*''[[West 47th Street (film)|West 47th Street]]''
+*''[[Wet Hot American Summer]]'', starring [[Janeane Garofalo]] and [[David Hyde Pierce]]
+*''[[What's the Worst That Could Happen?]]'', starring [[Danny DeVito]] and [[Martin Lawrence]]
+*''[[What Time Is It There?]]'' (Ni na bian ji dian) - ([[List of Taiwanese films|Taiwan]])
+*''[[When Strangers Appear]]'' - ([[Australian films of 2001|Australia]]/[[List of New Zealand films|New Zealand]]/[[American films of 2001|USA]])
+*''[[Whispering Sands]]'' (Pasir Berbisik) - ([[List of Indonesian films|Indonesia]])
+*''[[Wild Bees]]'' (Divoké v?ely) - ([[Czech films of the 2000s|Czech Republic]])
+*''[[Wit (film)|Wit]]'', directed by [[Mike Nichols]], starring [[Emma Thompson]] and [[Christopher Lloyd]]
+*''[[The Words of My Father]]'' (Le parole di mio padre) - ([[Italian films of 2001|Italy]])
+'''XYZ'''
+*''[[A Samba for Sherlock|O Xangô de Baker Street]]'' (A Samba for Sherlock) - ([[Brazilian films of 2001|Brazil]])
+*''[[Yamakasi (film)|Yamakasi]]'' (aka Yamakasi - Les samouraïs des temps modernes) - ([[French films of 2001|France]])
+*''[[Y tu mamá también]]'' (And your mum too) - ([[Mexican films of 2001|Mexico]])
+*''[[Yellow Asphalt]]'' (Asfalt Tzahov) - ([[2001 in Israeli film|Israel]])
+*''[[Yellow Hair 2]]'' (Norang Meori 2) - ([[List of South Korean films of 2001|South Korea]])
+*''[[Yolngu Boy]]'' - ([[Australian films of 2001|Australia]])
+*''[[Zoolander]]'', directed by and starring [[Ben Stiller]], with [[Owen Wilson]]
+
+===Films released in 2001 by country===
+* [[List of Argentine films:2001]]
+
+==Notable deaths==
+<!-- This section is in the article 2010 in "film", people that are television actors, television directors or something like that but did not have any part of a film don't belong here. Those belong to the "Notable Deaths" section in "2010 in television" -->
+{| cellspacing="0" cellpadding="4" border="0"
+|-  style="background:#dae3e7; text-align:center;"
+|<span style="font-size:100%;"> '''Month'''</span> ||<span style="font-size:100%;"> '''Date'''</span> ||<span style="font-size:100%;"> '''Name'''</span> ||<span style="font-size:100%;"> '''Age'''</span> ||<span style="font-size:100%;">'''Country'''</span> ||<span style="font-size:100%;"> '''Profession'''</span> ||<span style="font-size:100%;"> '''Notable films'''</span>
+|- valign="top"
+| rowspan="9"  style="text-align:center; vertical-align:top;"|<span style="font-size:100%;"> '''[[Deaths in 2001#January 2001|January]]'''</span>
+| style="text-align:center;"| ''1'' || [[Ray Walston]] || style="text-align:center;"| 86 || style="text-align:center;"| USA || style="text-align:center;"| Actor ||''[[Fast Times at Ridgemont High]]'' • ''[[The Sting]]'' • ''[[The Apartment]]'' • ''[[South Pacific (1958 film)|South Pacific]]'' • ''[[My Favorite Martian (film)|My Favorite Martian]]'' • ''[[Of Mice and Men (1992 film)|Of Mice and Men]]'' • ''[[Popeye (film)|Popeye]]'' • ''[[Damn Yankees (film)|Damn Yankees]]'' • ''[[Paint Your Wagon (film)|Paint Your Wagon]]'' • ''[[Tall Story]]'' • ''[[Say One for Me]]'' • ''[[Kiss Them for Me (film)|Kiss Them for Me]]'' • ''[[Kiss Me, Stupid]]''
+|-
+| style="text-align:center;"| ''5'' || [[Nancy Parsons]] || style="text-align:center;"| 58 || style="text-align:center;"| USA || style="text-align:center;"| Actress || ''[[Porky's]]'' • ''[[Steel Magnolias]]'' • ''[[Sudden Impact]]'' • ''[[I Never Promised You a Rose Garden (film)|I Never Promised You a Rose Garden]]'' 
+|-
+| style="text-align:center;"| ''10'' || [[Jacques Marin]] || style="text-align:center;"| 81 || style="text-align:center;"| France || style="text-align:center;"| Actor || ''[[Marathon Man (film)|Marathon Man]]'' • ''[[Charade (1963 film)|Charade]]'' • ''[[How to Steal a Million]]'' • ''[[The Greatest Story Ever Told]]'' • ''[[Shaft in Africa]]'' • ''[[The Island at the Top of the World]]'' • ''[[Herbie Goes to Monte Carlo]]'' • ''[[Who is Killing the Great Chefs of Europe?]]''
+|-
+| style="text-align:center;"| ''11'' || [[Michael Williams (actor)|Michael Williams]] || style="text-align:center;"| 65 || style="text-align:center;"| UK || style="text-align:center;"| Actor || ''[[Henry V (1989 film)|Henry V]]'' • ''[[Educating Rita (film)|Educating Rita]]'' • ''[[Tea with Mussolini]]''
+|-
+| style="text-align:center;"| ''15'' || [[Bob Braun]] || style="text-align:center;"| 80 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[Die Hard 2]]'' • ''[[Defending Your Life]]'' 
+|-
+| style="text-align:center;"| ''17'' || [[Gregory Corso]] || style="text-align:center;"| 70 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[The Godfather Part III]]'' 
+|-
+| style="text-align:center;"| ''18'' || [[Al Waxman]] || style="text-align:center;"| 65 || style="text-align:center;"| Canada || style="text-align:center;"| Actor || ''[[The Hurricane (1999 film)|The Hurricane]]'' • ''[[Heavy Metal (film)|Heavy Metal]]'' • ''[[Critical Care (film)|Critical Care]]'' • ''[[Iron Eagle IV]]'' • ''[[Atlantic City (1980 film)|Atlantic City]]'' • ''[[Meatballs III: Summer Job]]''
+|-
+| style="text-align:center;"| ''27'' || [[Joseph O'Conor]] || style="text-align:center;"| 84 || style="text-align:center;"| UK || style="text-align:center;"| Actor || ''[[Oliver! (film)|Oliver!]]'' • ''[[Elizabeth (film)|Elizabeth]]'' • '' [[The Forbidden Quest]]''
+|-
+| style="text-align:center;"| ''30'' || [[John Prebble]] || style="text-align:center;"| 85 || style="text-align:center;"| UK || style="text-align:center;"| Screenwriter || ''[[Zulu (1964 film)|Zulu]]'' • ''[[Mysterious Island (1961 film)|Mysterious Island]]'' • '' [[White Feather (1955 film)|White Feather]]''
+|-
+||| style="text-align:center;"| ''31'' || [[Bert Williams]] || style="text-align:center;"| 78 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[The Usual Suspects]]'' • ''[[Cobra (1986 film)|Cobra]]'' • '' [[10 to Midnight]]'' • ''[[Police Academy 2: Their First Assignment]]'' • ''[[Wanda Nevada]]''
+|- 
+| rowspan="13"  style="text-align:center; vertical-align:top;"|<span style="font-size:100%;"> '''February'''</span>
+| style="text-align:center;"| ''4'' || [[Tony Steedman]] || style="text-align:center;"| 73 || style="text-align:center;"| UK || style="text-align:center;"| Actor || ''[[Bill & Ted's Excellent Adventure]]'' • ''[[Scrooged]]'' • ''[[Mrs Dalloway]]'' • ''[[Split Second (1992 film)|Split Second]]'' 
+|-
+| style="text-align:center;"| ''6'' || [[Dale Evans]] || style="text-align:center;"| 88 || style="text-align:center;"| USA || style="text-align:center;"| Actress || ''[[Bells of San Angelo]]'' • ''[[In Old Oklahoma]]'' • ''[[My Pal Trigger]]'' 
+|-
+| style="text-align:center;"| ''10'' || [[Lewis Arquette]] || style="text-align:center;"|65 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[Scream 2]]'' • ''[[Tango & Cash]]'' • ''[[Little Nicky]]'' • ''[[Waiting for Guffman]]''
+|-
+| style="text-align:center;"| ''11'' || [[Sy Gomberg]] || style="text-align:center;"| 82 || style="text-align:center;"| USA || style="text-align:center;"| Screenwriter || ''[[When Willie Comes Marching Home]]'' • ''[[Summer Stock]]'' • ''[[The Wild and the Innocent]]'' • ''[[Bloodhounds of Broadway (1952 film)|Bloodhounds of Broadway]]'' • ''[[Joe Butterfly]]'' 
+|-
+| style="text-align:center;"| ''14'' || [[Charles B. Fitzsimons]] || style="text-align:center;"| 76 || style="text-align:center;"| USA || style="text-align:center;"| Producer || ''[[The Quiet Man]]'' • ''[[Batman (1966 film)|Batman]]'' • ''[[I Was a Male War Bride]]'' 
+|-
+| style="text-align:center;"| ''15'' || [[Burt Kennedy]] || style="text-align:center;"| 78 || style="text-align:center;"| USA || style="text-align:center;"| Director, Writer || ''[[Young Billy Young]]'' • ''[[The Rounders (1965 film)|The Rounders]]'' • ''[[Welcome to Hard Times (film)|Welcome to Hard Times]]'' • ''[[Seven Men from Now]]'' • ''[[Support Your Local Sheriff!]]'' • ''[[The War Wagon]]''
+|-
+| style="text-align:center;"| ''16'' || [[Howard W. Koch]] || style="text-align:center;"| 84 || style="text-align:center;"| USA || style="text-align:center;"| Producer || ''[[Airplane!]]'' • ''[[The Odd Couple (film)|The Odd Couple]]'' • ''[[The Manchurian Candidate (1962 film)|The Manchurian Candidate]]'' • ''[[Dragonslayer]]'' • ''[[Ghost (1990 film)|Ghost]]'' 
+|-
+| style="text-align:center;"| ''18'' || [[Dale Earnhardt]] || style="text-align:center;"| 49 || style="text-align:center;"| USA || style="text-align:center;"| [[NASCAR]] Driver, Actor || ''[[Stroker Ace]]'' • ''[[BASEketball]]'' 
+|-
+| style="text-align:center;"| ''19'' || [[Stanley Kramer]] || style="text-align:center;"| 87 || style="text-align:center;"| UK || style="text-align:center;"| Director, Producer || ''[[Judgment at Nuremberg]]'' • ''[[It's a Mad, Mad, Mad, Mad World]]'' • ''[[Guess Who's Coming to Dinner]]'' • ''[[Inherit the Wind (1960 film)|Inherit the Wind]]'' • ''[[The Caine Mutiny (film)|The Caine Mutiny]]'' • ''[[Ship of Fools (film)|Ship of Fools]]'' • ''[[Oklahoma Crude (film)|Oklahoma Crude]]'' •''[[The Pride and the Passion]]'' • ''[[The 5,000 Fingers of Dr. T]]'' 
+|-
+| style="text-align:center;"| ''20'' || [[Rosemary DeCamp]] || style="text-align:center;"| 90 || style="text-align:center;"| USA || style="text-align:center;"| Actress || ''[[Yankee Doodle Dandy]]'' • ''[[Saturday the 14th]]'' • ''[[13 Ghosts]]'' • ''[[Blood on the Sun]]'' • ''[[Jungle Book (1942 film)|Jungle Book]]'' • ''[[Rhapsody in Blue (film)|Rhapsody in Blue]]'' • ''[[On Moonlight Bay (film)|On Moonlight Bay]]''
+|-
+| style="text-align:center;"| ''24'' || [[Michael Johnson (actor)|Michael Johnson]] || style="text-align:center;"| 62 || style="text-align:center;"| UK || style="text-align:center;"| Actor || ''[[Anne of the Thousand Days]]'' • ''[[Bells Are Ringing (film)|Bells Are Ringing]]'' • ''[[Lust for a Vampire]]'' • ''[[The Gazebo]]''
+|-
+| style="text-align:center;"| ''26'' || [[George Malpas]] || style="text-align:center;"| 74 or 75 || style="text-align:center;"| UK || style="text-align:center;"| Actor || ''[[Indiana Jones and the Last Crusade]]'' • ''[[Young Sherlock Holmes]]''
+|-
+| style="text-align:center;"| ''27'' || [[Stan Margulies]] || style="text-align:center;"| 80 || style="text-align:center;"| USA || style="text-align:center;"| Producer || ''[[Willy Wonka & the Chocolate Factory]]'' • ''[[Spartacus (film)|Spartacus]]'' • ''[[The Robe (film)|The Robe]]'' • ''[[Those Magnificent Men in their Flying Machines]]''
+|- valign="top"
+| rowspan="16"  style="text-align:center; vertical-align:top;"|<span style="font-size:100%;"> '''March'''</span>
+| style="text-align:center;"| ''??'' || [[David Middlemas]] || style="text-align:center;"| 82 || style="text-align:center;"| UK || style="text-align:center;"| Production Manager || ''[[Thunderball (film)|Thunderball]]'' • ''[[The Spy Who Loved Me (film)|The Spy Who Loved Me]]'' • ''[[You Only Live Twice (film)|You Only Live Twice]]'' • ''[[On Her Majesty's Secret Service (film)|On Her Majesty's Secret Service]]'' • ''[[Sleuth (1972 film)|Sleuth]]'' • ''[[Chitty Chitty Bang Bang]]'' • ''[[The Bounty]]'' • ''[[Flesh and Blood (1985 film)|Flesh and Blood]]'' • ''[[Village of the Damned (1960 film)|Village of the Damned]]''
+|-
+| style="text-align:center;"| ''1'' || [[George Orrison]] || style="text-align:center;"| 71 || style="text-align:center;"| United States || style="text-align:center;"| Stuntman, Actor || ''[[Unforgiven]]'' • ''[[Blazing Saddles]]'' • ''[[Escape from Alcatraz (film)|Escape from Alcatraz]]'' • ''[[In the Line of Fire]]'' • ''[[Space Cowboys]]'' • ''[[A Perfect World]]'' • ''[[The Bridges of Madison County (film)|The Bridges of Madison County]]'' • ''[[The Outlaw Josey Wales]]'' • ''[[Absolute Power (film)|Absolute Power]]''
+|-
+| style="text-align:center;"| ''6'' || [[Kim Walker (actress)|Kim Walker]] || style="text-align:center;"| 32 || style="text-align:center;"|USA || style="text-align:center;"| Actress || ''[[Say Anything...]]'' • ''[[Heathers]]'' • ''[[A Reason to Believe]]'' 
+|-
+| style="text-align:center;"| ''8'' || [[Edward Winter (actor)|Edward Winter]] || style="text-align:center;"| 63 || style="text-align:center;"|USA || style="text-align:center;"| Actor || ''[[The Parallax View]]'' • ''[[From the Hip (film)|From the Hip]]'' • ''[[A Change of Seasons (film)|A Change of Seasons]]'' • ''[[The Boston Strangler (film)|The Boston Strangler]]'' 
+|-
+| style="text-align:center;"| ''9'' || [[Richard Stone (composer)|Richard Stone]] || style="text-align:center;"| 38 || style="text-align:center;"| USA || style="text-align:center;"| Composer, Music Editor || ''[[Platoon (film)|Platoon]]'' • ''[[Ferris Bueller's Day Off]]'' • ''[[Witness (1985 film)|Witness]]'' • ''[[Cujo (film)|Cujo]]'' • ''[[The Big Easy (film)|The Big Easy]]'' • ''[[Dolores Claiborne (film)|Dolores Claiborne]]'' • ''[[Top Secret!]]'' • ''[[Pretty in Pink]]'' 
+|-
+| style="text-align:center;"| ''12'' || [[Morton Downey, Jr.]] || style="text-align:center;"| 67 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[Predator 2]]'' • ''[[The Silencer (film)|The Silencer]]'' • ''[[Driving Me Crazy (film)|Driving Me Crazy]]''
+|-
+| style="text-align:center;"| ''12'' || [[Robert Ludlum]] || style="text-align:center;"| 73 || style="text-align:center;"| USA || style="text-align:center;"| Author, Producer || ''[[The Bourne Identity (2002 film)|The Bourne Identity]]''
+|-
+| style="text-align:center;"| ''13'' || [[John A. Alonzo]] || style="text-align:center;"| 66 || style="text-align:center;"| USA || style="text-align:center;"| Cinematographer, Actor ||''[[Scarface (1983 film)|Scarface]]'' • ''[[Chinatown (1974 film)|Chinatown]]'' • ''[[Harold and Maude]]'' • ''[[Star Trek Generations]]'' • ''[[The Magnificent Seven]]'' • ''[[Sounder (film)|Sounder]]'' • ''[[Norma Rae]]'' • ''[[Cool World]]'' • ''[[Overboard (film)|Overboard]]'' • ''[[Deuces Wild]]''
+|-
+| style="text-align:center;"| ''15'' || [[Ann Sothern]] || style="text-align:center;"| 92 || style="text-align:center;"| USA || style="text-align:center;"| Actress || ''[[A Letter to Three Wives]]'' • ''[[The Whales of August]]'' • ''[[Crazy Mama (film)|Crazy Mama]]'' • ''[[The Best Man (1964 film)|The Best Man]]'' • ''[[Sylvia (1965 film)|Sylvia]]'' • ''[[Brother Orchid]]'' • ''[[Lady in a Cage]]'' • ''[[Nancy Goes to Rio]]'' • ''[[Maisie|Maisie film series]]''
+|-
+| style="text-align:center;"| ''16'' || [[Norma MacMillan]] || style="text-align:center;"| 79 || style="text-align:center;"| Canada || style="text-align:center;"| Actress || ''[[Head over Heels (2001 film)|Head over Heels]]'' • ''[[Big Bully (film)|Big Bully]]'' • ''[[Big Business (1988 film)|Big Business]]''
+|-
+| style="text-align:center;"| ''17'' || [[Ralph Thomas]] || style="text-align:center;"| 85 || style="text-align:center;"| UK || style="text-align:center;"| Director, Writer, Producer || ''[[Carry On Cruising]]'' • ''[[The 39 Steps (1959 film)|The 39 Steps]]'' • ''[[Carry On Regardless]]'' • ''[[A Tale of Two Cities (1958 film)|A Tale of Two Cities]]'' • ''[[Doctor in the House]]'' • ''[[Above Us the Waves (film)|Above Us the Waves]]'' • ''[[Deadlier Than the Male]]'' • ''[[The Iron Petticoat]]'' • ''[[Doctor at Sea (film)|Doctor at Sea]]'' • ''[[Doctor at Large (film)|Doctor at Large]]'' • ''[[Hot Enough for June]]''
+|-
+| style="text-align:center;"| ''19'' || [[Norman Mitchell]] || style="text-align:center;"| 82 || style="text-align:center;"| UK || style="text-align:center;"| Actor || ''[[Carry On Screaming!]]'' • ''[[Oliver! (film)|Oliver!]]'' • ''[[On the Buses (film)|On the Buses]]'' • ''[[Frankenstein and the Monster from Hell]]'' • ''[[The Pink Panther Strikes Again]]''
+|-
+| style="text-align:center;"| ''19'' || [[Mentor Huebner]] || style="text-align:center;"| 79 || style="text-align:center;"| USA || style="text-align:center;"| Illustrator || ''[[Blade Runner]]'' • ''[[Dune (film)|Dune]]'' • ''[[Flash Gordon (film)|Flash Gordon]]'' • ''[[Dracula (1992 film)|Dracula]]'' • ''[[King Kong (1976 film)|King Kong]]'' • ''[[The Thing (1982 film)|The Thing]]'' • ''[[Harlem Nights]]'' • ''[[Uncommon Valor]]'' • ''[[So I Married an Axe Murderer]]''
+|-
+| style="text-align:center;"| ''22'' || [[William Hanna]] || style="text-align:center;"| 90 || style="text-align:center;"| USA || style="text-align:center;"| Animator, Producer, Director || ''[[The Flintstones (film)|The Flintstones]]'' • ''[[Scooby-Doo (film)|Scooby-Doo]]'' • ''[[Jetsons: The Movie]]'' 
+|-
+| style="text-align:center;"| ''23'' || [[Sully Boyar]] || style="text-align:center;"| 77 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[Dog Day Afternoon]]'' • ''[[Prizzi's Honor]]'' • ''[[The Jazz Singer (1980 film)|The Jazz Singer]]'' • ''[[The Panic in Needle Park]]''
+|-
+| style="text-align:center;"| ''24'' || [[Tambi Larsen]] || style="text-align:center;"| 77 || style="text-align:center;"| India || style="text-align:center;"| Art Director || ''[[Hud (film)|Hud]]'' • ''[[Thunderbolt and Lightfoot]]'' • ''[[Heaven's Gate (film)|Heaven's Gate]]'' 
+|- valign="top"
+| rowspan="12"  style="text-align:center; vertical-align:top;"|<span style="font-size:100%;"> '''April'''</span>
+| style="text-align:center;"| ''1'' || [[Larry Tucker (screenwriter)|Larry Tucker]] || style="text-align:center;"| 66 || style="text-align:center;"|USA || style="text-align:center;"| Screenwriter || ''[[Bob & Carol & Ted & Alice]]'' • ''[[I Love You, Alice B. Toklas]]'' • ''[[Alex in Wonderland]]'' 
+|-
+| style="text-align:center;"| ''7'' || [[David Graf]] || style="text-align:center;"| 50 || style="text-align:center;"|USA || style="text-align:center;"| Actor || ''[[Police Academy (film)|Police Academy]]'' • ''[[The Brady Bunch Movie]]''
+|-
+| style="text-align:center;"| ''7'' || [[Beatrice Straight]] || style="text-align:center;"| 86 || style="text-align:center;"| USA || style="text-align:center;"| Actress || ''[[Network (film)|Network]]'' • ''[[Poltergeist (1982 film)|Poltergeist]]'' • ''[[The Nun's Story (film)|The Nun's Story]]'' • ''[[Two of a Kind (1983 film)|Two of a Kind]]'' • ''[[Phone Call from a Stranger]]''
+|-
+| style="text-align:center;"| ''10'' || [[Nyree Dawn Porter]] || style="text-align:center;"| 65 || style="text-align:center;"| UK || style="text-align:center;"| Actress || ''[[Hilary and Jackie]]'' • ''[[The House That Dripped Blood]]'' • ''[[From Beyond the Grave]]'' 
+|-
+| style="text-align:center;" | ''11'' || [[Harry Secombe]] || style="text-align:center;" | 79 || style="text-align:center;" | UK || style="text-align:center;"| Actor || ''[[Oliver!]]''
+|-
+| style="text-align:center;"| ''13'' || [[Jimmy Logan]] || style="text-align:center;"| 73 || style="text-align:center;"| UK || style="text-align:center;"| Actor || ''[[Mary Poppins (film)|Mary Poppins]]'' • ''[[Notorious (1946 film)|Notorious]]'' • ''[[The Picture of Dorian Gray (1945 film)|The Picture of Dorian Gray]]'' • ''[[Midnight Lace]]'' 
+|-
+| style="text-align:center;"| ''13'' || [[Ken Weston]] || style="text-align:center;"| 53 || style="text-align:center;"| UK || style="text-align:center;"| Boom Operator, Sound Mixer || ''[[Gladiator (2000 film)|Gladiator]]'' • ''[[The Shining (film)|The Shining]]'' • ''[[Amadeus (film)|Amadeus]]'' • ''[[Pearl Harbor (film)|Pearl Harbor]]'' • ''[[Seven Years in Tibet (1997 film)|Seven Years in Tibet]]'' • ''[[The Parent Trap (1998 film)|The Parent Trap]]'' • ''[[An American Werewolf in London]]'' • ''[[Pink Floyd – The Wall]]'' • ''[[Midnight Express (film)|Midnight Express]]'' • ''[[Flash Gordon (film)|Flash Gordon]]'' • ''[[Evita (1996 film)|Evita]]'' • ''[[Krull (film)|Krull]]'' • ''[[The Mosquito Coast]]'' • ''[[Naked (1993 film)|Naked]]'' • ''[[White Squall (film)|White Squall]]'' • ''[[Angela's Ashes (film)|Angela's Ashes]]'' • ''[[Greystoke: The Legend of Tarzan, Lord of the Apes]]'' • ''[[Only You (1994 film)|Only You]]'' • ''[[Bugsy Malone]]'' 
+|-
+| style="text-align:center;"| ''16'' || [[Michael Ritchie (film director)|Michael Ritchie]] || style="text-align:center;"| 62 || style="text-align:center;"| USA || style="text-align:center;"| Director || ''[[Fletch (film)|Fletch]]'' • ''[[The Bad News Bears]]'' • ''[[The Golden Child]]'' • ''[[The Candidate (1972 film)|The Candidate]]'' • ''[[Semi-Tough]]''
+|-
+| style="text-align:center;"| ''17'' || [[Terry Scully]] || style="text-align:center;"| 68 || style="text-align:center;"|UK || style="text-align:center;"| Actor || ''[[The Asphyx]]''
+|-
+| style="text-align:center;"| ''20'' || [[Maria Karnilova]] || style="text-align:center;"| 80 || style="text-align:center;"| USA || style="text-align:center;"| Actress || ''[[The Unsinkable Molly Brown (film)|The Unsinkable Molly Brown]]'' • ''[[Married to the Mob]]'' 
+|-
+| style="text-align:center;"| ''27'' || [[Jack Murdock (actor)|Jack Murdock]] || style="text-align:center;"| 78 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[Rain Man]]'' • ''[[Big Top Pee-wee]]'' • ''[[Psycho III]]'' • ''[[Altered States]]''
+|-
+| style="text-align:center;"| ''28'' || [[Ken Hughes]] || style="text-align:center;"| 79 || style="text-align:center;"| UK || style="text-align:center;"| Screenwriter ||''[[Chitty Chitty Bang Bang]]'' • ''[[Cromwell (film)|Cromwell]]'' • ''[[Alfie Darling]]'' 
+|- valign="top"
+| rowspan="16"  style="text-align:center; vertical-align:top;"|<span style="font-size:100%;"> '''May'''</span>
+| style="text-align:center;"| ''2'' || [[Gina Mastrogiacomo]] || style="text-align:center;"| 39 || style="text-align:center;"|USA || style="text-align:center;"| Actress || ''[[Goodfellas]]'' • ''[[The Naked Gun 2½: The Smell of Fear]]'' • ''[[Jungle Fever]]'' 
+|-
+| style="text-align:center;"| ''3'' || [[Ernie Wheelwright (running back)|Ernie Wheelwright]] || style="text-align:center;"| 61 || style="text-align:center;"|USA || style="text-align:center;"| Actor || ''[[The Longest Yard (1974 film)|The Longest Yard]]'' • ''[[The Greatest (1977 film)|The Greatest]]'' • ''[[Trackdown (film)|Trackdown]]'' • ''[[Wildcats (film)|Wildcats]]''
+|-
+| style="text-align:center;"| ''9'' || [[Leslie Sands]] || style="text-align:center;"| 79 || style="text-align:center;"| UK || style="text-align:center;"| Actor, Writer || ''[[The Deadly Affair]]'' • ''[[Another Man's Poison]]'' • ''[[Bloodline (1979 film)|Bloodline]]''
+|-
+| style="text-align:center;"| ''10'' || [[Deborah Walley]] || style="text-align:center;"| 59 || style="text-align:center;"| USA || style="text-align:center;"| Actress || ''[[Gidget Goes Hawaiian]]'' • ''[[Beach Blanket Bingo]]'' • ''[[The Ghost in the Invisible Bikini]]'' • ''[[Ski Party]]'' • ''[[Spinout]]'' • ''[[Benji (1974 film)|Benji]]''
+|-
+| style="text-align:center;"| ''12'' || Richard Davison || style="text-align:center;"| 40 || style="text-align:center;"|USA || style="text-align:center;"| Special Effects and Makeup Artist || ''[[Jurassic Park (film)|Jurassic Park]]'' • ''[[Terminator 2: Judgment Day]]'' • ''[[Interview with the Vampire: The Vampire Chronicles]]'' • ''[[Planet of the Apes (2001 film)|Planet of the Apes]]'' • ''[[Congo (film)|Congo]]'' • ''[[Godzilla (1998 film)|Godzilla]]'' • ''[[Life (1999 film)|Life]]'' • ''[[How the Grinch Stole Christmas (film)|How the Grinch Stole Christmas]]''
+|-
+| style="text-align:center;"| ''13'' || [[Eddra Gale]] || style="text-align:center;"| 79 || style="text-align:center;"|USA || style="text-align:center;"| Actress || ''[[The Graduate]]'' • ''[[8½]]'' • ''[[The Maltese Bippy]]''
+|-
+| style="text-align:center;"| ''13'' || [[Jason Miller (playwright)|Jason Miller]] || style="text-align:center;"| 62 || style="text-align:center;"|USA || style="text-align:center;"| Actor, Director || ''[[The Exorcist (film)|The Exorcist]]'' • ''[[Rudy (film)|Rudy]]'' • ''[[Toy Soldiers (1984 film)|Toy Soldiers]]'' • ''[[The Nickel Ride]]'' • ''[[Monsignor (film)|Monsignor]]'' • ''[[The Exorcist III]]'' • ''[[That Championship Season (1982 film)|That Championship Season]]''
+|-
+| style="text-align:center;"| ''13'' || [[Ralph Tabakin]] || style="text-align:center;"| 79 || style="text-align:center;"|USA || style="text-align:center;"| Actor || ''[[Good Morning, Vietnam]]'' • ''[[Bugsy]]'' • ''[[Sphere (1998 film)|Sphere]]'' • ''[[Diner (film)|Diner]]''
+|-
+| style="text-align:center;"| ''14'' || [[Peter Griffith]] || style="text-align:center;"| 74 || style="text-align:center;"|USA || style="text-align:center;"| Actor || ''[[Halloween (1978 film)|Halloween]]'' 
+|-
+| style="text-align:center;"| ''16'' || [[Joe Baker]] || style="text-align:center;"| 72 || style="text-align:center;"|UK || style="text-align:center;"| Actor || ''[[Dumb and Dumber]]'' • ''[[Pocahontas (1995 film)|Pocahontas]]'' • ''[[Robin Hood: Men in Tights]]'' • ''[[The Apple Dumpling Gang Rides Again]]'' • ''[[Waxwork (1988 film)|Waxwork]]''
+|-
+| style="text-align:center;"| ''19'' || [[Charles Seabrook]] || style="text-align:center;"| 44 || style="text-align:center;"| USA || style="text-align:center;"| Lamp Operator || ''[[Forrest Gump]]'' • ''[[Ace Ventura: When Nature Calls]]'' • ''[[Shallow Hal]]''
+|-
+| style="text-align:center;"| ''22'' || [[Jack Watling]] || style="text-align:center;"| 78 || style="text-align:center;"|UK || style="text-align:center;"| Actor || ''[[A Night to Remember (1958 film)|A Night to Remember]]'' • ''[[Sink the Bismarck!]]'' 
+|-
+| style="text-align:center;"| ''22'' || [[Whitman Mayo]] || style="text-align:center;"| 70 || style="text-align:center;"|USA || style="text-align:center;"| Actor || ''[[Boyz n the Hood]]'' • ''[[The Main Event (1979 film)|The Main Event]]'' • ''[[The Black Klansman]]'' 
+|-
+| style="text-align:center;"| ''24'' || [[Ruby Payne]] || style="text-align:center;"| 90 || style="text-align:center;"|UK || style="text-align:center;"| Actress || ''[[Radio Days]]'' • ''[[Author! Author! (film)|Author! Author!]]'' 
+|-
+| style="text-align:center;"| ''26'' || [[Anne Haney]] || style="text-align:center;"| 67 || style="text-align:center;"|USA || style="text-align:center;"| Actress || ''[[Mrs. Doubtfire]]'' • ''[[Liar Liar]]'' • ''[[Psycho (1998 film)|Psycho]]'' • ''[[The American President]]'' • ''[[The Out-of-Towners (1999 film)|The Out-of-Towners]]'' • ''[[Midnight in the Garden of Good and Evil (film)|Midnight in the Garden of Good and Evil]]'' • ''[[Hopscotch (film)|Hopscotch]]'' • ''[[Forces of Nature]]''
+|-
+| style="text-align:center;"| ''27'' || [[Ramon Bieri]] || style="text-align:center;"| 71 || style="text-align:center;"|USA || style="text-align:center;"| Actor || ''[[Badlands (film)|Badlands]]'' • ''[[The Andromeda Strain (film)|The Andromeda Strain]]'' • ''[[Ghosts of Mississippi]]'' • ''[[The Frisco Kid]]'' • ''[[Vibes (film)|Vibes]]'' • ''[[The Sicilian (film)|The Sicilian]]'' • ''[[Sorcerer (film)|Sorcerer]]''
+|-
+||| style="text-align:center;"| ''29'' || [[Russell Saunders]] || style="text-align:center;"| 82 || style="text-align:center;"| USA || style="text-align:center;"| Stuntman, Actor || ''[[The Goonies]]'' • ''[[Airplane!]]'' • ''[[Singin' in the Rain]]'' • ''[[Spartacus (film)|Spartacus]]'' • ''[[King Kong (1933 film)|King Kong]]'' • ''[[Mississippi Burning]]'' • ''[[Logan's Run (film)|Logan's Run]]'' • ''[[The Poseidon Adventure (1972 film)|The Poseidon Adventure]]'' • ''[[The Towering Inferno]]'' • ''[[Shane (film)|Shane]]'' • ''[[An American in Paris (film)|An American in Paris]]'' • ''[[The Thing from Another World]]'' • ''[[Saboteur (film)|Saboteur]]'' • ''[[Around the World in 80 Days (1956 film)|Around the World in 80 Days]]'' • ''[[Earthquake (film)|Earthquake]]'' • ''[[The Greatest Show on Earth]]'' • ''[[The Three Musketeers (1948 film)|The Three Musketeers]]'' • ''[[Thoroughly Modern Millie]]'' • ''[[Samson and Delilah (1949 film)|Samson and Delilah]]'' • ''[[The Hindenburg (film)|The Hindenburg]]'' • ''[[The Pirate]]'' • ''[[Walk, Don't Run]]'' • ''[[Broken Lance]]'' • ''[[Joan of Arc (1948 film)|Joan of Arc]]'' 
+|-
+| rowspan="12" style="text-align:center; vertical-align:top;"|<span style="font-size:100%;"> '''June'''</span>
+| style="text-align:center;"| ''2'' || [[Imogene Coca]] || style="text-align:center;"| 92 || style="text-align:center;"| USA || style="text-align:center;"| Actress || ''[[National Lampoon's Vacation|Vacation]]'' • ''[[Under the Yum Yum Tree]]'' 
+|-
+| style="text-align:center;"| ''3'' || [[Anthony Quinn]] || style="text-align:center;"| 86 || style="text-align:center;"| Mexico || style="text-align:center;"| Actor || ''[[Lawrence of Arabia (film)|Lawrence of Arabia]]'' • ''[[The Guns of Navarone (film)|The Guns of Navarone]]'' • ''[[Zorba the Greek (film)|Zorba the Greek]]'' • ''[[Requiem for a Heavyweight]]'' • ''[[Lust for Life (film)|Lust for Life]]'' • ''[[Road to Morocco]]'' • ''[[Warlock (1959 film)|Warlock]]'' • ''[[Barabbas (1961 film)|Barabbas]]'' • ''[[Viva Zapata!]]'' • ''[[The Ox-Bow Incident]]'' • ''[[Last Action Hero]]'' • ''[[La Strada]]'' • ''[[The 25th Hour (1967 film)|The 25th Hour]]'' • ''[[Last Train from Gun Hill]]'' • ''[[Shoes of the Fisherman]]'' • ''[[Across 110th Street]]'' • ''[[R.P.M.]]'' • ''[[The Happening (1967 film)|The Happening]]'' • ''[[Flap (film)|Flap]]'' • ''[[The Secret of Santa Vittoria]]'' • ''[[The Greek Tycoon]]'' • ''[[Revenge (1990 film)|Revenge]]'' • ''[[Avenging Angelo]]'' • ''[[A Walk in the Clouds]]'' • ''[[Only the Lonely (film)|Only the Lonely]]''
+|-
+| style="text-align:center;"| ''7'' || [[Leonard Tepper]] || style="text-align:center;"| 61 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[Home Alone 2: Lost in New York]]'' • ''[[Awakenings]]'' 
+|-
+| style="text-align:center;"| ''15'' || [[Henri Alekan]] || style="text-align:center;"| 92 || style="text-align:center;"| France || style="text-align:center;"| Cinematographer || ''[[Roman Holiday]]'' • ''[[Wings of Desire]]''
+|-
+| style="text-align:center;"| ''17'' || [[Harry Ford (grip)|Harry Ford]] || style="text-align:center;"| 50 || style="text-align:center;"| USA || style="text-align:center;"| Grip || ''[[Carlito's Way]]'' • ''[[Ghostbusters II]]'' • ''[[A Bronx Tale]]'' • ''[[Smoke (film)|Smoke]]''
+|-
+| style="text-align:center;"| ''21'' || [[Carroll O'Connor]] || style="text-align:center;"| 76 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[Kelly's Heroes]]'' • ''[[Cleopatra (1963 film)|Cleopatra]]'' • ''[[Point Blank (1967 film)|Point Blank]]'' • ''[[Marlowe (film)|Marlowe]]'' • ''[[In Harm's Way]]'' • ''[[Lonely Are the Brave]]'' • ''[[Not with My Wife, You Don't!]]'' • ''[[Cleopatra (1963 film)|Cleopatra]]'' • ''[[Hawaii (film)|Hawaii]]'' • ''[[Death of a Gunfighter]]'' • ''[[What Did You Do in the War, Daddy?]]'' • ''[[Waterhole No. 3]]'' • ''[[Return to Me]]'' 
+|-
+| style="text-align:center;"| ''21'' || [[Vernon Sewell]] || style="text-align:center;"| 97 || style="text-align:center;"| South Africa || style="text-align:center;"| Director, Writer, Actor || ''[[The Crimson Pirate]]'' • ''[[The Edge of the World]]'' • ''[[Curse of the Crimson Altar]]'' • ''[[The Blood Beast Terror]]'' • ''[[The Silver Fleet]]'' • ''[[The Ghosts of Berkeley Square]]'' • ''[[Ghost Ship (1952 film)|Ghost Ship]]'' 
+|-
+| style="text-align:center;"| ''23'' || [[Corinne Calvet]] || style="text-align:center;"| 76 || style="text-align:center;"| France || style="text-align:center;"| Actress || ''[[Sailor Beware (1952 film)|Sailor Beware]]'' • ''[[On the Riviera]]'' • ''[[Rope of Sand]]'' • ''[[The Far Country]]'' • ''[[What Price Glory? (1952 film)|What Price Glory?]]''
+|-
+| style="text-align:center;"| ''24'' || [[Peter Bourne]] || style="text-align:center;"| 77 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[Meteor (film)|Meteor]]'' • ''[[I'll Take Sweden]]'' 
+|-
+| style="text-align:center;"| ''26'' || [[Paul Berry (animator)|Paul Berry]] || style="text-align:center;"| 39 || style="text-align:center;"| UK || style="text-align:center;"| Animator || ''[[The Nightmare Before Christmas]]'' • ''[[James and the Giant Peach (film)|James and the Giant Peach]]'' • ''[[Monkeybone]]''
+|-
+| style="text-align:center;"| ''27'' || [[Jack Lemmon]] || style="text-align:center;"| 76 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[The Apartment]]'' • ''[[Glengarry Glen Ross (film)|Glengarry Glen Ross]]'' • ''[[Some Like It Hot]]'' • ''[[JFK (film)|JFK]]'' • ''[[The Odd Couple (film)|The Odd Couple]]'' • ''[[The Fortune Cookie]]'' • ''[[Irma la Douce]]'' • ''[[Airport '77]]'' • ''[[Hamlet (1996 film)|Hamlet]]'' • ''[[Grumpy Old Men (film)|Grumpy Old Men]]'' • ''[[Save the Tiger]]'' • ''[[The China Syndrome]]'' • ''[[Days of Wine and Roses (film)|Days of Wine and Roses]]'' • ''[[Mister Roberts (1955 film)|Mister Roberts]]'' • ''[[Cowboy (1958 film)|Cowboy]]'' • ''[[The Great Race]]'' • ''[[Bell, Book and Candle]]'' • ''[[The Out-of-Towners (1970 film)|The Out-of-Towners]]'' • ''[[Phffft]]'' • ''[[Avanti!]]'' • ''[[Under the Yum Yum Tree]]'' • ''[[Good Neighbor Sam]]'' • ''[[The Notorious Landlady]]'' • ''[[The Front Page (1974 film)|The Front Page]]'' • ''[[How to Murder Your Wife]]'' • ''[[Buddy Buddy]]'' • ''[[Mass Appeal (film)|Mass Appeal]]'' • ''[[Missing (film)|Missing]]'' • ''[[Luv (film)|Luv]]'' • ''[[Dad (film)|Dad]]'' • ''[[Tribute (1980 film)|Tribute]]'' • ''[[Short Cuts]]'' • ''[[Out to Sea]]'' • ''[[Grumpier Old Men]]'' • ''[[The Odd Couple II]]'' • ''[[The Legend of Bagger Vance]]''
+|-
+| style="text-align:center;"| ''28'' || [[Joan Sims]] || style="text-align:center;"| 71 || style="text-align:center;"| UK || style="text-align:center;"| Actress || ''[[Trouble in Store]]'' • ''[[Carry On Admiral]]'' • ''[[Carry On Nurse]]'' • ''[[Carry On Teacher]]'' • ''[[Carry On Cleo]]'' • ''[[Carry On Screaming!]]'' • ''[[Carry On Doctor]]'' • ''[[Carry On... Up the Khyber]]'' • ''[[Carry On Camping]]'' • ''[[Carry on Again Doctor]]'' • ''[[Carry On Henry]]'' • ''[[Carry On Matron]]'' • ''[[Carry On Dick]]'' • ''[[One of Our Dinosaurs Is Missing]]''
+|-
+| rowspan="4" style="text-align:center; vertical-align:top;"|<span style="font-size:100%;"> '''July'''</span>
+| style="text-align:center;"| ''2'' || [[Jack Gwillim]] || style="text-align:center;"| 91 || style="text-align:center;"| UK || style="text-align:center;"| Actor || ''[[In Search of the Castaways (film)|In Search of the Castaways]]'' • ''[[Clash of the Titans (1981 film)|Clash of the Titans]]'' • ''[[Patton (film)|Patton]]'' • ''[[A Man for All Seasons (1966 film)|A Man for All Seasons]]'' • ''[[Battle of Britain (film)|Battle of Britain]]''
+|-
+| style="text-align:center;"| ''3'' || [[Mordecai Richler]] || style="text-align:center;"| 70 || style="text-align:center;"| Canada || style="text-align:center;"| Author, Screenwriter || ''[[No Love for Johnnie]]'' • ''[[Fun with Dick and Jane (1977 film)|Fun with Dick and Jane]]'' 
+|-
+| style="text-align:center;"| ''5'' || [[A. D. Flowers]] || style="text-align:center;"| 84 || style="text-align:center;"| USA || style="text-align:center;"| Special Effects || ''[[The Godfather]]'' • ''[[The Godfather Part II]]'' • ''[[Apocalypse Now]]'' • ''[[The Wizard of Oz (1939 film)|The Wizard of Oz]]'' • ''[[Harold and Maude]]'' • ''[[The Poseidon Adventure (1972 film)|The Poseidon Adventure]]'' • ''[[Sleeper (1973 film)|Sleeper]]'' • ''[[The Towering Inferno]]'' • ''[[1941 (film)|1941]]'' • ''[[Tora! Tora! Tora!]]''
+|-
+| style="text-align:center;"| ''7'' || [[Molly Lamont]] || style="text-align:center;"| 91 || style="text-align:center;"| South Africa || style="text-align:center;"| Actress || ''[[The Awful Truth]]'' • ''[[Scared to Death]]'' • ''[[The Jungle Princess]]'' • ''[[Murder at Monte Carlo]]''
+|-
+||| style="text-align:center;"| ''12'' || [[James Bernard (composer)|James Bernard]] || style="text-align:center;"| 75 || style="text-align:center;"| UK || style="text-align:center;"| Composer || ''[[Nosferatu]]'' • ''[[Dracula (1958 film)|Dracula]]'' • ''[[The Hound of the Baskervilles (1959 film)|The Hound of the Baskervilles]]'' • ''[[Dracula: Prince of Darkness]]'' • ''[[The Curse of Frankenstein]]'' • ''[[The Devil Rides Out (film)|The Devil Rides Out]]'' • ''[[Dracula Has Risen from the Grave]]'' • ''[[The Quatermass Xperiment]]'' • ''[[Taste the Blood of Dracula]]''
+|-
+||| style="text-align:center;"| ''13'' || [[Eleanor Summerfield]] || style="text-align:center;"| 80 || style="text-align:center;"| UK || style="text-align:center;"| Actress || ''[[Scrooge (1951 film)|Scrooge]]'' • ''[[The Watcher in the Woods]]'' • ''[[Some Will, Some Won't]]'' 
+|-
+||| style="text-align:center;"| ''19'' || [[Paul Beeson]] || style="text-align:center;"| 79 || style="text-align:center;"| UK || style="text-align:center;"| Cinematographer || ''[[Indiana Jones (franchise)|Indiana Jones]]'' • ''[[Alien 3]]'' • ''[[The Sound of Music (film)|The Sound of Music]]'' • ''[[Who Framed Roger Rabbit]]'' • ''[[Willow (film)|Willow]]'' • ''[[Never Say Never Again]]'' • ''[[To Sir, with Love]]'' • ''[[Ishtar (film)|Ishtar]]'' • ''[[Swiss Family Robinson (1960 film)|Swiss Family Robinson]]'' • ''[[Santa Claus: The Movie]]'' • ''[[Under Capricorn]]'' • ''[[The Cruel Sea (1953 film)|The Cruel Sea]]'' • ''[[Starcrash]]'' • ''[[Candleshoe]]'' • ''[[The Pirates of Penzance (1983 film)|The Pirates of Penzance]]'' • ''[[Hawk the Slayer]]'' • ''[[Die, Monster, Die!]]'' • ''[[In Search of the Castaways (film)|In Search of the Castaways]]'' • ''[[The Three Lives of Thomasina]]'' • ''[[The Titfield Thunderbolt]]'' • ''[[The Moon-Spinners]]'' • ''[[The Black Rose]]'' • ''[[One of Our Dinosaurs Is Missing]]'' • ''[[The Scapegoat (1959 film)|The Scapegoat]]'' • ''[[Taffin]]'' 
+|-
+| rowspan="9" style="text-align:center; vertical-align:top;"|<span style="font-size:100%;"> '''August'''</span>
+| style="text-align:center;"| ''3'' || [[Christopher Hewett]] || style="text-align:center;"| 79 || style="text-align:center;"| UK || style="text-align:center;"| Actor || ''[[The Producers (1968 film)|The Producers]]'' • ''[[Ratboy]]'' • ''[[The Lavender Hill Mob]]'' • ''[[Pool of London (film)|Pool of London]]'' 
+|-
+| style="text-align:center;"| ''14'' || [[Missy Cleveland]] || style="text-align:center;"| 41 || style="text-align:center;"| USA || style="text-align:center;"| Actress || ''[[Blow Out]]'' • ''[[Cheech & Chong's Next Movie]]'' • ''[[True Confessions (film)|True Confessions]]''
+|-
+| style="text-align:center;"| ''20'' || [[Kim Stanley]] || style="text-align:center;"| 76 || style="text-align:center;"| USA || style="text-align:center;"| Actress|| ''[[The Right Stuff (film)|The Right Stuff]]'' • ''[[Séance on a Wet Afternoon]]'' • ''[[The Goddess (1958 film)|The Goddess]]'' • ''[[To Kill a Mockingbird (film)|To Kill a Mockingbird]]''
+|-
+| style="text-align:center;"| ''23'' || [[Kathleen Freeman]] || style="text-align:center;"| 82 || style="text-align:center;"| USA || style="text-align:center;"| Actress || ''[[Shrek]]'' • ''[[Naked Gun 33?: The Final Insult]]'' • ''[[Hercules (1997 film)|Hercules]]'' • ''[[The Blues Brothers (film)|The Blues Brothers]]'' • ''[[I'll Be Home for Christmas (1998 film)|I'll Be Home for Christmas]]'' • ''[[Ferngully: The Last Rainforest]]'' • ''[[Joe Dirt]]'' • ''[[Hocus Pocus (1993 film)|Hocus Pocus]]'' • ''[[The Disorderly Orderly]]'' • ''[[Dragnet (1987 film)|Dragnet]]'' • ''[[Blues Brothers 2000]]''
+|-
+| style="text-align:center;"| ''25'' || [[Inigo Jackson]] || style="text-align:center;"| 68 || style="text-align:center;"| UK || style="text-align:center;"| Actor || ''[[The Trygon Factor]]'' • ''[[Twins of Evil]]'' 
+|-
+| style="text-align:center;"| ''25'' || [[Jane Greer]] || style="text-align:center;"| 76 || style="text-align:center;"| USA || style="text-align:center;"| Actress || ''[[Out of the Past]]'' • ''[[Desperate Search]]'' • ''[[Man of a Thousand Faces]]'' • ''[[The Big Steal]]'' • ''[[The Outfit (1973 film)|The Outfit]]'' • ''[[Against All Odds (film)|Against All Odds]]''
+|-
+| style="text-align:center;"| ''25'' || [[John Chambers (make-up artist)|John Chambers]] || style="text-align:center;"| 78 || style="text-align:center;"| USA || style="text-align:center;"| Makeup Technician || ''[[Blade Runner]]'' • ''[[Planet of the Apes (1968 film)|Planet of the Apes]]'' • ''[[Halloween II (1981 film)|Halloween II]]'' • ''[[Beneath the Planet of the Apes]]'' 
+|-
+| style="text-align:center;"| ''25'' || [[Aaliyah]] || style="text-align:center;"| 22 || style="text-align:center;"| USA || style="text-align:center;"| Actress, Singer || ''[[Anastasia (1997 film)|Anastasia]]'' • ''[[Queen of the Damned (film)|Queen of the Damned]]'' 
+|-
+| style="text-align:center;"| ''30'' || [[Julie Bishop (actress)|Julie Bishop]] || style="text-align:center;"| 87 || style="text-align:center;"| USA || style="text-align:center;"| Actress, Soundtrack || ''[[Sands of Iwo Jima]]'' • ''[[The Black Cat (1934 film)|The Black Cat]]'' 
+|-
+|rowspan="14" style="text-align:center; vertical-align:top;"|<span style="font-size:100%;"> '''September'''</span>
+| style="text-align:center;"| ''2'' || [[Troy Donahue]] || style="text-align:center;"| 65 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[The Godfather II]]'' • ''[[Cry-Baby]]'' • ''[[A Distant Trumpet]]'' • ''[[Grandview, U.S.A.]]'' • ''[[Rome Adventure]]'' • ''[[Parrish (film)|Parrish]]'' • ''[[Palm Springs Weekend]]'' • ''[[A Summer Place (film)|A Summer Place]]''
+|-
+| style="text-align:center;"| ''3'' || [[Pauline Kael]] || style="text-align:center;"| 82 || style="text-align:center;"| USA || style="text-align:center;"| Film Critic || None; critiqued films for ''[[The New Yorker]]''
+|-
+| style="text-align:center;"| ''3'' || [[Gordon Signer]] || style="text-align:center;"| 75 or 76 || style="text-align:center;"| Canada || style="text-align:center;"| Actor || ''[[Superman III]]''
+|-
+| style="text-align:center;"| ''4'' || [[Merrill Connally]] || style="text-align:center;"| 80 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[Close Encounters of the Third Kind]]'' • ''[[The Sugarland Express]]'' • ''[[Rush (1991 film)|Rush]]''
+|-
+| style="text-align:center;"| ''9'' || [[Tommy Hollis]] || style="text-align:center;"| 47 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[The Professional (1994 film)|The Professional]]'' • ''[[Ghostbusters]]'' • ''[[Malcolm X (1992 film)|Malcolm X]]'' • ''[[Primary Colors (film)|Primary Colors]]'' • ''[[Joe's Apartment]]'' • ''[[Moonstruck]]''
+|-
+| style="text-align:center;"| ''12'' || [[Victor Wong (actor born 1927)|Victor Wong]] || style="text-align:center;"| 74 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[The Last Emperor]]'' • ''[[Big Trouble in Little China]]'' • ''[[Tremors (film)|Tremors]]'' • ''[[Seven Years in Tibet (1997 film)|Seven Years in Tibet]]'' • ''[[3 Ninjas (film)|3 Ninjas]]'' • ''[[Bloodsport (film)|Bloodsport]]''
+|-
+| style="text-align:center;"| ''12'' || [[Nathanael León]] || style="text-align:center;"| 85 || style="text-align:center;"| Mexico || style="text-align:center;"| Actor, Wrestler || ''[[The Incredible Invasion]]''
+|-
+| style="text-align:center;"| ''13'' || [[Barbara Matera (costume designer)|Barbara Matera]] || style="text-align:center;"| 72 || style="text-align:center;"| UK || style="text-align:center;"| Costume Designer || ''[[101 Dalmatians (1996 film)|101 Dalmatians]]'' • ''[[The Addams Family (film)|The Addams Family]]'' • ''[[The Great Gatsby (1974 film)|The Great Gatsby]]'' • ''[[Ironweed (film)|Ironweed]]'' • ''[[Indiana Jones and the Temple of Doom]]''
+|-
+| style="text-align:center;"| ''13'' || [[Dorothy McGuire]] || style="text-align:center;"| 85 || style="text-align:center;"| USA || style="text-align:center;"| Actress || ''[[Friendly Persuasion (film)|Friendly Persuasion]]'' • ''[[Old Yeller (1957 film)|Old Yeller]]'' • ''[[The Enchanted Cottage (1945 film)|The Enchanted Cottage]]'' • ''[[A Tree Grows in Brooklyn (film)|A Tree Grows in Brooklyn]]'' • ''[[Swiss Family Robinson (1960 film)|Swiss Family Robinson]]'' • ''[[The Greatest Story Ever Told]]'' • ''[[The Spiral Staircase (1946 film)|The Spiral Staircase]]'' • ''[[Mister 880]]'' • ''[[A Summer Place (film)|A Summer Place]]''
+|-
+| style="text-align:center;"| ''16'' || [[Samuel Z. Arkoff]] || style="text-align:center;"| 83 || style="text-align:center;"| USA || style="text-align:center;"| Producer || ''[[The Amityville Horror (1979 film)|The Amityville Horror]]'' • ''[[Blackula]]'' • ''[[The Last Man on Earth (1964 film)|The Last Man on Earth]]'' • ''[[Invasion of the Saucer Men]]'' • ''[[Dragonfly (1976 film)|Dragonfly]]'' 
+|-
+| style="text-align:center;"| ''25'' || [[Dolores Michaels]] || style="text-align:center;"| 68 || style="text-align:center;"| USA || style="text-align:center;"| Actress || ''[[The Wayward Bus (film)|The Wayward Bus]]'' • ''[[Warlock (1959 film)|Warlock]]'' • ''[[April Love (film)|April Love]]'' • ''[[Time Limit (film)|Time Limit]]''
+|-
+| style="text-align:center;"| ''26'' || [[Brian Hawksley]] || style="text-align:center;"| 81 || style="text-align:center;"| UK || style="text-align:center;"| Actor || ''[[A Bridge Too Far (film)|A Bridge Too Far]]'' • ''[[The Witches (1990 film)|The Witches]]'' 
+|-
+| style="text-align:center;"| ''28'' || [[Martin Garner]] || style="text-align:center;"| 74 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[Twilight Zone: The Movie]]'' • ''[[Chances Are (film)|Chances Are]]'' • ''[[Till There Was You (1990 film)|Till There Was You]]''
+|-
+| style="text-align:center;"| ''29'' || [[Gloria Foster]] || style="text-align:center;"| 67 || style="text-align:center;"| USA || style="text-align:center;"| Actress || ''[[The Matrix]]'' • ''[[Leonard Part 6]]'' • ''[[The Comedians (1967 film)|The Comedians]]'' • ''[[City of Hope (film)|City of Hope]]''
+|-
+|rowspan="6" style="text-align:center; vertical-align:top;"|<span style="font-size:100%;"> '''October'''</span>
+| style="text-align:center;"| ''5'' || [[Ted Burnett]] || style="text-align:center;"| 74 || style="text-align:center;"| United Kingdom ||style="text-align:center;"| Actor || ''[[Star Wars Episode IV: A New Hope]]''
+|-
+| style="text-align:center;"| ''9'' || [[Herbert Ross]] || style="text-align:center;"| 74 || style="text-align:center;"| USA ||style="text-align:center;"| Director ||''[[Footloose (1984 film)|Footloose]]'' • '' [[Goodbye, Mr. Chips (1969 film)|Goodbye, Mr. Chips]] '' • ''[[I Ought to Be in Pictures (film)|I Ought to Be in Pictures]]'' • ''[[Steel Magnolias]]'' • ''[[The Turning Point (1977 film)|The Turning Point]]'' • ''[[The Goodbye Girl]]'' • ''[[Play It Again, Sam (1972 film)|Play It Again, Sam]]'' • ''[[The Secret of My Success (1987 film)|The Secret of My Success]]''
+|-
+| style="text-align:center;"| ''19'' || [[Ray Lovejoy]] || style="text-align:center;"| 62 || style="text-align:center;"| UK || style="text-align:center;"| Film Editor || ''[[Aliens (film)|Aliens]]'' • ''[[2001: A Space Odyssey (film)|2001: A Space Odyssey]]'' • ''[[Batman (1989 film)|Batman]]'' • ''[[Krull (film)|Krull]]'' • ''[[The Shining (film)|The Shining]]'' • ''[[Lost in Space (film)|Lost in Space]]''
+|-
+| style="text-align:center;"| ''19'' || [[Jeffrey P. Grant]] || style="text-align:center;"| 56 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[All the President's Men (film)|All the President's Men]]'' • ''[[#P.I. Maloney|P.I. Maloney]]'' • ''[[Against All Odds (film)|Against All Odds]]'' • ''[[Wall Street (1987 film)|Wall Street]]'' • ''[[#Of Saints and Sinners|Of Saints and Sinners]]'' • ''[[Clear and Present Danger (film)|Clear and Present Danger]]'' • ''[[Air Force One (film)|Air Force One]]'' • ''[[The Patriot (2000 film)|The Patriot]]''
+|-
+| style="text-align:center;"| ''26'' || [[Eugene Jackson]] || style="text-align:center;"| 58 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[Cimarron (1931 film)|Cimarron]]'' • ''[[Escape from Alcatraz (film)|Escape from Alcatraz]]'' • ''[[American Gigolo]]'' 
+|-
+| style="text-align:center;"| ''29'' || [[Maura Fay]] || style="text-align:center;"| 43 || style="text-align:center;"| Australia || style="text-align:center;"| Casting Director || ''[[Star Wars Episode II: Attack of the Clones]]'' • ''[[Darkness Falls (2003 film)|Darkness Falls]]'' • ''[[Crocodile Dundee in Los Angeles]]'' • ''[[Mr. Nice Guy (1997 film)|Mr. Nice Guy]]''
+|-
+||| style="text-align:center;"| ''31'' || [[Jenny Laird]] || style="text-align:center;"| 89 || style="text-align:center;"| UK || style="text-align:center;"| Actress || ''[[Village of the Damned (1960 film)|Village of the Damned]]''
+|-
+||| style="text-align:center;"| ''31'' || [[Molly Arbuthnot]] || style="text-align:center;"| 92 || style="text-align:center;"| UK || style="text-align:center;"| Wardrobe Mistress, Wardrobe Supervisor || ''[[Dracula (1958 film)|Dracula]]'' • ''[[The Hound of the Baskervilles (1959 film)|The Hound of the Baskervilles]]'' • ''[[The Curse of Frankenstein]]'' • ''[[The Mummy (1959 film)|The Mummy]]'' • ''[[The Brides of Dracula]]'' • ''[[The Quatermass Xperiment]]'' • ''[[The Gorgon]]'' • ''[[The Abominable Snowman (film)|The Abominable Snowman]]'' • ''[[The Phantom of the Opera (1962 film)|The Phantom of the Opera]]''
+|-
+|rowspan="6" style="text-align:center; vertical-align:top;"|<span style="font-size:100%;"> '''November'''</span>
+| style="text-align:center;"| ''7'' || [[Bobby Bass]] || style="text-align:center;"| 65 || style="text-align:center;"| USA || style="text-align:center;"| Stuntman, Actor || ''[[Die Hard]]'' • ''[[Scarface (1983 film)|Scarface]]'' • ''[[Predator (film)|Predator]]'' • ''[[Lethal Weapon]]'' • ''[[True Lies]]'' • ''[[Batman & Robin (film)|Batman & Robin]]'' • ''[[The Crow (1994 film)|The Crow]]'' • ''[[Bram Stoker's Dracula]]'' • ''[[The Blues Brothers (film)|The Blues Brothers]]'' • ''[[Falling Down]]'' • ''[[Close Encounters of the Third Kind]]'' • ''[[Lethal Weapon 3]]'' • ''[[Last Action Hero]]'' • ''[[Man on the Moon (film)|Man on the Moon]]''
+|-
+| style="text-align:center;"| ''12'' || [[Albert Hague]] || style="text-align:center;"| 82 || style="text-align:center;"| Germany || style="text-align:center;"| Actor || ''[[Fame (1980 film)|Fame]]'' • ''[[Space Jam]]'' • ''[[The Story of Us (film)|The Story of Us]]''
+|-
+| style="text-align:center;"| ''13'' || [[Peggy Mount]] || style="text-align:center;"| 86 || style="text-align:center;"| UK || style="text-align:center;"| Actress || ''[[Oliver! (film)|Oliver!]]''
+|-
+| style="text-align:center;"| ''14'' || [[Charlotte Coleman]] || style="text-align:center;"| 33 || style="text-align:center;"| UK || style="text-align:center;"| Actress || ''[[Four Weddings and a Funeral]]'' • ''[[The Revengers' Comedies (film)|The Revengers' Comedies]]'' • ''[[The Young Poisoner's Handbook]]'' • ''[[The Man with Rain in His Shoes]]'' • ''[[Faeries (film)|Faeries]]''
+|-
+| style="text-align:center;"| ''29'' || [[Budd Boetticher]] || style="text-align:center;"| 85 || style="text-align:center;"| USA || style="text-align:center;"| Director || ''[[The Tall T]]'' • ''[[Buchanan Rides Alone]]'' • ''[[Ride Lonesome]]'' • ''[[Seven Men from Now]]'' • ''[[Comanche Station]]'' • ''[[The Killer Is Loose]]''
+|-
+| style="text-align:center;"| ''29'' || [[George Harrison]] || style="text-align:center;"| 58 || style="text-align:center;"| UK || style="text-align:center;"| Singer, Actor, Producer || ''[[A Hard Day's Night (film)|A Hard Day's Night]]'' • ''[[Help! (film)|Help!]]'' • ''[[Life of Brian]]'' 
+|-
+|rowspan="10" style="text-align:center; vertical-align:top;"|<span style="font-size:100%;"> '''December'''</span>
+| style="text-align:center;"| ''1'' || [[Danilo Donati]] || style="text-align:center;"| 74 || style="text-align:center;"| Italy || style="text-align:center;"| Costume/Production Designer || ''[[Life Is Beautiful]]'' • ''[[Flash Gordon (film)|Flash Gordon]]'' • ''[[Romeo and Juliet (1968 film)|Romeo and Juliet]]'' • ''[[Red Sonja (film)|Red Sonja]]''
+|-
+| style="text-align:center;"| ''15'' || [[Wilkie Cooper]] || style="text-align:center;"| 90 || style="text-align:center;"| UK || style="text-align:center;"| Cinematographer || ''[[Jason and the Argonauts (1963 film)|Jason and the Argonauts]]'' • ''[[Land Raiders]]'' • ''[[The 7th Voyage of Sinbad]]'' • ''[[Stage Fright (1950 film)|Stage Fright]]'' • ''[[Mysterious Island (1961 film)|Mysterious Island]]'' 
+|-
+| style="text-align:center;"| ''16'' || [[Roy Brocksmith]] || style="text-align:center;"| 56 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[Total Recall (1990 film)|Total Recall]]'' • ''[[Scrooged]]'' • ''[[It Runs in the Family (1994 film)|It Runs in the Family]]'' • ''[[Tango & Cash]]'' • ''[[The Hudsucker Proxy]]'' • ''[[Bill & Ted's Bogus Journey]]'' • ''[[Arachnophobia (film)|Arachnophobia]]''
+|-
+| style="text-align:center;"| ''20'' || [[Foster Brooks]] || style="text-align:center;"| 89 || style="text-align:center;"| USA || style="text-align:center;"| Actor, Soundtrack || ''[[Cannonball Run II]]''
+|-
+| style="text-align:center;"| ''20'' || [[Edward Evans (actor)|Edward Evans]] || style="text-align:center;"| 87 || style="text-align:center;"| UK || style="text-align:center;"| Actor || ''[[10 Rillington Place]]'' • ''[[Tales from the Crypt (film)|Tales from the Crypt]]'' • ''[[Lifeforce (film)|Lifeforce]]''
+|-
+| style="text-align:center;"| ''21'' || [[Kevin Manser]] || style="text-align:center;"| 72 || style="text-align:center;"| Australia || style="text-align:center;"| Actor || ''[[Dr. Who and the Daleks]]'' • ''[[A Countess from Hong Kong]]''
+|-
+| style="text-align:center;"| ''26'' || [[Nigel Hawthorne]] || style="text-align:center;"| 72 || style="text-align:center;"| UK || style="text-align:center;"| Actor || ''[[Amistad (film)|Amistad]]'' • ''[[Tarzan (1999 film)|Tarzan]]'' • ''[[Demolition Man (film)|Demolition Man]]'' • ''[[Gandhi (film)|Gandhi]]'' • ''[[The Madness of King George]]'' • ''[[The Black Cauldron (film)|The Black Cauldron]]''
+|-
+| style="text-align:center;"| ''29'' || [[Robert Patten (actor)|Robert Patten]] || style="text-align:center;"| 76 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[Twelve O'Clock High]]'' • ''[[Airport (1970 film)|Airport]]'' • ''[[Westworld]]'' • ''[[Black Sunday (1977 film)|Black Sunday]]''
+|-
+| style="text-align:center;"| ''31'' || [[Eileen Heckart]] || style="text-align:center;"| 82 || style="text-align:center;"| USA || style="text-align:center;"| Actress || ''[[Heartbreak Ridge]]'' • ''[[Butterflies Are Free]]'' • ''[[The First Wives Club]]'' • ''[[Zandy's Bride]]'' • ''[[The Bad Seed (1956 film)|The Bad Seed]]'' • ''[[Burnt Offerings (film)|Burnt Offerings]]'' • ''[[No Way to Treat a Lady]]''
+|-
+| style="text-align:center;"| ''31'' || [[Denny Arnold]] || style="text-align:center;"| 67 || style="text-align:center;"| Canada || style="text-align:center;"| Stuntman, Actor || ''[[X-Men (film)|X-Men]]'' • ''[[Chinatown (1974 film)|Chinatown]]'' • ''[[Blazing Saddles]]'' • ''[[The Wild Bunch]]'' • ''[[Bullitt]]'' • ''[[Soylent Green]]'' • ''[[Logan's Run (film)|Logan's Run]]'' • ''[[Everything You Always Wanted to Know About Sex* (*But Were Afraid to Ask)]]'' • ''[[Beneath the Planet of the Apes]]'' • ''[[Little Big Man (film)|Little Big Man]]'' • ''[[Rumble in the Bronx]]'' • ''[[The Omega Man]]'' • ''[[Conquest of the Planet of the Apes]]'' • ''[[The Shootist]]'' • ''[[The Longest Yard (1974 film)|The Longest Yard]]''
+|-
+|}
+
+== References ==
+{{Reflist}}
+
+{{DEFAULTSORT:2001 In Film}}
+[[Category:Years in film]]
+[[Category:2001 in film]]

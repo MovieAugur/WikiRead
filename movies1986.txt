@@ -1,0 +1,861 @@
+{{Year nav topic5|1986|film|home video|television}}
+The following is an overview of events in '''1986 in film''', including the highest-grossing films, award ceremonies and festivals, a list of films released and notable deaths.
+
+==Highest-grossing films (U.S.)==
+{{See also|List of 1986 box office number-one films in the United States}}
+The top ten 1986 released films by box office gross in North America are as follows:
+<!-- Note: We only link the studios ONCE-->
+{| class="wikitable sortable" style="margin:auto; margin:auto;"
+|+ Highest-grossing films of 1986<ref>{{cite web|url=http://boxofficemojo.com/yearly/chart/?yr=1986&p=.htm|title=1986 Domestic Grosses|work=[[Box Office Mojo]]|accessdate=7 April 2014}}</ref>
+|-
+! Rank!! Title !! Studio !! Domestic gross 
+|-
+| style="text-align:center;"| '''1.'''
+| ''[[Top Gun]]''
+| [[Paramount Pictures]]
+| $176,781,728
+|-
+| style="text-align:center;"| '''2.'''
+|''[[Crocodile Dundee]]''
+| Paramount Pictures
+| $174,803,506
+|-
+| style="text-align:center;"| '''3.'''
+|''[[Platoon (film)|Platoon]]''
+| [[Orion Pictures]] / [[Hemdale Film Corporation]]
+| $138,530,565
+|-
+| style="text-align:center;"| '''4.'''
+| ''[[The Karate Kid Part II]]''
+| [[Columbia Pictures]]
+| $115,103,979
+|-
+| style="text-align:center;"| '''5.'''
+| ''[[Star Trek IV: The Voyage Home]]''
+| Paramount Pictures
+| $109,713,132
+|-
+| style="text-align:center;"| '''6.'''
+|''[[Back to School]]''
+| Orion Pictures
+| $91,258,000
+|-
+| style="text-align:center;"| '''7.'''
+| ''[[Aliens (film)|Aliens]]''
+| [[20th Century Fox]]
+| $86,160,248
+|-
+| style="text-align:center;"| '''8.'''
+| ''[[The Golden Child]]''
+| Paramount Pictures
+| $79,817,937
+|-
+| style="text-align:center;"| '''9.'''
+| ''[[Ruthless People]]''
+| [[Touchstone Pictures]]
+| $71,624,879
+|-
+| style="text-align:center;"| '''10.'''
+| ''[[Ferris Bueller's Day Off]]''
+| Paramount Pictures
+| $70,136,369
+|}
+
+==Events==
+*April 12 - Actor [[Morgan Mason]] marries [[The Go-Go's]] [[Belinda Carlisle]].
+*April 26 - Actor [[Arnold Schwarzenegger]] marries television journalist [[Maria Shriver]].
+*May - Actress [[Heather Locklear]] marries [[Mötley Crüe]] drummer [[Tommy Lee]].
+*September 13 - ''[[Siskel & Ebert]]'', one of the world's most popular movie review programs, premieres in syndication. Although the two critics had been working as a pair since 1975, this will be their longest running program and will run in various incarnations until 2010.
+*November 21 - Actor [[Cary Grant]] dies of a [[cerebral hemorrhage]]. [[Steven Spielberg]]'s first ever animated feature film, ''[[An American Tail]]'', is released, and breaks the record once held by [[Disney]]'s ''[[The Rescuers]]'' for the largest financial amount made for an animated film on opening weekend.
+*November 29 - [[Dar Robinson]], considered the greatest stuntman ever, is killed on the set of the film ''[[Million Dollar Mystery]]''.
+
+== Awards ==
+{{Yearsinfilm}}
+{| class="wikitable" style="font-size: 90%;"
+|-
+! rowspan="2" style="width:200px;"| Category/Organization !! colspan="2" style="width:250px;"| [[44th Golden Globe Awards]]<br />January 31, 1987 !! rowspan="2" style="width:250px;"| [[40th British Academy Film Awards|40th BAFTA Awards]]<br />February 22, 1987 !! rowspan="2" style="width:250px;"| [[59th Academy Awards]]<br />March 30, 1987
+|-
+! width=200| Drama !! style="width:200px;"| Musical or Comedy
+|-
+| Best Film || '''''[[Platoon (film)|Platoon]]''''' || '''''[[Hannah and Her Sisters]]''''' || '''''[[A Room with a View (1986 film)|A Room with a View]]'''''|| '''''Platoon'''''
+|-
+| Best Director || colspan=2| [[Oliver Stone]]<br />'''''[[Platoon (film)|Platoon]]''''' || [[Woody Allen]]<br />'''''[[Hannah and Her Sisters]]''''' || Oliver Stone<br />'''''Platoon'''''
+|-
+| Best Actor || [[Bob Hoskins]]<br />'''''[[Mona Lisa (film)|Mona Lisa]]''''' || [[Paul Hogan]]<br />'''''[[Crocodile Dundee]]''''' || Bob Hoskins<br />'''''Mona Lisa''''' || [[Paul Newman]]<br />'''''[[The Color of Money]]'''''
+|-
+| Best Actress || [[Marlee Matlin]]<br />'''''[[Children of a Lesser God]]''''' || [[Sissy Spacek]]<br />'''''[[Crimes of the Heart]]''''' || [[Maggie Smith]]<br />'''''[[A Room with a View (1986 film)|A Room with a View]]''''' || Marlee Matlin<br />'''''Children of a Lesser God'''''
+|-
+| Best Supporting Actor || colspan=2| [[Tom Berenger]]<br />'''''[[Platoon (film)|Platoon]]''''' || [[Ray McAnally]]<br />'''''[[The Mission (1986 film)|The Mission]]''''' || [[Michael Caine]]<br />'''''[[Hannah and Her Sisters]]'''''
+|-
+| Best Supporting Actress || colspan=2| [[Maggie Smith]]<br />'''''[[A Room with a View (1986 film)|A Room with a View]]''''' || [[Judi Dench]]<br />'''''A Room with a View'''''|| [[Dianne Wiest]]<br />'''''[[Hannah and Her Sisters]]'''''
+|-
+| Best Screenplay, Adapted || rowspan=2 colspan=2| '''''[[The Mission (1986 film)|The Mission]]'''''<br />[[Robert Bolt]] || '''''[[Out of Africa (film)|Out of Africa]]'''''<br />Kurt Leudtke ||'''''[[A Room with a View (1986 film)|A Room with a View]]'''''<br />[[Ruth Prawer Jhabvala]]
+|-
+| Best Screenplay, Original || '''''[[Hannah and Her Sisters]]''<br />[[Woody Allen]] || '''''Hannah and Her Sisters'''''<br />Woody Allen
+|-
+| Best Foreign Language Film || colspan=2| ''[[The Assault (film)|The Assault]]''<br />(''De Aanslag'') || ''[[Ran (film)|Ran]]''<br />(''Ran'') || ''The Assault''<br />(''De Aanslag'')
+|}
+
+'''[[Palme d'Or]] (Cannes Film Festival):'''
+:'''''[[The Mission (1986 film)|The Mission]]''''', directed by [[Roland Joffé]], United Kingdom
+
+'''[[Golden Lion]] (Venice Film Festival):'''
+:'''''[[The Green Ray (film)|The Green Ray]]''''' (''Le Rayon vert''), directed by [[Éric Rohmer]], France
+
+'''[[Berlin Film Festival|Golden Bear]] (Berlin Film Festival):'''
+:'''''[[Stammheim (film)|Stammheim]]''''', directed by [[Reinhard Hauff]], West Germany
+
+'''[[Razzie Awards]]'''
+:Worst Picture: '''''[[Howard the Duck (film)|Howard the Duck]]''''' and '''''[[Under the Cherry Moon]]''''' (tie)
+:Worst Director: '''[[Prince (artist)|Prince]]''' - '''''Under the Cherry Moon'''''
+:Worst Actor: '''Prince''' - '''''Under the Cherry Moon'''''
+:Worst Actress: '''[[Madonna (entertainer)|Madonna]]''' - '''''[[Shanghai Surprise]]'''''
+:Worst Supporting Actor: '''[[Jerome Benton]]''' - '''''Under the Cherry Moon'''''
+:Worst Supporting Actress: '''[[Dom DeLuise]] (in drag)''' - '''''[[Haunted Honeymoon]]'''''
+:Worst Screenplay: '''''Howard the Duck'''''
+
+==Notable films released in 1986==
+[[American films of 1986|U.S.A.]] unless stated
+
+'''#'''
+*''[[3:15, aka 3:15: The Moment of Truth]]'', starring [[Adam Baldwin]]
+*''[[8 Million Ways to Die]]'', directed by [[Hal Ashby]], starring [[Jeff Bridges]], [[Rosanna Arquette]], [[Alexandra Paul]], [[Andy García]]
+*''[[9½ Weeks]]'', directed by [[Adrian Lyne]], starring [[Kim Basinger]] and [[Mickey Rourke]]
+*''[[52 Pick-Up]]'', directed by [[John Frankenheimer]], starring [[Roy Scheider]], [[John Glover (actor)|John Glover]], [[Clarence Williams III]], [[Vanity (performer)|Vanity]], [[Ann-Margret]]
+
+'''A'''
+*''[[Aakhree Raasta]]'' (The Last Option), starring [[Amitabh Bachchan]] - ([[Bollywood films of 1986|India]])
+*''[[Abel (film)|Abel]]'', directed by and starring [[Alex van Warmerdam]] - ([[Dutch films of the 1980s|Netherlands]])
+*''[[About Last Night...]]'', directed by [[Edward Zwick]], starring [[Rob Lowe]], [[Demi Moore]], [[James Belushi]], [[Elizabeth Perkins]]
+*''[[Absolute Beginners (film)|Absolute Beginners]]'', directed by [[Julien Temple]], starring [[David Bowie]] and [[Patsy Kensit]] - ([[British films of 1986|U.K.]])
+*''[[The Adventure of Faustus Bidgood]]'' - ([[Canadian films of the 1980s|Canada]])
+*''[[The Adventures of Milo and Otis]]'' (Koneko monogatari) - ([[Japanese films of 1986|Japan]])
+*''[[The Adventures of the American Rabbit]]'' - ([[American films of 1986|U.S.A.]]/[[Japanese films of 1986|Japan]])
+*''[[The AIDS Show]]''
+*''[[Alex Holeh Ahavah]]'' (Alex is Lovesick) - ([[1986 in Israeli film|Israel]])
+*''[[Aliens (film)|Aliens]]'', directed by [[James Cameron]], starring [[Sigourney Weaver]], [[Michael Biehn]], [[Bill Paxton]], [[Lance Henriksen]], [[Jenette Goldstein]], [[Paul Reiser]]
+*''[[Los Amantes del Señor de la Noche]]'' (The Lovers of the Lord of the Night) - ([[Mexican films of 1986|Mexico]])
+*''[[American Anthem]]'', starring [[Mitch Gaylord]] and [[Janet Jones]]
+*''[[An American Tail]]'', directed by [[Don Bluth]] with the voices of [[Phillip Glasser]] and [[Dom DeLuise]]
+*''[[El Amor brujo (1986 film)|El Amor brujo]]'' (a.k.a. Wedded by Witchcraft), directed by [[Carlos Saura]] - ([[Spanish films of 1986|Spain]])
+*''[[Amorosa (1986 film)|Amorosa]]'', directed by [[Mai Zetterling]] - ([[Swedish films of the 1980s|Sweden]])
+*''[[Armed and Dangerous (film)|Armed and Dangerous]]'', starring [[John Candy]], [[Eugene Levy]], [[Meg Ryan]]
+*''[[Armed Response (film)|Armed Response]]'', starring [[David Carradine]] and [[Lee Van Cleef]]
+*''[[Armour of God (film)|Armour of God]]'' (Long xiong hu di), starring [[Jackie Chan]] - ([[Hong Kong films of 1986|Hong Kong]])
+*''[[As Is (film)|As Is]]'', directed by [[Michael Lindsay-Hogg]], starring [[Colleen Dewhurst]], [[Robert Carradine]], [[Jonathan Hadary]]
+*''[[The Assault (film)|The Assault]]'' (De aanslag) - Academy and Golden Globe Awards for Best Foreign Language Film, Golden Space Needle award - ([[Dutch films of the 1980s|Netherlands]])
+*''[[At Close Range]]'', starring [[Sean Penn]], [[Christopher Walken]], [[Mary Stuart Masterson]], [[Chris Penn]]
+*''[[Attention bandits!]]'', aka ''Bandits'', directed by [[Claude Lelouch]] ([[French films of 1986|France]])
+*''[[Avenging Force]]'', starring [[Michael Dudikoff]]
+
+'''B'''
+*''[[BabaKiueria]]'' - ([[Australian films of 1986|Australia]])
+*''[[Back to School]]'', starring [[Rodney Dangerfield]], [[Sally Kellerman]], [[Keith Gordon]], [[Adrienne Barbeau]], [[Burt Young]], [[Robert Downey, Jr.]]
+*''[[Backlash (1986 film)|Backlash]]'' - ([[Australian films of 1986|Australia]])
+*''[[Band of the Hand]]'', starring [[Stephen Lang (actor)|Stephen Lang]] and [[Lauren Holly]]
+*''[[Bashu, the Little Stranger]]'' (Bashu, gharibeye koochak) - ([[Iranian films of the 1980s|Iran]]) - banned until 1989
+*''[[The Beekeeper (film)|The Beekeeper]]'' (O Melissokomos) - ([[Greek films of the 1980s|Greece]])
+*''[[Behind Enemy Lines (1986 film)|Behind Enemy Lines]]'', starring [[David Carradine]]
+*''[[A Better Tomorrow]]'' (Jing hung bun sik), directed by [[John Woo]], starring [[Chow Yun-fat]] and [[Leslie Cheung]] - ([[Hong Kong films of 1986|Hong Kong]])
+*''[[Betty Blue]]'' (37°2 le matin), directed by [[Jean-Jacques Beineix]], starring [[Béatrice Dalle]] - Golden Needle award for 1992 - ([[French films of 1986|France]])
+*''[[The Big Parade (1986 film)|The Big Parade]]'' (Dà Yuèb?ng), directed by [[Chen Kaige]] - ([[Chinese films of the 1980s|China]])
+*''[[Big Trouble (1986 film)|Big Trouble]]'', directed by [[John Cassavetes]], starring [[Peter Falk]], [[Alan Arkin]], [[Beverly D'Angelo]], [[Valerie Curtin]]
+*''[[Big Trouble in Little China]]'', directed by [[John Carpenter]], starring [[Kurt Russell]], [[Kim Cattrall]], [[Dennis Dun]], [[James Hong]], [[Victor Wong (actor born 1927)|Victor Wong]]
+*''[[Black Moon Rising]]'', starring [[Tommy Lee Jones]] and [[Linda Hamilton]]
+*''[[Blue City (film)|Blue City]]'', starring [[Judd Nelson]] and [[Ally Sheedy]]
+*''[[Blue Velvet (film)|Blue Velvet]]'', directed by [[David Lynch]], starring [[Kyle MacLachlan]], [[Isabella Rossellini]], [[Dennis Hopper]], [[Laura Dern]]
+*''[[Boris Godunov (1986 film)|Boris Godunov]]'', directed by [[Sergei Bondarchuk]] - ([[Soviet films: 1980-1991#1986|U.S.S.R.]])
+*''[[The Boy Who Could Fly]]'', directed by [[Nick Castle]], starring [[Lucy Deakins]] and [[Jay Underwood]]
+*''[[Brighton Beach Memoirs]]'', directed by [[Gene Saks]], starring [[Jonathan Silverman]], [[Blythe Danner]], [[Bob Dishy]], [[Judith Ivey]]
+*''[[Bullies]]'' - ([[Canadian films of the 1980s|Canada]])
+*''[[By Touch]]'' (Przez dotyk) - ([[List of Polish films of the 1980s|Poland]])
+
+'''C'''
+*''[[Il camorrista]]'' (The Professor), starring [[Ben Gazzara]] - ([[Italian films of 1986|Italy]])
+*''[[The Care Bears Movie II: A New Generation]]'', starring [[Alyson Court]], [[Cree Summer]], [[Hadley Kay]] - ([[Canadian films of the 1980s|Canada]])
+*''[[Caravaggio (film)|Caravaggio]]'', directed by [[Derek Jarman]], starring [[Nigel Terry]], [[Sean Bean]], [[Tilda Swinton]] - ([[British films of 1986|U.K.]])
+*''[[Castaway (film)|Castaway]]'', directed by [[Nicolas Roeg]], starring [[Amanda Donohoe]] and [[Oliver Reed]] - ([[British films of 1986|U.K.]])
+*''[[Cat City]]'' (Macskafogó) - ([[List of Hungarian films 1948-1989|Hungary]])
+*''[[Children of a Lesser God]]'', directed by [[Randa Haines]], starring [[William Hurt]], [[Marlee Matlin]], [[Piper Laurie]]
+*''[[Choke Canyon]]'' a.k.a. On Dangerous Ground
+*''[[The Clan of the Cave Bear (film)|The Clan of the Cave Bear]]'', starring [[Daryl Hannah]]
+*''[[Clockwise (film)|Clockwise]]'', starring [[John Cleese]] - ([[British films of 1986|U.K.]])
+*''[[Club Paradise]]'', directed by [[Harold Ramis]], starring [[Robin Williams]], [[Jimmy Cliff]], [[Peter O'Toole]], [[Rick Moranis]], [[Eugene Levy]]
+*''[[Cobra (1986 film)|Cobra]]'', starring [[Sylvester Stallone]], [[Brigitte Nielsen]], [[Reni Santoni]], [[Andrew Robinson (actor)|Andrew Robinson]], [[Brian Thompson]]
+*''[[The Color of Money]]'', directed by [[Martin Scorsese]], starring [[Paul Newman]], [[Tom Cruise]], [[Mary Elizabeth Mastrantonio]], [[Helen Shaver]], [[John Turturro]], [[Forest Whitaker]]
+*''[[Comrades (film)|Comrades]]'', starring [[Keith Allen (actor)|Keith Allen]] - ([[British films of 1986|U.K.]])
+*''[[Crawlspace (1986 film)|Crawlspace]]'', starring [[Klaus Kinski]]
+*''[[Crimes of the Heart (film)|Crimes of the Heart]]'', directed by [[Bruce Beresford]], starring [[Diane Keaton]], [[Jessica Lange]], [[Sissy Spacek]], [[Tess Harper]]
+*''[[Critters (film)|Critters]]'', starring [[Dee Wallace| Dee Wallace-Stone]] and [[M. Emmet Walsh]]
+*''[["Crocodile" Dundee]]'', directed by [[Peter Faiman]], starring [[Paul Hogan]] and [[Linda Kozlowski]] - ([[Australian films of 1986|Australia]])
+
+'''D'''
+*''[[Dangerously Close]]'', starring [[John Stockwell (actor)|John Stockwell]]
+*''[[Dead Man's Folly (film)|Dead Man's Folly]]'', starring [[Peter Ustinov]], [[Jean Stapleton]], [[Nicollette Sheridan]]
+*''[[Dead Man's Letters]]'' (Pisma myortvogo cheloveka) - ([[Soviet films: 1980-1991|U.S.S.R.]])
+*''[[Le Déclin de l'empire américain]]'', (''The Decline of the American Empire''), written and directed by [[Denys Arcand]] - ([[Canadian films of the 1980s|Canada]])
+*''[[The Delta Force (film)|The Delta Force]]'', starring [[Chuck Norris]] and [[Lee Marvin]]
+*''[[Desert Bloom]]'', starring [[Jon Voight]], [[JoBeth Williams]], [[Annabeth Gish]], [[Ellen Barkin]]
+*''[[Down and Out in Beverly Hills]]'', directed by [[Paul Mazursky]], starring [[Nick Nolte]], [[Bette Midler]], [[Richard Dreyfuss]]
+*''[[Down by Law (film)|Down by Law]]'', directed by [[Jim Jarmusch]], starring [[Tom Waits]], [[John Lurie]], [[Roberto Benigni]]
+*''[[Dr. Otto and the Riddle of the Gloom Beam]]'', starring [[Jim Varney]]
+*''[[Dragon Ball: Curse of the Blood Rubies]]'' (Doragon B?ru Shenron no Densetsu) - ([[Japanese films of 1986|Japan]])
+*''[[Duet for One]]'', directed by [[Andrei Konchalovsky]], starring [[Julie Andrews]]
+*''[[Dust in the Wind (film)|Dust in the Wind]]'' (Liàn liàn f?ng chén) - ([[List of Taiwanese films|Taiwan]])
+
+'''E'''
+*''[[Echo Park (film)|Echo Park]]'', starring [[Tom Hulce]] and [[Susan Dey]]
+*''[[Extremities (film)|Extremities]]'', starring [[Farrah Fawcett]], [[Alfre Woodard]], [[Diana Scarwid]], [[James Russo]]
+*''[[Eye of the Tiger (film)|Eye of the Tiger]]'', starring [[Gary Busey]]
+
+'''F'''
+*''[[F/X]]'', starring [[Bryan Brown]] and [[Brian Dennehy]]
+*''[[Ferris Bueller's Day Off]]'', directed by [[John Hughes (filmmaker)|John Hughes]], starring [[Matthew Broderick]], [[Mia Sara]], [[Alan Ruck]], [[Jennifer Grey]], [[Jeffrey Jones]]
+*''[[Fire with Fire (1986 film)|Fire with Fire]]'', starring [[Craig Sheffer]] and [[Virginia Madsen]]
+*''[[Firewalker (film)|Firewalker]]'', starring [[Chuck Norris]]
+*''[[Flight of the Navigator]]'', directed by [[Randal Kleiser]], starring [[Veronica Cartwright]], [[Sarah Jessica Parker]], [[Joey Kramer]]
+*''[[The Fly (1986 film)|The Fly]]'', directed by [[David Cronenberg]], starring [[Jeff Goldblum]] and [[Geena Davis]]
+*''[[Footrot Flats: The Dog's Tale|Footrot Flats]]'' - ([[List of New Zealand films|New Zealand]])
+*''[[Forbidden Dreams]]'' (Smrt krásných srnc?) - ([[Czech films of the 1980s|Czechoslovakia]])
+*''[[Foreign Body (film)|Foreign Body]]'', directed by [[Ronald Neame]], starring [[Amanda Donohoe]] and [[Victor Banerjee]] - ([[British films of 1986|U.K.]])
+*''[[Friday the 13th Part VI: Jason Lives]]'', starring [[Thom Mathews]]
+*''[[The Fringe Dwellers]]'', directed by [[Bruce Beresford]] - ([[Australian films of 1986|Australia]])
+
+'''G'''
+*''[[Genesis (1986 film)|Genesis]]'', directed by [[Mrinal Sen]], starring [[Shabana Azmi]], [[Naseeruddin Shah]], [[Om Puri]], [[M. K. Raina]] ([[Bollywood films of 1986|India]] / [[List of Swiss films|Switzerland]] / [[List of Belgian films: 1980s|Belgium]] / [[French films of 1986|France]])
+*''[[Ginger and Fred]]'', directed by [[Federico Fellini]], starring [[Marcello Mastroianni]] and [[Giulietta Masina]] - ([[Italian films of 1986|Italy]])
+*''[[A Girl from Hunan]]'' (Xi?ngn? xi?oxi?o) - ([[Chinese films of the 1980s|China]])
+*''[[GoBots: Battle of the Rock Lords]]'', featuring the voices of [[Margot Kidder]], [[Telly Savalas]] and [[Roddy McDowall]]
+*''[[The Golden Child]]'', directed by [[Michael Ritchie (film director)|Michael Ritchie]], starring [[Eddie Murphy]], [[Charles Dance]], [[Charlotte Lewis]]
+*''[[Gonza the Spearman]]'' (Yari no gonza) - ([[Japanese films of 1986|Japan]])
+*''[[Good to Go (film)|Good to Go]]'', starring [[Art Garfunkel]]
+*''[[Gothic (film)|Gothic]]'', directed by [[Ken Russell]], starring [[Gabriel Byrne]], [[Natasha Richardson]], [[Julian Sands]]
+*''[[The Great Mouse Detective]]''
+*''[[A Great Wall]]'' - ([[American films of 1986|U.S.A.]]/[[Chinese films of the 1980s|China]])
+*''[[The Green Ray (film)|The Green Ray]]'' (''Le Rayon vert''), directed by [[Éric Rohmer]] - Golden Lion award - ([[French films of 1986|France]])
+*''[[Gung Ho (film)|Gung Ho!]]'', directed by [[Ron Howard]], starring [[Michael Keaton]]
+
+'''H'''
+*''[[Half Moon Street]]'', starring [[Sigourney Weaver]] and [[Michael Caine]] - ([[British films of 1986|U.K.]] / [[American films of 1986|U.S.A.]])
+*''[[Hamburger... The Motion Picture]]'', starring [[Dick Butkus]] and [[Randi Brooks]]
+*''[[Hannah and Her Sisters]]'', directed by and starring [[Woody Allen]], with [[Michael Caine]], [[Mia Farrow]], [[Dianne Wiest]], [[Barbara Hershey]]
+*''[[Haunted Honeymoon]]'', directed by and starring [[Gene Wilder]], with [[Gilda Radner]] and [[Dom DeLuise]]
+*''[[Heartbreak Ridge]]'', directed by and starring [[Clint Eastwood]], with [[Mario van Peebles]], [[Marsha Mason]], [[Boyd Gaines]]
+*''[[Heartburn (film)|Heartburn]]'', directed by [[Mike Nichols]], starring [[Meryl Streep]] and [[Jack Nicholson]]
+*''[[Heat (1986 film)|Heat]]'', starring [[Burt Reynolds]]
+*''[[Heathcliff: The Movie]]''
+*''[[Henry: Portrait of a Serial Killer]]'', starring [[Michael Rooker]]
+*''[[Hibiscus Town]]'' (Fu rong zhen), directed by [[Xie Jin]] - ([[Chinese films of the 1980s|China]])
+*''[[Highlander (film)|Highlander]]'', directed by [[Russell Mulcahy]], starring [[Christopher Lambert]] and [[Sean Connery]] - ([[British films of 1986|U.K.]] / [[American films of 1986|U.S.A.]])
+*''[[The Hitcher (1986 film)|The Hitcher]]'', directed by [[Robert Harmon]], starring [[Rutger Hauer]], [[C. Thomas Howell]], [[Jennifer Jason Leigh]]
+*''[[Hoosiers]]'', directed by [[David Anspaugh]], starring [[Gene Hackman]], [[Barbara Hershey]], [[Dennis Hopper]]
+*''[[The Horse Thief]]'' (Dao ma zei) - ([[Chinese films of the 1980s|China]])
+*''[[Hôtel du Paradis]]'', starring [[Fernando Rey]] - ([[French films of 1986|France]])
+*''[[House (1986 film)|House]]'', starring [[William Katt]], [[Kay Lenz]], [[George Wendt]]
+*''[[House on Fire]]'' (Kataku no hito), starring [[Ken Ogata]] - ([[Japanese films of 1986|Japan]])
+*''[[Howard the Duck (film)|Howard the Duck]]'', starring [[Lea Thompson]], [[Jeffrey Jones]], [[Tim Robbins]]
+
+'''I'''
+*''[[Invaders from Mars (1986 film)|Invaders from Mars]]'', directed by [[Tobe Hooper]]
+*''[[Iron Eagle]]'', starring [[Louis Gossett, Jr.]] and [[Jason Gedrick]]
+
+'''J'''
+*''[[Jake Speed]]'', starring [[Wayne Crawford]], [[Dennis Christopher]], [[John Hurt]]
+*''[[Jean de Florette]]'', directed by [[Claude Berri]], starring [[Gérard Depardieu]], [[Yves Montand]], [[Daniel Auteuil]] - ([[French films of 1986|France]])
+*''[[Jo Jo Dancer, Your Life Is Calling]]'', directed by and starring [[Richard Pryor]]
+*''[[Jumpin' Jack Flash (film)|Jumpin' Jack Flash]]'', directed by [[Penny Marshall]], starring [[Whoopi Goldberg]], [[Stephen Collins]], [[Annie Potts]], [[Jon Lovitz]], [[Carol Kane]]
+*''[[Just Between Friends]]'', starring [[Mary Tyler Moore]], [[Christine Lahti]], [[Ted Danson]], [[Sam Waterston]]
+
+'''K'''
+*''[[The Karate Kid, Part II]]'', starring [[Ralph Macchio]] and [[Pat Morita]]
+*''[[Karma (1986 film)|Karma]]'', starring [[Dilip Kumar]] and [[Nutan]] - ([[Bollywood films of 1986|India]])
+*''[[Kin-dza-dza!]]'' - ([[Soviet films: 1980-1991|U.S.S.R.]])
+*''[[Knights of the City]]''
+
+'''L'''
+*''[[Labyrinth (film)|Labyrinth]]'', directed by [[Jim Henson]], starring [[David Bowie]] and [[Jennifer Connelly]] - ([[British films of 1986|U.K.]] / [[American films of 1986|U.S.A.]])
+*''[[Lady Jane (film)|Lady Jane]]'', directed by [[Trevor Nunn]], starring [[Helena Bonham Carter]], [[Cary Elwes]], [[Patrick Stewart]] - ([[British films of 1986|U.K.]])
+*''[[Castle in the Sky|Laputa: Castle in the Sky]]'' (Tenk? no Shiro Rapyuta) - ([[Japanese films of 1986|Japan]])
+*''[[Legal Eagles]]'', directed by [[Ivan Reitman]], starring [[Robert Redford]], [[Debra Winger]] and [[Daryl Hannah]]
+*''[[Let's Get Harry]]'', starring [[Robert Duvall]]
+*''[[Link (film)|Link]]'', starring [[Terence Stamp]] and [[Elisabeth Shue]] - ([[British films of 1986|U.K.]])
+*''[[Little Shop of Horrors (1986 film)|Little Shop of Horrors]]'', directed by [[Frank Oz]], starring [[Rick Moranis]], [[Ellen Greene]], [[Steve Martin]] and the voice of [[Levi Stubbs]]
+*''[[Love Me Forever or Never]]'' (Eu Sei Que Vou Te Amar) - ([[Brazilian films of the 1980s|Brazil]])
+*''[[Lucas (film)|Lucas]]'', starring [[Corey Haim]], [[Kerri Green]], [[Charlie Sheen]], [[Winona Ryder]]
+*''[[Luxo Jr.]]''
+
+'''M'''
+*''[[Malcolm (film)|Malcolm]]'' - ([[Australian films of 1986|Australia]])
+*''[[The Manhattan Project (film)|The Manhattan Project]]'', starring [[John Lithgow]], [[Christopher Collet]], [[Cynthia Nixon]]
+*''[[Manhunter (film)|Manhunter]]'', directed by [[Michael Mann (film director)|Michael Mann]], starring [[William Petersen]], [[Kim Greist]], [[Dennis Farina]], [[Tom Noonan]] and [[Brian Cox (actor)|Brian Cox]] (as [[Hannibal Lecter]])
+*''[[Manon des Sources (1986 film)|Manon des Sources]]'', directed by [[Claude Berri]], starring [[Yves Montand]], [[Daniel Auteuil]], [[Emmanuelle Béart]] - ([[French films of 1986|France]])
+*''[[Martial Arts of Shaolin]]'' (Nan bei Shao Lin), starring [[Jet Li]] - ([[Hong Kong films of 1986|Hong Kong]])
+*''[[Matador (film)|Matador]]'', directed by [[Pedro Almodóvar]], starring [[Antonio Banderas]] - ([[Spanish films of 1986|Spain]])
+*''[[Mauvais Sang]]'' (Bad Blood), starring [[Michel Piccoli]] and [[Juliette Binoche]] - ([[French films of 1986|France]])
+*''[[Maximum Overdrive]]'', directed by [[Stephen King]], starring [[Emilio Estevez]], featuring a soundtrack by [[AC/DC (band)|AC/DC]]
+*''[[The Men's Club]]'', starring [[Roy Scheider]], [[Harvey Keitel]], [[Craig Wasson]], [[David Dukes]], [[Frank Langella]], [[Treat Williams]]
+*''[[Miracles (1986 film)|Miracles]]'', starring [[Tom Conti]] and [[Teri Garr]] - ([[British films of 1986|U.K.]] / [[American films of 1986|U.S.A.]])
+*''[[The Mission (1986 film)|The Mission]]'', directed by [[Roland Joffé]], starring [[Robert De Niro]], [[Jeremy Irons]], [[Ray McAnally]] - Palme d'Or award - ([[British films of 1986|U.K.]])
+*''[[Modern Girls]]'', starring [[Virginia Madsen]]
+*''[[Mona Lisa (film)|Mona Lisa]]'', directed by [[Neil Jordan]], starring [[Bob Hoskins]], [[Cathy Tyson]], [[Michael Caine]] - ([[British films of 1986|U.K.]])
+*''[[The Money Pit]]'', directed by [[Richard Benjamin]], starring [[Tom Hanks]] and [[Shelley Long]]
+*''[[Monster in the Closet]]'', starring [[Claude Akins]], [[Henry Gibson]], [[Paul Dooley]], [[Stella Stevens]]
+*''[[The Morning After (1986 film)|The Morning After]]'', directed by [[Sidney Lumet]], starring [[Jane Fonda]] and [[Jeff Bridges]]
+*''[[The Mosquito Coast]]'', directed by [[Peter Weir]], starring [[Harrison Ford]], [[Helen Mirren]], [[River Phoenix]]
+*''[[Mr. Bharath]]'' - ([[Tamil films of the 1980s|India]])
+*''[[Murder in Three Acts]]'', starring [[Peter Ustinov]], [[Tony Curtis]], [[Emma Samms]]
+*''[[Murphy's Law (film)|Murphy's Law]]'', starring [[Charles Bronson]]
+*''[[My Chauffeur]]'', starring [[Deborah Foreman]]
+*''[[My Little Girl]]'', starring [[Mary Stuart Masterson]]
+*''[[My Little Pony: The Movie]]'', starring [[Danny DeVito]], [[Rhea Perlman]], [[Madeline Kahn]]
+
+'''N'''
+*''[[Naam (1986 film)|Naam]]'' (Name), starring [[Nutan]] and [[Sanjay Dutt]] - ([[Bollywood films of 1986|India]])
+*''[[The Name of the Rose (film)|The Name of the Rose]]'', directed by [[Jean-Jacques Annaud]], starring [[Sean Connery]], [[F. Murray Abraham]], [[Christian Slater]] - ([[List of German films: 1980s|West Germany]]/[[Italian films of 1986|Italy]]/[[French films of 1986|France]])
+*''[['night, Mother (film)|'night, Mother]]'', starring [[Sissy Spacek]] and [[Anne Bancroft]]
+*''[[Night of the Pencils (film)|Night of the Pencils]]'' (La noche de los lápices) - ([[Argentine films of 1986|Argentina]])
+*''[[No Mercy (film)|No Mercy]]'', starring [[Kim Basinger]] and [[Richard Gere]]
+*''[[Nomads (1986 film)|Nomads]]'', starring [[Pierce Brosnan]] and [[Lesley-Anne Down]]
+*''[[Nothing in Common]]'', directed by [[Garry Marshall]], starring [[Tom Hanks]], [[Jackie Gleason]], [[Eva Marie Saint]], [[Héctor Elizondo]], [[Sela Ward]]
+
+'''O'''
+*''[[Off Beat (1986 film)|Off Beat]]'', starring [[Judge Reinhold]]
+*''[[Old Well (film)|Old Well]]'' (Lao jing) - ([[Chinese films of the 1980s|China]])
+*''[[One Crazy Summer]]'', starring [[John Cusack]], [[Demi Moore]], [[Bobcat Goldthwait]]
+*''[[One More Saturday Night (film)|One More Saturday Night]]'', starring [[Al Franken]]
+*''[[On the Edge (1986 film)|On the Edge]]'', starring [[Bruce Dern]] and [[Pam Grier]]
+*''[[Otello (1986 film)|Otello]]'', directed by [[Franco Zeffirelli]], starring [[Plácido Domingo]] - ([[Italian films of 1986|Italy]])
+*''[[Out of Bounds (1986 film)|Out of Bounds]]'', starring [[Anthony Michael Hall]] and [[Jenny Wright]]
+
+'''P'''
+*''[[The Park Is Mine (1986 film)|The Park Is Mine]]'', starring [[Tommy Lee Jones]]
+*''[[Parting Glances]]'', starring [[Steve Buscemi]]
+*''[[The Patriot (1986 film)|The Patriot]]'', starring [[Gregg Henry]] and [[Jeff Conaway]]
+*''[[Peggy Sue Got Married]]'', directed by [[Francis Ford Coppola]], starring [[Kathleen Turner]] and [[Nicolas Cage]]
+*''[[Peking Opera Blues]]'' (Dao ma dan), directed by [[Tsui Hark]] - ([[Hong Kong films of 1986|Hong Kong]])
+*''[[The Pied Piper (1986 film)|The Pied Piper]]'' (Krysa?) - ([[Czech films of the 1980s|Czechoslovakia]])
+*''[[Pirates (1986 film)|Pirates]]'', directed by [[Roman Polanski]], starring [[Walter Matthau]] - ([[French films of 1986|France]] / [[List of Tunisian films|Tunisia]])
+*''[[Platoon (film)|Platoon]]'', directed by [[Oliver Stone]], starring [[Charlie Sheen]], [[Tom Berenger]], [[Willem Dafoe]] - Academy and Golden Globe (drama) Awards for Best Picture
+*''[[Poltergeist II: The Other Side]]'', starring [[Craig T. Nelson]]
+*''[[Poor Butterfly (film)|Poor Butterfly]]'' (Pobre mariposa) - ([[Argentine films of 1986|Argentina]])
+*''[[Power (1986 film)|Power]]'', directed by [[Sidney Lumet]], starring [[Richard Gere]], [[Denzel Washington]], [[Julie Christie]], [[Kate Capshaw]], [[Gene Hackman]]
+*''[[Pretty in Pink]]'', directed by [[Howard Deutch]], starring [[Molly Ringwald]], [[Andrew McCarthy]], [[Jon Cryer]], [[James Spader]]
+*''[[Project A-ko]]'' - ([[Japanese films of 1986|Japan]])
+*''[[A Promise (1986 film)|A Promise]]'' (Ningen no yakusoku) - ([[Japanese films of 1986|Japan]])
+*''[[Psycho III]]'', directed by and starring [[Anthony Perkins]], with [[Diana Scarwid]], [[Jeff Fahey]]
+
+'''Q'''
+*''[[Quicksilver (film)|Quicksilver]]'', starring [[Kevin Bacon]]
+*''[[Quiet Cool]]'', starring [[James Remar]]
+
+'''R'''
+*''[[Rad (film)|Rad]]'', directed by [[Hal Needham]]
+*''[[Raw Deal (1986 film)|Raw Deal]]'', starring [[Arnold Schwarzenegger]]
+*''[[Red Headed Stranger (film)|Red Headed Stranger]]'', starring [[Willie Nelson]] and [[Morgan Fairchild]]
+*''[[Regalo di Natale]]'' (Christmas Present) - ([[Italian films of 1986|Italy]])
+*''[[Rita, Sue and Bob Too]]'' - ([[British films of 1986|U.K.]])
+*''[[River's Edge]]'', starring [[Crispin Glover]], [[Keanu Reeves]], [[Ione Skye]], [[Dennis Hopper]]
+*''[[Robotech: The Movie]]'', directed by [[Carl Macek]] and [[Noboru Ishiguro]] - ([[American films of 1986|U.S.A.]] / [[Japanese films of 1986|Japan]])
+*''[[Rosa Luxemburg (film)|Rosa Luxemburg]]'' (aka Die Geduld der Rosa Luxemburg), directed by [[Margarethe von Trotta]], starring [[Barbara Sukowa]] - ([[List of German films: 1980s|West Germany]])
+*''[[Round Midnight (film)|Round Midnight]]'', directed by [[Bertrand Tavernier]], starring [[Dexter Gordon]] - ([[American films of 1986|U.S.A.]] / [[French films of 1986|France]])
+*''[[Running Scared (1986 film)|Running Scared]]'', directed by [[Peter Hyams]], starring [[Gregory Hines]] and [[Billy Crystal]]
+*''[[Ruthless People]]'', directed by [[Jim Abrahams]], starring [[Danny DeVito]], [[Bette Midler]], [[Judge Reinhold]], [[Helen Slater]], [[Bill Pullman]]
+
+'''S'''
+*''[[The Sacrifice (1986 film)|The Sacrifice]]'' (Offret), directed by [[Andrei Tarkovsky]] - ([[Swedish films of the 1980s|Sweden]]/[[British films of 1986|U.K.]]/[[French films of 1986|France]])
+*''[[Salvador (film)|Salvador]]'', directed by [[Oliver Stone]], starring [[James Woods]] and [[James Belushi]]
+*''[[Sarraounia (film)|Sarraounia]]'' - ([[List of Burkina Faso films|Burkina Faso]]/[[French films of 1986|France]]/[[List of Mauritanian films|Mauritania]])
+*''[[Saving Grace (1985 film)|Saving Grace]]'', starring [[Tom Conti]]
+*''[[Scene of the Crime (1986 film)|Scene of the Crime]]'' (Le lieu du crime), directed by [[André Téchiné]], starring [[Catherine Deneuve]] - (France)
+*''[[The Sea and Poison]]'' (Umi to dokuyaku) - ([[Japanese films of 1986|Japan]])
+*''[[Seize the Day (film)|Seize the Day]]'', starring [[Robin Williams]]
+*''[[Shadows in Paradise]]'', directed by ||[[Aki Kaurismäki]] 
+*''[[Shanghai Surprise]]'', starring [[Madonna (entertainer)|Madonna]] and [[Sean Penn]] - ([[British films of 1986|U.K.]])
+*''[[She's Gotta Have It]]'', directed by [[Spike Lee]]
+*''[[Short Circuit]]'', directed by [[John Badham]], starring [[Ally Sheedy]] and [[Steve Guttenberg]]
+*''[[Sid and Nancy]]'', directed by [[Alex Cox]], starring [[Gary Oldman]] and [[Chloe Webb]] - ([[British films of 1986|U.K.]])
+*''[[Solarbabies]]'', starring [[Jason Patric]], [[Jami Gertz]], [[Richard Jordan]], [[Lukas Haas]]
+*''[[Something Wild (1986 film)|Something Wild]]'', directed by [[Jonathan Demme]], starring [[Jeff Daniels]], [[Melanie Griffith]], [[Ray Liotta]]
+*''[[Soul Man (film)|Soul Man]]'', starring [[C. Thomas Howell]], [[Rae Dawn Chong]], [[James Earl Jones]]
+*''[[SpaceCamp]]'', starring [[Kate Capshaw]], [[Lea Thompson]] and [[Kelly Preston]]
+*''[[Stammheim (film)|Stammheim]]'' (aka Stammheim - Die Baader-Meinhof-Gruppe vor Gericht) - Golden Bear award - ([[List of German films: 1980s|West Germany]])
+*''[[Stand by Me (film)|Stand by Me]]'', directed by [[Rob Reiner]], starring [[River Phoenix]], [[Wil Wheaton]], [[Corey Feldman]], [[Jerry O'Connell]]
+*''[[Star Trek IV: The Voyage Home]]'', directed by and starring [[Leonard Nimoy]], with [[William Shatner]] and [[Catherine Hicks]]
+*''[[Streets of Gold (film)|Streets of Gold]]'', starring [[Wesley Snipes]] and [[Klaus Maria Brandauer]]
+*''[[A Successful Man]]'' (Un hombre de éxito) - ([[List of Cuban films#1980s|Cuba]])
+*''[[Sweet Liberty]]'', directed by and starring [[Alan Alda]], with [[Michelle Pfeiffer]], [[Michael Caine]], [[Bob Hoskins]], [[Lois Chiles]], [[Lise Hilboldt]], [[Lillian Gish]]
+
+'''T'''
+*''[[Tai-Pan (film)|Tai-Pan]]'', starring [[Bryan Brown]] and [[Joan Chen]]
+*''[[Tenue de soirée]]'' (Evening Dress), directed by [[Bertrand Blier]], starring [[Gérard Depardieu]], [[Michel Blanc]], [[Miou-Miou]] - ([[French films of 1986|France]])
+*''[[The Terrorizers (film)|The Terrorizers]]'' (Kong bu fen zi) - ([[List of Taiwanese films|Taiwan]])
+*''[[TerrorVision]]'', starring [[Gerrit Graham]] and [[Chad Allen (actor)|Chad Allen]]
+*''[[The Texas Chainsaw Massacre 2]]'', starring [[Dennis Hopper]]
+*''[[That's Life! (film)|That's Life!]]'', directed by [[Blake Edwards]], starring [[Jack Lemmon]] and [[Julie Andrews]]
+*''[[¡Three Amigos!]]'', directed by [[John Landis]], starring [[Steve Martin]], [[Martin Short]], [[Chevy Chase]]
+*''[[Tiempo de Silencio]]'' (Time of Silence), starring [[Victoria Abril]] - ([[Spanish films of 1986|Spain]])
+*''[[Time After Time (1986 film)|Time After Time]]'', starring [[John Gielgud]] and [[Googie Withers]] - ([[British films of 1986|U.K.]]/[[Australian films of 1986|Australia]])
+*''[[Toby McTeague]]'' - ([[Canadian films of the 1980s|Canada]])
+*''[[Top Gun]]'', directed by [[Tony Scott]], starring [[Tom Cruise]], [[Kelly McGillis]], [[Val Kilmer]], [[Anthony Edwards]], [[Tom Skerritt]]
+*''[[Touch and Go (1986 film)|Touch and Go]]'', starring [[Michael Keaton]]
+*''[[Tough Guys]]'', starring [[Burt Lancaster]], [[Kirk Douglas]], [[Dana Carvey]], [[Darlanne Fleugel]], [[Alexis Smith]], [[Eli Wallach]]
+*''[[The Transformers: The Movie]]'', starring [[Eric Idle]], [[Judd Nelson]], [[Orson Welles]]
+*''[[Trick or Treat (1986 film)|Trick or Treat]]'', starring [[Marc Price]], [[Gene Simmons]], [[Ozzy Osbourne]]
+*''[[Troll (film)|Troll]]'', starring [[Michael Moriarty]]
+*''[[True Stories (film)|True Stories]]'', directed by and starring [[David Byrne]]
+
+'''U-V'''
+*''[[Under the Cherry Moon]]'', directed by and starring [[Prince (musician)|Prince]], with [[Jerome Benton]] and [[Kristin Scott Thomas]]
+*''[[Vamp (film)|Vamp]]'', starring [[Grace Jones]]
+*''[[Violets Are Blue (film)|Violets Are Blue]]'', starring [[Sissy Spacek]] and [[Kevin Kline]]
+*''[[Voyage to Nowhere]]'' (El viaje a ninguna parte) - ([[Spanish films of 1986|Spain]])
+
+'''W'''
+*''[[Wahnfried (film)|Wahnfried]]'' (Richard und Cosima) - ([[List of German films: 1980s|West Germany]])
+*''[[When the Wind Blows (1986 film)|When the Wind Blows]]'', starring [[John Mills]] and [[Peggy Ashcroft]] - ([[British films of 1986|U.K.]])
+*''[[Wildcats (film)|Wildcats]]'', starring [[Goldie Hawn]], [[Nipsey Russell]], [[Wesley Snipes]], [[Woody Harrelson]], [[LL Cool J]]
+*''[[Wisdom (film)|Wisdom]]'', directed by and starring [[Emilio Estevez]], with [[Demi Moore]]
+*''[[De Wisselwachter]]'' (The Pointsman) - ([[Dutch films of the 1980s|Netherlands]])
+*''[[The Wraith]]'', starring [[Charlie Sheen]] and [[Sherilyn Fenn]]
+
+'''XYZ'''
+*''[[X The Unheard Music|X: The Unheard Music]]''
+*''[[Year of Enlightment|The Year of Enlightenment]]'' (El Año de las Luces) - ([[Spanish films of 1986|Spain]])
+*''[[Youngblood (1986 film)|Youngblood]]'', starring [[Rob Lowe]], [[Patrick Swayze]], [[Cynthia Gibb]]
+
+==Wide-release films==
+
+===January–March===
+*January 1986
+**January 10 - ''[[Black Moon Rising]]''
+**January 17
+***''[[The Clan of the Cave Bear (film)|The Clan of the Cave Bear]]''
+***''[[Heathcliff: The Movie]]''
+***''[[Iron Eagle]]''
+***''[[Troll (film)|Troll]]''
+**January 31
+***''[[Down and Out in Beverly Hills]]''
+***''[[Youngblood (1986 film)|Youngblood]]''
+
+*February 1986
+**February 7
+***''[[F/X]]''
+***''[[Hannah and Her Sisters]]''
+**February 14
+***''[[The Delta Force]]''
+***''[[Knights of the City]]''
+***''[[Quicksilver (film)|Quicksilver]]''
+***''[[Wildcats (film)|Wildcats]]''
+**February 19 - ''[[Parting Glances]]''
+**February 20 - ''[[9½ Weeks]]''
+**February 21 - ''[[The Hitcher (1986 film)|The Hitcher]]''
+**February 28
+***''[[Pretty in Pink]]''
+***''[[Salvador (film)|Salvador]]''
+
+*March 1986
+**March 6 - ''[[Miracles (1986 film)|Miracles]]''
+**March 7
+***''[[Highlander (film)|Highlander]]'' (US; UK Aug. 29 1986)
+***''[[Nomads (1986 film)|Nomads]]''
+**March 14 - ''[[Gung Ho (film)|Gung Ho]]''
+**March 21
+***''[[Just Between Friends]]''
+***''[[Rad (film)|Rad]]''
+**March 26 - ''[[The Money Pit]]''
+**March 28 - ''[[Lucas (film)|Lucas]]''
+
+===April–June===
+*April 1986
+**April 9 - ''[[Dr. Otto and the Riddle of the Gloom Beam]]''
+**April 11
+***''[[Band of the Hand]]''
+***''[[Critters (film)|Critters]]''
+***''[[Off Beat (1986 film)|Off Beat]]''
+**April 18
+***''[[At Close Range]]''
+***''[[Murphy's Law (film)|Murphy's Law]]''
+**April 25 - ''[[8 Million Ways to Die]]''
+
+*May 1986
+**May 2 - ''[[Blue City (film)|Blue City]]''
+**May 9
+***''[[Dangerously Close]]''
+***''[[Fire with Fire (1986 film)|Fire with Fire]]''
+***''[[Short Circuit]]''
+**May 16 - ''[[Top Gun]]''
+**May 21
+***''[[Crawlspace (1986 film)|Crawlspace]]''
+***''[[GoBots: Battle of the Rock Lords]]''
+**May 23
+***''[[Cobra (1986 film)|Cobra]]''
+***''[[Poltergeist II: The Other Side]]''
+**May 30 - ''[[Jake Speed]]''
+
+*June 1986
+**June 6
+***''[[Invaders from Mars (1986 film)|Invaders from Mars]]''
+***''[[My Little Pony: The Movie]]''
+***''[[Raw Deal (1986 film)|Raw Deal]]''
+***''[[SpaceCamp]]''
+**June 11 - ''[[Ferris Bueller's Day Off]]''
+**June 13
+***''[[Back to School]]''
+***''[[The Manhattan Project (film)|The Manhattan Project]]''
+***''[[Mona Lisa (film)|Mona Lisa]]''
+***''[[Never Too Young to Die]]''
+**June 18 - ''[[Legal Eagles]]''
+**June 20 - ''[[The Karate Kid, Part II]]''
+**June 27
+***''[[Labyrinth (film)|Labyrinth]]''
+***''[[Ruthless People]]''
+
+===July–September===
+*July 1986
+**July 2
+***''[[About Last Night...]]''
+***''[[Big Trouble in Little China]]''
+***''[[Psycho III]]''
+***''[[The Great Mouse Detective]]''
+**July 4 - ''[[Under the Cherry Moon]]''
+**July 11 - ''[[Club Paradise]]''
+**July 18
+***''[[Aliens (film)|Aliens]]''
+***''[[Vamp (film)|Vamp]]''
+**July 25
+***''[[Echo Park (film)|Echo Park]]''
+***''[[Haunted Honeymoon]]''
+***''[[Heartburn (film)|Heartburn]]''
+***''[[Maximum Overdrive]]''
+***''[[Out of Bounds (1986 film)|Out of Bounds]]''
+***''[[The Patriot (1986 film)|The Patriot]]''
+***''[[Robotech: The Movie]]''
+**July 27 - ''[[As Is (film)|As Is]]''
+**July 30 - ''[[Flight of the Navigator]]''
+
+*August 1986
+**August 1
+***''[[Choke Canyon]]''
+***''[[Friday the 13th Part VI: Jason Lives]]''
+***''[[Good to Go (film)|Good to Go]]''
+***''[[Howard the Duck (film)|Howard the Duck]]''
+**August 8
+***''[[One Crazy Summer]]''
+***''[[She's Gotta Have It]]''
+***''[[Stand by Me (film)|Stand by Me]]'' (limited; wide Aug. 22 1986)
+***''[[The Transformers: The Movie]]''
+**August 13 - ''[[Half Moon Street]]''
+**August 15
+***''[[Armed and Dangerous (film)|Armed and Dangerous]]''
+***''[[The Boy Who Could Fly]]''
+***''[[The Fly (1986 film)|The Fly]]''
+***''[[Manhunter (film)|Manhunter]]''
+**August 22
+***''[[Extremities (film)|Extremities]]''
+***''[[The Texas Chainsaw Massacre 2]]''
+**August 29 - ''[[Shanghai Surprise]]''
+
+*September 1986
+**September 10 - ''[[River's Edge]]''
+**September 12
+***''[[Blue Velvet (film)|Blue Velvet]]'' (TIFF; USA Sep. 19 1986)
+***''[['night, Mother (film)|'night, Mother]]''
+**September 13 - ''[[Avenging Force]]''
+**September 19 - ''[[The Men's Club]]''
+**September 20 - ''[[Down by Law (film)|Down by Law]]'' (limited)
+**September 24 - ''[[The Name of the Rose (film)|The Name of the Rose]]'' (US; WGer Oct 16 1986; It Oct 17 1986; Fr Dec 17 1986)
+**September 26
+***''[["Crocodile" Dundee]]''
+***''[[That's Life! (film)|That's Life!]]''
+
+===October–December===
+*October 1986
+**October 3
+***''[[Children of a Lesser God]]''
+***''[[Tough Guys (1986 film)|Tough Guys]]''
+**October 10
+***''[[Jumpin' Jack Flash (film)|Jumpin' Jack Flash]]''
+***''[[Peggy Sue Got Married]]''
+***''[[True Stories (film)|True Stories]]''
+***''[[Deadly Friend]]''
+**October 17 - ''[[The Color of Money]]''
+**October 24
+***''[[Trick or Treat (1986 film)|Trick or Treat]]''
+***''[[Soul Man (film)|Soul Man]]''
+**October 31 - ''[[Let's Get Harry]]''
+
+*November 1986
+**November 7
+***''[[52 Pick-Up]]''
+***''[[Modern Girls]]''
+***''[[Sid and Nancy]]''
+***''[[Something Wild (1986 film)|Something Wild]]''
+***''[[Tai-Pan (film)|Tai-Pan]]''
+**November 8 - ''[[Quiet Cool]]''
+**November 12 - ''[[Heat (1986 film)|Heat]]''
+**November 14
+***''[[Hoosiers]]''
+***''[[Streets of Gold (film)|Streets of Gold]]''
+**November 21
+***''[[An American Tail]]''
+***''[[Firewalker (film)|Firewalker]]''
+***''[[The Wraith]]''
+**November 26
+***''[[The Mosquito Coast]]''
+***''[[Solarbabies]]''
+***''[[Star Trek IV: The Voyage Home]]''
+**November 28 - ''[[Eye of the Tiger (film)|Eye of the Tiger]]''
+
+*December 1986
+**December 5 - ''[[Heartbreak Ridge]]''
+**December 12
+***''[[Crimes of the Heart (film)|Crimes of the Heart]]''
+***''[[The Golden Child]]''
+***''[[Three Amigos]]''
+**December 19
+***''[[King Kong Lives]]''
+***''[[Little Shop of Horrors (film)|Little Shop of Horrors]]''
+***''[[No Mercy (film)|No Mercy]]''
+***''[[Platoon (film)|Platoon]]''
+**December 25 - ''[[The Morning After (1986 film)|The Morning After]]''
+**December 31 - ''[[Wisdom (film)|Wisdom]]''
+
+==Births==
+* January 24 - [[Mischa Barton]], English-American actress
+* February 14 - [[Tiffany Thornton]], American actress, comedian, singer and songwriter
+* February 19 - [[Maria Mena]], Norwegian singer
+* March 9 - [[Brittany Snow]], American actress
+* March 14 - [[Jamie Bell]], English actor
+* April 3 - [[Amanda Bynes]], American actress and variety show host
+* April 9 - [[Leighton Meester]], American actress and singer
+* May 13 - [[Robert Pattinson]], English actor
+* May 16  
+**[[Megan Fox]], American actress
+**[[Alexandra Daddario]], American actress
+* June 11 - [[Shia LaBeouf]], American actor
+* June 13 - [[Mary-Kate and Ashley Olsen]], American actresses and entrepreneurs
+* June 27 - [[Drake Bell]], American actor
+* July 2 - [[Lindsay Lohan]], American actress
+* July 8 - [[Jake McDorman]], American actor
+* August 16 - [[Shawn Pyfrom]], American actor
+* August 28 - [[Armie Hammer]], American actor
+* August 29
+** [[Lea Michele]], American actress and singer
+** [[Lauren Conrad]], American TV personality and author
+* August 31 - [[Ryan Kelley]], American actor
+* September 12 - [[Emmy Rossum]], American actress and singer
+* October 2 - [[Camilla Belle]], American actress
+* November 1 - [[Penn Badgley]], American actor
+* November 4 - [[Alexz Johnson]], Canadian singer-songwriter, record producer, actress and philanthropist
+* November 25 - [[Katie Cassidy]], American actress and singer
+
+==Notable deaths==
+<!-- This section is in the article 1986 in "film", people that are television actors, television directors or something like that but did not have any part of a film don't belong here. Those belong to the "Notable Deaths" section in "1986 in television" -->
+{| cellspacing="0" cellpadding="4" border="0"
+|-  style="background:#dae3e7; text-align:center;"
+| <span style="font-size:100%;"> '''Month'''</span> || <span style="font-size:100%;"> '''Date'''</span> || <span style="font-size:100%;"> '''Name'''</span> || <span style="font-size:100%;"> '''Age'''</span> || <span style="font-size:100%;">'''Country'''</span> || <span style="font-size:100%;"> '''Profession'''</span> || <span style="font-size:100%;"> '''Notable films'''</span>
+|- valign="top"
+| rowspan="4"  style="text-align:center; vertical-align:top;"| <span style="font-size:100%;"> '''January'''</span>
+| style="text-align:center;"| ''4'' || [[Una Merkel]] || style="text-align:center;"| 82 || style="text-align:center;"| USA || style="text-align:center;"| Actress || ''[[The Parent Trap (1961 film)|The Parent Trap]]'' • ''[[42nd Street (film)|42nd Street]]'' • ''[[Destry Rides Again]]'' • ''[[The Bank Dick]]'' • ''[[Road to Zanzibar]]'' • ''[[Kill the Umpire]]'' • ''[[The Maltese Falcon (1931 film)|The Maltese Falcon]]''
+|-
+| style="text-align:center;"| ''5'' || Pamela Davies || style="text-align:center;"| ?? || style="text-align:center;"| ?? || style="text-align:center;"| Continuity || ''[[Superman II]]'' • ''[[Lolita (1962 film)|Lolita]]'' • ''[[Straw Dogs (1971 film)|Straw Dogs]]'' • ''[[Top Secret!]]'' • ''[[The Guns of Navarone (film)|The Guns of Navarone]]'' • ''[[Oliver! (film)|Oliver]]'' • ''[[The Pink Panther Strikes Again]]'' • ''[[Revenge of the Pink Panther]]'' • ''[[Dragonslayer]]'' • ''[[Alfie (1966 film)|Alfie]]'' • ''[[The Mouse That Roared (film)|The Mouse That Roared]]'' • ''[[Julia (1977 film)|Julia]]'' • ''[[The Day of the Triffids (film)|The Day of the Triffids]]'' • ''[[I Was a Male War Bride]]''
+|-
+| style="text-align:center;"| ''14'' || [[Donna Reed]] || style="text-align:center;"| 64 || style="text-align:center;"| USA || style="text-align:center;"| Actress || ''[[It's a Wonderful Life]]'' • ''[[From Here To Eternity]]'' • ''[[The Picture of Dorian Gray (1945 film)|The Picture of Dorian Gray]]'' • ''[[They Were Expendable]]'' • ''[[Shadow of the Thin Man]]'' • ''[[The Last Time I Saw Paris]]'' • ''[[Scandal Sheet (1952 film)|Scandal Sheet]]'' • ''[[The Caddy]]''
+|-
+| style="text-align:center;"| ''24'' || [[Gordon MacRae]] || style="text-align:center;"| 64 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[Oklahoma! (1955 film)|Oklahoma!]]'' • ''[[Carousel (film)|Carousel]]'' • ''[[On Moonlight Bay (film)|On Moonlight Bay]]'' • ''[[The West Point Story (film)|The West Point Story]]'' • ''[[The Desert Song]]'' • ''[[By the Light of the Silvery Moon (film)|By the Light of the Silvery Moon]]''
+|-
+||| style="text-align:center;"| ''29'' || [[Leif Erickson (actor)|Leif Erickson]] || style="text-align:center;"| 74 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[Tea and Sympathy (film)|Tea and Sympathy]]'' • ''[[Kiss Them for Me (film)|Kiss Them for Me]]'' • ''[[Mirage (1965 film)|Mirage]]'' • ''[[Roustabout]]'' • ''[[The Carpetbaggers (film)|The Carpetbaggers]]'' • ''[[Twilight's Last Gleaming]]''
+|-
+| rowspan="4"  style="text-align:center; vertical-align:top;"| <span style="font-size:100%;"> '''February'''</span>
+| style="text-align:center;"| ''2'' || [[Donald Eccles]] || style="text-align:center;"| 77 || style="text-align:center;"| UK || style="text-align:center;"| Actor || ''[[The Wicker Man (1973 film)|The Wicker Man]]'' • ''[[Young Sherlock Holmes]]'' • ''[[The Dresser]]'' • ''[[A Private Function]]'' • ''[[The Hunchback of Notre Dame (1982 film)|The Hunchback of Notre Dame]]''
+|-
+| style="text-align:center;"| ''6'' || [[Dandy Nichols]] || style="text-align:center;"| 78 || style="text-align:center;"| UK || style="text-align:center;"| Actress || ''[[Help! (film)|Help!]]'' • ''[[The Vikings (1958 film)|The Vikings]]'' • ''[[O Lucky Man!]]'' • ''[[The Fallen Idol (film)|The Fallen Idol]]'' • ''[[The Plague Dogs (film)|The Plague Dogs]]'' • ''[[Georgy Girl]]'' • ''[[Carry On Doctor]]''
+|-
+| style="text-align:center;"| ''10'' || [[Brian Aherne]] || style="text-align:center;"| 83 || style="text-align:center;"| UK || style="text-align:center;"| Actor|| ''[[Juarez (film)|Juarez]]'' • ''[[The Locket]]'' • ''[[A Night to Remember (1943 film)|A Night to Remember]]'' • ''[[Titanic (1953 film)|Titanic]]'' • ''[[The Best of Everything (1959 film)|The Best of Everything]]'' • ''[[Lancelot and Guinevere]]'' • ''[[Prince Valiant (1954 film)|Prince Valiant]]''
+|-
+| style="text-align:center;"| ''16'' || [[Howard Da Silva]] || style="text-align:center;"| 82 || style="text-align:center;"| USA || style="text-align:center;"| Actor, Producer || ''[[1776 (film)|1776]]'' • ''[[The Lost Weekend (film)|The Lost Weekend]]'' • ''[[The Great Gatsby (1974 film)|The Great Gatsby]]'' • ''[[Sergeant York (film)|Sergeant York]]'' • ''[[Mommie Dearest (film)|Mommie Dearest]]'' • ''[[Nevada Smith]]'' • ''[[Garbo Talks]]''
+|-
+||| style="text-align:center;"| ''17'' || [[Paul Stewart (actor)|Paul Stewart]] || style="text-align:center;"| 77 || style="text-align:center;"| USA || style="text-align:center;"| Actress, Producer || ''[[Citizen Kane]]'' • ''[[In Cold Blood (film)|In Cold Blood]]'' • ''[[Revenge of the Pink Panther]]'' • ''[[Kiss Me Deadly]]''
+|-
+||| style="text-align:center;"| ''19'' || [[Adolfo Celi]] || style="text-align:center;"| 63 || style="text-align:center;"| Italy || style="text-align:center;"| Actor || ''[[Thunderball (film)|Thunderball]]'' • ''[[The Agony and the Ecstasy (film)|The Agony and the Ecstasy]]'' • ''[[The Bobo]]'' • ''[[Danger: Diabolik]]'' • ''[[Von Ryan's Express]]''
+|-
+|- valign="top"
+| rowspan="7"  style="text-align:center; vertical-align:top;"| <span style="font-size:100%;"> '''March'''</span>
+| style="text-align:center;"| ''3'' || [[Peter Capell]] || style="text-align:center;"| 73 || style="text-align:center;"| Germany || style="text-align:center;"| Actor, Writer || ''[[Willy Wonka & the Chocolate Factory]]'' • ''[[Paths of Glory]]'' • ''[[One, Two, Three]]'' • ''[[The Vikings (1958 film)|The Vikings]]'' • ''[[Sorcerer (film)|Sorcerer]]'' • ''[[The Counterfeit Traitor]]''
+|-
+| style="text-align:center;"| ''10'' || [[Ray Milland]] || style="text-align:center;"| 77 || style="text-align:center;"| USA || style="text-align:center;"| Actor, Director || ''[[Dial M for Murder]]'' • ''[[The Lost Weekend (film)|The Lost Weekend]]'' • ''[[Beau Geste (1939 film)|Beau Geste]]'' • ''[[Reap the Wild Wind]]'' • ''[[The Big Clock (film)|The Big Clock]]'' • ''[[Ministry of Fear]]'' • ''[[The Major and the Minor]]'' • ''[[A Man Alone (film)|A Man Alone]]'' • ''[[Love Story (1970 film)|Love Story]]'' • ''[[The Thing with Two Heads]]'' • ''[[The Last Tycoon (1976 film)|The Last Tycoon]]''
+|-
+| style="text-align:center;"| ''15 || [[Alexandru Giugaru]] || style="text-align:center;"| 88 || style="text-align:center;"| Romania || style="text-align:center;"| Actor ||
+|-
+| style="text-align:center;"| 22 || [[Olive Deering]] || style="text-align:center;"| 67 || style="text-align:center;"| USA || style="text-align:center;"| Actress || ''[[The Ten Commandments (1956 film)|The Ten Commandments]]'' • ''[[Gentleman's Agreement]]'' • ''[[Samson and Delilah (1949 film)|Samson and Delilah]]'' • ''[[Caged]]'' • ''[[Shock Treatment (1964 film)|Shock Treatment]]''
+|-
+| style="text-align:center;"| 22 || [[Charles Starrett]] || style="text-align:center;"| 82 || style="text-align:center;"| USA || style="text-align:center;"| Actor, Soundtrack || ''[[The Mask of Fu Manchu]]'' • ''[[Our Betters]]'' • ''[[The Royal Family of Broadway]]'' • ''[[This Man Is Mine (1934 film)|This Man Is Mine]]'' • ''[[Start Cheering]]''
+|-
+| style="text-align:center;"| 22 || [[Derek Farr]] || style="text-align:center;"| 74 || style="text-align:center;"| UK || style="text-align:center;"| Actor || ''[[The Dam Busters (film)|The Dam Busters]]'' • ''[[The Projected Man]]'' • ''[[Doctor at Large (film)|Doctor at Large]]'' • ''[[Q Planes]]'' • ''[[Pope Joan (1972 film)|Pope Joan]]''
+|-
+| style="text-align:center;"| ''30'' || [[James Cagney]] || style="text-align:center;"| 82 || style="text-align:center;"| USA || style="text-align:center;"| Actor, Producer || ''[[White Heat]]'' • ''[[Angels with Dirty Faces]]'' • ''[[The Public Enemy]]'' • ''[[The Roaring Twenties]]'' • ''[[Yankee Doodle Dandy]]'' • ''[[The Oklahoma Kid]]'' • ''[[Tribute to a Bad Man]]'' • ''[[Love Me or Leave Me (film)|Love Me or Leave Me]]'' • ''[[One, Two, Three]]'' • ''[[Mister Roberts (1955 film)|Mister Roberts]]'' • ''[[Man of a Thousand Faces]]'' • ''[[Shake Hands with the Devil (1959 film)|Shake Hands with the Devil]]'' • ''[[Ragtime (film)|Ragtime]]''
+|-
+||| style="text-align:center;"| 31 || [[Jerry Paris]] || style="text-align:center;"| 60 || style="text-align:center;"| USA || style="text-align:center;"| Actor, Director || ''[[Marty (film)|Marty]]'' • ''[[The Caine Mutiny (film)|The Caine Mutiny]]'' • ''[[Career (film)|Career]]'' • ''[[Never a Dull Moment (1968 film)|Never a Dull Moment]]'' • ''[[The Grasshopper (film)|The Grasshopper]]'' • ''[[Don't Raise the Bridge, Lower the River]]''
+|-
+| rowspan="5"  style="text-align:center; vertical-align:top;"| <span style="font-size:100%;"> '''April'''</span>
+| style="text-align:center;"| ''13'' || [[Stephen Stucker]] || style="text-align:center;"| 38 || style="text-align:center;"| USA || style="text-align:center;"| Actor, Soundtrack || ''[[Airplane!]]'' • ''[[Trading Places]]''
+|-
+| style="text-align:center;"| ''21'' || [[Marjorie Eaton]] || style="text-align:center;"| 85 || style="text-align:center;"| USA || style="text-align:center;"| Actress || ''[[Mary Poppins (film)|Mary Poppins]]'' • ''[[Harold and Maude]]'' • ''[[Witness for the Prosecution (1957 film)|Witness for the Prosecution]]''
+|-
+| style="text-align:center;"| ''23'' || [[Otto Preminger]] || style="text-align:center;"| 80 || style="text-align:center;"| USA || style="text-align:center;"| Director, Producer, Actor || ''[[Anatomy of a Murder]]'' • ''[[Laura (1944 film)|Laura]]'' • ''[[River of No Return]]'' • ''[[Exodus (1960 film)|Exodus]]'' • ''[[The Man with the Golden Arm]]'' • ''[[In Harm's Way]]'' • ''[[Where the Sidewalk Ends]]'' • ''[[Advise and Consent]]'' • ''[[Angel Face (1952 film)|Angel Face]]'' • ''[[Bunny Lake Is Missing]]'' • ''[[Carmen Jones (film)|Carmen Jones]]'' • ''[[Bonjour tristesse (film)|Bonjour tristesse]]'' • ''[[Fallen Angel (1945 film)|Fallen Angel]]'' • ''[[Stalag 17]]''
+|-
+| style="text-align:center;"| ''26'' || [[Broderick Crawford]] || style="text-align:center;"| 74 || style="text-align:center;"| USA || style="text-align:center;"| Actor, Producer || ''[[All the King's Men (1949 film)|All the King's Men]]'' • ''[[Born Yesterday (1950 film)|Born Yesterday]]'' • ''[[Night People (film)|Night People]]'' • ''[[Scandal Sheet (1952 film)|Scandal Sheet]]'' • ''[[The Fastest Gun Alive]]'' • ''[[Lone Star (1952 film)|Lone Star]]'' • ''[[The Last Posse]]'' • ''[[Convicted (1950 film)|Convicted]]'' • ''[[The Oscar (film)|The Oscar]]'' • ''[[The Private Files of J. Edgar Hoover]]''
+|-
+| style="text-align:center;"| ''26'' || [[Gregory Hobal]] || style="text-align:center;"| ?? || style="text-align:center;"| UK || style="text-align:center;"| Stuntman, Actor || ''[[A Bridge Too Far (film)|A Bridge Too Far]]''
+|-
+||| style="text-align:center;"| ''26'' || [[Bessie Love]]|| style="text-align:center;"| 87 || style="text-align:center;"| UK || style="text-align:center;"| Actress, Soundtrack, Advisor || ''[[On Her Majesty's Secret Service (film)|On Her Majesty's Secret Service]]'' • ''[[Reds (film)|Reds]]'' • ''[[The Hunger (1983 film)|The Hunger]]'' • ''[[Intolerance (film)|Intolerance]]'' • ''[[The Barefoot Contessa]]''
+|-
+||| style="text-align:center;"| ''30'' || [[Robert Stevenson (director)|Robert Stevenson]]|| style="text-align:center;"| 81 || style="text-align:center;"| USA || style="text-align:center;"| Director || ''[[Mary Poppins (film)|Mary Poppins]]'' • ''[[Bedknobs and Broomsticks]]'' • ''[[The Love Bug]]'' • ''[[Old Yeller (film)|Old Yeller]]'' • ''[[Jane Eyre (1943 film)|Jane Eyre]]'' • ''[[The Absent-Minded Professor]]'' • ''[[Darby O'Gill and the Little People]]'' • ''[[Herbie Rides Again]]'' • ''[[That Darn Cat! (1965 film)|That Darn Cat!]]'' • ''[[Blackbeard's Ghost]]'' • ''[[In Search of the Castaways (film)|In Search of the Castaways]]''
+|-
+| rowspan="1"  style="text-align:center; vertical-align:top;"| <span style="font-size:100%;"> '''May'''</span>
+| style="text-align:center;"| ''3'' || [[Robert Alda]] || style="text-align:center;"| 72 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[Rhapsody in Blue (film)|Rhapsody in Blue]]'' • ''[[Imitation of Life (1959 film)|Imitation of Life]]'' • ''[[The Man I Love (1947 film)|The Man I Love]]'' • ''[[The Beast with Five Fingers]]'' • ''[[Cloak and Dagger (1946 film)|Cloak and Dagger]]''
+|-
+||| style="text-align:center;"| ''14'' || [[William Lindsay (actor)|William Lindsay]] || style="text-align:center;"| 40 || style="text-align:center;"| UK || style="text-align:center;"| Actor || ''[[Lifeforce (film)|Lifeforce]]''
+|-
+||| style="text-align:center;"| ''22'' || [[Martin Gabel]] || style="text-align:center;"| 73 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[Deadline - U.S.A.]]'' • ''[[The Front Page (1974 film)|The Front Page]]'' • ''[[Marnie (film)|Marnie]]'' • ''[[Goodbye Charlie]]'' • ''[[Divorce American Style]]'' • ''[[Lady in Cement]]'' • ''[[The First Deadly Sin]]''
+|-
+||| style="text-align:center;"| ''23'' || [[Sterling Hayden]] || style="text-align:center;"| 70 || style="text-align:center;"| USA || style="text-align:center;"| Actor|| ''[[The Godfather]]'' • ''[[Dr. Strangelove|Doctor Strangelove]]'' • ''[[The Killing (film)|The Killing]]'' • ''[[1900 (film)|1900]]'' • ''[[The Asphalt Jungle]]'' • ''[[The Long Goodbye (film)|The Long Goodbye]]'' • ''[[Johnny Guitar]]'' • ''[[So Big (1953 film)|So Big]]'' • ''[[Suddenly (1954 film)|Suddenly]]'' • ''[[Zero Hour!]]'' • ''[[Prince Valiant (1954 film)|Prince Valiant]]'' • ''[[Kansas Pacific (film)|Kansas Pacific]]'' • ''[[Crime Wave (1954 film)|Crime Wave]]'' • ''[[The Last Command (1955 film)|The Last Command]]'' • ''[[King of the Gypsies]]'' • ''[[9 to 5 (film)|9 to 5]]''
+|-
+||| style="text-align:center;"| ''31'' || [[Sylvia Coleridge]] || style="text-align:center;"| 76 || style="text-align:center;"| UK || style="text-align:center;"| Actress || ''[[Tess (film)|Tess]]''
+|-
+| rowspan="4" style="text-align:center; vertical-align:top;"| <span style="font-size:100%;"> '''June'''</span>
+| style="text-align:center;"| ''3'' || [[Anna Neagle]] || style="text-align:center;"| 81 || style="text-align:center;"| UK || style="text-align:center;"| Actress, Producer || ''[[Forever and a Day (1943 film)|Forever and a Day]]''
+|-
+| style="text-align:center;"| ''11'' || [[Reed De Rouen]] || style="text-align:center;"| 69 || style="text-align:center;"| UK || style="text-align:center;"| Actor || ''[[The Third Man]]'' • ''[[Billion Dollar Brain]]'' • ''[[The One That Got Away (film)|The One That Got Away]]'' • ''[[The Sheriff of Fractured Jaw]]'' • ''[[John Paul Jones (film)|John Paul Jones]]'' • ''[[You Can't Win 'Em All]]'' • ''[[Sea Devils]]''
+|-
+| style="text-align:center;"| ''13'' || [[Benny Goodman]] || style="text-align:center;"| 77 || style="text-align:center;"| USA || style="text-align:center;"| Actor, Soundtrack || ''[[A Song Is Born]]''
+|-
+| style="text-align:center;"| ''23'' || [[Nigel Stock (actor)|Nigel Stock]] || style="text-align:center;"| 66 || style="text-align:center;"| UK || style="text-align:center;"| Actor || ''[[The Great Escape (film)|The Great Escape]]''
+|-
+||| style="text-align:center;"| ''30'' || [[Margalo Gillmore]] || style="text-align:center;"| 89 || style="text-align:center;"| UK || style="text-align:center;"| Actress || ''[[Upstairs and Downstairs]]''
+|-
+| rowspan="2"  style="text-align:center; vertical-align:top;"|  <span style="font-size:100%;"> '''July'''</span>
+| style="text-align:center;"| ''3'' || [[Rudy Vallee]] || style="text-align:center;"| 84 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[How to Succeed in Business Without Really Trying (film)|How to Succeed in Business Without Really Trying]]'' • ''[[The Palm Beach Story]]'' • ''[[Unfaithfully Yours (1948 film)|Unfaithfully Yours]]'' • ''[[The Bachelor and the Bobby-Soxer]]'' • ''[[My Dear Secretary]]'' • ''[[Father was a Fullback]]'' • ''[[Mother Is a Freshman]]'' • ''[[Live a Little, Love a Little]]''
+|-
+| style="text-align:center;"| ''14'' || [[Graham Freeborn]] || style="text-align:center;"| ?? || style="text-align:center;"| UK || style="text-align:center;"| Makeup Artist || ''[[Star Wars Episode IV: A New Hope|Star Wars]]'' • ''[[Star Wars Episode V: The Empire Strikes Back|The Empire Strikes Back]]'' • ''[[Star Wars Episode VI: Return of the Jedi|Return of the Jedi]]'' • ''[[2001: A Space Odyssey (film)|2001: A Space Odyssey]]'' • ''[[Superman (1978 film)|Superman]]'' • ''[[Highlander (film)|Highlander]]'' • ''[[The Rocky Horror Picture Show]]'' • ''[[Superman II]]'' • ''[[The Man with the Golden Gun (film)|The Man with the Golden Gun]]'' • ''[[Lifeforce (film)|Lifeforce]]'' • ''[[Dragonslayer]]''
+|-
+||| style="text-align:center;"| ''19'' || [[Daniel L. Fapp]] || style="text-align:center;"| 82 || style="text-align:center;"| USA || style="text-align:center;"| Cinematographer || ''[[The Great Escape (film)|The Great Escape]]'' • ''[[West Side Story (film)|West Side Story]]'' • ''[[One, Two, Three]]'' • ''[[Ice Station Zebra]]'' • ''[[The Big Clock (film)|The Big Clock]]'' • ''[[Let's Make Love]]'' • ''[[Our Man Flint]]'' • ''[[Send Me No Flowers]]'' • ''[[Marooned (film)|Marooned]]'' • ''[[Move Over, Darling]]'' • ''[[The Unsinkable Molly Brown (film)|The Unsinkable Molly Brown]]'' • ''[[Artists and Models]]'' • ''[[5 Card Stud]]'' • ''[[Fun in Acapulco]]'' • ''[[Union Station (film)|Union Station]]'' • ''[[To Each His Own (film)|To Each His Own]]''
+|-
+||| style="text-align:center;"| ''25'' || [[Vincente Minnelli]] || style="text-align:center;"| 83 || style="text-align:center;"| USA || style="text-align:center;"| Director || ''[[The Band Wagon]]'' • ''[[Gigi (1958 film)|Gigi]]'' • ''[[An American in Paris (film)|An American in Paris]]'' • ''[[Meet Me in St. Louis (film)|Meet Me in St. Louis]]'' • ''[[The Bad and the Beautiful]]'' • ''[[On a Clear Day You Can See Forever (film)|On a Clear Day You Can See Forever]]'' • ''[[Brigadoon (film)|Brigadoon]]'' • ''[[The Long, Long Trailer]]'' • ''[[Some Came Running]]''
+|-
+| rowspan="3" style="text-align:center; vertical-align:top;"| <span style="font-size:100%;"> '''August'''</span>
+| style="text-align:center;"| ''6'' || [[Emilio Fernández]] || style="text-align:center;"| 82 || style="text-align:center;"| Mexico || style="text-align:center;"| Actor, Director || ''[[María Candelaria]]'' • ''[[La perla (film)|La perla]]'' • ''[[The Night of the Iguana (film)|The Night of the Iguana]]'' • ''[[Return of the Seven]]'' • ''[[The Appaloosa]]'' • ''[[The Wild Bunch]]'' • ''[[Bring Me the Head of Alfredo Garcia]]''
+|-
+| style="text-align:center;"| ''13'' || [[Helen Mack]] || style="text-align:center;"| 72 || style="text-align:center;"| USA || style="text-align:center;"| Actress || ''[[The Son of Kong]]''
+|-
+| style="text-align:center;"| ''19'' || [[Hermione Baddeley]] || style="text-align:center;"| 79 || style="text-align:center;"| USA || style="text-align:center;"| Actress, Soundtrack || ''[[Mary Poppins (film)|Mary Poppins]]'' • ''[[The Aristocats]]''
+|-
+| rowspan="2" style="text-align:center; vertical-align:top;"| <span style="font-size:100%;"> '''September'''</span>
+| style="text-align:center;"| ''1'' || [[Murray Hamilton]] || style="text-align:center;"| 63 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[Jaws (film)|Jaws]]'' • ''[[The Graduate]]'' • ''[[The Hustler (film)|The Hustler]]'' • ''[[Jaws 2]]'' • ''[[Anatomy of a Murder]]'' • ''[[The Amityville Horror (1979 film)|The Amityville Horror]]'' • ''[[1941 (film)|1941]]'' • ''[[The Way We Were]]'' • ''[[Brubaker]]'' • ''[[Seconds (film)|Seconds]]'' • ''[[The Boston Strangler (film)|The Boston Strangler]]'' • ''[[Houseboat (film)|Houseboat]]'' • ''[[No Time for Sergeants (film)|No Time for Sergeants]]'' • ''[[Casey's Shadow]]'' • ''[[The Drowning Pool (film)|The Drowning Pool]]''
+|-
+| style="text-align:center;"| ''28'' || [[Denis Carey (actor)|Denis Carey]] || style="text-align:center;"| 77 || style="text-align:center;"| UK || style="text-align:center;"| Actor || ''[[Psychomania]]'' • ''[[The Day of the Jackal (film)|The Day of the Jackal]]''
+|-
+||| style="text-align:center;"| ''28'' || [[Robert Helpmann]] || style="text-align:center;"| 77 || style="text-align:center;"| Australia || style="text-align:center;"| Actor, Director || ''[[Chitty Chitty Bang Bang]]'' • ''[[The Red Shoes (1948 film)|The Red Shoes]]'' • ''[[Henry V (1944 film)|Henry V]]'' • ''[[55 Days at Peking]]'' • ''[[The Quiller Memorandum]]''
+|-
+||| style="text-align:center;"| ''30'' || [[Ben Dova]] || style="text-align:center;"| 81 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[Marathon Man (film)|Marathon Man]]'' • ''[[Dear Mr. Wonderful]]''
+|-
+| rowspan="5" style="text-align:center; vertical-align:top;"| <span style="font-size:100%;"> '''October'''</span>
+| style="text-align:center;"| ''?'' || [[George Blackler]] || style="text-align:center;"| 74 || style="text-align:center;"| UK || style="text-align:center;"| Makeup Artist || ''[[The Red Shoes (1948 film)|The Red Shoes]]'' • ''[[Great Expectations (1946 film)|Great Expectations]]'' • ''[[Black Narcissus]]'' • ''[[Tommy (1975 film)|Tommy]]'' • ''[[A Matter of Life and Death (film)|A Matter of Life and Death]]'' • ''[[The Life and Death of Colonel Blimp]]'' • ''[[Oliver Twist (1948 film)|Oliver Twist]]'' • ''[[Theatre of Blood]]'' • ''[[49th Parallel (film)|49th Parallel]]'' • ''[[The Importance of Being Earnest (1952 film)|The Importance of Being Earnest]]'' • ''[[The Satanic Rites of Dracula]]'' • ''[[A Canterbury Tale]]'' • ''[[Dracula A.D. 1972]]'' • ''[[The Tomb of Ligeia]]'' • ''[[Operation Crossbow (film)|Operation Crossbow]]'' • ''[[Twins of Evil]]'' • ''[[The Million Pound Note]]''''
+|-
+| style="text-align:center;"| ''5'' || [[Hal B. Wallis]] || style="text-align:center;"| 88 || style="text-align:center;"| USA || style="text-align:center;"| Producer || ''[[The Petrified Forest]]'' • ''[[Dark Victory]]'' • ''[[Casablanca (film)|Casablanca]]'' • ''[[True Grit (1969 film)|True Grit]]''
+|-
+| style="text-align:center;"| ''6'' || [[Dottie Catching]] || style="text-align:center;"| ?? || style="text-align:center;"| USA || style="text-align:center;"| Stuntman, Actor || ''[[Blazing Saddles]]'' • ''[[Logan's Run (film)|Logan's Run]]'' • ''[[Earthquake (film)|Eartquake]]'' • ''[[Alligator (film)|Alligator]]''
+|-
+| style="text-align:center;"| ''14'' || [[Keenan Wynn]] || style="text-align:center;"| 70 || style="text-align:center;"| USA || style="text-align:center;"| Actor, Soundtrack || ''[[Neptune's Daughter (1949 film)|Neptune's Daughter]]'' • ''[[Kiss Me Kate (film)|Kiss Me Kate]]'' • ''[[Dr. Strangelove|Doctor Strangelove]]'' • ''[[The Man in the Gray Flannel Suit]]'' • ''[[Finian's Rainbow (film)|Finian's Rainbow]]'' • ''[[Nashville (film)|Nashville]]'' • ''[[Angels in the Outfield (1951 film)|Angels in the Outfield]]'' • ''[[Point Blank (1967 film)|Point Blank]]'' • ''[[The Great Race]]'' • ''[[The Mechanic (1972 film)|The Mechanic]]'' • ''[[Orca (film)|Orca]]'' • ''[[The War Wagon]]'' • ''[[Best Friends (1982 film)|Best Friends]]''
+|-
+| style="text-align:center;"| ''14'' || [[Spec O'Donnell]] || style="text-align:center;"| 75 || style="text-align:center;"| USA || style="text-align:center;"| Actor, Soundtrack, Stunts || ''[[Here's Flash Casey]]'' • ''[[Blonde Trouble]]''
+|-
+||| style="text-align:center;"| ''25'' || [[Forrest Tucker]] || style="text-align:center;"| 67 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[Sands of Iwo Jima]]'' • ''[[The Yearling (film)|The Yearling]]'' • ''[[Pony Express (film)|Pony Express]]'' • ''[[Never Say Goodbye (1946 film)|Never Say Goodbye]]'' • ''[[Rage at Dawn]]'' • ''[[The Nevadan]]'' • ''[[Auntie Mame (film)|Auntie Mame]]'' • ''[[Chisum]]''
+|-
+||| style="text-align:center;"| ''28'' || [[Ian Marter]] || style="text-align:center;"| 42 || style="text-align:center;"| UK || style="text-align:center;"| Actor || ''[[The Abominable Dr. Phibes]]'' • ''[[The Medusa Touch (film)|The Medusa Touch]]''
+|-
+| rowspan="3"  style="text-align:center; vertical-align:top;"| <span style="font-size:100%;"> '''November'''</span>
+| style="text-align:center;"| ''21'' || [[Dar Robinson]] || style="text-align:center;"| 39 || style="text-align:center;"| USA || style="text-align:center;"| Stuntman, Actor || ''[[Lethal Weapon]]'' • ''[[Airplane!]]'' • ''[[Police Academy (film)|Police Academy]]'' • ''[[Papillon (film)|Papillon]]'' • ''[[Magnum Force]]'' • ''[[Logan's Run (film)|Logan's Run]]''
+|-
+| style="text-align:center;"| ''22'' || [[Scatman Crothers]] || style="text-align:center;"| 76 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[The Shining (film)|The Shining]]'' • ''[[The Shootist]]'' • ''[[Twilight Zone: The Movie]]'' • ''[[Silver Streak (film)|Silver Streak]]'' • ''[[The Aristocats]]'' • ''[[Bronco Billy]]''
+|-
+| style="text-align:center;"| ''29'' || [[Herb Vigran]] || style="text-align:center;"| 76 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[Airplane!]]'' • ''[[20,000 Leagues Under the Sea (1954 film)|20,000 Leagues Under the Sea]]'' • ''[[White Christmas (film)|White Christmas]]'' • ''[[Charlotte's Web (1973 film)|Charlotte's Web]]'' • ''[[Monsieur Verdoux]]'' • ''[[The Love Bug]]''
+|-
+||| style="text-align:center;"| ''29'' || [[John Morton (actor)|John Morton]] || style="text-align:center;"| ?? || style="text-align:center;"| UK || style="text-align:center;"| Actor || ''[[The Empire Strikes Back]]'' • ''[[Superman II]]'' • ''[[A Bridge Too Far (film)|A Bridge Too Far]]'' • ''[[Flash Gordon (film)|Flash Gordon]]'' • ''[[The Gumball Rally]]''
+|-
+||| style="text-align:center;"| ''29'' || [[Cary Grant]] || style="text-align:center;"| 82 || style="text-align:center;"| USA || style="text-align:center;"| Actor, Soundtrack || ''[[North by Northwest]]'' • ''[[Charade (1963 film)|Charade]]'' • ''[[Notorious (1946 film)|Notorious]]'' • ''[[His Girl Friday]]'' • ''[[Suspicion (1941 film)|Suspicion]]'' • ''[[That Touch of Mink]]'' • ''[[To Catch a Thief]]'' • ''[[Monkey Business (1952 film)|Monkey Business]]'' • ''[[The Bishop's Wife]]'' • ''[[I Was a Male War Bride]]'' • ''[[Mr. Blandings Builds His Dream House]]'' • ''[[Arsenic and Old Lace (film)|Arsenic and Old Lace]]'' • ''[[My Favorite Wife]]'' • ''[[Bringing Up Baby]]'' • ''[[The Awful Truth]]'' • ''[[Kiss Them for Me (film)|Kiss Them for Me]]'' • ''[[Crisis (1950 film)|Crisis]]'' • ''[[The Talk of the Town (1942 film)|The Talk of the Town]]'' • ''[[Mr. Lucky (film)|Mr. Lucky]]'' • ''[[Holiday (1938 film)|Holiday]]'' • ''[[Night and Day (1946 film)|Night and Day]]'' • ''[[People Will Talk]]'' • ''[[The Pride and the Passion]]'' • ''[[Operation Petticoat]]'' • ''[[She Done Him Wrong]]'' • ''[[Gunga Din (film)|Gunga Din]]'' • ''[[Houseboat (film)|Houseboat]]'' • ''[[Father Goose (film)|Father Goose]]'' • ''[[Indiscreet (1958 film)|Indiscreet]]'' • ''[[The Grass Is Greener]]'' • ''[[Walk, Don't Run]]''
+|-
+| rowspan="9"  style="text-align:center; vertical-align:top;"| <span style="font-size:100%;"> '''December'''</span>
+| style="text-align:center;"| ''1'' || [[Paul Curran (actor)|Paul Curran]] || style="text-align:center;"| 73 || style="text-align:center;"| UK || style="text-align:center;"| Actor, Soundtrack || ''[[Jabberwocky (film)|Jabberwocky]]'' • ''[[Jesus of Nazareth (miniseries)|Jesus of Nazareth]]'' • ''[[The Human Factor (1979 film)|The Human Factor]]'' • ''[[The Doctor and the Devils]]''
+|-
+| style="text-align:center;"| ''2'' || [[Ken Scott]] || style="text-align:center;"| 26 || style="text-align:center;"| UK || style="text-align:center;"| Actress || ''[[Fantastic Voyage]]'' • ''[[The Three Faces of Eve]]'' • ''[[The Bravados]]''
+|-
+| style="text-align:center;"| ''2'' || [[Desi Arnaz]] || style="text-align:center;"| 69 || style="text-align:center;"| Cuba || style="text-align:center;"| Actor || ''[[The Long, Long Trailer]]'' • ''[[Forever, Darling]]'' • ''[[Bataan (film)|Bataan]]'' • ''[[Too Many Girls (film)|Too Many Girls]]''
+|-
+| style="text-align:center;"| ''4'' || [[Suzanne Jerome]] || style="text-align:center;"| 26 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[Octopussy]]''
+|-
+| style="text-align:center;"| ''11'' || [[Maurice Askew]] || style="text-align:center;"| 70 || style="text-align:center;"| UK || style="text-align:center;"| Sound Effects Editing || ''[[Thunderball (film)|Thunderball]]'' • ''[[On Her Majesty's Secret Service (film)|On Her Majesty's Secret Service]]'' • ''[[Romeo and Juliet (1968 film)|Romeo and Juliet]]'' • ''[[Chitty Chitty Bang Bang (film)|Chitty Chitty Bang Bang]]'' • ''[[The Ipcress File (film)|The Ipcress File]]'' • ''[[The Day of the Triffids (film)|The Day of the Triffids]]'' • ''[[Women in Love (film)|Women in Love]]'' • ''[[The Grass Is Greener]]'' • ''[[The Boy Friend (1971 film)|The Boy Friend]]'' • ''[[Frankenstein and the Monster from Hell]]''
+|-
+| style="text-align:center;"| ''11'' || [[Constance Willis]] || style="text-align:center;"| ?? || style="text-align:center;"| UK || style="text-align:center;"| Continuity, Script Supervisor || ''[[Vertigo (film)|Vertigo]]'' • ''[[Goldfinger (film)|Goldfinger]]'' • ''[[A Bridge Too Far (film)|A Bridge Too Far]]'' • ''[[The Man Who Knew Too Much (1956 film)|The Man Who Knew Too Much]]'' • ''[[A Man for All Seasons (1966 film)|A Man for All Seasons]]'' • ''[[The Return of the Pink Panther]]'' • ''[[A Shot in the Dark (1964 film)|A Shot in the Dark]]'' • ''[[Death on the Nile (1978 film)|Death on the Nile]]'' • ''[[Death Wish 3]]''
+|-
+| style="text-align:center;"| ''13'' || [[Heather Angel (actress)|Heather Angel]] || style="text-align:center;"| 77 || style="text-align:center;"| UK || style="text-align:center;"| Actress || ''[[Alice in Wonderland (1951 film)|Alice in Wonderland]]'' • ''[[The Last of the Mohicans (1936 film)|The Last of the Mohicans]]'' • ''[[Pride and Prejudice (1940 film)|Pride and Prejudice]]'' • ''[[Suspicion (1941 film)|Suspicion]]'' • ''[[Charlie Chan's Greatest Case]]'' • ''[[Arrest Bulldog Drummond]]'' • ''[[Lifeboat (film)|Lifeboat]]''
+|-
+| style="text-align:center;"| ''22'' || [[Harvey Stephens]] || style="text-align:center;"| 85 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[North by Northwest]]'' • ''[[Sergeant York (film)|Sergeant York]]'' • ''[[The Young Lions]]'' • ''[[Beau Geste]]'' • ''[[The Bat (1959 film)|The Bat]]'' • ''[[The Oklahoma Kid]]'' • ''[[The Fighting 69th]]''
+|-
+| style="text-align:center;"| ''25'' || [[George Newman (wardrobe supervisor)|George Newman]] || style="text-align:center;"| ?? || style="text-align:center;"| USA|| style="text-align:center;"| Wardrobe Supervisor || ''[[The Godfather]]'' • ''[[The Godfather Part II]]'' • ''[[Annie Hall]]'' • ''[[Network (film)|Network]]'' • ''[[The Taking of Pelham One Two Three (1974 film)|The Taking of Pelham One Two Three]]'' • ''[[Splendor in the Grass]]'' • ''[[The Stepford Wives (1975 film)|The Stepford Wives]]'' • ''[[The Panic in Needle Park]]''
+|-
+||| style="text-align:center;"| ''26'' || [[Elsa Lanchester]] || style="text-align:center;"| 84 || style="text-align:center;"| UK || style="text-align:center;"| Actress || ''[[Mary Poppins (film)|Mary Poppins]]'' • ''[[Witness for the Prosecution (1957 film)|Witness for the Prosecution]]'' • ''[[Bride of Frankenstein]]'' • ''[[Murder by Death]]'' • ''[[The Bishop's Wife]]'' • ''[[Bell, Book and Candle]]'' • ''[[The Big Clock (film)|The Big Clock]]'' • ''[[The Spiral Staircase (1946 film)|The Spiral Staircase]]''
+|-
+||| style="text-align:center;"| ''28'' || [[Andrei Tarkovsky]] || style="text-align:center;"| 54 || style="text-align:center;"| Soviet Union || style="text-align:center;"| Director || ''[[Andrei Rublev (film)|Andrei Rublev]]'' • ''[[Solaris (1972 film)|Solaris]]'' • ''[[The Mirror (1975 film)|The Mirror]]'' • ''[[Stalker (1979 film)|Stalker]]''
+|}
+
+== Film debuts ==
+* [[Christian Bale]] - ''[[Anastasia: The Mystery of Anna]]''
+* [[Angela Bassett]] - ''[[F/X]]''
+* [[Sean Bean]] - ''[[Caravaggio (film)|Caravaggio]]''
+* [[Kate Burton (actress)|Kate Burton]] - ''[[Big Trouble in Little China]]''
+* [[Steve Buscemi]] - ''[[Parting Glances]]''
+* [[Tia Carrere]] - ''[[Zombie Nightmare]]''
+* [[Fergie (singer)|Stacy Ferguson]] - ''[[Monster in the Closet]]''
+* [[Woody Harrelson]] - ''[[Wildcats (film)|Wildcats]]''
+* [[Thomas Jane]] - ''[[Padamati Sandhya Ragam]]''
+* [[Catherine Keener]] - ''[[About Last Night...]]''
+* [[Jennifer Lopez]] - ''[[My Little Girl]]''
+* [[Marlee Matlin]] - ''[[Children of a Lesser God]]''
+* [[Janet McTeer]] - ''[[Half Moon Street]]''
+* [[S. Epatha Merkerson]] - ''[[She's Gotta Have It]]''
+* [[Jerry O'Connell]] - ''[[Stand by Me (film)|Stand by Me]]''
+* [[Miranda Otto]] - ''[[Emma's War]]''
+* [[Elizabeth Perkins]] - ''About Last Night...''
+* [[Joaquin Phoenix]] - ''[[SpaceCamp]]''
+* [[Jeremy Piven]] - ''[[Lucas (film)|Lucas]]''
+* [[Bill Pullman]] - ''[[Ruthless People]]''
+* [[Ving Rhames]] - ''[[Native Son]]''
+* [[Winona Ryder]] - ''Lucas''
+* [[Kristin Scott Thomas]] - ''[[Under the Cherry Moon]]''
+* [[Tony Shalhoub]] - ''[[Heartburn (film)|Heartburn]]''
+* [[Jimmy Smits]] - ''[[Running Scared (1986 film)|Running Scared]]''
+* [[Wesley Snipes]] - ''Wildcats''
+* [[Kevin Spacey]] - ''Heartburn''
+* [[Imelda Staunton]] - ''[[Comrades (film)|Comrades]]''
+* [[Tilda Swinton]] - ''[[Caravaggio (film)|Caravaggio]]''
+* [[Cary-Hiroyuki Tagawa]] - ''[[Armed Response (film)|Armed Response]]''
+* [[Naomi Watts]] - ''[[For Love Alone]]''
+* [[Bradley Whitford]] - ''Doorman''
+
+==See also==
+* [[List of American films of 1986]]
+* [[British films of 1986]]
+* [[French films of 1986]]
+* [[List of German films: 1980s]]
+* [[Bollywood films of 1986]]
+* [[Italian films of 1986]]
+* [[Japanese films of 1986]]
+* [[Swedish films of the 1980s]]
+
+== References ==
+{{reflist}}
+
+{{DEFAULTSORT:1986 In Film}}
+[[Category:Years in film]]
+[[Category:1986 in film| ]]

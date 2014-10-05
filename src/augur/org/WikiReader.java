@@ -20,13 +20,22 @@ public class WikiReader {
 
 	/**
 	 * @param args
-	 * @throws IOException
+	 * @throws Exception
 	 */
-	public static void main(String[] args) throws IOException {
-		//Wiki reader = new Wiki();
-		//String pageTitle = "Augur";
+	public static void main(String[] args) throws Exception {
+		// Wiki reader = new Wiki();
+		// String pageTitle = "Augur";
 		// System.out.println(reader.getPageText(pageTitle));
-		findMoviesByYear(2012);
+
+		List<String> movieList = new ArrayList<String>();
+
+		for (int i = 1950; i < 2014; i++) {
+			movieList.addAll(findMoviesByYear(i));
+		}
+
+		dumpToLog(String.join("\n", movieList), "movieList.txt");
+
+		// findMoviesByYear(2012);
 	}
 
 	/**
@@ -34,40 +43,70 @@ public class WikiReader {
 	 * 
 	 * @param year
 	 * @return The list of wikipedia movie URLs
-	 * @throws IOException 
+	 * @throws Exception
 	 */
-	public static List<String> findMoviesByYear(int year) throws IOException {
-		List<String> movieUrlList = new ArrayList<String>();
+	public static List<String> findMoviesByYear(int year) throws Exception {
 		Wiki reader = new Wiki();
 		String pageTitle = year + " in film";
 		String pageText = reader.getPageText(pageTitle);
-		
-		String table = getMovieByYearTable(pageText, year);
-		String Xml = wikiTableToXml(table);
-		
-//		 System.out.println(pageText);
-		
-		return movieUrlList;
+
+		if (!reader.exists(new String[] { pageTitle })[0]) {
+			return new ArrayList<>();
+		}
+
+		List<String> table = getMovieByYearTable(pageText, year);
+		// String Xml = wikiTableToXml(table);
+
+		// System.out.println(pageText);
+
+		return table;
 	}
 
-	private static String getMovieByYearTable(String pageText, int year) throws IOException {
-		dumpToLog(pageText, "movies.txt");
-		return null;
+	private static List<String> getMovieByYearTable(String pageText, int year) throws IOException {
+		dumpToLog(pageText, "movies" + year + ".txt");
+		int i, begin = 0, end = 0;
+		List<String> table = new ArrayList<String>();
+
+		String[] lines = pageText.split("\\n");
+		for (i = 0; i < lines.length; i++) {
+			if (lines[i].contains("==" + year + " films==")) {
+				begin = i;
+			}
+			if(lines[i].contains("==Notable films released in " + year + "=="))
+			{
+				begin = i;
+			}
+			if(lines[i].contains("== " + year + " Wide-release films =="))
+			{
+				begin = i;
+			}
+			if (lines[i].contains("==") && (lines[i].contains("Births") || lines[i].contains("death")) && (i > begin) && (begin != 0)) {
+				end = i - 1;
+				break;
+			}
+		}
+		if (begin == end) {
+			return table;
+		}
+		for (i = begin; i < end; i++) {
+			if (lines[i].contains("\'\'[[")) {
+				String[] line = lines[i].split("\\|\\|", -1);
+				String[] movie = line[0].split("\\[\\[");
+				if (movie[1].contains("|")) {
+					String[] movieTitle = movie[1].split("\\|");
+					table.add(movieTitle[0]);
+				} else {
+					String[] movieTitle = movie[1].split("]]");
+					table.add(movieTitle[0]);
+				}
+			}
+		}
+		return table;
 	}
 
-	private static void dumpToLog(String text, String filePath) throws IOException {
+	private static void dumpToLog(String text, String filePath)
+			throws IOException {
 		Path file = Paths.get(filePath);
 		Files.write(file, text.getBytes());
 	}
-
-	/**
-	 * Converts the string wiki table to parse-able XML
-	 * @param text the table text
-	 * @return the XML string
-	 */
-	private static String wikiTableToXml(String text) {
-		
-		return null;
-	}
-
 }
