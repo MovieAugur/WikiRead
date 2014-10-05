@@ -29,7 +29,7 @@ public class WikiReader {
 
 		List<String> movieList = new ArrayList<String>();
 
-		for (int year = 1950; year < 2014; year++) {
+		for (int year = 1940; year < 2014; year++) {
 			List<String> yearList = findMoviesByYear(year);
 			movieList.addAll(yearList);
 			dumpToLog(String.join("\n", yearList), "log\\movies" + year + ".txt");
