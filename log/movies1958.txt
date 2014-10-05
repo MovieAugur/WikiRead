@@ -1,404 +1,194 @@
-{{Year nav topic5|1958|film|television|radio }}
-{{Yearsinfilm}} <!-- SIDEBAR NAV-BOX -->
-The year '''1958 in film''' involved some significant events.
-
-==Events==
-* February 16 - "[[In the Money]]" by William Beaudine is released on this date. It would be the last installment of [[The Bowery Boys]] series which began back in 1946.
-* The second instalment of Sergei Eisenstein's [[Ivan the Terrible (film)|Ivan the Terrible]] is officially released, having previously been shelved for political reasons. It would be the last of Eisenstein's Ivan the Terrible trilogy as the director died during production on part III.
-* May 15 - As the twilight of the movie musical was declining from people's interest and taste, [[Metro-Goldwyn-Mayer]] released a film that ended the popularity of movie musicals with dignity, class, eloquence, and respect. Directed by [[Vincente Minnelli]], produced by [[Arthur Freed]], and written by [[Alan Jay Lerner]], ''[[Gigi (1958 film)|Gigi]]'' set the standard of future film musicals on how it should be done and done right that will appeal and relate to audiences young and old, as well as to be taken seriously as a true art form of motion picture filmmaking (e.g. ''[[West Side Story (film)|West Side Story]]'', ''[[Mary Poppins (film)|Mary Poppins]]'', ''[[My Fair Lady (film)|My Fair Lady]]'', ''[[The Sound of Music (film)|The Sound of Music]]'', ''[[The Jungle Book (1967 film)|The Jungle Book]]'', ''[[Oliver! (film)|Oliver!]]'', ''[[Fiddler on the Roof (film)|Fiddler on the Roof]]'', ''[[Beauty and the Beast (1991 film)|Beauty and the Beast]]'', ''[[Moulin Rouge!]]'', ''[[Chicago (2002 film)|Chicago]]'', ''[[Les Misérables (2012 film)|Les Misérables]]'', to name more worthy and remarkable titles.) ''Gigi'' was released to tremendous critical and commercial success and became the highest grossing musical ever made by [[Metro-Goldwyn-Mayer]], until ''[[That's Entertainment!]]'' in 1974. ''Gigi'' saw the final day of the twilight of movie musical, only until it was finally resurrected thirty-one years later that the film musical genre can finally be loved and respected again with ''[[The Little Mermaid (1989 film)|The Little Mermaid]]'' in 1989.
-
-==Top grossing films (U.S.)==
-{| class="wikitable"
-|-
-! Rank || Title || Studio || Director || Actors || Gross rental
-|-
-| 1.
-| ''[[South Pacific (1958 film)|South Pacific]]''
-| [[20th Century Fox]]
-| [[Joshua Logan]]
-| [[Mitzi Gaynor]], [[Rossano Brazzi]], [[John Kerr (actor)|John Kerr]], [[Ray Walston]], [[Juanita Hall]], [[France Nuyen]], and [[Russ Brown (actor)|Russ Brown]]
-| $16,300,000<ref name=Finler>{{cite book |last=Finler |first=Joel Waldo |year=2003 |title=The Hollywood Story |publisher=Wallflower Press |isbn=978-1-903364-66-6 |pages=[http://books.google.co.uk/books?id=rvVhEJmbfrsC&pg=PA358#v=twopage 358–359]}}</ref>
-|-
-| 2.
-|''[[Auntie Mame (film)|Auntie Mame]]''
-| [[Warner Bros. Pictures]]
-| [[Morton DaCosta]]
-| [[Rosalind Russell]], [[Forrest Tucker]], [[Coral Browne]], [[Roger Smith (actor)|Roger Smith]], [[Peggy Cass]]
-| $9,100,000<ref name=Finler/>
-|-
-| 3.
-|''[[Cat on a Hot Tin Roof (film)|Cat on a Hot Tin Roof]]''
-| [[Metro-Goldwyn-Mayer]]
-| [[Richard Brooks]]
-| [[Elizabeth Taylor]], [[Paul Newman]], [[Burl Ives]], [[Judith Anderson]], [[Jack Carson]], [[Madeleine Sherwood]], [[Larry Gates]], [[Vaughn Taylor]]
-| $7,800,000<ref name=Finler/>
-|-
-| 4.
-| ''[[No Time for Sergeants (1958 film)|No Time for Sergeants]]''
-| [[Warner Bros. Pictures]]
-| [[Mervyn LeRoy]]
-| [[Andy Griffith]]
-| $7,500,000<ref name=Finler/>
-|-
-| 5.
-| ''[[Gigi (1958 film)|Gigi]]''
-| [[Metro-Goldwyn-Mayer]]
-| [[Vincente Minnelli]]
-| [[Leslie Caron]], [[Louis Jordan]], [[Hermione Gingold]], [[Maurice Chevalier]], [[Isabel Jeans]], [[Eva Gabor]], [[Jacques Bergerac]]
-| $6,700,000<ref name=Finler/>
-|-
-| 6.
-| ''[[The Vikings (film)|The Vikings]]''
-| [[United Artists]]
-| [[Richard Fleischer]]
-| [[Kirk Douglas]], [[Tony Curtis]], [[Janet Leigh]], [[Ernest Borgnine]], [[James Donald]], [[Alexander Knox]], [[Frank Thring]]
-| $6,000,000<ref name=Finler/>
-|-
-| 7.
-| ''[[Vertigo (film)|Vertigo]]''
-| [[Paramount Pictures]]
-| [[Alfred Hitchcock]]
-| [[James Stewart]], [[Kim Novak]], and [[Barbara Bel Geddes]]
-| $5,306,000{{citation needed|date=September 2012}}
-|-
-| 8.
-| ''[[The Young Lions (film)|The Young Lions]]''
-| [[20th Century Fox]]
-| [[Edward Dmytryk]]
-| [[Marlon Brando]], [[Montgomery Clift]], [[Dean Martin]], [[Hope Lange]], [[May Britt]], [[Maximilian Schell]], and [[Lee Van Cleef]]
-| $4,480,000{{citation needed|date=September 2012}}
-|-
-| 9.
-| ''[[Some Came Running]]''
-| [[Metro-Goldwyn-Mayer]]
-| [[Vincente Minnelli]]
-| [[Frank Sinatra]], [[Dean Martin]], [[Shirley MacLaine]], [[Martha Hyer]], [[Arthur Kennedy (actor)|Arthur Kennedy]], and [[Nancy Gates]]
-| $4,442,000{{citation needed|date=September 2012}}
-|-
-| 10.
-| ''[[The Sheriff of Fractured Jaw]]''
-| [[20th Century Fox]]
-| [[Raoul Walsh]]
-| [[Kenneth More]], [[Jayne Mansfield]], [[Bruce Cabot]], and [[Henry Hull]]
-| $4,410,000{{citation needed|date=September 2012}}
-|}
-
-(*) After theatrical re-issue(s)
-
-== Awards ==
-
-'''[[31st Academy Awards|Academy Awards]]:'''
-
-:[[Academy Award for Best Picture|Best Picture]]: '''''[[Gigi (1958 film)|Gigi]]''''' – Metro-Goldwyn-Mayer
-:[[Academy Award for Directing|Best Director]]: '''[[Vincente Minnelli]]''' – ''Gigi''
-:[[Academy Award for Best Actor|Best Actor]]: '''[[David Niven]]''' – ''[[Separate Tables (film)|Separate Tables]]''
-:[[Academy Award for Best Actress|Best Actress]]: '''[[Susan Hayward]]''' – ''[[I Want to Live!]]''
-:[[Academy Award for Best Supporting Actor|Best Supporting Actor]]: '''[[Burl Ives]]''' – ''[[The Big Country]]''
-:[[Academy Award for Best Supporting Actress|Best Supporting Actress]]: '''[[Wendy Hiller]]''' – ''Separate Tables''
-:[[Academy Award for Best Foreign Language Film|Best Foreign Language Film]]: '''''[[Mon Oncle]]''''' (''My Uncle''), directed by [[Jacques Tati]], France
-
-'''[[16th Golden Globe Awards|Golden Globe Awards]]:'''
-
-:'''Drama:'''
-:[[Golden Globe Award for Best Motion Picture – Drama|Best Picture]]: '''''[[The Defiant Ones]]'''''
-:[[Golden Globe Award for Best Actor – Motion Picture Drama|Best Actor]]: '''David Niven''' – ''Separate Tables''
-:[[Golden Globe Award for Best Actress – Motion Picture Drama|Best Actress]]: '''Susan Hayward''' – ''I Want to Live!''
-
-:'''Musical or comedy:'''
-:[[Golden Globe Award for Best Motion Picture – Musical or Comedy|Best Picture]]: '''''Gigi'''''
-:[[Golden Globe Award for Best Actor – Motion Picture Musical or Comedy|Best Actor]]: '''[[Danny Kaye]]''' – ''[[Me and the Colonel]]''
-:[[Golden Globe Award for Best Actress – Motion Picture Musical or Comedy|Best Actress]]: '''[[Rosalind Russell]]''' – ''[[Auntie Mame]]''
-
-:'''Other'''
-:[[Golden Globe Award for Best Director – Motion Picture|Best Director]]: '''Vincente Minnelli''' – ''Gigi''
-
-'''[[Palme d'Or]] (Cannes Film Festival):'''
-:'''''[[The Cranes Are Flying]]''''' (????? ???????, Letyat zhuravli), directed by [[Mikheil Kalatozishvili]], Soviet Union
-
-'''[[Golden Lion]] (Venice Film Festival):'''
-:'''''[[The Rickshaw Man]]''''' (''Muhomatsu no issho''), directed by [[Hiroshi Inagaki]], Japan
-
-'''[[Berlin Film Festival|Golden Bear]] (Berlin Film Festival):'''
-:'''''[[Wild Strawberries (film)|Wild Strawberries]]''''' (''Smultronstället''), directed by [[Ingmar Bergman]], Sweden
-
-==Notable films released in 1958==
-[[American films of 1958|U.S.A.]] unless stated
-
-A
-*''[[Amar Deep (1958 film)|Amar Deep]]'', remake of [[Amara Deepam (1956 film)|Amara Deepam]], starring [[Dev Anand]], [[Vyjayanthimala]] and [[Padmini (actress)|Padmini]] - ([[Bollywood films of 1958|India]])
-*''[[Ambush at Cimarron Pass]]'', starring [[Scott Brady]] and [[Clint Eastwood]]
-*''[[And Quiet Flows the Don (1958 film)|And Quiet Flows the Don]]'' (Tikhiy Don) - ([[Soviet films of 1958|U.S.S.R.]])
-*''[[Andy Hardy Comes Home]]'', starring [[Mickey Rooney]]
-*''[[Another Time, Another Place (1958 film)|Another Time, Another Place]]'', starring [[Lana Turner]] and [[Sean Connery]] - ([[British films of 1958|Britain]])
-*''[[Apache Territory]]'', starring [[Rory Calhoun]]
-*''[[Appu Chesi Pappu Koodu]]'', starring [[N.T. Rama Rao]] - ([[Telugu films of the 1950s|India]])
-*''[[Arms and the Man (film)|Arms and the Man]]'' (Helden) - ([[List of German films 1945&ndash;1959|West Germany]])
-*''[[Ash Wednesday (1958 film)|Ash Wednesday]]'' (Miércoles de ceniza), starring [[María Félix]] and [[Arturo de Córdova]] - ([[Mexican films of 1958|Mexico]])
-*''[[Ashes and Diamonds (film)|Ashes and Diamonds]]'' (Popió? i diament), directed by [[Andrzej Wajda]], starring [[Zbigniew Cybulski]] - ([[List of Polish films of the 1950s|Poland]])
-*''[[Attack of the 50 Foot Woman]]'', starring [[Allison Hayes]]
-*''[[Auntie Mame (film)|Auntie Mame]]'', starring [[Rosalind Russell]], [[Coral Browne]], [[Forrest Tucker]], [[Roger Smith (actor)|Roger Smith]], [[Peggy Cass]]
-B
-*''[[The Ballad of Narayama (1958 film)|The Ballad of Narayama]]'' (Narayama Bushiko) - ([[Japanese films of 1958|Japan]])
-*''[[Le Beau Serge]]'' (Handsome Serge), directed by [[Claude Chabrol]] - ([[French films of 1958|France]])
-*''[[Bell, Book and Candle]]'', starring [[James Stewart]], [[Kim Novak]], [[Jack Lemmon]], [[Ernie Kovacs]]
-*''[[The Big Country]]'', directed by [[William Wyler]], starring [[Gregory Peck]], [[Charlton Heston]], [[Jean Simmons]], [[Carroll Baker]], [[Burl Ives]]
-*''[[Big Deal on Madonna Street]]'' (I soliti ignoti), starring [[Vittorio Gassman]], [[Claudia Cardinale]], [[Marcello Mastroianni]] - ([[Italian films of 1958|Italy]])
-*''[[The Black Orchid (1958 film)|The Black Orchid]]'', starring [[Sophia Loren]] and [[Anthony Quinn]]
-*''[[The Blob]]'', starring [[Steve McQueen]]
-*''[[Bonjour Tristesse (film)|Bonjour Tristesse]]'', directed by [[Otto Preminger]], starring [[David Niven]], [[Deborah Kerr]], [[Jean Seberg]]
-*''[[The Bonnie Parker Story]]'', starring [[Dorothy Provine]]
-*''[[The Bravados]]'', starring [[Gregory Peck]] and [[Joan Collins]]
-*''[[Brink of Life]]'' (Nära livet), directed by [[Ingmar Bergman]], starring [[Eva Dahlbeck]] and [[Ingrid Thulin]] - ([[Swedish films of the 1950s|Sweden]])
-*''[[The Brothers Karamazov (1958 film)|The Brothers Karamazov]]'', directed by [[Richard Brooks]], starring [[Yul Brynner]], [[Maria Schell]], [[Lee J. Cobb]], [[Claire Bloom]]
-*''[[The Buccaneer (1958 film)|The Buccaneer]]'', directed by [[Anthony Quinn]], starring [[Yul Brynner]] and [[Claire Bloom]]
-*''[[Buchanan Rides Alone]]'', directed by [[Budd Boetticher]], starring [[Randolph Scott]] and [[Craig Stevens (actor)|Craig Stevens]]
-C
-*''[[Cairo Station]]'' (''Bab el Hadid''), directed by [[Youssef Chahine]] - ([[Egyptian films of the 1950s|Egypt]])
-*''[[Carry On Sergeant]]'', the first in the [[Carry On (film series)|Carry On]] film series, directed by [[Gerald Thomas]], starring [[William Hartnell]], [[Kenneth Williams]], [[Kenneth Connor]] - ([[British films of 1958|Britain]])
-*''[[Carve Her Name with Pride]]'', starring [[Virginia McKenna]] and [[Paul Schofield]] - (Britain)
-*''[[The Castle of the Monsters]]'' (El Castillo de los Monstruos) - ([[Mexican films of 1958|Mexico]])
-*''[[Cat on a Hot Tin Roof (film)|Cat on a Hot Tin Roof]]'', directed by [[Richard Brooks]], starring [[Elizabeth Taylor]], [[Paul Newman]], [[Burl Ives]], [[Jack Carson]], [[Judith Anderson]]
-*''[[A Certain Smile (film)|A Certain Smile]]'', starring [[Rossano Brazzi]] and [[Joan Fontaine]]
-*''[[Chalti Ka Naam Gaadi]]'' (That which runs is a car), starring [[Ashok Kumar]] and [[Madhubala]] - ([[Bollywood films of the 1950s|India]])
-*''[[Chase a Crooked Shadow]]'', starring [[Richard Todd]] and [[Anne Baxter]] - ([[British films of 1958|Britain]])
-*''[[China Doll (film)|China Doll]]'', starring [[Victor Mature]]
-*''[[The Colossus of New York]]'', starring [[Ross Martin]] and [[Mala Powers]]
-*''[[Cowboy (1958 film)|Cowboy]]'', starring [[Glenn Ford]] and [[Jack Lemmon]]
-*''[[The Crawling Eye]]'' ''([[The Trollenberg Terror]])'', directed by [[Quentin Lawrence]], starring [[Forrest Tucker]] and [[Janet Munro]] - ([[British films of 1958|Britain]])
-*''[[The Cry Baby Killer]]'', directed by [[Roger Corman]],  featuring [[Jack Nicholson]] in his film debut
-*''[[Cry Terror!]]'', starring [[James Mason]], [[Inger Stevens]], [[Rod Steiger]]
-D-F
-*''[[Damn Yankees (film)|Damn Yankees]]'', directed by [[George Abbott]] and [[Stanley Donen]], starring [[Tab Hunter]], [[Gwen Verdon]], [[Ray Walston]]
-*''[[Darby's Rangers (1958 film)|Darby's Rangers]]'', directed by [[William Wellman]], starring [[James Garner]]
-*''[[The Deep Six]]'', starring [[Alan Ladd]], [[Dianne Foster]], [[Efrem Zimbalist, Jr.]]
-*''[[The Defiant Ones]]'', directed by [[Stanley Kramer]], starring [[Tony Curtis]] and [[Sidney Poitier]]
-*''[[Desire (1958 film)|Desire]]'' (Touha) - ([[Czech films of the 1950s|Czechoslovakia]])
-*''[[Desire Under the Elms]]'', starring [[Sophia Loren]], [[Anthony Perkins]], [[Burl Ives]]
-*''[[The Doctor's Dilemma (film)|The Doctor's Dilemma]]'', directed by [[Anthony Asquith]], starring [[Dirk Bogarde]] (Britain)
-*''[[Dunkirk (film)|Dunkirk]]'', starring [[John Mills]] and [[Richard Attenborough]] - ([[British films of 1958|Britain]])
-*''[[Édes Anna]]'', directed by [[Zoltán Fábri]] - ([[List of Hungarian films 1948-1989|Hungary]])
-*''[[Elevator to the Gallows]]'' (Ascenseur pour l'échafaud), directed by [[Louis Malle]], starring [[Jeanne Moreau]] - ([[French films of 1958|France]])
-*''[[Endless Desire]]'' (Hateshinaki yokubo), directed by [[Sh?hei Imamura]] - ([[Japanese films of 1958|Japan]])
-*''[[Equinox Flower]]'' (Higanbana), directed by [[Yasujir? Ozu]] - ([[Japanese films of 1958|Japan]])
-*''[[The Fabulous World of Jules Verne]]'' (aka Vynález zkázy) - ([[Czech films of the 1950s|Czechoslovakia]])
-*''[[Fanfare (film)|Fanfare]]'' - ([[Dutch films of the 1950s|Netherlands]])
-*''[[A Flower in Hell]]'' (Jiokhwa) - ([[List of South Korean films of 1958|South Korea]])
-*''[[The Fly (1958 film)|The Fly]]'', starring [[Vincent Price]]
-*''[[Fort Massacre]]'', starring [[Joel McCrea]]
-*''[[From Hell to Texas]]'', starring [[Don Murray (actor)|Don Murray]], [[Diane Varsi]], [[Dennis Hopper]]
-*''[[From the Earth to the Moon (film)|From the Earth to the Moon]]'', starring [[Joseph Cotten]]
-G-H
-*''[[The Geisha Boy]]'', starring [[Jerry Lewis]]
-*''[[Giants and Toys]]'' (Kyojin to gangu) - ([[Japanese films of 1958|Japan]])
-*''[[The Gift of Love]]'', directed by [[Jean Negulesco]], starring [[Lauren Bacall]] and [[Robert Stack]]
-*''[[Gigi (1958 film)|Gigi]]'', directed by [[Vincente Minelli]], starring [[Leslie Caron]], [[Louis Jourdan]], [[Maurice Chevalier]]
-*''[[Girl on the Run]]'', starring [[Efrem Zimbalist, Jr.]]
-*''[[God's Little Acre]]'', directed by [[Anthony Mann]], starring [[Robert Ryan]], [[Aldo Ray]], [[Fay Spain]], [[Tina Louise]]
-*''[[The Goddess (1958 film)|The Goddess]]'', starring [[Kim Stanley]]
-*''[[Goha]]'', starring [[Omar Sharif]] - ([[French films of 1958|France]]/[[List of Tunisian films|Tunisia]])
-*''[[Gunman's Walk]]'', starring [[Van Heflin]], [[Tab Hunter]], [[Kathryn Crosby|Kathryn Grant]]
-*''[[H-8 (film)|H8]]'' - ([[List of Yugoslav films of the 1950s|Yugoslavia]])
-*''[[The H-Man]]'', directed by [[Ishir? Honda]] - ([[Japanese films of 1958|Japan]])
-*''[[Hercules (1958 film)|Hercules]]'' (Le fatiche di Ercole), starring [[Steve Reeves]] - ([[Italian films of 1958|Italy]])
-*''[[The Hidden Fortress]]'' (Kakushi toride no san akunin), directed by [[Akira Kurosawa]], starring [[Toshiro Mifune]] - ([[Japanese films of 1958|Japan]])
-*''[[High School Confidential (film)|High School Confidential]]'', starring [[Russ Tamblyn]], [[Jan Sterling]], [[Mamie Van Doren]]
-*''[[Dracula (1958 film)|The Horror of Dracula]]'', starring [[Christopher Lee]] and [[Peter Cushing]] - ([[British films of 1958|Britain]])
-*''[[The Horse's Mouth (film)|The Horse's Mouth]]'', starring [[Alec Guinness]] - (Britain)
-*''[[Houseboat (film)|Houseboat]]'', starring [[Cary Grant]] and [[Sophia Loren]]
-*''[[The Hunters (1958 film)|The Hunters]]'', starring [[Robert Mitchum]]
-I-K
-*''[[I Accuse!]]'', directed by and starring [[José Ferrer]] - ([[British films of 1958|Britain]])
-*''[[I Want to Live!]]'', starring [[Susan Hayward]] (winner of [[31st Academy Awards|Academy Award]] and [[Golden Globe]] for Best Actress)
-*''[[I Was Monty's Double (film)|I Was Monty's Double]]'', starring [[M. E. Clifton James]] and [[John Mills]] - (Britain)
-*''[[Ice Cold in Alex]]'', directed by [[J. Lee Thompson]], starring [[John Mills]] and [[Sylvia Sims]] - ([[British films of 1958|Britain]])
-*''[[The Idiot (1958 film)|The Idiot]]'' - ([[Soviet films of 1958|USSR]])
-*''[[Imitation General]]'', directed by [[George Marshall]], starring [[Glenn Ford]], [[Red Buttons]], [[Taina Elg]]
-*''[[In Case of Adversity]]'' (En Cas de Malheur), starring [[Jean Gabin]] and [[Brigitte Bardot]] - ([[French films of 1958|France]])
-*''[[In the Money]]'', starring the [[Bowery Boys]]
-*''[[Indiscreet (1958 film)|Indiscreet]]'', starring [[Cary Grant]] and [[Ingrid Bergman]] - ([[British films of 1958|Britain]])
-*''[[The Inn of the Sixth Happiness]]'', directed by [[Mark Robson]], starring [[Ingrid Bergman]], [[Curd Jurgens]], [[Robert Donat]]
-*''[[Intent to Kill]]'', starring [[Richard Todd]], [[Betsy Drake]], [[Herbert Lom]]
-*''[[Iron Flower]]'' (Vasvirág) - ([[List of Hungarian films 1948-1989|Hungary]])
-*''[[Es geschah am hellichten Tag|It Happened in Broad Daylight]]'' (Es geschah am hellichten Tag) - ([[List of German films 1945&ndash;1959|West Germany]])
-*''[[It! The Terror from Beyond Space]]'', directed by [[Edward L. Cahn]], starring [[Marshall Thompson]], [[Paul Langton]] and [[Ray Corrigan]] as the monster of the title
-*''[[Ivan the Terrible, Part Two]]'' (Ivan Grozniy), directed by [[Sergei Eisenstein]], starring [[Nikolai Cherkasov]] - ([[Soviet films of 1958|U.S.S.R.]])
-*''[[Jalsaghar]]'' (The Music Room), directed by [[Satyajit Ray]]'' - ([[Bengali films of the 1950s|India]])
-*''[[Kala Pani (1958 film)|Kala Pani]]'' (Life Sentence), starring [[Dev Anand]] and [[Madhubala]] - (India)
-*''[[The Key (1958 film)|The Key]]'', starring [[William Holden]] and [[Sophia Loren]], based on [[Jan de Hartog]] novel <!-- http://www.imdb.com/title/tt0051816/ --> - ([[British films of 1958|Britain]])
-*''[[King Creole]]'', directed by [[Michael Curtiz]], starring [[Elvis Presley]], [[Dean Jagger]], [[Vic Morrow]], [[Walter Matthau]]
-L
-*''[[Lafayette Escadrille (film)|Lafayette Escadrille]]'', World War I film starring [[Tab Hunter]], with an early appearance by [[Clint Eastwood]]
-*''[[Lake of the Dead]]'' (De dødes tjern) - ([[Norwegian films of the 1950s|Norway]])
-*''[[The Last Hurrah (1958 film)|The Last Hurrah]]'', starring [[Spencer Tracy]], [[Jeffrey Hunter]], [[Pat O'Brien (actor)|Pat O'Brien]], [[Basil Rathbone]]
-*''[[The Law and Jake Wade]]'', starring [[Robert Taylor (actor)|Robert Taylor]] and [[Richard Widmark]]
-*''[[The Law Is the Law]]'' (La loi, c'est la loi), starring [[Totò]] and [[Fernandel]] - ([[French films of 1958|France]]/[[Italian films of 1958|Italy]])
-*''[[The Left Handed Gun]]'', starring [[Paul Newman]]
-*''[[The Light in the Forest (film)|The Light in the Forest]]'', starring [[Fess Parker]]
-*''[[The Lineup (film)|The Lineup]]'', starring [[Eli Wallach]]
-*''[[Lonelyhearts]]'', starring [[Montgomery Clift]], [[Robert Ryan]], [[Myrna Loy]], [[Maureen Stapleton]]
-*''[[The Long, Hot Summer]]'', directed by [[Martin Ritt]], starring [[Paul Newman]], [[Joanne Woodward]], [[Orson Welles]], [[Tony Franciosa]], [[Lee Remick]]
-*''[[The Lovers (1958 film)|The Lovers]]'' (Les amants), directed by [[Louis Malle]], starring [[Jeanne Moreau]] and [[Alain Cuny]] - ([[French films of 1958|France]])
-*''[[The Lovers of Montparnasse]]'' (Les Amants de Montparnasse), directed by [[Jacques Becker]] and [[Max Ophüls]] - (France)
-M
-*''[[Machine-Gun Kelly (film)|Machine-Gun Kelly]]'', starring [[Charles Bronson]], [[Susan Cabot]] and [[Morey Amsterdam]]
-*''[[Mädchen in Uniform (1958 film)|Mädchen in Uniform]]'' (Girls in Uniform), starring [[Lilli Palmer]] and [[Romy Schneider]] ([[List of German films 1945&ndash;1959|West Germany]])
-*''[[Madhumati]]'', directed by [[Bimal Roy]], starring [[Vyjayanthimala]] in triple role and [[Dilip Kumar]] - ([[Bollywood films of 1958|India]])
-*''[[The Magician (1958 film)|The Magician]]'' (Ansiktet), directed by [[Ingmar Bergman]], starring [[Max von Sydow]] - ([[Swedish films of the 1950s|Sweden]])
-*''[[Maigret Sets a Trap]]'' (Maigret tend un piège), starring [[Jean Gabin]] - ([[French films of 1958|France]])
-*''[[The Man Inside (1958 film)|The Man Inside]]'', starring [[Jack Palance]] and [[Anita Ekberg]] - ([[British films of 1958|Britain]])
-*''[[A Man of Straw]]'' (L'uomo di paglia), directed by and starring [[Pietro Germi]] - ([[Italian films of 1958|Italy]])
-*''[[Man of the West]]'', directed by [[Anthony Mann]], starring [[Gary Cooper]], [[Lee J. Cobb]], [[Jack Lord]], [[Julie London]]
-*''[[Marjorie Morningstar (film)|Marjorie Morningstar]]'', starring [[Natalie Wood]] and [[Gene Kelly]]
-*''[[The Matchmaker (1958 film)|The Matchmaker]]'', starring [[Shirley MacLaine]]
-*''[[Me and the Colonel]]'', starring [[Danny Kaye]]
-*''[[Merry Andrew (film)|Merry Andrew]]'', starring [[Danny Kaye]]
-*''[[Les miserables (1958 film)|Les miserables]]'', starring [[Jean Gabin]] - ([[French films of 1958|France]])
-*''[[Mon Oncle]]'', directed by and starring [[Jacques Tati]] - (France)
-*''[[Monster on the Campus]]'', directed by [[Jack Arnold (director)|Jack Arnold]]
-*''[[Murder by Contract]]'', starring [[Vince Edwards]]
-N-Q
-*''[[The Naked Maja]]'', starring [[Ava Gardner]] and [[Anthony Franciosa]] - ([[Italian films of 1958|Italy]]/France/[[American films of 1958|U.S.]])
-*''[[The Night Heaven Fell]]'' (Les Bijoutiers du Clair de Lune), directed by [[Roger Vadim]], starring [[Brigitte Bardot]] - ([[French films of 1958|France]])
-*''[[A Night to Remember (1958 film)|A Night to Remember]]'', directed by [[Roy Ward Baker|Roy Baker]], starring [[Kenneth More]] - ([[British films of 1958|Britain]])
-*''[[No Time for Sergeants (film)|No Time for Sergeants]]'', directed by [[Mervyn LeRoy]], starring [[Andy Griffith]], [[Myron McCormick]], [[Nick Adams (actor)|Nick Adams]]
-*''[[The Old Man and the Sea (1958 film)|The Old Man and the Sea]]'' – based on the novel by [[Ernest Hemingway]], starring [[Spencer Tracy]]
-*''[[Onionhead]]'', starring [[Andy Griffith]], [[Walter Matthau]], [[Felicia Farr]], [[Joey Bishop]]
-*''[[Orders to Kill]]'', directed by [[Anthony Asquith]], starring [[Eddie Albert]] - ([[British films of 1958|Britain]])
-*''[[Oi paranomoi|The Outlaws]]'' (Oi paranomoi) - ([[Greek films of the 1950s|Greece]])
-*''[[Party Girl (1958 film)|Party Girl]]'', starring [[Cyd Charisse]] and [[Robert Taylor (actor)|Robert Taylor]]
-*''[[The Proud Rebel]]'', starring [[Alan Ladd]] and [[Olivia de Havilland]]
-*''[[The Quiet American (1958 film)|The Quiet American]]'', directed by [[Joseph L. Mankiewicz]], starring [[Audie Murphy]] and [[Michael Redgrave]]
-R
-*''[[Raj Tilak (1958 film)|Raj Tilak]]'', remake of ''[[Vanjikottai Valiban]]'', starring [[Gemini Ganesan]], [[Vyjayanthimala]] and [[Padmini (actress)|Padmini]] - ([[Bollywood films of 1958|India]])
-*''[[Rally 'Round the Flag, Boys! (film)|Rally 'Round the Flag, Boys!]]'', starring [[Paul Newman]], [[Joanne Woodward]], [[Joan Collins]]
-*''[[The Reluctant Debutante (film)|The Reluctant Debutante]]'', starring [[Rex Harrison]], [[Kay Kendall]], [[Sandra Dee]]
-*''[[The Revenge of Frankenstein]]'', starring [[Peter Cushing]] - ([[British films of 1958|Britain]])
-*''[[The Rickshaw Man]]'' (''Muhomatsu no issho''), starring [[Toshiro Mifune]] - ([[Japanese films of 1958|Japan]])
-*''[[Ride a Crooked Trail]]'', starring [[Audie Murphy]], [[Gia Scala]], [[Walter Matthau]]
-*''[[Rock-A-Bye Baby (film)|Rock-A-Bye Baby]]'', starring [[Jerry Lewis]]
-*''[[Rosaura at 10 O'Clock]]'' (Rosaura a las 10) - ([[List of Argentine films of 1958|Argentina]])
-*''[[Run Silent, Run Deep (1958 film)|Run Silent, Run Deep]]'', directed by [[Robert Wise]], starring [[Clark Gable]] and [[Burt Lancaster]]
-S
-*''[[Saddle the Wind]]'', starring [[Robert Taylor (actor)|Robert Taylor]], [[Julie London]], [[John Cassavetes]]
-*''[[Sadhna]]'', starring [[Vyjayanthimala]] and [[Sunil Dutt]] - ([[Bollywood films of 1958|India]])
-*''[[Screaming Mimi (film)|Screaming Mimi]]'', starring [[Anita Ekberg]]
-*''[[Separate Tables (film)|Separate Tables]]'', starring [[Rita Hayworth]], [[Deborah Kerr]], [[Burt Lancaster]], [[David Niven]]
-*''[[The Seventh Voyage of Sinbad]]'', starring [[Kerwin Mathews]]
-*''[[The Sheepman]]'', starring [[Glenn Ford]] and [[Shirley MacLaine]]
-*''[[The Sheriff of Fractured Jaw]]'', starring [[Jayne Mansfield]] and [[Kenneth More]] - ([[British films of 1958|Britain]])
-*''[[Sing, Boy, Sing]]'', directed by [[Henry Ephron]], starring [[Tommy Sands (entertainer)|Tommy Sands]]
-*''[[Solva Saal]]'' (Sixteenth Year), starring [[Dev Anand]] - ([[Bollywood films of the 1950s|India]])
-*''[[Some Came Running]]'', directed by [[Vincente Minnelli]], starring [[Frank Sinatra]], [[Dean Martin]], [[Shirley MacLaine]]
-*''[[South Pacific (1958 film)|South Pacific]]'', directed by [[Joshua Logan]], starring [[Rossano Brazzi]] and [[Mitzi Gaynor]]
-*''[[Stage Struck (1958 film)|Stage Struck]]'', starring [[Henry Fonda]] and [[Susan Strasberg]]
-*''[[St. Louis Blues (1958 film)|St. Louis Blues]]'', featuring [[Nat King Cole]], [[Eartha Kitt]], [[Cab Calloway]] and [[Ella Fitzgerald]]
-*''[[St. Peter's Umbrella (1958 film)|St. Peter's Umbrella]]'' (Szent Péter esernyöje) - ([[List of Hungarian films 1948-1989|Hungary]]/[[Czech films of the 1950s|Czechoslovakia]])
-T
-*''[[A Tale of Two Cities (1958 film)|A Tale of Two Cities]]'', starring [[Dirk Bogarde]] - ([[British films of 1958|Britain]])
-*''[[Tamango]]'', starring [[Dorothy Dandridge]]
-*''[[The Tarnished Angels]]'', starring [[Rock Hudson]] and [[Dorothy Malone]]
-*''[[Teacher's Pet (1958 film)|Teacher's Pet]]'', starring [[Clark Gable]], [[Doris Day]], [[Gig Young]], [[Mamie Van Doren]]
-*''[[Ten North Frederick (film)|Ten North Frederick]]'', starring [[Gary Cooper]] and [[Suzy Parker]]
-*''[[Terror in a Texas Town]]'', starring [[Sterling Hayden]]
-*''[[This Happy Feeling]]'', starring [[Debbie Reynolds]], [[John Saxon (actor)|John Saxon]], [[Alexis Smith]]
-*''[[Thunder Road (film)|Thunder Road]]'', starring [[Robert Mitchum]], [[Gene Barry]], [[Keely Smith]]
-*''[[A Time to Love and a Time to Die]]'', starring [[John Gavin]]
-*''[[The Tinder Box (film)|The Tinder Box]]'' (Das Feuerzeug) - ([[List of East German films#1950s|East Germany]])
-*''[[tom thumb (film)|tom thumb]]'', starring [[Russ Tamblyn]] and [[Terry-Thomas]] - ([[British films of 1958|Britain]]/[[American films of 1958|USA]])
-*''[[Too Much, Too Soon]]'', starring [[Dorothy Malone]], [[Efrem Zimbalist, Jr.]], [[Errol Flynn]]
-*''[[Torpedo Run]]'', starring [[Glenn Ford]] and [[Ernest Borgnine]]
-*''[[Touch of Evil]]'', directed by and starring [[Orson Welles]], with [[Charlton Heston]], [[Janet Leigh]],  [[Marlene Dietrich]]
-*''[[Tread Softly Stranger]]'', starring [[Diana Dors]] - ([[British films of 1958|Britain]])
-*''[[The True Story of Lynn Stuart]]'', starring [[Betsy Palmer]]
-*''[[The Tunnel of Love]]'', starring [[Doris Day]] and [[Richard Widmark]]
-*''[[Twilight for the Gods]]'', starring [[Rock Hudson]] and [[Cyd Charisse]]
-U-Z
-*''[[Underworld Beauty]]'' (Ankokugai no bijo) - ([[Japanese films of 1958|Japan]])
-*''[[Vanjikottai Valiban]]'' (The Youth from Vanji Fort), starring [[Gemini Ganesan]], [[Vyjayanthimala]] and [[Padmini (actress)|Padmini]] - ([[Tamil films of 1958|India]])
-*''[[Varan the Unbelievable]]'' (Daikaij? Baran), directed by [[Ishir? Honda]] - ([[Japanese films of 1958|Japan]])
-*''[[Vengeance (1958 film)|Vengeance]]'' (La venganza), directed by [[Juan Antonio Bardem]], starring [[Raf Vallone]] - ([[Spanish films of 1958|Spain]])
-*''[[Vertigo (film)|Vertigo]]'', directed by [[Alfred Hitchcock]], starring [[James Stewart]] and [[Kim Novak]]
-*''[[The Vikings (film)|The Vikings]]'', starring [[Kirk Douglas]] and [[Tony Curtis]]
-*''[[The Village on the River]]'' (Dorp aan de rivier) - ([[Dutch films of the 1950s|Netherlands]])
-*''[[White Wilderness (film)|White Wilderness]]'', a Disney nature film
-*''[[The Young Lions (film)|The Young Lions]]'', directed by [[Edward Dmytryk]], starring [[Marlon Brando]], [[Montgomery Clift]], [[Dean Martin]]
-
-==film series==
-[[Carry On (film series)|Carry On]] series (1958–[[1992 in film|1992]])
-
-==Short film series==
-*''[[Looney Tunes]]'' ([[1930 in film|1930]]–[[1969 in film|1969]])
-*''[[Terrytoons]]'' ([[1930 in film|1930]]–[[1969 in film|1969]])
-*''[[Merrie Melodies]]'' ([[1931 in film|1931]]–[[1969 in film|1969]])
-*''[[The Three Stooges]]'' ([[1934 in film|1934]]–[[1959 in film|1959]])
-*''[[Bugs Bunny]]'' ([[1940 in film|1940]]–[[1962 in film|1962]])
-*''[[Yosemite Sam]]'' ([[1945 in film|1945]]–[[1963 in film|1963]])
-*''[[Speedy Gonzales]]'' ([[1953 in film|1953]]–[[1968 in film|1968]])
-
-'''Ending this year'''
-*''[[Droopy]]'' ([[1943 in film|1943]]-1958)
-*''[[Tom and Jerry]]'' ([[1940 in film|1940]]-1958)
-
-==Births==
-*January 4 – [[Julian Sands]], English actor
-*January 25 – [[Dinah Manoff]], actress and director
-*February 13 – [[Pernilla August]], Swedish actress
-*March 3 – [[Miranda Richardson]], English actress
-*March 7 – [[Donna Murphy]], actress & singer
-*March 10 – [[Sharon Stone]], actress & producer
-*March 20 – [[Holly Hunter]], actress
-*March 21 – [[Gary Oldman]], English actor & filmmaker
-*April 3 – [[Alec Baldwin]], actor
-*April 21 – [[Andie MacDowell]], actress
-*April 29 – [[Michelle Pfeiffer]], actress
-*May 12 - [[Tony Oliver]], voice actor
-*May 29 – [[Annette Bening]], actress
-*June 22 – [[Bruce Campbell]], actor & director
-*July 8 – [[Kevin Bacon]], actor
-*August 3 – [[Lambert Wilson]], actor
-*August 16 
-**[[Madonna (entertainer)|Madonna]], pop singer & actress
-**[[Toby Sedgwick]], English actor and theatre director
-**[[Angela Bassett]], actress
-*August 18 – [[Madeleine Stowe]], actress
-*August 24 – [[Steve Guttenberg]], actor & comedian
-*August 25 – [[Tim Burton]], director, producer & screenwriter
-*August 29 - [[Michael Jackson]], pop singer & actor (died in 2009)
-*September 10 – [[Chris Columbus (filmmaker)|Chris Columbus]], director, producer & screenwriter
-*September 16 – [[Jennifer Tilly]], Canadian-American actress
-*October 9 – [[Michael Paré]], actor
-*October 16 – [[Tim Robbins]], actor, screenwriter, producer & director
-*October 20 – [[Viggo Mortensen]], actor
-*October 26 – [[Rita Wilson]], actress & producer
-*November 16 – [[Marg Helgenberger]], actress
-*November 17 – [[Mary Elizabeth Mastrantonio]], actress & singer
-*November 22 – [[Jamie Lee Curtis]], actress
-
-==Deaths==
-*January 11 – [[Edna Purviance]], 62, American actress, ''[[The Kid (1921 film)|The Kid]]'', ''[[A Woman of Paris]]'', ''[[The Immigrant (1917 film)|The Immigrant]]'', ''[[Shoulder Arms]]'', ''[[Limelight (1952 film)|Limelight]]'', ''[[Monsieur Verdoux]]''
-*January 13 – [[Jesse L. Lasky]], 77, American producer, ''[[Wings (1927 film)|Wings]]'', ''[[The Cocoanuts]]'', ''[[Without Reservations]]'', ''[[Sergeant York (film)|Sergeant York]]'', ''[[The Great Caruso]]'', ''[[Rhapsody in Blue (film)|Rhapsody in Blue]]'', ''[[The Shopworn Angel]]'', ''[[It (1927 film)|It]]'', ''[[The Great Gatsby (1926 film)|The Great Gatsby]]'', ''[[Beau Geste (1926 film)|Beau Geste]]'', ''[[Peter Pan (1924 film)|Peter Pan]]''
-*February 27 – [[Harry Cohn]], 66, American film executive, co-founder of CBS Sales Association ([[Columbia Pictures]]), ''[[Platinum Blonde (film)|Platinum Blonde]]'', ''[[American Madness]]'', ''[[It Happened One Night]]'', ''[[The Miracle Woman]]'', ''[[The Lady from Shanghai]]''
-*March 22 – [[Mike Todd]], 48, American producer, ''[[Around the World in Eighty Days (1956 film)|Around the World in Eighty Days]]'', ''[[This is Cinerama]]''
-*April 15 – [[Estelle Taylor]], 63, American actress, ''[[Cimarron (1931 film)|Cimarron]]'', ''[[The Ten Commandments (1923 film)|The Ten Commandments]]'', ''[[The Southerner (film)|The Southerner]]'', ''[[Street Scene (film)|Street Scene]]''
-*May 19 – [[Ronald Colman]], 67, British actor, ''[[Lost Horizon (1937 film)|Lost Horizon]]'', ''[[Random Harvest (film)|Random Harvest]]'', ''[[A Tale of Two Cities (1935 film)|A Tale of Two Cities]]'', ''[[The Prisoner of Zenda (1937 film)|The Prisoner of Zenda]]'', ''[[Around the World in Eighty Days (1956 film)|Around the World in Eighty Days]]'', ''[[Kismet (1944 film)|Kismet]]'', ''[[Bulldog Drummond Strikes Back]]'', ''[[Beau Geste (1926 film)|Beau Geste]]'', ''[[Stella Dallas (1925 film)|Stella Dallas]]'', ''[[Champagne for Caesar]]''
-*June 9 - [[Robert Donat]], 53, British actor, ''[[The 39 Steps (1935 film)|The 39 Steps]]'', ''[[Goodbye, Mr. Chips (1939 film)|Goodbye, Mr. Chips]]''
-*August 21 - [[Kurt Neumann (director)|Kurt Neumann]], 50, German director, ''[[The Fly (1958 film)|The Fly]]'', ''[[Mohawk (film)|Mohawk]]'', ''[[Rocketship X-M]]''
-*October 4 – [[Ida Wüst]], 74, German actress
-*November 15 – [[Tyrone Power]], 44, American actor, ''[[Witness for the Prosecution (1957 film)|Witness for the Prosecution]]'', ''[[The Mark of Zorro (1940 film)|The Mark of Zorro]]'', ''[[The Razor's Edge (1946 film)|The Razor's Edge]]'', ''[[The Black Swan (film)|The Black Swan]]'', ''[[The Sun Also Rises (1957 film)|The Sun Also Rises]]'', ''[[A Yank in the R.A.F.]]'', ''[[Blood and Sand (1941 film)|Blood and Sand]]'', ''[[Alexander's Ragtime Band (film)|Alexander's Ragtime Band]]'', ''[[The Rains Came]]'', ''[[In Old Chicago]]'', ''[[Nightmare Alley]]''
-
-== Film debuts ==
-*[[Claudia Cardinale]] - ''[[Goha]]''
-*[[Ian Holm]] - ''[[Girls at Sea (1958 film)|Girls at Sea]]''
-*[[Jack Nicholson]] - ''[[The Cry Baby Killer]]''
-*[[Suzanne Pleshette]] - ''[[The Geisha Boy]]''
-*[[Christopher Plummer]] - ''[[Stage Struck (1958 film)|Stage Struck]]''
-*[[Vanessa Redgrave]] - ''[[Behind the Mask (1958 film)|Behind the Mask]]''
-*[[Oliver Reed]] - ''[[The Square Peg]]''
-
-== References ==
-{{reflist}}
-
-
-{{DEFAULTSORT:1958 In Film}}
-[[Category:1958 in film| ]]
-[[Category:Years in film]]
+Amar Deep (1958 film)
+Ambush at Cimarron Pass
+And Quiet Flows the Don (1958 film)
+Andy Hardy Comes Home
+Another Time, Another Place (1958 film)
+Apache Territory
+Appu Chesi Pappu Koodu
+Arms and the Man (film)
+Ash Wednesday (1958 film)
+Ashes and Diamonds (film)
+Attack of the 50 Foot Woman
+Auntie Mame (film)
+The Ballad of Narayama (1958 film)
+Le Beau Serge
+Bell, Book and Candle
+The Big Country
+Big Deal on Madonna Street
+The Black Orchid (1958 film)
+The Blob
+Bonjour Tristesse (film)
+The Bonnie Parker Story
+The Bravados
+Brink of Life
+The Brothers Karamazov (1958 film)
+The Buccaneer (1958 film)
+Buchanan Rides Alone
+Cairo Station
+Carry On Sergeant
+Carve Her Name with Pride
+The Castle of the Monsters
+Cat on a Hot Tin Roof (film)
+A Certain Smile (film)
+Chalti Ka Naam Gaadi
+Chase a Crooked Shadow
+China Doll (film)
+The Colossus of New York
+Cowboy (1958 film)
+The Crawling Eye
+The Cry Baby Killer
+Cry Terror!
+Damn Yankees (film)
+Darby's Rangers (1958 film)
+The Deep Six
+The Defiant Ones
+Desire (1958 film)
+Desire Under the Elms
+The Doctor's Dilemma (film)
+Dunkirk (film)
+Édes Anna
+Elevator to the Gallows
+Endless Desire
+Equinox Flower
+The Fabulous World of Jules Verne
+Fanfare (film)
+A Flower in Hell
+The Fly (1958 film)
+Fort Massacre
+From Hell to Texas
+From the Earth to the Moon (film)
+The Geisha Boy
+Giants and Toys
+The Gift of Love
+Gigi (1958 film)
+Girl on the Run
+God's Little Acre
+The Goddess (1958 film)
+Goha
+Gunman's Walk
+H-8 (film)
+The H-Man
+Hercules (1958 film)
+The Hidden Fortress
+High School Confidential (film)
+Dracula (1958 film)
+The Horse's Mouth (film)
+Houseboat (film)
+The Hunters (1958 film)
+I Accuse!
+I Want to Live!
+I Was Monty's Double (film)
+Ice Cold in Alex
+The Idiot (1958 film)
+Imitation General
+In Case of Adversity
+In the Money
+Indiscreet (1958 film)
+The Inn of the Sixth Happiness
+Intent to Kill
+Iron Flower
+Es geschah am hellichten Tag
+It! The Terror from Beyond Space
+Ivan the Terrible, Part Two
+Jalsaghar
+Kala Pani (1958 film)
+The Key (1958 film)
+King Creole
+Lafayette Escadrille (film)
+Lake of the Dead
+The Last Hurrah (1958 film)
+The Law and Jake Wade
+The Law Is the Law
+The Left Handed Gun
+The Light in the Forest (film)
+The Lineup (film)
+Lonelyhearts
+The Long, Hot Summer
+The Lovers (1958 film)
+The Lovers of Montparnasse
+Machine-Gun Kelly (film)
+Mädchen in Uniform (1958 film)
+Madhumati
+The Magician (1958 film)
+Maigret Sets a Trap
+The Man Inside (1958 film)
+A Man of Straw
+Man of the West
+Marjorie Morningstar (film)
+The Matchmaker (1958 film)
+Me and the Colonel
+Merry Andrew (film)
+Les miserables (1958 film)
+Mon Oncle
+Monster on the Campus
+Murder by Contract
+The Naked Maja
+The Night Heaven Fell
+A Night to Remember (1958 film)
+No Time for Sergeants (film)
+The Old Man and the Sea (1958 film)
+Onionhead
+Orders to Kill
+Oi paranomoi
+Party Girl (1958 film)
+The Proud Rebel
+The Quiet American (1958 film)
+Raj Tilak (1958 film)
+Rally 'Round the Flag, Boys! (film)
+The Reluctant Debutante (film)
+The Revenge of Frankenstein
+The Rickshaw Man
+Ride a Crooked Trail
+Rock-A-Bye Baby (film)
+Rosaura at 10 O'Clock
+Run Silent, Run Deep (1958 film)
+Saddle the Wind
+Sadhna
+Screaming Mimi (film)
+Separate Tables (film)
+The Seventh Voyage of Sinbad
+The Sheepman
+The Sheriff of Fractured Jaw
+Sing, Boy, Sing
+Solva Saal
+Some Came Running
+South Pacific (1958 film)
+Stage Struck (1958 film)
+St. Louis Blues (1958 film)
+St. Peter's Umbrella (1958 film)
+A Tale of Two Cities (1958 film)
+Tamango
+The Tarnished Angels
+Teacher's Pet (1958 film)
+Ten North Frederick (film)
+Terror in a Texas Town
+This Happy Feeling
+Thunder Road (film)
+A Time to Love and a Time to Die
+The Tinder Box (film)
+tom thumb (film)
+Too Much, Too Soon
+Torpedo Run
+Touch of Evil
+Tread Softly Stranger
+The True Story of Lynn Stuart
+The Tunnel of Love
+Twilight for the Gods
+Underworld Beauty
+Vanjikottai Valiban
+Varan the Unbelievable
+Vengeance (1958 film)
+Vertigo (film)
+The Vikings (film)
+The Village on the River
+White Wilderness (film)
+The Young Lions (film)
+Looney Tunes
+Terrytoons
+Merrie Melodies
+The Three Stooges
+Bugs Bunny
+Yosemite Sam
+Speedy Gonzales
+Droopy
+Tom and Jerry

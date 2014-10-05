@@ -1,515 +1,216 @@
-{{Year nav topic5|1964|film|television|radio }}
-{{Yearsinfilm}}<!-- SIDEBAR NAV-BOX -->
-The year '''1964 in film''' involved some significant events.
-
-==Events==
-* March 6 - [[Elvis Presley]]'s 14th motion picture, ''[[Kissin' Cousins]]'' is released to theaters.
-* July 6 - ''[[A Hard Day's Night (film)|A Hard Day's Night]]'', the first [[The Beatles|Beatles]] film, is premiered.
-* October - In ''[[Photoplay]]'' magazine, [[Hedda Hopper]] announces that [[Sophia Loren]] and [[Paul Newman]] will star in the film version of [[Arthur Miller]]'s play ''After the Fall'', with Loren in the role that was written about [[Marilyn Monroe]]. The film is never made.
-
-==Top grossing films (U.S.)==
-{| class="wikitable"
-|-
-! Rank || Title || Studio || Actors || Gross
-|-
-| 1.
-|''[[Goldfinger (film)|Goldfinger]]* ''
-| [[United Artists]]
-| [[Sean Connery]], [[Gert Frobe]], [[Honor Blackman]], and [[Harold Sakata]]
-| '''$124,900,000'''<ref>{{cite web|url=http://www.imdb.com/title/tt0058150/business |title=Goldfinger |publisher=IMDb |date=1964-12-22 |accessdate=2014-03-14}}</ref>
-|-
-| 2.
-| ''[[Mary Poppins (film)|Mary Poppins]]* ''
-| [[Walt Disney Pictures|Disney]]
-| [[Julie Andrews]] and [[Dick Van Dyke]]
-| '''$102,272,727'''<ref>{{cite web|url=http://boxofficemojo.com/movies/?page=main&id=marypoppins.htm |title=Mary Poppins (1964) -  |publisher=Box Office Mojo |date= |accessdate=2012-08-17}}</ref>
-|-
-| 3.
-|''[[My Fair Lady (film)|My Fair Lady]]* ''
-| [[Warner Bros.]]
-| [[Audrey Hepburn]] and [[Rex Harrison]]
-| '''$72,000,000'''<ref>http://boxofficemojo.com/movies/?id=myfairlady.htm</ref>
-|-
-| 4.
-| ''[[The Carpetbaggers (film)|The Carpetbaggers]]''
-| [[Paramount Pictures|Paramount]]
-| [[George Peppard]], [[Carroll Baker]], and [[Alan Ladd]]
-| '''$28,409,547'''<ref>[http://www.the-numbers.com/movies/1964/0CBGG.php Box Office Information for ''The Carpetbaggers''.] [[The Numbers (website)|The Numbers]]. Retrieved April 30, 2013.</ref>
-|-
-| 5.
-|''[[From Russia with Love (film)|From Russia with Love]]''
-| United Artists
-| [[Sean Connery]], [[Daniela Bianchi]], [[Robert Shaw (British actor)|Robert Shaw]]
-| '''$24,796,765'''<ref>[http://www.boxofficemojo.com/movies/?id=fromrussiawithlove.htm Box Office Information for ''From Russia with Love''.] [[Box Office Mojo]]. Retrieved April 30, 2013.</ref>
-|-
-| 6.
-| ''[[A Fistful of Dollars]]''
-| [[United Artists]]
-| [[Clint Eastwood]] and [[Marianne Koch]]
-| '''$14,500,000'''<ref>[http://www.boxofficemojo.com/movies/?id=fistfulofdollars.htm Box Office Information for ''A Fistful of Dollars''.] [[Box Office Mojo]]. Retrieved April 30, 2013.</ref>
-|-
-| 7.
-| ''[[Father Goose (film)|Father Goose]]''
-| [[Universal Pictures|Universal International]]
-| [[Cary Grant]] and [[Leslie Caron]]
-| '''$12,500,000'''<ref>[http://www.the-numbers.com/movies/1964/0FTGS.php Box Office Information for ''Father Goose''.] The Numbers. Retrieved April 30, 2013.</ref>
-|-
-| 8.
-|''[[A Shot in the Dark (1964 film)|A Shot in the Dark]]''
-| [[United Artists]]
-| [[Peter Sellers]] and [[Elke Sommer]]
-| '''$12,368,234'''<ref>{{cite web|url=http://boxofficemojo.com/movies/?id=shotinthedark.htm |title=A Shot in the Dark (1964) |publisher=Box Office Mojo |date=1964-06-23 |accessdate=2012-08-17}}</ref>
-|-
-| 9.
-| ''[[A Hard Day's Night (film)|A Hard Day's Night]]''
-| [[United Artists]]
-| [[The Beatles]]
-| '''$12,299,668'''<ref>[http://www.the-numbers.com/movies/1964/0HRDD.php Box Office Information for ''A Hard Day's Night''.] The Numbers. Retrieved April 30, 2013.</ref>
-|-
-| 10.
-| ''[[The Night of the Iguana (film)|The Night of the Iguana]]''
-| [[MGM]]
-| [[Richard Burton]], [[Ava Gardner]], and [[Deborah Kerr]]
-| '''$12,000,000'''<ref>[http://www.imdb.com/title/tt0058404/business Box Office Information for ''The Night of the Iguana''.] [[IMDb]]. Retrieved April 30, 2013.</ref>
-|-
-| 11.
-| ''[[What a Way to Go!]]''
-| [[20th Century Fox|Fox]]
-| [[Shirley MacLaine]], [[Paul Newman]], [[Robert Mitchum]], and [[Dean Martin]]
-| '''$11,180,531'''<ref>[http://www.the-numbers.com/movies/1964/0WWYG.php Box Office Information for ''What a Way to Go!''] The Numbers. Retrieved April 30, 2013.</ref>
-|-
-| 12.
-| ''[[The Unsinkable Molly Brown (film)|The Unsinkable Molly Brown]]''
-| [[MGM]]
-| [[Debbie Reynolds]], [[Harve Presnell]], and [[Ed Begley]]
-| '''$11,070,559'''<ref>[http://www.the-numbers.com/movies/1964/00261.php Box Office Information for ''The Unsinkable Molly Brown''] The Numbers. Retrieved April 30, 2013.</ref>
-|-
-| 13.
-| ''[[The Pink Panther (1963 film)|The Pink Panther]]''
-| [[United Artists]]
-| [[Peter Sellers]], [[David Niven]], and [[Robert Wagner]]
-| '''$10,878,107'''<ref>{{cite web|url=http://boxofficemojo.com/movies/?id=pinkpanther.htm |title=The Pink Panther (1964) (1964) |publisher=Box Office Mojo |date=1964-04-11 |accessdate=2012-08-17}}</ref>
-|-
-| 14.
-|''[[Viva Las Vegas]]''
-| [[MGM]]
-| [[Elvis Presley]] and [[Ann-Margret]]
-| '''$9,442,967'''<ref>[http://www.the-numbers.com/movies/1964/00262.php Box Office Information for ''Viva Las Vegas''.] The Numbers. Retrieved May 19, 2013.</ref>
-|-
-| 15.
-|''[[Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb]]''
-| [[Columbia Pictures|Columbia]]
-| [[Peter Sellers]], [[George C. Scott]], [[Sterling Hayden]], [[Keenan Wynn]], [[Slim Pickens]], and [[Tracy Reed (English actress)|Tracy Reed]]
-| '''$9,440,272'''<ref>[http://www.the-numbers.com/movies/1964/00262.php Box Office Information for ''Dr. Strangelove''.] [[Box Office Mojo]]. Retrieved May 19, 2013.</ref>
-|-
-| 16.
-|''[[Becket (1964 film)|Becket]]''
-| [[Paramount Pictures|Paramount]]
-| [[Richard Burton]] and [[Peter O'Toole]]
-| '''$9,164,370'''<ref>[http://www.the-numbers.com/movies/1964/0BCKT.php Box Office Information for ''Becket''.] The Numbers. Retrieved May 19, 2013.</ref>
-|-
-| 17.
-|''[[Send Me No Flowers]]''
-| [[Universal Studios|Universal International]]
-| [[Rock Hudson]] and [[Doris Day]]
-| '''$9,129,247'''<ref>[http://www.the-numbers.com/movies/1964/0SMNF.php Box Office Information for ''Send Me No Flowers''.] The Numbers. Retrieved May 19, 2013.</ref>
-|-
-| 18.
-|''[[Good Neighbor Sam]]''
-| [[Columbia Pictures|Columbia]]
-| [[Jack Lemmon]], [[Romy Schneider]], and [[Edward G. Robinson]]
-| '''$9,072,726'''<ref>[http://www.the-numbers.com/movies/1964/0GNBS.php Box Office Information for ''Good Neighbor Sam''.] The Numbers. Retrieved May 19, 2013.</ref>
-|-
-| 19.
-|''[[Zorba the Greek (film)|Zorba the Greek]]''
-| [[20th Century Fox|Fox]]
-| [[Anthony Quinn]], [[Alan Bates]], and [[Irene Papas]]
-| '''$9,000,000'''<ref>[http://www.the-numbers.com/movies/1964/0ZRBA.php Box Office Information for ''Zorba the Greek''.] The Numbers. Retrieved May 19, 2013.</ref>
-|-
-| 20.
-|''[[Sex and the Single Girl (film)|Sex and the Single Girl]]''
-| [[Warner Bros.]]
-| [[Tony Curtis]], [[Natalie Wood]], and [[Henry Fonda]]
-| '''$8,000,000'''<ref>"All-Time B.O. Champs", ''[[Variety (magazine)|Variety]]'', 3 January 1968 p 25.</ref>
-|-
-| 21.
-| ''[[Hush… Hush, Sweet Charlotte]]
-| [[20th Century Fox|Fox]]
-| [[Joseph Cotten]], [[Bette Davis]], and [[Olivia de Havilland]]
-| '''$8,000,000'''<ref>"Big Rental Pictures of 1965", ''[[Variety (magazine)|Variety]]'', 5 January 1966 p 6.</ref>
-|-
-| 22.
-|''[[Marnie (film)|Marnie]]''
-| [[Universal Studios|Universal International]]
-| [[Tippi Hedren]] and [[Sean Connery]]
-| '''$7,000,000'''<ref>[http://www.the-numbers.com/movies/1964/0MRNI.php Box Office Information for ''Marnie''.] The Numbers. Retrieved May 19, 2013.</ref>
-|-
-| 23.
-|''[[Topkapi (film)|Topkapi]]''
-| [[United Artists]]
-| [[Melina Mercouri]], [[Peter Ustinov]], and [[Maximilian Schell]]
-| '''$7,000,000'''<ref>[http://www.the-numbers.com/movies/1964/0TPKP.php Box Office Information for ''Topkapi''.] The Numbers. Retrieved May 19, 2013.</ref>
-|-
-| 24.
-|''[[Man's Favorite Sport?]]''
-| [[Universal Studios|Universal International]]
-| [[Rock Hudson]], [[Paula Prentiss]], and [[Maria Perschy]]
-| '''$6,000,000'''<ref>[http://www.the-numbers.com/movies/1964/0MFSP.php Box Office Information for ''Man's Favorite Sport?''] The Numbers. Retrieved May 19, 2013.</ref>
-|-
-| 25.
-| ''[[Kiss Me, Stupid]]'' 
-| [[Lopert Pictures Corporation|Lopert]] 
-| [[Dean Martin]] and [[Kim Novak]]
-| '''$5,000,000''' 
-|}
-
-(*) After theatrical re-issue(s)
-
-==Awards==
-'''[[37th Academy Awards|Academy Awards]]:'''
-
-:[[Academy Award for Best Picture|Best Picture]]: '''''[[My Fair Lady (film)|My Fair Lady]]''''' - Warner Bros.
-:[[Academy Award for Directing|Best Director]]: '''[[George Cukor]]''' - ''My Fair Lady''
-:[[Academy Award for Best Actor|Best Actor]]: '''[[Rex Harrison]]''' - ''My Fair Lady''
-:[[Academy Award for Best Actress|Best Actress]]: '''[[Julie Andrews]]''' - ''[[Mary Poppins (film)|Mary Poppins]]''
-:[[Academy Award for Best Supporting Actor|Best Supporting Actor]]: '''[[Peter Ustinov]]''' - ''[[Topkapi (film)|Topkapi]]''
-:[[Academy Award for Best Supporting Actress|Best Supporting Actress]]: '''[[Lila Kedrova]]''' - ''[[Zorba the Greek]]''
-:[[Academy Award for Best Foreign Language Film|Best Foreign Language Film]]: '''''[[Yesterday, Today and Tomorrow (film)|Yesterday, Today, and Tomorrow]]''''' (''Ieri, oggi, domani''), directed by [[Vittorio De Sica]], Italy
-
-'''[[22nd Golden Globe Awards|Golden Globe Awards]]:'''
-
-:<u>'''Drama:'''</u>
-:[[Golden Globe Award for Best Motion Picture – Drama|Best Picture]]: '''''[[Becket (1964 film)|Becket]]'''''
-:[[Golden Globe Award for Best Actor – Motion Picture Drama|Best Actor]]: '''[[Peter O'Toole]]''' - ''Becket''
-:[[Golden Globe Award for Best Actress – Motion Picture Drama|Best Actress]]: '''[[Anne Bancroft]]''' - ''[[The Pumpkin Eater]]''
-:Best Supporting Actress: '''[[Agnes Moorehead]]''' - ''[[Hush… Hush, Sweet Charlotte]]''
-
-:<u>'''Musical or comedy:'''</u>
-:[[Golden Globe Award for Best Motion Picture – Musical or Comedy|Best Picture]]: '''''My Fair Lady'''''
-:[[Golden Globe Award for Best Actor – Motion Picture Musical or Comedy|Best Actor]]: '''Rex Harrison''' - ''My Fair Lady''
-:[[Golden Globe Award for Best Actress – Motion Picture Musical or Comedy|Best Actress]]: '''Julie Andrews''' - ''Mary Poppins''
-
-:<u>'''Other'''</u>
-:[[Golden Globe Award for Best Director – Motion Picture|Best Director]]: '''George Cukor''' - ''My Fair Lady''
-
-'''[[Palme d'Or]] (Cannes Film Festival):'''
-:'''''[[Les Parapluies de Cherbourg]]''''' (''The Umbrellas of Cherbourg''), directed by [[Jacques Demy]], France
-
-'''[[Golden Lion]] (Venice Film Festival):'''
-:'''''[[Il deserto rosso]]''''' (''The Red Desert''), directed by [[Michelangelo Antonioni]], Italy
-
-'''[[Berlin Film Festival|Golden Bear]] (Berlin Film Festival):'''
-:'''''[[Susuz Yaz]]''''' (''Dry Summer''), directed by [[Metin Erksan|Ismail Metin]], Turkey
-
-==Notable films released in 1964==
-[[American films of 1964|U.S.A.]] unless stated
-
-'''#'''
-* ''[[7 Faces of Dr. Lao]]'', starring [[Tony Randall]], [[Barbara Eden]] and [[Arthur O'Connell]], with special effects by [[George Pal]]
-* ''[[The 7th Dawn]]'', starring [[William Holden]] and [[Susannah York]]
-* ''[[633 Squadron]]'', starring [[Cliff Robertson]], [[George Chakiris]], [[Maria Perschy]] - ([[British films of 1964|U.K.]])
-'''A'''
-* ''[[Advance to the Rear]]'', directed by [[George Marshall]], starring [[Glenn Ford]], [[Stella Stevens]], [[Melvyn Douglas]]
-* ''[[The Alive and the Dead]]'' (Zhivye i myortvye) - ([[Soviet films of 1964|U.S.S.R.]])
-* ''[[The Americanization of Emily]]'', directed by [[Arthur Hiller]], starring [[James Garner]], [[Julie Andrews]], [[James Coburn]] and [[Melvyn Douglas]]
-* ''[[The Ape Woman]]'' (La donna scimmia), starring [[Ugo Tognazzi]] and [[Annie Girardot]] - ([[Italian films of 1964|Italy]]/[[French films of 1964|France]])
-* ''[[Assassination (1964 film)|Assassination]]'' (Ansatu) - ([[Japanese films of 1964|Japan]])
-* ''[[At Midnight I'll Take Your Soul]]'' (À Meia-Noite Levarei Sua Alma) - ([[Brazilian films of the 1960s|Brazil]])
-* ''[[Atentát]] - ([[Czech films of the 1960s|Czechoslovakia]])
-* ''[[Ayee Milan Ki Bela]]'' - ([[Bollywood films of 1964|India]])
-'''B'''
-* ''[[Band of Outsiders]]'' (Bande à part), directed by [[Jean-Luc Godard]] - ([[French films of 1964|France]])
-* ''[[The Bargee]]'', starring [[Harry H. Corbett]] and [[Eric Sykes]] - ([[British films of 1964|U.K.]])
-* ''[[The Beauty Jungle]]'', starring [[Ian Hendry]] - (U.K.)
-* ''[[Becket (1964 film)|Becket]]'', directed by [[Peter Glenville]], starring [[Peter O'Toole]] and [[Richard Burton]] - (U.K./U.S.)
-* ''[[Bedtime Story (film)|Bedtime Story]]'', starring [[Marlon Brando]], [[David Niven]] and [[Shirley Jones]]
-* ''[[Before the Revolution]]'' (Prima della rivoluzione), directed by [[Bernardo Bertolucci]] - ([[Italian films of 1964|Italy]])
-* ''[[Behold a Pale Horse (film)|Behold a Pale Horse]]'', directed by [[Fred Zinnemann]], starring [[Gregory Peck]], [[Anthony Quinn]] and [[Omar Sharif]]
-* ''[[The Best Man (1964 film)|The Best Man]]'', directed by [[Franklin J. Schaffner]] written by [[Gore Vidal]] from his play, starring [[Henry Fonda]], [[Cliff Robertson]], [[Edie Adams]], [[Ann Sothern]], [[Shelley Berman]] and [[Lee Tracy]]
-* ''[[Bikini Beach]]'', starring [[Frankie Avalon]], [[Annette Funicello]], [[Martha Hyer]] and [[Don Rickles]]
-* ''[[Black God, White Devil]]'' (Deus e o Diabo na terra do sol) - ([[Brazilian films of the 1960s|Brazil]])
-* ''[[Black Like Me (film)|Black Like Me]]'', starring [[James Whitmore]] and [[Roscoe Lee Browne]]
-* ''[[Black Peter (film)|Black Peter]]'' (Cerný Petr), directed by [[Miloš Forman]] - ([[Czech films of the 1960s|Czechoslovakia]])
-* ''[[Blood and Black Lace]]'', directed by [[Mario Bava]] - ([[Italian films of 1964|Italy]])
-* ''[[The Brass Bottle (1964 film)|The Brass Bottle]]'', starring [[Tony Randall]], [[Burl Ives]] and [[Barbara Eden]]
-* ''[[Bullet for a Badman]]'', starring  [[Audie Murphy]], [[Darren McGavin]] and [[Ruta Lee]]
-'''C'''
-* ''[[Carol for Another Christmas]]'', starring [[Peter Sellers]] and [[Britt Ekland]]
-* ''[[The Carpetbaggers (film)|The Carpetbaggers]]'', starring [[George Peppard]], [[Carroll Baker]], [[Elizabeth Ashley]], [[Martha Hyer]], [[Bob Cummings]] and [[Alan Ladd]] (in his final film role as [[Nevada Smith]])
-* ''[[Carry On Cleo]]'', starring [[Sid James]] and [[Amanda Barrie]] - ([[British films of 1964|U.K.]])
-* ''[[Carry On Spying]]'', starring [[Kenneth Williams]] and [[Barbara Windsor]] - (U.K.)
-* ''[[The Chairman (1964 film)|The Chairman]]'' (Predsedatel) - ([[Soviet films of 1964|U.S.S.R.]])
-* ''[[The Chalk Garden (film)|The Chalk Garden]]'', starring [[Deborah Kerr]] and [[Hayley Mills]] - (U.K.)
-* ''[[Cheyenne Autumn]]'', directed by [[John Ford]], starring [[Carroll Baker]], [[Richard Widmark]], [[Edward G. Robinson]] and [[Karl Malden]], featuring [[James Stewart]] and [[Arthur Kennedy (actor)|Arthur Kennedy]] as [[Wyatt Earp]] and [[Doc Holliday]], respectively
-* ''[[Circus World (film)|Circus World]]'', starring [[John Wayne]], [[Claudia Cardinale]] and [[Rita Hayworth]]
-* ''[[The Comedy Man]]'', starring [[Kenneth More]] and [[Cecil Parker]] - (U.K.)
-* ''[[The Comedy of Terrors]]'', starring [[Vincent Price]], [[Peter Lorre]], [[Boris Karloff]], [[Basil Rathbone]], [[Joyce Jameson]], [[Joe E. Brown]] and [[Orangey]] (aka [[Rhubarb (1951 film)|Rhubarb]] the Cat)
-* ''[[Crack in the World]]'', starring [[Dana Andrews]], [[Kieron Moore]] and [[Janette Scott]]
-* ''[[Crooks in Cloisters]]'', starring [[Ronald Fraser (actor)|Ronald Fraser]] and [[Barbara Windsor]] - ([[British films of 1964|U.K.]])
-'''D'''
-* ''[[Daisies (film)]]''
-* ''[[Dead Ringer (1964 film)|Dead Ringer]]'', starring [[Bette Davis]]
-* ''[[Dear Heart]]'', directed by [[Delbert Mann]], starring [[Geraldine Page]], [[Glenn Ford]], [[Angela Lansbury]]
-* ''[[The Devil-Ship Pirates]]'', starring [[Christopher Lee]] and [[Andrew Keir]]
-* ''[[Diamonds of the Night]]'' (Démanty noci), directed by [[Jan N?mec]] - ([[Czech films of the 1960s|Czechoslovakia]])
-* ''[[Diary of a Chambermaid (1964 film)|Diary of a Chambermaid]]'' (Le journal d'une femme de chambre), directed by [[Luis Buñuel]], starring [[Jeanne Moreau]] and [[Michel Piccoli]] - ([[French films of 1964|France]])
-* ''[[The Disorderly Orderly]]'', directed by [[Frank Tashlin]], starring [[Jerry Lewis]] and [[Susan Oliver]]
-* ''[[Dog Eat Dog (1964 film)|Dog Eat Dog]]'' (aka When Strangers Meet), starring [[Jayne Mansfield]]
-* ''[[Dogora (1964 film)|Dogora]]'' (aka Uch? Daikaij? Dogora), directed by [[Ishir? Honda]] - ([[Japanese films of 1964|Japan]])
-* ''[[Dosti]]'' (Friendship) - ([[Bollywood films of the 1960s|India]])
-*''[[Dr. Crippen (film)|Dr. Crippen]]'', starring [[Donald Pleasence]] - (U.K.)
-* ''[[Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb]]'', directed by [[Stanley Kubrick]], starring [[Peter Sellers]] (in three roles), [[George C. Scott]], [[Sterling Hayden]], [[Keenan Wynn]] and [[James Earl Jones]] - ([[British films of 1964|U.K.]])
-* ''[[Dry Summer]]'' (Susuz Yaz) - ([[Turkish films of the 1960s|Turkey]])
-'''E'''
-* ''[[The Earth Dies Screaming]]'', starring [[Willard Parker]], [[Virginia Field]], [[Dennis Price]]- ([[British films of 1964|U.K.]])
-*'' [[East of Sudan]]'', starring [[Anthony Quayle]], [[Sylvia Sims]] and [[Jenny Agutter]] - (U.K.)
-* ''[[Ensign Pulver]]'', a sequel to ''[[Mister Roberts (1955 film)|Mister Roberts]]'', starring [[Robert Walker, Jr.]],  [[Burl Ives]], [[Walter Matthau]], [[Larry Hagman]] and [[Jack Nicholson]]
-* ''[[El extraño viaje]]'' (The Strange Voyage) - ([[Spanish films of 1964|Spain]])
-* ''[[The Eyes of Annie Jones]]'', starring [[Richard Conte]] and [[Francesca Annis]] - (U.K.)
-'''F'''
-* ''[[Face of the Screaming Werewolf]]'', starring [[Lon Chaney, Jr.]] - ([[Mexican films of 1964|Mexico]]/[[American films of 1964|U.S.A.]])
-* ''[[Fail-Safe (1964 film)|Fail-Safe]]'', directed by [[Sidney Lumet]], starring [[Dan O'Herlihy]], [[Walter Matthau]], [[Fritz Weaver]], [[Edward Binns]], [[Frank Overton]], [[Larry Hagman]], [[Sorrell Booke]], [[Dana Elcar]], [[Dom DeLuise]] and [[Henry Fonda]] as the President
-* ''[[The Fall of the Roman Empire (film)|The Fall of the Roman Empire]]'', starring [[Sophia Loren]], [[Stephen Boyd]], [[Alec Guinness]], [[Christopher Plummer]] and [[James Mason]]
-* ''[[Fantômas (1964 film)|Fantômas]]'', starring [[Jean Marais]] - ([[French films of 1964|France]])
-* ''[[Fate Is the Hunter (film)|Fate Is the Hunter]]'', starring [[Glenn Ford]], [[Rod Taylor]] and [[Suzanne Pleshette]]
-* ''[[Father Goose (film)|Father Goose]]'', starring [[Cary Grant]], [[Leslie Caron]] and [[Trevor Howard]]
-* ''[[The Fifth Horseman is Fear]]'' (A Paty Jezdec je Strach), directed by [[Zbynek Brynych]] - ([[Czech films of the 1960s|Czechoslovakia]])
-* ''[[First Men in the Moon (1964 film)|First Men in the Moon]]'', starring [[Edward Judd]] and [[Lionel Jeffries]], with special effects by [[Ray Harryhausen]] - ([[British films of 1964|U.K.]])
-* ''[[A Fistful of Dollars]]'', directed by [[Sergio Leone]], starring [[Clint Eastwood]] - ([[Italian films of 1964|Italy]])
-* ''[[The Flesh Eaters (film)|The Flesh Eaters]]'', starring [[Martin Kosleck]]
-* ''[[Flight from Ashiya]]'', starring [[Yul Brynner]] and [[Richard Widmark]]
-* '' [[Flipper's New Adventure]]'', starring [[Luke Halpin]] and [[Pamela Franklin]]
-* ''[[The Flower and the Angry Waves]]'' (Hana to dot?), directed by [[Seijun Suzuki]] - ([[Japanese films of 1964|Japan]])
-* ''[[For Those Who Think Young (film)|For Those Who Think Young]]'', starring [[Pamela Tiffin]], [[James Darren]], [[Ellen Burstyn]], [[Nancy Sinatra]], [[Tina Louise]] and [[Bob Denver]]
-* ''[[Forest of the Hanged]]'' (P?durea spânzura?ilor) - ([[List of Romanian films#1960s|Romania]]) 
-'''G'''
-* ''[[Gate of Flesh]]'' (Nikutai no mon), directed by [[Seijun Suzuki]] - ([[Japanese films of 1964|Japan]])
-* ''[[Le Gendarme de Saint-Tropez]]'' (The Policeman of Saint-Tropez) - ([[French films of 1964|France]])
-* ''[[Gertrud (film)|Gertrude]]'', directed by [[Carl Theodor Dreyer]] - ([[Danish films of the 1960s|Denmark]])
-* ''[[Get Yourself a College Girl]]'', starring [[Mary Ann Mobley]] and [[Nancy Sinatra]]
-* ''[[Ghidorah, the Three-Headed Monster]]'' (San Daikaij?: Chiky? Saidai no Kessen) - ([[Japanese films of 1964|Japan]])
-* ''[[Girl with Green Eyes]]'', starring [[Peter Finch]] and [[Rita Tushingham]] - (U.K.)
-* ''[[A Global Affair]]'', starring [[Bob Hope]]
-* ''[[Goldfinger (film)|Goldfinger]]'', starring [[Sean Connery]] (as [[James Bond]]), with [[Honor Blackman]], [[Shirley Eaton]] and [[Gert Frobe]] - ([[British films of 1964|U.K.]])
-* ''[[Goodbye Charlie]]'', starring [[Debbie Reynolds]], [[Tony Curtis]], [[Walter Matthau]] and [[Pat Boone]]
-* ''[[Good Neighbor Sam]]'', starring [[Jack Lemmon]] and [[Romy Schneider]]
-* ''[[The Gorgon]]'', starring [[Peter Cushing]], [[Barbara Shelley]], [[Christopher Lee]]- ([[British films of 1964|U.K.]])
-* ''[[The Gospel According to St. Matthew (film)|The Gospel According to St. Matthew]]'' (Il Vangelo secondo Matteo), directed by [[Pier Paolo Pasolini]] - ([[Italian films of 1964|Italy]])
-* ''[[Greed in the Sun]]'' (Cent mille dollars au soleil), starring [[Jean-Paul Belmondo]] - ([[French films of 1964|France]])
-* ''[[Os Fuzis|The Guns]]'' (Os Fuzis) - ([[Brazilian films of the 1960s|Brazil]]/[[List of Argentine films of 1964|Argentina]])
-* ''[[Guns at Batasi]]'', starring [[Richard Attenborough]] and [[Jack Hawkins]] - (U.K.)
-'''H'''
-* ''[[Richard Burton's Hamlet|Hamlet]] (aka Richard Burton's Hamlet)
-* ''[[Hamlet (1964 film)|Hamlet]]'' - ([[Soviet films of 1964|U.S.S.R.]])
-* ''[[Haqeeqat]]'' (Reality) - ([[Bollywood films of 1964|India]])
-* ''[[A Hard Day's Night (film)|A Hard Day's Night]]'', directed by [[Richard Lester]], starring [[The Beatles]] - ([[British films of 1964|U.K.]])
-* ''[[Hey There It's Yogi Bear]]'', a [[Hanna-Barbera]] feature production
-* ''[[Hide and Seek (1964 film)|Hide and Seek]]'', starring [[Ian Carmichael]] and [[Curd Jürgens]] - (U.K.)
-* ''[[Hot Enough for June]]'', starring [[Dirk Bogarde]] and [[Sylvia Koscina]] - ([[British films of 1964|U.K.]])
-* ''[[A House Is Not a Home (film)|A House Is Not a Home]]'', starring [[Shelley Winters]] and [[Robert Taylor (actor)|Robert Taylor]]
-* ''[[Hush… Hush, Sweet Charlotte]]'', directed by [[Robert Aldrich]], starring [[Bette Davis]] and [[Olivia de Havilland]]
-'''I'''
-* ''[[I Am Cuba]]'' (Soy Cuba) - ([[List of Cuban films|Cuba]]/U.S.S.R.)
-* ''[[I'd Rather Be Rich]]'', starring [[Sandra Dee]], [[Robert Goulet]] and [[Andy Williams]]
-* ''[[The Incredible Mr. Limpet]]'', starring [[Don Knotts]], [[Jack Weston]] and [[Andrew Duggan]]
-* ''[[Unholy Desire|Intentions of Murder]]'' (Akai satsui), directed by [[Shohei Imamura]] - ([[Japanese films of 1964|Japan]])
-* ''[[Invitation to a Gunfighter]]'', starring [[Yul Brynner]], [[George Segal]] and [[Janice Rule]]
-'''J'''
-'''K'''
-* ''[[The Killers (1964 film)|The Killers]]'', remake of 1946 film, directed by [[Don Seigel]], starring [[Lee Marvin]], [[Angie Dickinson]], [[John Cassavetes]] and, in his final film, [[Ronald Reagan]]
-* ''[[King and Country]]'', directed by [[Joseph Losey]], starring [[Dirk Bogarde]] and [[Tom Courtenay]] - ([[British films of 1964|U.K.]])
-*''[[Kiss Me Quick!]]'', starring [[Althea Currier]]
-* ''[[Kiss Me, Stupid]]'', directed by [[Billy Wilder]], starring [[Dean Martin]] and [[Kim Novak]]
-* ''[[Kisses for My President]]'', starring [[Polly Bergen]] and [[Fred MacMurray]]
-* ''[[Kissin' Cousins]]'', starring [[Elvis Presley]] and [[Yvonne Craig]]
-* ''[[Kitten with a Whip]]'', starring [[Ann-Margret]] and [[John Forsythe]]
-* ''[[Kwaidan (film)|Kwaidan]]'', directed by [[Masaki Kobayashi]] - ([[Japanese films of 1964|Japan]])
-'''L'''
-* ''[[Lady General Hua Mu-lan]]'' (aka Hua Mu Lan) - ([[Hong Kong films of 1964|Hong Kong]])
-* ''[[The Last Man on Earth (1964 film)|The Last Man on Earth]]'' (L'ultimo uomo della Terra), starring [[Vincent Price]] - ([[American films of 1964|U.S.A.]]/[[Italian films of 1964|Italy]])
-* ''[[Les Pas perdus|The Last Steps]]'' (Les pas perdus), starring [[Michèle Morgan]] and [[Jean-Louis Trintignant]] - ([[French films of 1964|France]])
-* ''[[Leader (1964 film)|Leader]]'', starring [[Dilip Kumar]] and [[Vyjayanthimala]] - ([[Bollywood films of 1964|India]])
-* ''[[The Leather Boys]]'', directed by [[Sidney J. Furie]], starring [[Rita Tushingham]] - ([[British films of 1964|U.K.]])
-* ''[[Lemonade Joe]]'' (Limonádový Joe aneb Ko?ská opera) - ([[Czech films of the 1960s|Czechoslovakia]])
-* ''[[Lilith (film)|Lilith]]'', directed by [[Robert Rossen]], starring [[Warren Beatty]] and [[Jean Seberg]]
-*''[[The Lively Set]]'', starring [[James Darren]], [[Pamela Tiffin]] and [[Doug McClure]]
-* ''[[The Lonely Wife]]'' (Charulata), directed by [[Satyajit Ray]] - ([[Bengali films of the 1960s|India]])
-* ''[[Looking for Love (film)|Looking for Love]]'', starring [[Connie Francis]]
-* ''[[The Luck of Ginger Coffey]]'', directed by [[Irvin Kershner]], starring [[Robert Shaw (British actor)|Robert Shaw]]
-'''M'''
-* ''[[Madu Tiga]]'' (Three Wives), starring [[P. Ramlee]] - ([[List of Malaysian films#1960s|Malaysia]])
-* ''[[Mail Order Bride (1964 film)|Mail Order Bride]]'', directed by [[Burt Kennedy]], starring [[Buddy Ebsen]] and [[Lois Nettleton]]
-* ''[[Man's Favourite Sport]]'', directed by [[Howard Hawks]], starring [[Rock Hudson]] and [[Paula Prentiss]]
-* ''[[Marnie (film)|Marnie]]'', directed by [[Alfred Hitchcock]], starring [[Tippi Hedren]] and [[Sean Connery]]
-* ''[[Marriage Italian Style]]'' (Matrimonio all'italiana), directed by [[Vittorio De Sica]], starring [[Sophia Loren]] and [[Marcello Mastroianni]] - ([[Italian films of 1964|Italy]])
-* ''[[A Married Woman]]'' (Une femme mariée), directed by [[Jean-Luc Godard]] - ([[French films of 1964|France]])
-* ''[[Mary Poppins (film)|Mary Poppins]]'', starring [[Julie Andrews]] and [[Dick Van Dyke]]—winner of 5 [[37th Academy Awards|Academy Awards]]
-* ''[[The Masque of the Red Death (film)|The Masque of the Red Death]]'', starring [[Vincent Price]], [[Hazel Court]] and [[Jane Asher]] - ([[British films of 1964|U.K.]])
-* ''[[Men and Women (1964 film)|Men and Women]]'' (Noite Vazia) - ([[Brazilian films of the 1960s|Brazil]])
-* ''[[The Misadventures of Merlin Jones]]'', starring [[Annette Funicello]] and [[Tommy Kirk]]
-* ''[[The Moon-Spinners]]'', starring [[Hayley Mills]]
-* ''[[Mothra vs. Godzilla]]'' (''[[Mothra vs. Godzilla|Godzilla vs. The Thing]]''), directed by [[Ishir? Honda]] - ([[Japanese films of 1964|Japan]])
-* ''[[Murder Ahoy!]]'', starring [[Margaret Rutherford]] and [[Lionel Jeffries]]
-* ''[[Murder Most Foul]]'', starring [[Margaret Rutherford]] and [[Ron Moody]]
-* ''[[My Fair Lady (film)|My Fair Lady]]'', directed by [[George Cukor]], starring [[Audrey Hepburn]] and [[Rex Harrison]] - winner of 8 [[37th Academy Awards|Oscars]], 3 [[Golden Globes]] and [[BAFTA]] for best film
-* ''[[O filos mou o Lefterakis|My Friend Lefterakis]]'' (O filos mou o Lefterakis) - ([[Greek films of the 1960s|Greece]])
-'''N'''
-* ''[[The Naked Kiss]]'', directed by [[Samuel Fuller]], starring [[Constance Towers]]
-* ''[[The New Interns]]'', starring [[Dean Jones (actor)|Dean Jones]], [[Michael Callan]], [[Stefanie Powers]] and [[Barbara Eden]]
-* ''[[The Night of the Iguana (film)|The Night of the Iguana]]'', directed by [[John Huston]], starring [[Richard Burton]], [[Ava Gardner]], [[Deborah Kerr]] and [[Sue Lyon]]
-*''[[The Night Walker]] starring [[Barbara Stanwyck]] in her last film and [[Robert Taylor (actor)|Robert Taylor]]
-* ''[[Nobody Waved Good-bye]]'' - ([[List of Canadian films#1960s|Canada]])
-* ''[[Nothing But a Man]]'', starring [[Ivan Dixon]], [[Abbey Lincoln]] and  [[Yaphet Kotto]]
-* ''[[Nothing But the Best (film)|Nothing But the Best]]'', starring [[Alan Bates]] and [[Millicent Martin]] - ([[British films of 1964|U.K.]])
-'''O'''
-* ''[[Of Human Bondage (1964 film)|Of Human Bondage]]'', starring [[Kim Novak]], [[Laurence Harvey]] and [[Siobhan McKenna]] - (U.K.)
-* ''[[One Potato, Two Potato (film)|One Potato, Two Potato]]'', starring [[Barbara Barrie]], [[Bernie Hamilton]] and [[Richard Mulligan]]
-* ''[[Onibaba (film)|Onibaba]]'' (Demon Woman), directed by [[Kaneto Shind?]] - ([[Japanese films of 1964|Japan]])
-* ''[[The Outrage]]'', directed by [[Martin Ritt]], starring [[Paul Newman]], [[Laurence Harvey]], [[Claire Bloom]], [[Edward G. Robinson]] and [[William Shatner]]
-'''P'''
-* ''[[Pajama Party (film)|Pajama Party]]'', starring [[Annette Funicello]], [[Tommy Kirk]], [[Elsa Lanchester]], [[Jesse White (actor)|Jesse White]], [[Harvey Lembeck]], [[Buster Keaton]] and [[Don Rickles]]
-* ''[[Pale Flower]]'' (Kawaita hana) - ([[Japanese films of 1964|Japan]])
-* ''[[Panic Button (1964 film)|Panic Button]]'', starring [[Jayne Mansfield]] and [[Maurice Chevalier]]
-* ''[[Paris When It Sizzles]]'', starring [[William Holden]] and [[Audrey Hepburn]] with cameos by [[Tony Curtis]] and [[Marlene Dietrich]]
-* ''[[The Patsy (1964 film)|The Patsy]]'', directed by and starring [[Jerry Lewis]], with [[Ina Balin]], [[Everett Sloane]], [[Phil Harris]], [[Keenan Wynn]], [[John Carradine]] and [[Peter Lorre]]
-* ''[[The Pawnbroker (film)|The Pawnbroker]]'', directed by [[Sidney Lumet]], with a music score by [[Quincy Jones]], starring [[Rod Steiger]], [[Geraldine Fitzgerald]] and [[Brock Peters]]
-* ''[[The Pleasure Seekers]]'', starring [[Pamela Tiffin]], [[Carol Lynley]], [[Brian Keith]], [[Vito Scotti]] and [[Ann-Margret]]
-* ''[[The Pumpkin Eater]]'', starring [[Anne Bancroft]] and [[Peter Finch]] - ([[British films of 1964|U.K.]])
-'''Q'''
-*''[[Quick, Before It Melts]]'', starring  [[George Maharis]], [[Robert Morse]], [[Anjanette Comer]] and [[Yvonne Craig]]
-'''R'''
-* ''[[Rattle of a Simple Man]]'' directed by [[Muriel Box]], starring [[Diane Cilento]] and [[Harry H. Corbett]] - (U.K.)
-* ''[[The Ravishing Idiot]]'' (Une ravissante idiote), starring [[Brigitte Bardot]] and [[Anthony Perkins]] - ([[French films of 1964|France]])
-* ''[[Red Desert (film)|Red Desert]]'' (Il deserto rosso), directed by [[Michelangelo Antonioni]], starring [[Monica Vitti]] and [[Richard Harris]] - ([[Italian films of 1964|Italy]])
-* ''[[Ride the Wild Surf]]'', starring [[Tab Hunter]], [[Fabian Forte]], [[Shelley Fabares]] and [[Barbara Eden]]
-* ''[[Ring of Spies]]'', starring [[Bernard Lee]] - ([[British films of 1964|U.K.]])
-* ''[[Rio Conchos]]'', starring [[Stuart Whitman]], [[Tony Franciosa]], [[Richard Boone]] and [[Wende Wagner]]
-* ''[[Robin and the 7 Hoods]]'', starring [[Frank Sinatra]], [[Dean Martin]], [[Sammy Davis, Jr.]], [[Bing Crosby]], [[Barbara Rush]], [[Peter Falk]], [[Victor Buono]] and [[Edward G. Robinson]]
-* ''[[Robinson Crusoe on Mars]]'', directed by [[Byron Haskin]], starring [[Paul Mantee]], [[Vic Lundin]] and [[Adam West]]
-* ''[[Roustabout (film)|Roustabout]]'', starring [[Elvis Presley]] and [[Barbara Stanwyck]]
-* ''[[Rudolph the Red-Nosed Reindeer (TV special)|Rudolph the Red-Nosed Reindeer]]'' - (TV film) from [[Rankin-Bass]] Productions
-'''S'''
-* ''[[Sallah Shabati]]'', starring [[Chaim Topol]] - ([[1964 in Israeli film|Israel]])
-* ''[[Sangam (1964 Hindi film)|Sangam]]'', starring [[Vyjayanthimala]], [[Raj Kapoor]] and [[Rajendra Kumar]] - ([[Bollywood films of 1964|India]])
-* ''[[Séance on a Wet Afternoon]]'', starring [[Kim Stanley]] and [[Richard Attenborough]] - ([[British films of 1964|U.K.]])
-* ''[[The Secret Invasion]]'', starring [[Stewart Granger]] and [[Mickey Rooney]]
-* ''[[Seduced and Abandoned]]'' (Sedotta e abbandonata), starring [[Stefania Sandrelli]] - ([[Italian films of 1964|Italy]])
-* ''[[Send Me No Flowers]]'', starring [[Doris Day]] and [[Rock Hudson]]
-* ''[[Seven Days in May]]'', directed by [[John Frankenheimer]], written by [[Rod Serling]], starring [[Kirk Douglas]], [[Burt Lancaster]], [[Fredric March]], [[Ava Gardner]], [[Martin Balsam]], [[George Macready]], [[Richard Anderson]], [[Andrew Duggan]], [[Hugh Marlowe]], [[Whit Bissell]] and [[John Houseman]]
-* ''[[Seven Up!]]'' - documentary - ([[British films of 1964|U.K.]])
-* ''[[Sex and the Single Girl (film)|Sex and the Single Girl]]'', starring [[Natalie Wood]], [[Tony Curtis]], [[Henry Fonda]] and [[Lauren Bacall]]
-* ''[[Shadows of Forgotten Ancestors]]'' (Tini zabutykh predkiv) - ([[List of Ukrainian films|U.S.S.R.]])
-* ''[[Shehar Aur Sapna]]'' (The City and the Dream) - ([[Bollywood films of 1964|India]])
-* ''[[A Shot in the Dark (1964 film)|A Shot in the Dark]]'', second entry in the [[Pink Panther]] series, directed by [[Blake Edwards]], starring [[Peter Sellers]] as [[Inspector Clouseau]], with [[Elke Sommer]], [[George Saunders]], [[Burt Kwouk]] (in his first appearance as [[Cato Fong|Kato]]; later spelled [[Cato Fong|Cato]]) and [[Herbert Lom]] (in his first appearance as [[Charels Dreyfus|Chief Inspector Dreyfus]])
-* ''[[Smokescreen (film)|Smokescreen]]'', starring [[Yvonne Romain]]
-* ''[[The Soft Skin]]'' (La Peau Douce), directed by [[François Truffaut]], starring [[Françoise Dorléac]] - ([[French films of 1964|France]])
-* ''[[Strait-Jacket]]'', produced and directed by [[William Castle]], starring [[Joan Crawford]], [[Diane Baker]], [[Leif Erickson (actor)|Leif Erickson]], [[George Kennedy]] and [[Lee Majors]]
-* ''[[The System (1964 film)|The System]]'', starring [[Oliver Reed]]
-'''T'''
-* ''[[That Man from Rio]]'' (L'Homme de Rio), starring [[Jean-Paul Belmondo]] and [[Françoise Dorléac]] - ([[French films of 1964|France]])
-* ''[[The Thin Red Line (1964 film)|The Thin Red Line]]'', starring [[Keir Dullea]] and [[Jack Warden]]
-* ''[[The Three Lives of Thomasina]]'', starring [[Patrick McGoohan]], [[Susan Hampshire]], [[Karen Dotrice]], [[Matthew Garber]] - ([[British films of 1964|U.K.]]/[[American films of 1964|U.S.A.]])
-* ''[[The Third Secret (film)|The Third Secret]]'', starring [[Stephen Boyd]], [[Jack Hawkins]], [[Richard Attenborough]], [[Diane Cilento]] - (U.K.)
-* ''[[La Tía Tula]]'' (Aunt Tula) - ([[Spanish films of 1964|Spain]])
-* ''[[Gli indifferenti (film)|Time of Indifference]]'' (Gli indifferenti), starring [[Claudia Cardinale]], [[Rod Steiger]], [[Shelley Winters]] - ([[Italian films of 1964|Italy]])
-* ''[[The Time Travelers (1964 film)|The Time Travelers]]'', starring [[Preston Foster]] and [[Merry Anders]]
-* ''[[The Tomb of Ligeia]]'', directed by [[Roger Corman]], starring [[Vincent Price]] and [[Elizabeth Shepherd]]
-* ''[[Topkapi (film)|Topkapi]]'', starring [[Melina Mercouri]], [[Maximilian Schell]], [[Peter Ustinov]], [[Robert Morley]] and [[Akim Tamiroff]]
-* ''[[The Train (1964 film)|The Train]]'', directed by [[John Frankenheimer]], starring [[Burt Lancaster]], [[Paul Scofield]] and [[Jeanne Moreau]] - (U.S./France/[[Italian films of 1964|Italy]])
-* ''[[Troubled Waters (1964 film)|Troubled Waters]]'', aka ''Man with Two Faces'', starring [[Tab Hunter]]
-* ''[[Two Stage Sisters]]'' (W?tái Ji?mèi) - ([[Chinese films of the 1960s|China]])
-'''U'''
-* ''[[The Umbrellas of Cherbourg]]'' (Les Parapluies de Cherbourg), directed by [[Jacques Demy]], starring [[Catherine Deneuve]] and [[Nino Castelnuovo]] - winner of [[Palme d'Or]] - ([[French films of 1964|France]])
-* ''[[The Unsinkable Molly Brown (film)|The Unsinkable Molly Brown]]'', starring [[Debbie Reynolds]], [[Harve Presnell]] and [[Ed Begley]]
-'''V'''
-* ''[[The Visit (1964 film)|The Visit]]'', directed by [[Bernhard Wicki]] - ([[List of German films: 1960s|West Germany]]/U.S./[[French films of 1964|France]]/[[Italian films of 1964|Italy]])
-* ''[[Viva Las Vegas]]'', starring [[Elvis Presley]] and [[Ann-Margret]]
-'''W'''
-* ''[[Weekend at Dunkirk]]'' (Week-end à Zuydcoote), directed by [[Henri Verneuil]] - ([[Italian films of 1964|Italy]]/[[French films of 1964|France]])
-* ''[[Welcome, or No Trespassing]]'' (Dobro pozhalovat, ili Postoronnim vkhod vospreshchyon), starring [[Yevgeniy Yevstigneyev]] - ([[Soviet films of 1964|U.S.S.R.]])
-* ''[[What a Way to Go!]]'', starring [[Shirley MacLaine]], [[Dean Martin]], [[Gene Kelly]], [[Paul Newman]], [[Robert Mitchum]], [[Dick Van Dyke]] and [[Robert Cummings]]
-*'' [[Where Love Has Gone (film)|Where Love Has Gone]]'', starring [[Bette Davis]], [[Susan Hayward]], [[Mike Connors]] and [[DeForest Kelley]]
-* ''[[Witchcraft (1964 film)|Witchcraft]]'', starring [[Lon Chaney, Jr.|Lon Chaney]] and [[Jack Hedley]] - ([[British films of 1964|U.K.]])
-* ''[[Woh Kaun Thi?]]'' (Who Was She?) - ([[Bollywood films of 1964|India]])
-* ''[[Woman in the Dunes]]'' (Suna no onna) - ([[Japanese films of 1964|Japan]])
-* ''[[Woman of Straw]]'', starring [[Gina Lollobrigida]] and [[Sean Connery]] - ([[British films of 1964|U.K.]])
-* ''[[Wonderful Life (1964 film)|Wonderful Life]]'', starring [[Cliff Richard]] and [[The Shadows]] (US title: ''Swingers' Paradise''<ref>[http://www.tcm.com/tcmdb/title.jsp?stid=92146&atid=19528 Overview for ''Swingers' Paradise'' (1965)"], Turner Classic Movies page</ref>) - ([[British films of 1964|U.K.]])
-* ''[[The World of Henry Orient]]'', directed by [[George Roy Hill]], starring [[Peter Sellers]], [[Paula Prentiss]], [[Angela Lansbury]] and [[Tom Bosley]]
-'''Y'''
-* ''[[The Yellow Rolls-Royce]]'', starring [[Ingrid Bergman]], [[Alain Delon]], [[Rex Harrison]], [[Shirley MacLaine]], [[Jeanne Moreau]], [[George C. Scott]], [[Art Carney]] and [[Omar Sharif]] - ([[British films of 1964|U.K.]])
-* ''[[Youngblood Hawke]]'', starring [[James Franciscus]], [[Suzanne Pleshette]], [[Eva Gabor]] and [[Mary Astor]]
-* ''[[Your Cheatin' Heart (film)|Your Cheatin' Heart]]'', a biopic of [[Hank Williams]], starring [[George Hamilton (actor)|George Hamilton]]
-'''Z'''
-* ''[[Zhavoronok]]'' - ([[Soviet films of 1964|U.S.S.R.]])
-* ''[[Zindagi (1964 film)|Zindagi]]'', starring [[Vyjayanthimala]], [[Rajendra Kumar]], [[Raaj Kumar]] and [[Prithviraj Kapoor]] -([[Bollywood films of 1964|India]])
-* ''[[Zorba the Greek (film)|Zorba the Greek]]'', directed by [[Michael Cacoyannis]], starring [[Anthony Quinn]] and [[Alan Bates]] - ([[Greek films of the 1960s|Greece]]/[[British films of 1964|U.K.]])
-* ''[[Zulu (1964 film)|Zulu]]'', directed by [[Cy Endfield]], starring [[Stanley Baker]], [[Michael Caine]] and [[Jack Hawkins]] - (U.K.)
-
-==Short film series==
-* ''[[Looney Tunes]]'' ([[1930 in film|1930]]&ndash;[[1969 in film|1969]])
-* ''[[Terrytoons]]'' ([[1930 in film|1930]]-'''1964''')
-* ''[[Merrie Melodies]]'' ([[1931 in film|1931]]&ndash;[[1969 in film|1969]])
-* ''[[Speedy Gonzales]]'' ([[1953 in film|1953]]&ndash;[[1968 in film|1968]])
-* ''[[Bugs Bunny]]'' (1940-'''1964''')
-
-==Births==
-* January 7 - [[Nicolas Cage]], actor/producer/director
-* January 13 - [[Penelope Ann Miller]], actress
-* January 18 - [[Jane Horrocks]], actress
-* January 27 - [[Bridget Fonda]], actress
-* February 5 - [[Laura Linney]], actress
-* February 15 - [[Chris Farley]], actor (d. 1997)
-* February 18 - [[Matt Dillon]], actor
-* February 24 - [[Todd Field]], director/actor
-* March 9 - [[Juliette Binoche]], actress
-* March 17 - [[Rob Lowe]], actor
-* April 7 - [[Russell Crowe]], actor
-* April 20 - [[Crispin Glover]], actor
-* May 12 - [[Pierre Morel]], French film director
-* May 25 - [[Ray Stevenson (actor)|Ray Stevenson]], Irish actor
-* June 15 - [[Courteney Cox]], actress
-* July 26 - [[Sandra Bullock]], actress
-* August 2 - [[Mary-Louise Parker]], actress
-* August 16 - [[William Salyers]], actor and voice actor
-* September 2 - [[Keanu Reeves]], actor
-* December 4 - [[Marisa Tomei]], actress
-* December 8 - [[Teri Hatcher]], actress
-
-==Deaths==
-* January 29 - [[Alan Ladd]], 50, American actor, ''[[Shane (film)|Shane]]'', ''[[The Blue Dahlia]]'', ''[[The Proud Rebel]]'', ''[[The Carpetbaggers (film)|The Carpetbaggers]]'', ''[[The Great Gatsby (1949 film)|The Great Gatsby]]'', ''[[My Favorite Brunette]]'', ''[[This Gun for Hire]]'', ''[[The Glass Key (1942 film)|The Glass Key]]'', ''[[Citizen Kane]]''
-* February 27 - [[Orry-Kelly]], 66, Australian costume designer, ''[[Casablanca (film)|Casablanca]]'', ''[[The Maltese Falcon (1941 film)|The Maltese Falcon]]'', ''[[Arsenic and Old Lace (film)|Arsenic and Old Lace]]'', ''[[Harvey (film)|Harvey]]'', ''[[Irma la Douce]]'', ''[[Gypsy (1962 film)|Gypsy]]'', ''[[Sweet Bird of Youth (film)|Sweet Bird of Youth]]'', ''[[Auntie Mame (film)|Auntie Mame]]'', ''[[Oklahoma! (film)|Oklahoma!]]'', ''[[An American in Paris (film)|An American in Paris]]''
-* February 29 - [[Frank Albertson]], 55, American actor, ''[[It's a Wonderful Life]]'', ''[[Psycho (1960 film)|Psycho]]'', ''[[Bye Bye Birdie (film)|Bye Bye Birdie]]''
-* March 23 - [[Peter Lorre]], 59, Hungarian actor, ''[[Casablanca (film)|Casablanca]]'', ''[[The Maltese Falcon (1941 film)|The Maltese Falcon]]'', ''[[Arsenic and Old Lace (film)|Arsenic and Old Lace]]'', ''[[M (1931 film)|M]]'', ''[[Silk Stockings (film)|Silk Stockings]]'', ''[[Around the World in Eighty Days (1956 film)|Around the World in Eighty Days]]'', ''[[20,000 Leagues Under the Sea (1954 film)|20,000 Leagues Under the Sea]]'', ''[[Casbah (film)|Casbah]]'', ''[[My Favorite Brunette]]'', ''[[The Sad Sack]]'', ''[[The Raven (1963 film)|The Raven]]'', ''[[Mr. Moto|Mr. Moto film series]]''
-* April 18 - [[Ben Hecht]], 70, American playwright and screenwriter, ''[[Notorious (1946 film)|Notorious]]'', ''[[His Girl Friday]]'', ''[[Spellbound (1945 film)|Spellbound]]'', ''[[Scarface (1932 film)|Scarface]]'', ''[[Kiss of Death (1947 film)|Kiss of Death]]'', ''[[Casino Royale (1967 film)|Casino Royale]]'', ''[[7 Faces of Dr. Lao]]'', ''[[Cleopatra (1963 film)|Cleopatra]]'', ''[[Mutiny on the Bounty (1962 film)|Mutiny on the Bounty]]'', ''[[The Man with the Golden Arm]]''
-* May 10 - [[Carol Haney]], 39, American dancer, actress, ''[[The Pajama Game (film)|The Pajama Game]]'', ''[[Invitation to the Dance (film)|Invitation to the Dance]]'', ''[[Kiss Me Kate (film)|Kiss Me Kate]]'', ''[[On the Town (film)|On the Town]]'', ''[[Summer Stock]]''
-* May 13 - [[Diana Wynyard]], 58, British actress, ''[[Cavalcade (1933 film)|Cavalcade]]'', ''[[Gaslight (1940 film)|Gaslight]]'', ''[[One More River]]'', ''[[Men Must Fight]]'', ''[[Island in the Sun (film)|Island in the Sun]]''
-*August 6
-**[[Cedric Hardwicke]], 71, British actor, ''[[Rope (film)|Rope]]'', ''[[Suspicion (1941 film)|Suspicion]]'', ''[[The Ten Commandments (1956 film)|The Ten Commandments]]'', ''[[Richard III (1955 film)|Richard III]]'', ''[[Around the World in Eighty Days (1956 film)|Around the World in Eighty Days]]'', ''[[The War of the Worlds (1953 film)|The War of the Worlds]]'', ''[[A Connecticut Yankee in King Arthur's Court (1949 film)|A Connecticut Yankee in King Arthur's Court]]'', ''[[The Lodger (1944 film)|The Lodger]]''
-**[[Reed Howes]], 64, American model and actor, ''[[The Dawn Rider]]'', ''[[Paradise Canyon]]'', ''[[Zorro Rides Again]]'', ''[[Chloe, Love Is Calling You]]'', ''[[The Sinister Urge (film)|The Sinister Urge]]'', ''[[Screaming Mimi (film)|Screaming Mimi]]'', ''[[Calamity Jane (film)|Calamity Jane]]'', ''[[Till the Clouds Roll By]]'', ''[[State Fair (1945 film)|State Fair]]''
-* August 12 - [[Ian Fleming]], 56, British author of ''[[James Bond]]'' novels, ''[[Chitty Chitty Bang Bang (film)|Chitty Chitty Bang Bang]]'', ''[[Casino Royale (2006 film)|Casino Royale]]'', ''[[Goldfinger (film)|Goldfinger]]'', ''[[From Russia with Love (film)|From Russia with Love]]'', ''[[Dr. No (film)|Dr. No]]'', ''[[Thunderball (film)|Thunderball]]'', ''[[Diamonds Are Forever (film)|Diamonds Are Forever]]'', ''[[Live and Let Die (film)|Live and Let Die]]'', ''[[The Spy Who Loved Me (film)|The Spy Who Loved Me]]'', ''[[Moonraker (film)|Moonraker]]'', ''[[The Man with the Golden Gun (film)|The Man with the Golden Gun]]'', ''[[For Your Eyes Only (film)|For Your Eyes Only]]'', ''[[On Her Majesty's Secret Service (film)|On Her Majesty's Secret Service]]''
-* August 28 - [[Gracie Allen]], 69, American comedy actress, ''[[A Damsel in Distress (film)|A Damsel in Distress]]'', ''[[Lambchops (film)|Lambchops]]'', ''[[College Swing]]'', ''[[The Gracie Allen Murder Case]]'', ''[[Six of a Kind]]''
-* September 28 
-**[[Harpo Marx]], 75, American comedy actor ([[Marx Brothers|The Marx Brothers]]), ''[[Duck Soup (1933 film)|Duck Soup]]'', ''[[A Night at the Opera (film)|A Night at the Opera]]'', ''[[A Day at the Races (film)|A Day at the Races]]'', ''[[Animal Crackers (film)|Animal Crackers]]'', ''[[At the Circus]]'', ''[[Horse Feathers]]'', ''[[Monkey Business (1931 film)|Monkey Business]]''
-**[[Nacio Herb Brown]], 68, American songwriter and composer, ''[[The Broadway Melody]]'', ''[[Glorifying the American Girl]]'', ''[[The Thin Man (film)|The Thin Man]]'', ''[[A Night at the Opera (film)|A Night at the Opera]]'', ''[[Lady of Burlesque]]'', ''[[Meet Me in St. Louis]]'', ''[[Adam's Rib]]''
-* October 10 - [[Eddie Cantor]], 72, American actor, singer, comedian, ''[[Bonnie and Clyde (film)|Bonnie and Clyde]]'', ''[[Cinderella Man]]'', ''[[Blazing Saddles]]'', ''[[Bullets Over Broadway]]'', ''[[Curly Sue]]''
-* October 15 - [[Cole Porter]], 73, American composer and songwriter, ''[[Night and Day (1946 film)|Night and Day]]'', ''[[Indiana Jones and the Temple of Doom]]'', ''[[Once Upon a Time in America]]'', ''[[L.A. Confidential (film)|L.A. Confidential]]'', ''[[High Society (1956 film)|High Society]]'', ''[[Anything Goes (1936 film)|Anything Goes]]'', ''[[Kiss Me Kate (film)|Kiss Me Kate]]'', ''[[De-Lovely]]''
-* October 23 - [[Jo Swerling]], 71, American screenwriter, ''[[It's a Wonderful Life]]'', ''[[Guys and Dolls (film)|Guys and Dolls]]'', ''[[Lifeboat (film)|Lifeboat]]'', ''[[The Pride of the Yankees]]'', ''[[Blood and Sand (1941 film)|Blood and Sand]]'', ''[[Gone with the Wind (film)|Gone with the Wind]]'', ''[[Double Wedding]]'', ''[[Pennies from Heaven (1936 film)|Pennies from Heaven]]'', ''[[Love Affair (1932 film)|Love Affair]]''
-* October 27 - [[Rudolph Mate]], 66, Hungarian cinematographer and director, ''[[D.O.A. (1950 film)|D.O.A.]]'', ''[[When Worlds Collide (1951 film)|When Worlds Collide]]'', ''[[The 300 Spartans]]'', ''[[The Far Horizons]]'', ''[[The Pride of the Yankees]]''
-* December 9 - [[Edith Sitwell]], 77, British actress
-* December 11 - [[Percy Kilbride]], 76, American actor, ''[[The Southerner (film)|The Southerner]]'', ''[[State Fair (1945 film)|State Fair]]'', ''[[Ma and Pa Kettle (film)|Ma and Pa Kettle]]'', ''[[Ma and Pa Kettle Back on the Farm]]'', ''[[Keeper of the Flame (film)|Keeper of the Flame]]''
-* December 14 - [[William Bendix]], 58, American actor, ''[[Lifeboat (film)|Lifeboat]]'', ''[[Detective Story (1951 film)|Detective Story]]'', ''[[Woman of the Year]]'', ''[[The Life of Riley]]'', ''[[A Connecticut Yankee in King Arthur's Court (1949 film)|A Connecticut Yankee in King Arthur's Court]]'', ''[[The Blue Dahlia]]'', ''[[The Babe Ruth Story]]'', ''[[Kill the Umpire]]''
-
-== Film debuts ==
-* [[Jenny Agutter]] - ''[[East of Sudan]]''
-* [[The Beatles]] - ''[[A Hard Day's Night (film)|A Hard Day's Night]]''
-* [[Judi Dench]] - ''[[The Third Secret (film)|The Third Secret]]''
-* [[Karen Dotrice]] - ''[[The Three Lives of Thomasina]]''
-* [[Olympia Dukakis]] - ''[[Twice a Man]]''
-* [[Morgan Freeman]] - ''[[The Pawnbroker (film)|The Pawnbroker]]''
-* [[James Earl Jones]] - ''[[Dr. Strangelove]]''
-
-==References==
-{{reflist}}
-
-[[Category:Years in film]]
-[[Category:1964 in film| ]]
+7 Faces of Dr. Lao
+The 7th Dawn
+633 Squadron
+Advance to the Rear
+The Alive and the Dead
+The Americanization of Emily
+The Ape Woman
+Assassination (1964 film)
+At Midnight I'll Take Your Soul
+Atentát
+Ayee Milan Ki Bela
+Band of Outsiders
+The Bargee
+The Beauty Jungle
+Becket (1964 film)
+Bedtime Story (film)
+Before the Revolution
+Behold a Pale Horse (film)
+The Best Man (1964 film)
+Bikini Beach
+Black God, White Devil
+Black Like Me (film)
+Black Peter (film)
+Blood and Black Lace
+The Brass Bottle (1964 film)
+Bullet for a Badman
+Carol for Another Christmas
+The Carpetbaggers (film)
+Carry On Cleo
+Carry On Spying
+The Chairman (1964 film)
+The Chalk Garden (film)
+Cheyenne Autumn
+Circus World (film)
+The Comedy Man
+The Comedy of Terrors
+Crack in the World
+Crooks in Cloisters
+Daisies (film)
+Dead Ringer (1964 film)
+Dear Heart
+The Devil-Ship Pirates
+Diamonds of the Night
+Diary of a Chambermaid (1964 film)
+The Disorderly Orderly
+Dog Eat Dog (1964 film)
+Dogora (1964 film)
+Dosti
+Dr. Crippen (film)
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+Dry Summer
+The Earth Dies Screaming
+Ensign Pulver
+El extraño viaje
+The Eyes of Annie Jones
+Face of the Screaming Werewolf
+Fail-Safe (1964 film)
+The Fall of the Roman Empire (film)
+Fantômas (1964 film)
+Fate Is the Hunter (film)
+Father Goose (film)
+The Fifth Horseman is Fear
+First Men in the Moon (1964 film)
+A Fistful of Dollars
+The Flesh Eaters (film)
+Flight from Ashiya
+The Flower and the Angry Waves
+For Those Who Think Young (film)
+Forest of the Hanged
+Gate of Flesh
+Le Gendarme de Saint-Tropez
+Gertrud (film)
+Get Yourself a College Girl
+Ghidorah, the Three-Headed Monster
+Girl with Green Eyes
+A Global Affair
+Goldfinger (film)
+Goodbye Charlie
+Good Neighbor Sam
+The Gorgon
+The Gospel According to St. Matthew (film)
+Greed in the Sun
+Os Fuzis
+Guns at Batasi
+Richard Burton's Hamlet
+Hamlet (1964 film)
+Haqeeqat
+A Hard Day's Night (film)
+Hey There It's Yogi Bear
+Hide and Seek (1964 film)
+Hot Enough for June
+A House Is Not a Home (film)
+Hush… Hush, Sweet Charlotte
+I Am Cuba
+I'd Rather Be Rich
+The Incredible Mr. Limpet
+Unholy Desire
+Invitation to a Gunfighter
+The Killers (1964 film)
+King and Country
+Kiss Me Quick!
+Kiss Me, Stupid
+Kisses for My President
+Kissin' Cousins
+Kitten with a Whip
+Kwaidan (film)
+Lady General Hua Mu-lan
+The Last Man on Earth (1964 film)
+Les Pas perdus
+Leader (1964 film)
+The Leather Boys
+Lemonade Joe
+Lilith (film)
+The Lively Set
+The Lonely Wife
+Looking for Love (film)
+The Luck of Ginger Coffey
+Madu Tiga
+Mail Order Bride (1964 film)
+Man's Favourite Sport
+Marnie (film)
+Marriage Italian Style
+A Married Woman
+Mary Poppins (film)
+The Masque of the Red Death (film)
+Men and Women (1964 film)
+The Misadventures of Merlin Jones
+The Moon-Spinners
+Mothra vs. Godzilla
+Murder Ahoy!
+Murder Most Foul
+My Fair Lady (film)
+O filos mou o Lefterakis
+The Naked Kiss
+The New Interns
+The Night of the Iguana (film)
+The Night Walker
+Nobody Waved Good-bye
+Nothing But a Man
+Nothing But the Best (film)
+Of Human Bondage (1964 film)
+One Potato, Two Potato (film)
+Onibaba (film)
+The Outrage
+Pajama Party (film)
+Pale Flower
+Panic Button (1964 film)
+Paris When It Sizzles
+The Patsy (1964 film)
+The Pawnbroker (film)
+The Pleasure Seekers
+The Pumpkin Eater
+Quick, Before It Melts
+Rattle of a Simple Man
+The Ravishing Idiot
+Red Desert (film)
+Ride the Wild Surf
+Ring of Spies
+Rio Conchos
+Robin and the 7 Hoods
+Robinson Crusoe on Mars
+Roustabout (film)
+Rudolph the Red-Nosed Reindeer (TV special)
+Sallah Shabati
+Sangam (1964 Hindi film)
+Séance on a Wet Afternoon
+The Secret Invasion
+Seduced and Abandoned
+Send Me No Flowers
+Seven Days in May
+Seven Up!
+Sex and the Single Girl (film)
+Shadows of Forgotten Ancestors
+Shehar Aur Sapna
+A Shot in the Dark (1964 film)
+Smokescreen (film)
+The Soft Skin
+Strait-Jacket
+The System (1964 film)
+That Man from Rio
+The Thin Red Line (1964 film)
+The Three Lives of Thomasina
+The Third Secret (film)
+La Tía Tula
+Gli indifferenti (film)
+The Time Travelers (1964 film)
+The Tomb of Ligeia
+Topkapi (film)
+The Train (1964 film)
+Troubled Waters (1964 film)
+Two Stage Sisters
+The Umbrellas of Cherbourg
+The Unsinkable Molly Brown (film)
+The Visit (1964 film)
+Viva Las Vegas
+Weekend at Dunkirk
+Welcome, or No Trespassing
+What a Way to Go!
+Witchcraft (1964 film)
+Woh Kaun Thi?
+Woman in the Dunes
+Woman of Straw
+Wonderful Life (1964 film)
+The World of Henry Orient
+The Yellow Rolls-Royce
+Youngblood Hawke
+Your Cheatin' Heart (film)
+Zhavoronok
+Zindagi (1964 film)
+Zorba the Greek (film)
+Zulu (1964 film)
+Looney Tunes
+Terrytoons
+Merrie Melodies
+Speedy Gonzales
+Bugs Bunny

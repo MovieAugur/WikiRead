@@ -1,1002 +1,204 @@
-{{Year nav topic2|1990|film|home video|television}}
-
-The year '''1990 in film''' involved many significant events as shown below. [[Universal Studios|Universal Pictures]] celebrated its 75th anniversary in 1990.
-
-==Highest-grossing films==
-{{see also|List of 1990 box office number-one films in the United States}}
-The top ten films released in 1990 by worldwide gross are as follows:
-{| class="wikitable sortable" style="margin:auto; margin:auto;"
-|+ Highest-grossing films of 1990<ref>{{cite web|url=http://boxofficemojo.com/yearly/chart/?view2=worldwide&yr=1990&p=.htm|title=1990 Worldwide Grosses|work=[[Box Office Mojo]]|accessdate=May 1, 2014}}</ref>
-|-
-!Rank!!Title!!Studio!!Worldwide Gross 
-|-
-| style="text-align:center;"| 1.
-| ''[[Ghost (1990 film)|Ghost]]''
-| [[Paramount Pictures]]
-| $505,702,588
-|-
-| style="text-align:center;"| 2.
-| ''[[Home Alone (film)|Home Alone]]''
-| [[20th Century Fox]]
-| $476,684,675
-|-
-| style="text-align:center;"| 3.
-| ''[[Pretty Woman]]''
-| [[Touchstone Pictures]]
-| $463,406,268
-|-
-| style="text-align:center;"| 4.
-| ''[[Dances with Wolves]]''
-| [[Orion Pictures]]
-| $424,208,848
-|-
-| style="text-align:center;"| 5.
-| ''[[Total Recall (1990 film)|Total Recall]]''
-| [[TriStar Pictures]] / [[Carolco Pictures]]
-| $261,336,002
-|-
-| style="text-align:center;"| 6.
-| ''[[Back to the Future Part III]]''
-| [[Universal Pictures]]
-| $244,527,583
-|-
-| style="text-align:center;"| 7.
-| ''[[Die Hard 2]]''
-| 20th Century Fox / [[Silver Pictures]]
-| $240,031,094
-|-
-| style="text-align:center;"| 8.
-| ''[[Presumed Innocent (film)|Presumed Innocent]]''
-| [[Warner Bros.]]
-| $221,303,188
-|-
-| style="text-align:center;"| 9.
-| ''[[Teenage Mutant Ninja Turtles (1990 film)|Teenage Mutant Ninja Turtles]]''
-| [[New Line Cinema]]
-| $201,965,915
-|-
-| style="text-align:center;"| 10
-| ''[[Kindergarten Cop]]''
-| Universal Pictures
-| $201,957,688
-|-
-|}
-
-==Events==
-* [[Timeline of CGI in film and television|CGI technique]] is expanded with [[motion capture]] for [[Computer-generated imagery|CGI]] characters, used in ''[[Total Recall (1990 film)|Total Recall]]'' (1990).
-* The first digitally-manipulated [[matte painting]] is used, in ''[[Die Hard 2]]''.
-* The use of real-time [[computer graphics]] or "[[digital puppetry]]" to create a character in a motion picture is performed, in ''[[RoboCop 2]]''.
-*Future movie stars [[Chris Rock]] and [[Adam Sandler]] join ''[[Saturday Night Live|SNL]]''.
-*February 4 - Actor [[Tom Cruise]] and actress [[Mimi Rogers]] divorce.
-*December 24 - Tom Cruise and actress [[Nicole Kidman]] marry.
-
-== Awards ==
-{{Yearsinfilm}}
-
-'''[[63rd Academy Awards|Academy Awards]]:'''
-
-:[[Academy Award for Best Picture|Best Picture]]: '''''[[Dances with Wolves]]''''' - [[Orion Pictures]], Tig Productions, Majestic Films International
-:[[Academy Award for Best Director|Best Director]]: '''[[Kevin Costner]]''' - ''Dances With Wolves''
-:[[Academy Award for Best Actor|Best Actor]]: '''[[Jeremy Irons]]''' - ''[[Reversal of Fortune]]''
-:[[Academy Award for Best Actress|Best Actress]]: '''[[Kathy Bates]]''' - ''[[Misery (film)|Misery]]''
-:[[Academy Award for Best Supporting Actor|Best Supporting Actor]]: '''[[Joe Pesci]]''' - ''[[Goodfellas]]''
-:[[Academy Award for Best Supporting Actress|Best Supporting Actress]]: '''[[Whoopi Goldberg]]''' - ''[[Ghost (1990 film)|Ghost]]''
-:[[Academy Award for Best Foreign Language Film|Best Foreign Language Film]]: '''''[[Journey of Hope (film)|Journey of Hope]]''''' (''Reise der Hoffnung''), directed by [[Xavier Koller]], Switzerland
-
-'''[[48th Golden Globe Awards|Golden Globe Awards]]:'''
-
-:<u>'''Drama:'''</u>
-:[[Golden Globe Award for Best Motion Picture - Drama|Best Picture]]: '''''Dances With Wolves'''''
-:[[Golden Globe Award for Best Actor - Motion Picture Drama|Best Actor]]: '''Jeremy Irons''' - ''Reversal of Fortune''
-:[[Golden Globe Award for Best Actress - Motion Picture Drama|Best Actress]]: '''Kathy Bates''' - ''Misery''
-
-:<u>'''Musical or Comedy:'''</u>
-:[[Golden Globe Award for Best Motion Picture - Musical or Comedy|Best Picture]]: '''''[[Green Card (film)|Green Card]]'''''
-:[[Golden Globe Award for Best Actor - Motion Picture Musical or Comedy|Best Actor]]: '''[[Gérard Depardieu]]''' - ''Green Card''
-:[[Golden Globe Award for Best Actress - Motion Picture Musical or Comedy|Best Actress]]: '''[[Julia Roberts]]''' - ''[[Pretty Woman]]''
-
-:<u>'''Other'''</u>
-:[[Golden Globe Award for Best Director - Motion Picture|Best Director]]: '''Kevin Costner''' - ''Dances with Wolves''
-:[[Golden Globe Award for Best Foreign Language Film|Best Foreign Language Film]]: '''''[[Cyrano de Bergerac (1990 film)|Cyrano de Bergerac]]''''', France
-
-'''[[Palme d'Or]] (Cannes Film Festival):'''
-:'''''[[Wild at Heart (film)|Wild at Heart]]''''', directed by [[David Lynch]], United States
-
-'''[[Golden Lion]] (Venice Film Festival):'''
-:'''''[[Rosencrantz & Guildenstern Are Dead (film)|Rosencrantz & Guildenstern Are Dead]]''''', directed by [[Tom Stoppard]], U.K. / U.S.A.
-
-'''[[Berlin Film Festival|Golden Bear]] (Berlin Film Festival):'''
-:'''''[[Music Box (film)|Music Box]]''''', directed by [[Costa Gavras]], United States
-:'''''[[Larks on a String]]''''' (''Skrivánci na niti''), directed by [[Jiri Menzel]], Czechoslovakia
-
-==1990 Wide-release movies==
-
-===January–March===
-{| class="wikitable"
-|+ "align=bottom" |
-! colspan="2" | Opening
-! style="width:17%;"| Title
-! style="width:16%;"| Studio
-! Cast and crew
-! style="width:10%"| Genre
-! style="width:8%"| Medium
-|-
-! rowspan="7" style="text-align:center; background:#ffa07a;"|'''J<br />A<br />N<br />U<br />A<br />R<br />Y'''
-| rowspan="4" style="text-align:center; background:#ffdacc;"| 12
-| ''[[Downtown (film)|Downtown]]'' || [[20th Century Fox]] || [[Richard Benjamin]] (director); Nat Mauldin (screenplay); [[Anthony Edwards]], [[Forest Whitaker]], [[Penelope Ann Miller]] || [[action film|Action]], [[comedy film|Comedy]] || [[Live Action]]
-|-
-| ''[[Internal Affairs (film)|Internal Affairs]]'' || [[Paramount Pictures]] || [[Mike Figgis]] (director); [[Henry Bean]] (screenplay); [[Richard Gere]], [[Andy García]] || [[crime fiction|Crime]], [[thriller (genre)|Thriller]] || [[Live Action]]
-|-
-| ''[[Leatherface: The Texas Chainsaw Massacre III]]'' || [[New Line Cinema]] || [[Jeff Burr]] (director); [[David J. Schow]] (screenplay); [[Kate Hodge]], [[Viggo Mortensen]], [[William Butler (actor)|William Butler]], [[Ken Foree]], [[Joe Unger]], [[Tom Everett]], [[Toni Hudson]], [[Miriam Byrd-Nethery]], [[R.A. Mihailoff]] || [[horror film|Horror]] || [[Live Action]]
-|-
-| ''[[Ski Patrol (1990 film)|Ski Patrol]]'' || Epic Productions || [[Richard Correll]] (director); Steven Long Mitchell, Craig W. Van Sickle, [[Wink Roberts]] (screenplay); [[Roger Rose]], [[Yvette Nipar]], [[T. K. Carter]], [[Leslie Jordan]], [[Paul Feig]], [[George Lopez]], [[Corby Timbrook]], [[Ray Walston]], [[Martin Mull]], [[Dante Hen]] || [[comedy film|Comedy]] || [[Live Action]]
-|-
-| rowspan="3" style="text-align:center; background:#ffdacc;"| 19
-| ''[[Brain Dead (film)|Brain Dead]]'' || Concorde || [[Adam Simon]] (director); [[Charles Beaumont]], Adam Simon (screenplay); [[Bill Pullman]], [[Bill Paxton]], [[Bud Cort]], [[George Kennedy]] || [[horror film|Horror]], [[thriller (genre)|Thriller]] || [[Live Action]]
-|-
-| ''[[Everybody Wins (film)|Everybody Wins]]'' || [[Orion Pictures]] || [[Karel Reisz]] (director); [[Arthur Miller]] (screenplay); [[Debra Winger]], [[Nick Nolte]], [[Will Patton]], [[Jack Warden]] || [[drama film|Drama]] || [[Live Action]]
-|-
-| ''[[Tremors (film)|Tremors]]'' || [[Universal Studios]] || [[Ron Underwood]] (director); Brent Maddock, S. S. Wilson (screenplay); [[Kevin Bacon]], [[Fred Ward]], [[Finn Carter]], [[Michael Gross (actor)|Michael Gross]], [[Reba McEntire]] ||  || [[Live Action]]
-|-
-! rowspan="12" style="text-align:center; background:thistle;"|'''F<br />E<br />B<br />R<br />U<br />A<br />R<br />Y'''
-| rowspan="3" style="text-align:center; background:#d8d8d8;"| 2
-| ''[[Flashback (1990 film)|Flashback]]'' || [[Paramount Pictures]] || [[Franco Amurri]] (director); [[David Loughery]] (screenplay); [[Dennis Hopper]], [[Kiefer Sutherland]] || [[action film|Action]], [[comedy film|Comedy]] || [[Live Action]]
-|-
-| ''[[Heart Condition (film)|Heart Condition]]'' || [[New Line Cinema]] || [[James D. Parriott]] (director/screenplay); [[Bob Hoskins]], [[Denzel Washington]], [[Chloe Webb]] || [[fantasy film|Fantasy]], [[comedy film|Comedy]] || [[Live Action]]
-|-
-| ''[[Stella (1990 film)|Stella]]'' || [[Touchstone Pictures]] / [[The Samuel Goldwyn Company]] || [[John Erman]] (director); [[Robert Getchell]] (screenplay); [[Bette Midler]], [[John Goodman]], [[Trini Alvarado]], [[Stephen Collins (actor)|Stephen Collins]], [[Marsha Mason]], [[Eileen Brennan]] || [[drama film|Drama]] || [[Live Action]]
-|-
-| rowspan="3" style="text-align:center; background:#d8d8d8;"| 9
-| ''[[Hard to Kill]]'' || [[Warner Bros.]] || [[Bruce Malmuth]] (director); Steven McKay (screenplay); [[Steven Seagal]], [[Kelly LeBrock]], [[Frederick Coffin]], [[William Sadler (actor)|William Sadler]] || [[action film|Action]] || [[Live Action]]
-|-
-| ''[[Loose Cannons (1990 film)|Loose Cannons]]'' || [[TriStar Pictures]] || [[Bob Clark]] (director/screenplay); [[Richard Christian Matheson]], [[Richard Matheson]] (screenplay); [[Gene Hackman]], [[Dan Aykroyd]] || [[comedy film|Comedy]] || [[Live Action]]
-|-
-| ''[[Stanley & Iris]]'' || [[Metro Goldwyn Mayer]] || [[Martin Ritt]] (director); [[Harriet Frank, Jr.]], [[Irving Ravetch]] (screenplay); [[Jane Fonda]], [[Robert De Niro]], [[Swoosie Kurtz]], [[Martha Plimpton]] || [[romance film|Romance]], [[drama film|Drama]] || [[Live Action]]
-|-
-| rowspan="2" style="text-align:center; background:#d8d8d8;"| 16
-| ''[[Courage Mountain]]'' || [[Triumph Films]] || Christopher Leitch (director); Fred Brogger, Mark Brogger, Weaver Webb (screenplay); [[Charlie Sheen]], [[Juliette Caton]] || [[drama film|Drama]] || [[Live Action]]
-|-
-| ''[[Madhouse (1990 film)|Madhouse]]'' || [[Orion Pictures]] || [[Tom Ropelewski]] (director/screenplay); [[John Larroquette]], [[Kirstie Alley]], [[Alison La Placa]], [[John Diehl (actor)|John Diehl]], [[Jessica Lundy]], [[Bradley Gregg]], [[Dennis Miller]], [[Robert Ginty]] || [[comedy film|Comedy]] || [[Live Action]]
-|-
-| rowspan="4" style="text-align:center; background:#d8d8d8;"| 23
-| ''[[Mountains of the Moon (film)|Mountains of the Moon]] || [[TriStar Pictures]] || [[Bob Rafelson]] (director/screenplay); [[William Harrison (author)|William Harrison]] (screenplay); [[Patrick Bergin]], [[Iain Glen]] || [[adventure film|Adventure]], [[drama film|Drama]] || [[Live Action]]
-|-
-| ''[[Nightbreed]]'' || [[20th Century Fox]] || [[Clive Barker]] (director/screenplay); [[Craig Sheffer]], [[Anne Bobby]], [[David Cronenberg]], [[Charles Haid]] || [[fantasy film|Fantasy]], [[horror film|Horror]] || [[Live Action]]
-|-
-| ''[[Revenge (1990 film)|Revenge]]'' || [[Columbia Pictures]] || [[Tony Scott]] (director); Jeffrey Alan Fiskin (screenplay); [[Kevin Costner]], [[Anthony Quinn]], [[Madeleine Stowe]], [[Miguel Ferrer]], [[John Leguizamo]] || [[crime fiction|Crime]], [[drama film|Drama]], [[thriller (genre)|Thriller]] || [[Live Action]]
-|-
-| ''[[Where the Heart Is (1990 film)|Where the Heart Is]]'' || [[Touchstone Pictures]] || [[John Boorman]] (director/screenplay); Telsche Boorman (screenplay); [[Dabney Coleman]], [[Suzy Amis]], [[Uma Thurman]], [[Crispin Glover]], [[Joanna Cassidy]], [[Christopher Plummer]], [[David Hewlett]] || [[romance film|Romance]], [[comedy film|Comedy]] || [[Live Action]]
-|-
-! rowspan="17" style="text-align:center; background:#98fb98;"|'''M<br />A<br />R<br />C<br />H'''
-| rowspan="1" style="text-align:center; background:#e0f9e0;"| 2
-| ''[[The Hunt for Red October (film)|The Hunt for Red October]]'' || [[Paramount Pictures]] || [[John McTiernan]] (director); [[Larry Ferguson (screenwriter)|Larry Ferguson]], [[Donald E. Stewart]] (screenplay); [[Sean Connery]], [[Alec Baldwin]], [[Scott Glenn]], [[James Earl Jones]], [[Sam Neill]] || [[action film|Action]], [[thriller (genre)|Thriller]] || [[Live Action]]
-|-
-| rowspan="6" style="text-align:center; background:#e0f9e0;"| 9
-| ''[[Bad Influence (film)|Bad Influence]]'' || [[Triumph Releasing Corporation]] || [[Curtis Hanson]] (director); [[David Koepp]] (screenplay); [[Rob Lowe]], [[James Spader]] || [[drama film|Drama]] || [[Live Action]]
-|-
-| ''[[Coupe de Ville (film)|Coupe de Ville]]'' || [[Universal Studios]] || [[Joe Roth]] (director); [[Mike Binder]] (screenplay); [[Patrick Dempsey]], [[Arye Gross]], [[Daniel Stern (actor)|Daniel Stern]], [[Alan Arkin]] || [[comedy film|Comedy]], [[horror film|Horror]] || [[Live Action]]
-|-
-| ''[[The Handmaid's Tale (film)|The Handmaid's Tale]]'' || [[Metro-Goldwyn-Mayer]] || [[Volker Schlöndorff]] (director); [[Harold Pinter]] (screenplay); [[Natasha Richardson]], [[Faye Dunaway]], [[Robert Duvall]], [[Aidan Quinn]], [[Elizabeth McGovern]] || [[drama film|Drama]] || [[Live Action]]
-|-
-| ''[[House Party (film)|House Party]]'' || [[New Line Cinema]] || [[Reginald Hudlin]] (director/screenplay); [[Christopher "Kid" Reid]], [[Robin Harris]], [[Christopher Martin (entertainer)|Christopher "Play" Martin]] || [[comedy film|Comedy]] || [[Live Action]]
-|-
-| ''[[Joe Versus the Volcano]]'' || [[Warner Bros.]] || [[John Patrick Shanley]] (director/screenplay); [[Tom Hanks]], [[Meg Ryan]] || [[romance film|Romance]], [[comedy film|Comedy]] || [[Live Action]]
-|-
-| ''[[Love at Large]]'' || [[Orion Pictures]] || [[Alan Rudolph]] (director/screenplay); [[Tom Berenger]], [[Elizabeth Perkins]], [[Anne Archer]], [[Kate Capshaw]], [[Annette O'Toole]], [[Ted Levine]], [[Ann Magnuson]] || [[romance film|Romance]], [[mystery film|Mystery]] || [[Live Action]]
-|-
-| rowspan="4" style="text-align:center; background:#e0f9e0;"| 16
-| ''[[The Forbidden Dance]]'' || [[Columbia Pictures]] || [[Greydon Clark]] (director); [[Roy Langsdon]], [[John Platt (screenwriter)|John Platt]] (screenplay); [[Laura Harring]], [[Jeff James]], [[Angela Moya]], [[Sid Haig]], [[Shannon Farnon]], [[Linden Chiles]], [[Pilar Del Rey]], [[Ruben Moreno]], [[Barbra Brighton]], [[Richard Lynch (actor)|Richard Lynch]], [[Kid Creole and the Coconuts|Kid Creole]] || [[drama film|Drama]] || [[Live Action]]
-|-
-| ''[[Lambada (film)|Lambada]]'' || [[Cannon Films]] || Joel Silberg (director/screenplay); Sheldon Renan (screenplay); [[J. Eddie Peck]], [[Melora Hardin]], [[Shabba-Doo|Adolfo "Shabba-Doo" Quinones]], [[Leticia Vasquez]], [[Dennis Burkley]], [[Rita Bland]], [[Ricky Paull Goldin]], [[Kristina Starman]], [[Matt Feemster]], [[Kayla Blake]], [[Keene Curtis]], [[Lauren Gale]], [[Basil Hofman]] || [[drama film|Drama]] || [[Live Action]]
-|-
-| ''[[Lord of the Flies (1990 film)|Lord of the Flies]]'' || [[Columbia Pictures]] || [[Harry Hook]] (director); [[Jay Presson Allen]] (screenplay); [[Balthazar Getty]], [[Chris Furrh]], [[Danuel Pipoly]] || [[thriller (genre)|Thriller]] || [[Live Action]]
-|-
-| ''[[Nuns on the Run]]'' || [[20th Century Fox]] || [[Jonathan Lynn]] (director/screenplay); [[Eric Idle]], [[Robbie Coltrane]], [[Camille Coduri]], [[Janet Suzman]], [[Doris Hare]] || [[comedy film|Comedy]] || [[Live Action]]
-|-
-| rowspan="2" style="text-align:center; background:#e0f9e0;"| 23
-| ''[[Pretty Woman]]'' || [[Touchstone Pictures]] || [[Garry Marshall]] (director); [[J. F. Lawton]] (screenplay); [[Julia Roberts]], [[Richard Gere]] || [[romance film|Romance]], [[comedy film|Comedy]] || [[Live Action]]
-|-
-| ''[[A Shock to the System]]'' || [[Corsair Pictures]] || [[Jan Egleson]] (director); [[Andrew Klavan]] (screenplay); [[Michael Caine]], [[Elizabeth McGovern]], [[Swoosie Kurtz]] || [[crime fiction|Crime]], [[thriller (genre)|Thriller]] || [[Live Action]]
-|-
-| rowspan="3" style="text-align:center; background:#e0f9e0;"| 30
-| ''[[Opportunity Knocks (film)|Opportunity Knocks]]'' || [[Universal Studios]] || [[Donald Petrie]] (director); [[Mitchel Katlin]], [[Nat Bernstein]] (screenplay); [[Dana Carvey]], [[Robert Loggia]], [[Todd Graff]], [[Julia Campbell]], [[James Tolkan]] || [[comedy film|Comedy]] || [[Live Action]]
-|-
-| ''[[Side Out]]'' || [[TriStar Pictures]] || Peter Israelson (director); David Thoreau (screenplay); [[C. Thomas Howell]], [[Peter Horton]], [[Courtney Thorne-Smith]] || [[sports film|Sports]] || [[Live Action]]
-|-
-| ''[[Teenage Mutant Ninja Turtles (1990 film)|Teenage Mutant Ninja Turtles]]'' || [[New Line Cinema]] || [[Steve Barron]] (director); Todd W. Langen, Bobby Herbeck (screenplay); [[Judith Hoag]], [[Elias Koteas]], [[Josh Pais]], [[Robbie Rist]], [[Corey Feldman]], [[Brian Tochi]], [[Kevin Clash]] || [[action film|Action]], [[comedy film|Comedy]], [[martial arts film|Martial Arts]], [[fantasy film|Fantasy]] || [[Live Action]]
-|-
-| rowspan="1" style="text-align:center; background:#e0f9e0;"| 31
-| ''[[The Ambulance]]'' || [[Triumph Releasing Corporation]] || [[Larry Cohen]] (director/screenplay); [[Eric Roberts]], [[James Earl Jones]], [[Red Buttons]], [[Megan Gallagher]] || [[thriller (genre)|Thriller]] || [[Live Action]]
-|}
-
-===April–June===
-{| class="wikitable"
-|+ "align=bottom" |
-! colspan="2" | Opening
-! style="width:17%;"| Title
-! style="width:16%;"| Studio
-! Cast and crew
-! style="width:10%"| Genre
-! style="width:8%"| Medium
-|-
-! rowspan="11" style="text-align:center; background:#ffa07a;"|'''A<br />P<br />R<br />I<br />L'''
-| rowspan="1" style="text-align:center; background:#ffdacc;"| 3
-| ''[[Catchfire]]'' || [[Vestron Pictures]] || [[Dennis Hopper]] (director); Rachel Kronstadt Mann, Ann Louise Bardach, [[Alex Cox]], [[Tod Davies]] (screenplay); [[Jodie Foster]], [[Dennis Hopper]], [[Fred Ward]] || [[action film|Action]], [[thriller (genre)|Thriller]], [[drama film|Drama]] || [[Live Action]]
-|-
-| rowspan="4" style="text-align:center; background:#ffdacc;"| 6
-| ''[[Cry-Baby]]'' || [[Universal Studios]] || [[John Waters]] (director/screenplay); [[Johnny Depp]], [[Amy Locane]], [[Polly Bergen]], [[Susan Tyrrell]], [[Iggy Pop]], [[Ricki Lake]], [[Traci Lords]] || [[romance film|Romance]], [[comedy film|Comedy]], [[musical film|Musical]] || [[Live Action]]
-|-
-| ''[[Ernest Goes to Jail]]'' || [[Touchstone Pictures]] || [[John R. Cherry III]] (director); Charlie Cohen (screenplay); [[Jim Varney]], [[Gailard Sartain]], Bill Byrge || [[comedy film|Comedy]] || [[Live Action]]
-|-
-| ''[[The First Power]]'' || [[Orion Pictures]] || [[Robert Resnikoff]] (director/screenplay); [[Lou Diamond Phillips]], [[Jeff Kober]], [[Mykelti Williamson]], [[Tracy Griffith]], [[Dennis Lipscomb]], [[Carmen Argenziano]], [[Clayton Landey]] || [[horror film|Horror]] || [[Live Action]]
-|-
-| ''[[I Love You to Death]]'' || [[TriStar Pictures]] || [[Lawrence Kasdan]] (director); [[John Kostmayer]] (screenplay); [[Kevin Kline]], [[Tracey Ullman]], [[Joan Plowright]], [[River Phoenix]], [[William Hurt]], [[Keanu Reeves]] || [[comedy film|Comedy]] || [[Live Action]]
-|-
-| rowspan="1" style="text-align:center; background:#ffdacc;"| 13
-| ''[[Crazy People]]'' || [[Paramount Pictures]] || [[Tony Bill]] (director); [[Mitch Markowitz]] (screenplay); [[Dudley Moore]], [[Daryl Hannah]], [[Paul Reiser]], [[J. T. Walsh]], [[Danton Stone]] || [[comedy film|Comedy]] || [[Live Action]]
-|-
-| rowspan="2" style="text-align:center; background:#ffdacc;"| 20
-| ''[[Lisa (1990 film)|Lisa]]'' || [[Metro-Goldwyn-Mayer]] / [[United Artists]] || [[Gary Sherman (director)|Gary Sherman]] (director/screenplay); Karen Clark (screenplay); [[Cheryl Ladd]] || [[drama film|Drama]], [[thriller (genre)|Thriller]] || [[Live Action]]
-|-
-| ''[[Miami Blues]]'' || [[Orion Pictures]] || [[George Armitage]] (director/screenplay); [[Alec Baldwin]], [[Fred Ward]], [[Jennifer Jason Leigh]] || [[action film|Action]], [[crime fiction|Crime]], [[thriller (genre)|Thriller]] || [[Live Action]]
-|-
-| rowspan="3" style="text-align:center; background:#ffdacc;"| 27
-| ''[[The Guardian (1990 film)|The Guardian]]'' || [[Universal Studios]] || [[William Friedkin]] (director/screenplay); [[Stephen Volk]], [[Dan Greenburg]] (screenplay); [[Jenny Seagrove]], [[Dwier Brown]], [[Carey Lowell]] || [[horror film|Horror]] || [[Live Action]]
-|-
-| ''[[Q&A (film)|Q&A]]'' || [[TriStar Pictures]] || [[Sidney Lumet]] (director/screenplay); [[Nick Nolte]], [[Timothy Hutton]], [[Armand Assante]], [[Luis Guzmán]] || [[crime fiction|Crime]] || [[Live Action]]
-|-
-| ''[[Spaced Invaders]]'' || [[Touchstone Pictures]] || [[Patrick Read Johnson]]| (director/screenplay); Scott Lawrence Alexander (screenplay); [[Douglas Barr]], [[Ariana Richards]], [[Royal Dano]], [[Gregg Berger]], [[Wayne Alexander (actor)|Wayne Alexander]] || [[science fiction film|Sci-Fi]], [[comedy film|Comedy]] || [[Live Action]]
-|-
-! rowspan="10" style="text-align:center; background:thistle;"|'''M<br />A<br />Y'''
-| rowspan="2" style="text-align:center; background:#d8d8d8;"| 4
-| ''[[Short Time]]'' || [[20th Century Fox]] || Gregg Champion (director); [[John Blumenthal]], Michael Berry (screenplay); [[Dabney Coleman]], [[Matt Frewer]], [[Teri Garr]] || [[action film|Action]], [[comedy film|Comedy]], [[crime fiction|Crime]] || [[Live Action]]
-|-
-| ''[[Tales from the Darkside: The Movie]]'' || [[Paramount Pictures]] || [[John Harrison (director)|John Harrison]] (director); [[Michael McDowell (author)|Michael McDowell]], [[George A. Romero]] (screenplay); [[Debbie Harry|Deborah Harry]], [[Christian Slater]], [[David Johansen]], [[William Hickey (actor)|William Hickey]], [[James Remar]], [[Rae Dawn Chong]] || [[horror film|Horror]] || [[Live Action]]
-|-
-| rowspan="3" style="text-align:center; background:#d8d8d8;"| 11
-| ''[[Class of 1999]]'' || [[Vestron Pictures|Lightning Pictures]] || [[Mark L. Lester]] (director); C. Courtney Joyner, [[Bradley Gregg]] (screenplay); [[Bradley Gregg]], [[Traci Lind]], [[Malcolm McDowell]], [[Stacy Keach]], [[Patrick Kilpatrick]], [[Pam Grier]], [[John P. Ryan (actor)|John P. Ryan]], [[Darren E. Burrows]], [[Joshua John Miller]] || [[science fiction film|Sci-Fi]] || [[Live Action]]
-|-
-| ''[[Far Out Man]]'' || [[New Line Cinema]] || [[Tommy Chong]] (director/screenplay); [[Tommy Chong]], [[C. Thomas Howell]], [[Rae Dawn Chong]], [[Shelby Chong]], [[Paris Chong]], [[Martin Mull]], [[Judd Nelson]], [[Michael Winslow]], [[Cheech Marin]], [[Paul Bartel]] || [[comedy film|Comedy]] || [[Live Action]]
-|-
-| ''[[A Show of Force]]'' || [[Paramount Pictures]] || [[Bruno Barreto]] (director); [[Evan Jones (writer)|Evan Jones]], John Strong (screenplay); [[Amy Irving]], [[Andy García]], [[Lou Diamond Phillips]], [[Robert Duvall]], [[Erik Estrada]] || [[thriller (genre)|Thriller]] || [[Live Action]]
-|-
-| rowspan="2" style="text-align:center; background:#d8d8d8;"| 18
-| ''[[Cadillac Man]]'' || [[Orion Pictures]] || [[Roger Donaldson]] (director); [[Ken Friedman (screenwriter)|Ken Friedman]] (screenplay); [[Robin Williams]], [[Tim Robbins]], [[Pamela Reed]], [[Fran Drescher]], [[Lauren Tom]] || [[comedy film|Comedy]] || [[Live Action]]
-|-
-| ''[[Bird on a Wire (film)|Bird on a Wire]]'' || [[Universal Studios]]|| [[John Badham]] (director); Louis Venosta, [[David Seltzer]] (screenplay); [[Mel Gibson]], [[Goldie Hawn]], [[David Carradine]], [[Bill Duke]], [[Stephen Tobolowsky]] || [[action film|Action]], [[comedy film|Comedy]] || [[Live Action]]
-|-
-| rowspan="1" style="text-align:center; background:#d8d8d8;"| 22
-| ''[[The Swordsman]]'' || [[Film Workshop]] || [[King Hu]] (director); Kwan Man-leung (screenplay); [[Samuel Hui|Sam Hui]], [[Cecilia Yip]], [[Jacky Cheung]], [[Sharla Cheung]], Fennie Yuen || [[action film|Action]] || [[Live Action]]
-|-
-| rowspan="2" style="text-align:center; background:#d8d8d8;"| 25
-| ''[[Back to the Future Part III]]'' || [[Universal Studios]] || [[Robert Zemeckis]] (director); [[Bob Gale]] (screenplay); [[Michael J. Fox]], [[Christopher Lloyd]], [[Mary Steenburgen]], [[Thomas F. Wilson]], [[Lea Thompson]] || [[science fiction film|Sci-Fi]], [[comedy film|Comedy]], [[western (genre)|Western]] || [[Live Action]]
-|-
-| ''[[Fire Birds]]'' || [[Touchstone Pictures]] || [[David Green (director)|David Green]] (director); Nick Thiel, Paul F. Edwards (screenplay); [[Nicolas Cage]], [[Tommy Lee Jones]], [[Sean Young]] || [[action film|Action]], [[thriller (genre)|Thriller]] || [[Live Action]]
-|-
-! rowspan="9" style="text-align:center; background:#98fb98;"|'''J<br />U<br />N<br />E'''
-| rowspan="2" style="text-align:center; background:#e0f9e0;"| 1
-| ''[[Frankenhooker]]'' || [[Shapiro-Glickenhaus Entertainment]] || [[Frank Henenlotter]] (director/screenplay); [[Robert "Bob" Martin]] (screenplay); [[Patty Mullen]], [[Louise Lasser]], [[James Lorinz]] || [[comedy film|Comedy]], [[horror film|Horror]] || [[Live Action]]
-|-
-| ''[[Total Recall (1990 film)|Total Recall]]'' || [[TriStar Pictures]] || [[Paul Verhoeven]] (director); [[Ronald Shusett]], [[Dan O'Bannon]], [[Gary Goldman (screenwriter)|Gary Goldman]] (screenplay); [[Arnold Schwarzenegger]], [[Sharon Stone]], [[Rachel Ticotin]], [[Michael Ironside]], [[Ronny Cox]] || [[science fiction film|Sci-Fi]], [[action film|Action]] || [[Live Action]]
-|-
-| rowspan="1" style="text-align:center; background:#e0f9e0;"| 6
-| ''[[Another 48 Hrs.]]'' || [[Paramount Pictures]] || [[Walter Hill (director)|Walter Hill]] (director); John Fasano, [[Jeb Stuart (writer)|Jeb Stuart]], [[Larry Gross]] (screenplay); [[Eddie Murphy]], [[Nick Nolte]] || [[action film|Action]], [[crime fiction|Crime]], [[comedy film|Comedy]] || [[Live Action]]
-|-
-| rowspan="2" style="text-align:center; background:#e0f9e0;"| 15
-| ''[[Dick Tracy (1990 film)|Dick Tracy]]'' || [[Touchstone Pictures]] || [[Warren Beatty]] (director); [[Jim Cash]], [[Jack Epps, Jr.]] (screenplay); [[Warren Beatty]], [[Madonna (entertainer)|Madonna]] || [[action film|Action]] || [[Live Action]]
-|-
-| ''[[Gremlins 2: The New Batch]]'' || [[Warner Bros.]] || [[Joe Dante]] (director); [[Charles S. Haas]] (screenplay); [[Zach Galligan]], [[Phoebe Cates]], [[John Glover (actor)|John Glover]], [[Robert Prosky]], [[Robert Picardo]], [[Christopher Lee]] || [[comedy film|Comedy]], [[horror film|Horror]] || [[Live Action]]
-|-
-| rowspan="2" style="text-align:center; background:#e0f9e0;"| 22
-| ''[[Betsy's Wedding]]'' || [[Touchstone Pictures]] || [[Alan Alda]] (director/screenplay); [[Alan Alda]], [[Molly Ringwald]], [[Ally Sheedy]], [[Madeline Kahn]], [[Joe Pesci]], [[Joey Bishop]], [[Anthony LaPaglia]], [[Burt Young]], [[Catherine O'Hara]] || [[comedy film|Comedy]] || [[Live Action]]
-|-
-| ''[[RoboCop 2]]'' || [[Metro-Goldwyn-Mayer]] \ [[Columbia Pictures|Live Entertainment]] \ [[Orion Pictures]] || [[Irvin Kershner]] (director); [[Frank Miller (comics)|Frank Miller]], [[Walon Green]] (screenplay); [[Peter Weller]], [[Nancy Allen (actress)|Nancy Allen]], [[Dan O'Herlihy]], [[Belinda Bauer (actress)|Belinda Bauer]], [[Tom Noonan]], [[Gabriel Damon]] || [[science fiction film|Sci-Fi]], [[action film|Action]] || [[Live Action]]
-|-
-| rowspan="1" style="text-align:center; background:#e0f9e0;"| 27
-| ''[[Days of Thunder]]'' || [[Paramount Pictures]] || [[Tony Scott]] (director); [[Robert Towne]] (screenplay); [[Tom Cruise]], [[Robert Duvall]], [[Randy Quaid]], [[Nicole Kidman]], [[Cary Elwes]] || [[sports film|Sports]] || [[Live Action]]
-|-
-| rowspan="1" style="text-align:center; background:#e0f9e0;"| 29
-| ''[[Ghost Dad]]'' || [[Universal Studios]] || [[Sidney Poitier]] (director); [[Brent Maddock]], [[S. S. Wilson]], Chris Reese| (screenplay); [[Bill Cosby]], [[Kimberly Russell]], Salim Grant, [[Denise Nicholas]], [[Ian Bannen]], [[Christine Ebersole]], [[Barry Corbin]] || [[comedy film|Comedy]], [[fantasy film|Fantasy]] || [[Live Action]]
-|}
-
-===July–September===
-{| class="wikitable"
-|+ "align=bottom" |
-|- style="background:#b0e0e6; text-align:center;"
-! colspan="2" | Opening
-! style="width:17%;"| Title
-! style="width:16%;"| Studio
-! Cast and crew
-! style="width:10%"| Genre
-! style="width:8%"| Medium
-|-
-! rowspan="14" style="text-align:center; background:#ffa07a;"|'''J<br />U<br />L<br />Y'''
-| rowspan="1" style="text-align:center; background:#ffdacc;"| 1
-| ''[[A Cry in the Wild]]'' || [[Concorde Pictures]] || [[Mark Griffiths]] (director); [[Gary Paulsen]], Catherine Cyran (screenplay); [[Jared Rushton]], [[Pamela Sue Martin]], [[Stephen Meadows]], [[Ned Beatty]] || [[drama film|Drama]] || [[Live Action]]
-|-
-| rowspan="1" style="text-align:center; background:#ffdacc;"| 4
-| ''[[Die Hard 2]]'' || [[20th Century Fox]] || [[Renny Harlin]] (director); [[Steven E. de Souza]], [[Doug Richardson]] (screenplay); [[Bruce Willis]], [[Bonnie Bedelia]], [[William Atherton]], [[Reginald VelJohnson]], [[Franco Nero]], [[William Sadler (actor)|William Sadler]], [[John Amos]] || [[action film|Action]], [[thriller (genre)|Thriller]] || [[Live Action]]
-|-
-| rowspan="1" style="text-align:center; background:#ffdacc;"| 6
-| ''[[Jetsons: The Movie]]'' || [[Universal Studios]] || [[William Hanna]], [[Joseph Barbera]] (director); [[Dennis Marks]] (screenplay); [[George O'Hanlon]], [[Penny Singleton]], [[Tiffany (American singer)|Tiffany]], [[Patric Zimmerman]], [[Don Messick]], [[Jean Vander Pyl]], [[Mel Blanc]] || [[comedy film|Comedy]], [[family film|Family]] || [[Animation]]
-|-
-| rowspan="1" style="text-align:center; background:#ffdacc;"| 11
-| ''[[The Adventures of Ford Fairlane]]'' || [[20th Century Fox]] || [[Renny Harlin]] (director); [[Daniel Waters (screenwriter)|Daniel Waters]], James Cappe, [[David Arnott]] (screenplay); [[Andrew Dice Clay]], [[Wayne Newton]], [[Priscilla Presley]], [[Lauren Holly]], [[Maddie Corman]], [[David Patrick Kelly]], [[Morris Day]], [[Ed O'Neill]], [[Robert Englund]] || [[action film|Action]], [[comedy film|Comedy]] || [[Live Action]]
-|-
-| rowspan="3" style="text-align:center; background:#ffdacc;"| 13
-| ''[[Ghost (1990 film)|Ghost]]'' || [[Paramount Pictures]] || [[Jerry Zucker (film director)|Jerry Zucker]] (director); [[Bruce Joel Rubin]] (screenplay); [[Patrick Swayze]], [[Demi Moore]], [[Whoopi Goldberg]], [[Tony Goldwyn]], [[Rick Aviles]], [[Vincent Schiavelli]], Gail Boggs, [[Armelia McQueen]] || [[romance film|Romance]], [[fantasy film|Fantasy]], [[thriller (genre)|Thriller]] || [[Live Action]]
-|-
-| ''[[The Invisible Maniac]]'' || [[Republic Pictures]] || [[Adam Rifkin]] (director/screenplay); [[Noel Peters]] || [[drama film|Drama]] || [[Live Action]]
-|-
-| ''[[Quick Change]]'' || [[Warner Bros.]] || [[Howard Franklin]], [[Bill Murray]] (director); Howard Franklin (screenplay); [[Bill Murray]], [[Geena Davis]], [[Randy Quaid]], [[Jason Robards]] || [[comedy film|Comedy]] || [[Live Action]]
-|-
-| rowspan="1" style="text-align:center; background:#ffdacc;"| 15
-| ''[[Fear (1990 film)|Fear]]'' || [[Vestron Pictures]] || [[Rockne S. O'Bannon]] (director); [[Rockne S. O'Bannon]] (screenplay); [[Ally Sheedy]], [[Pruitt Taylor Vince]], [[Michael O'Keefe]], [[Lauren Hutton]], [[Keone Young]], [[Stan Shaw]], [[Jonathan Prince]] || [[horror film|Horror]], [[thriller (genre)|Thriller]] || [[Live Action]]
-|-
-| rowspan="1" style="text-align:center; background:#ffdacc;"| 18
-| ''[[Arachnophobia (film)|Arachnophobia]]'' || [[Hollywood Pictures]] || [[Frank Marshall (film producer)|Frank Marshall]] (director); Don Jakoby, [[Wesley Strick]] (screenplay); [[Jeff Daniels]], [[Julian Sands]], [[Harley Jane Kozak]], [[John Goodman]] || [[comedy film|Comedy]], [[horror film|Horror]] || [[Live Action]]
-|-
-| rowspan="2" style="text-align:center; background:#ffdacc;"| 20
-| ''[[The Freshman (1990 film)|The Freshman]]'' || [[TriStar Pictures]] || [[Andrew Bergman]] (director/screenplay); [[Marlon Brando]], [[Matthew Broderick]], [[Bruno Kirby]], [[Penelope Ann Miller]] || [[crime fiction|Crime]], [[comedy film|Comedy]] || [[Live Action]]
-|-
-| ''[[Navy SEALs (film)|Navy SEALs]]'' || [[Orion Pictures]] || [[Lewis Teague]] (director); [[Chuck Pfarrer]], [[Gary Goldman (screenwriter)|Gary Goldman]] (screenplay); [[Charlie Sheen]], [[Michael Biehn]], [[Joanne Whalley|Joanne Whalley-Kilmer]], [[Rick Rossovich]], [[Cyril O'Reilly (Actor)|Cyril O'Reilly]] || [[action film|Action]] || [[Live Action]]
-|-
-| rowspan="1" style="text-align:center; background:#ffdacc;"| 26
-| ''[[Blood Oath (film)|Blood Oath]]'' || Roadshow Entertainment || [[Stephen Wallace]] (director); [[Denis Whitburn]], [[Brian A. Williams]] (screenplay); [[Bryan Brown]], [[George Takei]], [[Terry O'Quinn]], [[John Bach]], [[John Clarke (satirist)|John Clarke]], [[Deborah Kara Unger]], [[John Polson]], [[Nicholas Eadie]], [[David Argue]], [[Ray Barrett]] || [[drama film|Drama]] || [[Live Action]]
-|-
-| rowspan="2" style="text-align:center; background:#ffdacc;"| 27
-| ''[[Presumed Innocent (film)|Presumed Innocent]]'' || [[Warner Bros.]] || [[Alan J. Pakula]] (director/screenplay); [[Frank Pierson]] (screenplay); [[Harrison Ford]], [[Brian Dennehy]], [[Raúl Juliá]], [[Bonnie Bedelia]], [[Paul Winfield]], [[Greta Scacchi]] || [[thriller (genre)|Thriller]] || [[Live Action]]
-|-
-| ''[[Problem Child (film)|Problem Child]]'' || [[Universal Studios]] || [[Dennis Dugan]] (director); [[Scott Alexander and Larry Karaszewski|Scott Alexander, Larry Karaszewski]] (screenplay); [[John Ritter]], [[Jack Warden]], [[Michael Oliver (actor)]], [[Gilbert Gottfried]], [[Amy Yasbeck]], [[Michael Richards]], [[Michael Oliver (actor)|Michael Oliver]] || [[comedy film|Comedy]] || [[Live Action]]
-|-
-! rowspan="18" style="text-align:center; background:thistle;"|'''A<br />U<br />G<br />U<br />S<br />T'''
-| rowspan="1" style="text-align:center; background:#d8d8d8;"| 1
-| ''[[Young Guns II]]'' || [[20th Century Fox]] || [[Geoff Murphy]] (director); [[John Fusco]] (screenplay); [[Emilio Estevez]], [[Kiefer Sutherland]], [[Lou Diamond Phillips]], [[Christian Slater]], [[William Petersen]], [[James Coburn]], [[Alan Ruck]], [[Balthazar Getty]] || [[western (genre)|Western]] || [[Live Action]]
-|-
-| rowspan="3" style="text-align:center; background:#d8d8d8;"| 3
-| ''[[DuckTales the Movie: Treasure of the Lost Lamp]]'' || [[Walt Disney Pictures]] || Bob Hathcock (director); [[Alan Burnett]] (screenplay); [[Alan Young]], [[Rip Taylor]], [[Christopher Lloyd]], [[Russi Taylor]], [[Terry McGovern (actor)|Terrence McGovern]] || [[adventure film|Adventure]], [[comedy film|Comedy]], [[fantasy film|Fantasy]] || [[Animation]]
-|-
-| ''[[Metropolitan (1990 film)|Metropolitan]]'' || [[New Line Cinema]] || [[Whit Stillman]] (director/screenplay); [[Carolyn Farina]], Edward Clements, [[Taylor Nichols]], [[Chris Eigeman]], [[Allison Rutledge-Parisi|Allison Parisi]], Dylan Hundley || [[comedy film|Comedy]], [[drama film|Drama]] || [[Live Action]]
-|-
-| ''[[Mo' Better Blues]]'' || [[Universal Studios]] || [[Spike Lee]] (director/screenplay); [[Denzel Washington]], [[Spike Lee]], [[Wesley Snipes]], [[Giancarlo Esposito]], [[Robin Harris]], [[Joie Lee]], [[Bill Nunn]], [[John Turturro]], [[Dick Anthony Williams]], [[Cynda Williams]] || [[drama film|Drama]] || [[Live Action]]
-|-
-| rowspan="3" style="text-align:center; background:#d8d8d8;"| 10
-| ''[[Air America (film)|Air America]]'' || [[TriStar Pictures]] || [[Roger Spottiswoode]] (director); Christopher Robbins, [[John Eskow]], [[Richard Rush (director)|Richard Rush]] (screenplay); [[Mel Gibson]], [[Robert Downey, Jr.]], [[Nancy Travis]], [[David Marshall Grant]], [[Michael Dudikoff]], [[Lane Smith]] || [[action film|Action]], [[comedy film|Comedy]] || [[Live Action]]
-|-
-| ''[[Flatliners]]'' || [[Columbia Pictures]] || [[Joel Schumacher]] (director); Peter Filardi (screenplay); [[Kiefer Sutherland]], [[Julia Roberts]], [[William Baldwin]], [[Oliver Platt]], [[Kevin Bacon]] || [[science fiction film|Sci-Fi]], [[drama film|Drama]], [[thriller (genre)|Thriller]] || [[Live Action]]
-|-
-| ''[[The Two Jakes]]'' || [[Paramount Pictures]] || [[Jack Nicholson]] (director); [[Robert Towne]] (screenplay); [[Jack Nicholson]], [[Harvey Keitel]], [[Meg Tilly]], [[Madeleine Stowe]] || [[mystery film|Mystery]], [[thriller (genre)|Thriller]] || [[Live Action]]
-|-
-| rowspan="4" style="text-align:center; background:#d8d8d8;"| 17
-| ''[[The Exorcist III]]'' || [[20th Century Fox]] || [[William Peter Blatty]] (director/screenplay); [[George C. Scott]], [[Ed Flanders]], [[Jason Miller (playwright)|Jason Miller]], [[Scott Wilson (actor)|Scott Wilson]], [[Brad Dourif]] || [[horror film|Horror]] || [[Live Action]]
-|-
-| ''[[My Blue Heaven (1990 film)|My Blue Heaven]]'' || [[Warner Bros.]] || [[Herbert Ross]] (director); [[Nora Ephron]] (screenplay); [[Steve Martin]], [[Rick Moranis]], [[Joan Cusack]], [[Carol Kane]], [[Bill Irwin|William Irwin]] || [[comedy film|Comedy]] || [[Live Action]]
-|-
-| ''[[Taking Care of Business]]'' || [[Hollywood Pictures]] || [[Arthur Hiller]] (director); Jill Mazursky, [[J.J. Abrams]] (screenplay); [[James Belushi]], [[Charles Grodin]], Anne De Salvo, [[Loryn Locklin]], [[Stephen Elliott (actor)|Stephen Elliott]], [[Héctor Elizondo]], [[Veronica Hamel]], [[Mako (actor)|Mako]], [[Gates McFadden]], [[John de Lancie]] || [[comedy film|Comedy]] || [[Live Action]]
-|-
-| ''[[Wild at Heart (film)|Wild at Heart]]'' || [[The Samuel Goldwyn Company]] || [[David Lynch]] (director/screenplay); [[Nicolas Cage]], [[Laura Dern]], [[Willem Dafoe]], [[Crispin Glover]], [[Diane Ladd]], [[Isabella Rossellini]], [[Harry Dean Stanton]] || [[crime fiction|Crime]], [[thriller (genre)|Thriller]] || [[Live Action]]
-|-
-| rowspan="1" style="text-align:center; background:#d8d8d8;"| 22
-| ''[[Pump Up the Volume (film)|Pump Up the Volume]]'' || [[New Line Cinema]] || [[Allan Moyle]] (director/screenplay); [[Christian Slater]], [[Samantha Mathis]], [[Mimi Kennedy]], [[Scott Paulin]], [[Cheryl Pollak]], [[Annie Ross]], [[Ahmet Zappa]], Billy Morrissette, [[Seth Green]], [[Robert Schenkkan]], [[Ellen Greene]], [[Andy Romano]], [[Anthony Lucero]], [[Lala Sloatman]], [[James Hampton (actor)|James Hampton]] || [[comedy film|Comedy]], [[drama film|Drama]] || [[Live Action]]
-|-
-| rowspan="6" style="text-align:center; background:#d8d8d8;"| 24
-| ''[[After Dark, My Sweet]]'' || Avenue Pictures || [[James Foley]] (director/screenplay); Robert Redlin (screenplay); [[Jason Patric]], Rocky Giordani, [[Rachel Ward]], [[Bruce Dern]] || [[thriller (genre)|Thriller]] || [[Live Action]]
-|-
-| ''[[Darkman]]'' || [[Universal Studios]] || [[Sam Raimi]] (director/screenplay); [[Chuck Pfarrer]], [[Ivan Raimi]], Daniel Goldin, Joshua Goldin (screenplay); [[Liam Neeson]], [[Frances McDormand]], [[Colin Friels]], [[Larry Drake]] || [[action film|Action]], [[thriller (genre)|Thriller]] || [[Live Action]]
-|-
-| ''[[Delta Force 2: The Colombian Connection]]'' || [[Cannon Films]] || [[Aaron Norris]] (director); Lee Reynolds (screenplay); [[Chuck Norris]], [[Billy Drago]], [[John P. Ryan (actor)|John P. Ryan]], [[Richard Jaeckel]], [[Paul Perri]], [[Mark Margolis]] || [[action film|Action]] || [[Live Action]]
-|-
-| ''[[Dreams (1990 film)|Dreams]]'' || [[Warner Bros.]] || [[Ishir? Honda]] (director); [[Akira Kurosawa]] (director/screenplay); [[Akira Terao]], [[Martin Scorsese]], [[Mitsunori Isaki]], [[Chishu Ryu]], [[Mieko Harada]] || [[drama film|Drama]] || [[Live Action]]
-|-
-| ''[[Men at Work (1990 film)|Men at Work]]'' || [[Triumph Films]] || [[Emilio Estevez]] (director/screenplay); [[Charlie Sheen]], [[Emilio Estevez]], [[Leslie Hope]], [[Keith David]], [[Dean Cameron]], [[John Getz]] || [[comedy film|Comedy]] || [[Live Action]]
-|-
-| ''[[The Witches (1990 film)|The Witches]]'' || [[Warner Bros.]] || [[Nicolas Roeg]] (director); [[Allan Scott (Scottish screenwriter)|Allan Scott]] (screenplay); [[Jasen Fisher]], [[Anjelica Huston]], [[Mai Zetterling]], [[Rowan Atkinson]] || [[comedy film|Comedy]], [[fantasy film|Fantasy]] || [[Live Action]]
-|-
-! rowspan="14" style="text-align:center; background:#98fb98;"|'''S<br />E<br />P<br />T<br />E<br />M<br />B<br />E<br />R'''
-| rowspan="1" style="text-align:center; background:#e0f9e0;"| 12
-| ''[[Postcards from the Edge (film)|Postcards from the Edge]]'' || [[Columbia Pictures]] || [[Mike Nichols]] (director); [[Carrie Fisher]] (screenplay); [[Meryl Streep]], [[Shirley MacLaine]], [[Dennis Quaid]], [[Gene Hackman]], [[Rob Reiner]] || [[comedy film|Comedy]], [[drama film|Drama]] || [[Live Action]]
-|-
-| rowspan="5" style="text-align:center; background:#e0f9e0;"| 14
-| ''[[Death Warrant]]'' || [[Metro-Goldwyn-Mayer]] || [[Deran Sarafian]] (director); [[David S. Goyer]] (screenplay); [[Jean-Claude Van Damme]], [[Robert Guillaume]], [[Cynthia Gibb]], [[George Dickerson]], [[Art LaFleur]], [[Patrick Kilpatrick]], [[Joshua John Miller]], [[Hank Stone (actor)|Hank Stone]], [[Conrad Dunn]], [[Jack Bannon]], [[Abdul Salaam El Razzac]], [[Armin Shimerman]] || [[action film|Action]] || [[Live Action]]
-|-
-| ''[[Hardware (film)|Hardware]]'' || [[Palace Pictures]] / [[Miramax Films]] || [[Richard Stanley (film director)|Richard Stanley]] (director); [[Steve MacManus]], [[Kevin O'Neill (comics)|Kevin O'Neill]], Richard Stanley (screenplay); [[Dylan McDermott]], [[Stacey Travis]], [[John Lynch (actor)|John Lynch]], [[Iggy Pop]], [[Carl McCoy]] || [[science fiction film|Sci-Fi]], [[horror film|Horror]] || [[Live Action]]
-|-
-| ''[[Repossessed (film)|Repossessed]]'' || [[Seven Arts Pictures]] || [[Bob Logan (film director)|Bob Logan]] (director); [[Bob Logan (film director)|Bob Logan]] (screenplay); [[Leslie Nielsen]], [[Linda Blair]], [[Ned Beatty]], [[Anthony Starke]] || [[comedy film|Comedy]] || [[Live Action]]
-|-
-| ''[[State of Grace (film)|State of Grace]]'' || [[Orion Pictures]] || [[Phil Joanou]] (director); Dennis McIntyre (screenplay); [[Sean Penn]], [[Ed Harris]], [[Gary Oldman]], [[Robin Wright]], [[John Turturro]], [[John C. Reilly]] || [[thriller (genre)|Thriller]] || [[Live Action]]
-|-
-| ''[[White Hunter Black Heart]]'' || [[Warner Bros.]] || [[Clint Eastwood]] (director); [[Peter Viertel]], [[James Bridges]], [[Burt Kennedy]] (screenplay); [[Clint Eastwood]], [[Jeff Fahey]], [[George Dzundza]], [[Alun Armstrong]], [[Marisa Berenson]] || [[thriller (genre)|Thriller]] || [[Live Action]]
-|-
-| rowspan="1" style="text-align:center; background:#e0f9e0;"| 19
-| ''[[Goodfellas]]'' || [[Warner Bros.]] || [[Martin Scorsese]] (director/screenplay); [[Nicholas Pileggi]] (screenplay); [[Robert De Niro]], [[Ray Liotta]], [[Joe Pesci]], [[Lorraine Bracco]], [[Paul Sorvino]] || [[crime fiction|Crime]] || [[Live Action]]
-|-
-| rowspan="3" style="text-align:center; background:#e0f9e0;"| 21
-| ''[[Don't Tell Her It's Me]]'' || [[Metro-Goldwyn-Mayer]] || [[Malcolm Mowbray]] (director); [[Sarah Bird]] (screenplay); [[Steve Guttenberg]], [[Jami Gertz]], [[Shelley Long]], [[Kyle MacLachlan]] || [[romance film|Romance]], [[comedy film|Comedy]] || [[Live Action]]
-|-
-| ''[[Funny About Love]]'' || [[Paramount Pictures]] || [[Leonard Nimoy]] (director); Norman Steinberg, [[David Frankel]] (screenplay); [[Gene Wilder]], [[Christine Lahti]], [[Mary Stuart Masterson]] || [[romance film|Romance]], [[comedy film|Comedy]] || [[Live Action]]
-|-
-| ''[[Narrow Margin]]'' || [[TriStar Pictures]] || [[Peter Hyams]] (director/screenplay); [[Gene Hackman]], [[Anne Archer]], [[J. T. Walsh]], [[M. Emmet Walsh]] || [[thriller (genre)|Thriller]] || [[Live Action]]
-|-
-| rowspan="4" style="text-align:center; background:#e0f9e0;"| 28
-| ''[[I Come in Peace]]'' || [[Triumph Releasing Corporation]] || [[Craig R. Baxley]] (director); [[Jonathan Tydor]], [[Leonard Maas, Jr.]], [[David Koepp]], [[John Kamps]] (screenplay); [[Dolph Lundgren]], [[Brian Benben]], [[Betsy Brantley]], [[Matthias Hues]], [[Jay Bilas]], [[Jim Haynie]], [[David Ackroyd]], [[Sam Anderson]] || [[action film|Action]], [[science fiction film|Sci-Fi]] || [[Live Action]]
-|-
-| ''[[King of New York]]'' || [[Seven Arts Pictures]] || [[Abel Ferrara]] (director); Nicholas St. John (screenplay); [[Christopher Walken]], [[Laurence Fishburne]], [[David Caruso]], [[Wesley Snipes]] || [[crime fiction|Crime]], [[drama film|Drama]] || [[Live Action]]
-|-
-| ''[[Pacific Heights (1990 film)|Pacific Heights]]'' || [[20th Century Fox]] || [[John Schlesinger]] (director); Daniel Pyne (screenplay); [[Melanie Griffith]], [[Matthew Modine]], [[Michael Keaton]], [[Laurie Metcalf]], [[Mako Iwamatsu|Mako]], [[Carl Lumbly]], [[Dorian Harewood]] || [[thriller (genre)|Thriller]] || [[Live Action]]
-|-
-| ''[[Texasville]]'' || [[Columbia Pictures]] || [[Peter Bogdanovich]] (director/screenplay); [[Jeff Bridges]], [[Timothy Bottoms]], [[Cybill Shepherd]], [[Cloris Leachman]], [[Randy Quaid]] || [[drama film|Drama]] || [[Live Action]]
-|}
-
-===October–December===
-{| class="wikitable"
-|+ "align=bottom" |
-|- style="background:#b0e0e6; text-align:center;"
-! colspan="2" | Opening
-! style="width:17%;"| Title
-! style="width:16%;"| Studio
-! Cast and crew
-! style="width:10%"| Genre
-! style="width:8%"| Medium
-|-
-! rowspan="18" style="text-align:center; background:#ffa07a;"|'''O<br />C<br />T<br />O<br />B<br />E<br />R'''
-| rowspan="6" style="text-align:center; background:#ffdacc;"| 5
-| ''[[Avalon (1990 film)|Avalon]]'' || [[Tristar Pictures]] || [[Barry Levinson]] (director/screenplay); [[Armin Mueller-Stahl]], [[Elizabeth Perkins]], [[Joan Plowright]], [[Aidan Quinn]] || [[drama film|Drama]] || [[Live Action]]
-|-
-| ''[[Desperate Hours]]'' || [[Metro-Goldwyn-Mayer]] || [[Michael Cimino]] (director); [[Lawrence Konner]], [[Mark Rosenthal]] (screenplay); [[Mickey Rourke]], [[Anthony Hopkins]], [[Mimi Rogers]], [[Lindsay Crouse]], [[Kelly Lynch]] || [[crime fiction|Crime]], [[drama film|Drama]] || [[Live Action]]
-|-
-| ''[[Henry & June]]'' || [[Universal Studios]] || [[Philip Kaufman]] (director/screenplay); [[Rose Kaufman]] (screenplay); [[Fred Ward]], [[Uma Thurman]], [[Richard E. Grant]], [[Maria de Medeiros]], [[Kevin Spacey]] || [[biographical film|Biography]], [[drama film|Drama]] || [[Live Action]]
-|-
-| ''[[Marked for Death]]'' || [[20th Century Fox]] || [[Dwight H. Little]] (director); Michael Grais, Mark Victor (screenplay); [[Steven Seagal]], [[Basil Wallace]], [[Keith David]], [[Tom Wright (actor)|Tom Wright]], [[Joanna Pacu?a]], [[Elizabeth Gracen]], [[Bette Ford]] || [[action film|Action]] || [[Live Action]]
-|-
-| ''[[Miller's Crossing]]'' || [[20th Century Fox]] || [[Coen brothers|Joel Coen, Ethan Coen]] (director/screenplay); [[Gabriel Byrne]], [[Marcia Gay Harden]], [[John Turturro]], [[Jon Polito]], [[J. E. Freeman]], [[Albert Finney]] || [[crime fiction|Crime]] || [[Live Action]]
-|-
-| ''[[Shakma]]'' || Castle Hill Productions / Quest Entertainment || [[Hugh Parks]], [[Tom Logan]] (director); [[Roger Engle]] (screenplay); [[Christopher Atkins]], [[Amanda Wyss]], [[Ari Meyers]], [[Roddy McDowall]] || [[horror film|Horror]] || [[Live Action]]
-|-
-| rowspan="5" style="text-align:center; background:#ffdacc;"| 12
-| ''[[Memphis Belle (film)|Memphis Belle]]'' || [[Warner Bros.]] || [[Michael Caton-Jones]] (director); [[Monte Merrick]] (screenplay); [[Matthew Modine]], [[Eric Stoltz]], [[Tate Donovan]], [[D. B. Sweeney]], [[Billy Zane]], [[Sean Astin]], [[Harry Connick, Jr.]], [[Reed Diamond]], [[Courtney Gains]], [[Neil Giuntoli]], [[David Strathairn]], [[John Lithgow]], [[Jane Horrocks]], [[Mac McDonald]] || [[action film|Action]], [[drama film|Drama]] || [[Live Action]]
-|-
-| ''[[Mr. Destiny]]'' || [[Touchstone Pictures]] || [[James Orr (filmmaker)|James Orr]] (director/screenplay); Jim Cruickshank (screenplay); [[James Belushi]], [[Linda Hamilton]], [[Jon Lovitz]], [[Hart Bochner]], [[Michael Caine]] || [[comedy film|Comedy]] || [[Live Action]]
-|-
-| ''[[To Sleep with Anger]]'' || [[The Samuel Goldwyn Company]] || [[Charles Burnett (director)|Charles Burnett]] (director/screenplay); [[Danny Glover]], [[Richard Brooks]], [[Paul Butler (actor)|Paul Butler]], [[Mary Alice]] || [[drama film|Drama]] || [[Live Action]]
-|-
-| ''[[Troll 2]]'' || [[Metro-Goldwyn-Mayer]] || [[Claudio Fragasso]] (director/screenplay); [[Michael Stephenson (actor)|Michael Stephenson]], George Hardy, Margo Prey, [[Connie Young|Connie McFarland]], Deborah Reed, [[Jason F. Wright]], Darren Ewing, Jason Steadman, Ethan Sarphie || [[horror film|Horror]], [[fantasy film|Fantasy]] || [[Live Action]]
-|-
-| ''[[Welcome Home, Roxy Carmichael]]'' || [[Paramount Pictures]] || [[Jim Abrahams]] (director); Karen Leigh Hopkins (screenplay); [[Winona Ryder]], [[Jeff Daniels]] || [[comedy film|Comedy]], [[drama film|Drama]] || [[Live Action]]
-|-
-| rowspan="3" style="text-align:center; background:#ffdacc;"| 19
-| ''[[Night of the Living Dead (1990 film)|Night of the Living Dead]]'' || [[Columbia Pictures]] || [[Tom Savini]] (director); [[George A. Romero]] (screenplay); [[Tony Todd]], [[Patricia Tallman]] || [[horror film|Horror]] || [[Live Action]]
-|-
-| ''[[Quigley Down Under]]'' || [[Metro-Goldwyn-Mayer]] || [[Simon Wincer]] (director); [[John Hill (screenwriter)|John Hill]] (screenplay); [[Tom Selleck]], [[Laura San Giacomo]], [[Alan Rickman]] || [[western (genre)|Western]] || [[Live Action]]
-|-
-| ''[[White Palace (film)|White Palace]]'' || [[Universal Studios]] || [[Luis Mandoki]] (director); [[Ted Tally]], [[Alvin Sargent]] (screenplay); [[Susan Sarandon]], [[James Spader]], [[Jason Alexander]], [[Kathy Bates]], [[Eileen Brennan]], [[Steven Hill]], [[Rachel Chagall]], [[Corey Parker (actor)|Corey Parker]], [[Renee Taylor]], [[Jonathan Penner]], [[Barbara Howard]], [[Kim Myers]], [[Mitzi McCall]] || [[romance film|Romance]], [[drama film|Drama]] || [[Live Action]]
-|-
-| rowspan="4" style="text-align:center; background:#ffdacc;"| 26
-| ''[[Graveyard Shift (1990 film)|Graveyard Shift]]'' || [[Paramount Pictures]] || Ralph S. Singleton (director); John Esposito (screenplay); [[David Andrews (actor)|David Andrews]], Kelly Wolf, [[Stephen Macht]], [[Brad Dourif]] || [[horror film|Horror]] || [[Live Action]]
-|-
-| ''[[The Hot Spot]]'' || [[Orion Pictures]] || [[Dennis Hopper]] (director); Nona Tyson (screenplay); [[Don Johnson]], [[Virginia Madsen]], [[Jennifer Connelly]] || [[thriller (genre)|Thriller]] || [[Live Action]]
-|-
-| ''[[Sibling Rivalry (film)|Sibling Rivalry]]'' || [[Columbia Pictures]] || [[Carl Reiner]] (director); Martha Goldhirsh (screenplay); [[Kirstie Alley]], [[Sam Elliott]], [[Jami Gertz]], [[Bill Pullman]], [[Carrie Fisher]], [[Scott Bakula]], [[Ed O'Neill]] || [[comedy film|Comedy]] || [[Live Action]]
-|-
-| ''[[Soultaker (film)|Soultaker]]'' || [[AIP Home Video]] || [[Michael Rissi]] (director); Vivian Schilling (screenplay); [[Joe Estevez]], Vivian Schilling, [[Gregg Thomsen]], [[Chuck Williams (actor)|Chuck Williams]], [[Robert Z'Dar]], [[David "Shark" Fralick]], [[Jean Reiner]] || [[fantasy film|Fantasy]], [[horror film|Horror]] || [[Live Action]]
-|-
-! rowspan="16" style="text-align:center; background:thistle;"|'''N<br />O<br />V<br />E<br />M<br />B<br />E<br />R'''
-| rowspan="4" style="text-align:center; background:#d8d8d8;"| 2
-| ''[[China Cry]]'' || Parakletus || James F. Collier (director/screenplay); [[Julia Nickson]], [[France Nuyen]], [[James Shigeta]] || [[biographical film|Biography]] || [[Live Action]]
-|-
-| ''[[Frankenstein Unbound]]'' || [[20th Century Fox]] || [[Roger Corman]] (director/screenplay); [[F.X. Feeney]] (screenplay); [[John Hurt]], [[Raúl Juliá]], [[Nick Brimble]], [[Bridget Fonda]], [[Catherine Rabett]], [[Jason Patric]], [[Michael Hutchence]] || [[horror film|Horror]] || [[Live Action]]
-|-
-| ''[[Graffiti Bridge (film)|Graffiti Bridge]]'' || [[Warner Bros.]] || [[Prince (musician)|Prince]] (director/screenplay); [[Prince (musician)|Prince]], [[Ingrid Chavez]], [[Morris Day]], [[Jerome Benton]], [[George Clinton (musician)|George Clinton]], [[Tevin Campbell]], [[Mavis Staples]] || [[musical film|Musical]], [[drama film|Drama]] || [[Live Action]]
-|-
-| ''[[Jacob's Ladder (film)|Jacob's Ladder]]'' || [[Carolco Pictures]] || [[Adrian Lyne]] (director); [[Bruce Joel Rubin]] (screenplay); [[Tim Robbins]], [[Elizabeth Peña]], [[Danny Aiello]], [[Matt Craven]] || [[horror film|Horror]] || [[Live Action]]
-|-
-| rowspan="3" style="text-align:center; background:#d8d8d8;"| 9
-| ''[[Child's Play 2]]'' || [[Universal Studios]] || [[John Lafia]] (director); [[Don Mancini]] (screenplay); [[Alex Vincent (actor)|Alex Vincent]], [[Jenny Agutter]], [[Gerrit Graham]], [[Christine Elise]], [[Grace Zabriskie]], [[Brad Dourif]] || [[horror film|Horror]], [[comedy film|Comedy]] || [[Live Action]]
-|-
-| ''[[Guns (film)|Guns]]'' || Malibu Bay Films || [[Andy Sidaris]] (director/screenplay); [[Erik Estrada]], [[Dona Speir]], [[Devin DeVasquez]], [[Danny Trejo]], [[Cynthia Brimhall]] || [[action film|Action]] || [[Live Action]]
-|-
-| ''[[The Krays (film)|The Krays]]'' || [[Rank Film Distributors]] || [[Peter Medak]] (director); [[Philip Ridley]] (screenplay); [[Martin Kemp (actor)|Martin Kemp]], [[Gary Kemp]], [[Billie Whitelaw]], [[Tom Bell (actor)|Tom Bell]] || [[drama film|Drama]] || [[Live Action]]
-|-
-| rowspan="3" style="text-align:center; background:#d8d8d8;"| 16
-| ''[[Home Alone (film)|Home Alone]]'' || [[20th Century Fox]] || [[Chris Columbus (filmmaker)|Chris Columbus]] (director); [[John Hughes (filmmaker)|John Hughes]] (screenplay); [[Macaulay Culkin]], [[Joe Pesci]], [[Daniel Stern (actor)|Daniel Stern]], [[John Heard (actor)|John Heard]], [[Catherine O'Hara]] || [[comedy film|Comedy]], [[family film|Family]] || [[Live Action]]
-|-
-| ''[[The Rescuers Down Under]]'' || [[Walt Disney Pictures]] || Hendel Butoy, [[Mike Gabriel]] (director); Jim Cox, [[Karey Kirkpatrick]], Byron Simpson, [[Joe Ranft]] (screenplay); [[Bob Newhart]], [[Eva Gabor]], [[John Candy]], [[Tristan Rogers]], [[Adam Ryen]], [[George C. Scott]], [[Frank Welker]], [[Wayne Robson]], [[Russi Taylor]], [[Bernard Fox (actor)|Bernard Fox]], [[Douglas Seale]] || [[adventure film|Adventure]] || [[Animation]]
-|-
-| ''[[Rocky V]]'' || [[United Artists]] || [[John G. Avildsen]] (director); [[Sylvester Stallone]] (screenplay); [[Sylvester Stallone]], [[Talia Shire]], [[Burt Young]], [[Sage Stallone]], [[Tommy Morrison]], [[Burgess Meredith]] || [[sports film|Sports]], [[drama film|Drama]] || [[Live Action]]
-|-
-| rowspan="5" style="text-align:center; background:#d8d8d8;"| 21
-| ''[[Dances with Wolves]]'' || [[Orion Pictures]] || [[Kevin Costner]] (director); [[Michael Blake (author)|Michael Blake]] (screenplay); [[Kevin Costner]], [[Mary McDonnell]], [[Graham Greene (actor)|Graham Greene]], [[Rodney A. Grant]] || [[western (genre)|Western]] || [[Live Action]]
-|-
-| ''[[The Nutcracker Prince]]'' || [[Lacewood Productions]] || [[Paul Schibli]] (director); Patricia Watson (screenplay); [[Kiefer Sutherland]], [[Megan Follows]] || [[romance film|Romance]], [[fantasy film|Fantasy]] || [[Animation]]
-|-
-| ''[[Predator 2]]'' || [[20th Century Fox]] || [[Stephen Hopkins (director)|Stephen Hopkins]] (director); [[Jim Thomas (screenwriter)|Jim Thomas]], [[John Thomas (screenwriter)|John Thomas]] (screenplay); [[Danny Glover]], [[Gary Busey]], [[Ruben Blades]], [[María Conchita Alonso]], [[Bill Paxton]], [[Robert Davi]] || [[action film|Action]], [[science fiction film|Sci-Fi]] || [[Live Action]]
-|-
-| ''[[Robot Jox]]'' || [[Empire Pictures]] || [[Stuart Gordon]] (director); [[Joe Haldeman]] (screenplay); [[Gary Graham]], [[Anne-Marie Johnson]], [[Paul Koslo]] || [[science fiction film|Sci-Fi]] || [[Live Action]]
-|-
-| ''[[Three Men and a Little Lady]]'' || [[Touchstone Pictures]] || [[Emile Ardolino]] (director); Charlie Peters (screenplay); [[Tom Selleck]], [[Steve Guttenberg]], [[Ted Danson]], [[Nancy Travis]], [[Christopher Cazenove]], [[Robin Weisman]], [[Fiona Shaw]] || [[comedy film|Comedy]] || [[Live Action]]
-|-
-| rowspan="1" style="text-align:center; background:#d8d8d8;"| 30
-| ''[[Misery (film)|Misery]]'' || [[Columbia Pictures]] || [[Rob Reiner]] (director); [[William Goldman]] (screenplay); [[James Caan]], [[Kathy Bates]], [[Lauren Bacall]], [[Richard Farnsworth]], [[Frances Sternhagen]] || [[horror film|Horror]] || [[Live Action]]
-|-
-! rowspan="13" style="text-align:center; background:#98fb98;"|'''D<br />E<br />C<br />E<br />M<br />B<br />E<br />R'''
-| rowspan="1" style="text-align:center; background:#e0f9e0;"| 1
-| ''[[Cyrano de Bergerac (1990 film)|Cyrano de Bergerac]]'' || [[Orion Classics]] || [[Jean-Paul Rappeneau]] (director/screenplay); [[Jean-Claude Carrière]], [[Edmond Rostand]] (screenplay); [[Gérard Depardieu]], [[Anne Brochet]], [[Vincent Pérez]] || [[comedy film|Comedy]], [[drama film|Drama]] || [[Live Action]]
-|-
-| rowspan="1" style="text-align:center; background:#e0f9e0;"| 7
-| ''[[The Rookie (1990 film)|The Rookie]]'' || [[Warner Bros.]] || [[Clint Eastwood]] (director); [[Scott Spiegel]], [[Boaz Yakin]] (screenplay); [[Clint Eastwood]], [[Charlie Sheen]], [[Raúl Juliá]], [[Sônia Braga]], [[Tom Skerritt]], [[Lara Flynn Boyle]] || [[action film|Action]] || [[Live Action]]
-|-
-| rowspan="2" style="text-align:center; background:#e0f9e0;"| 12
-| ''[[Havana (film)|Havana]]'' || [[Universal Studios]] || [[Sydney Pollack]] (director); Judith Rascoe, [[David Rayfiel]] (screenplay); [[Robert Redford]], [[Lena Olin]], [[Raúl Juliá]], [[Alan Arkin]] || [[drama film|Drama]] || [[Live Action]]
-|-
-| ''[[The Sheltering Sky (film)|The Sheltering Sky]]'' || [[Warner Bros.]] || [[Bernardo Bertolucci]] (director/screenplay); Mark Peploe (screenplay); [[Debra Winger]], [[John Malkovich]] || [[drama film|Drama]] || [[Live Action]]
-|-
-| rowspan="3" style="text-align:center; background:#e0f9e0;"| 14
-| ''[[Edward Scissorhands]]'' || [[20th Century Fox]] || [[Tim Burton]] (director); [[Caroline Thompson]] (screenplay); [[Johnny Depp]], [[Winona Ryder]], [[Dianne Wiest]], [[Anthony Michael Hall]], [[Kathy Baker]], [[Vincent Price]], [[Alan Arkin]] || [[fantasy film|Fantasy]], [[romance film|Romance]] || [[Live Action]]
-|-
-| ''[[Look Who's Talking Too]]'' || [[TriStar Pictures]] || [[Amy Heckerling]] (director/screenplay); [[Neal Israel]] (screenplay); [[John Travolta]], [[Kirstie Alley]] || [[comedy film|Comedy]] || [[Live Action]]
-|-
-| ''[[Mermaids (film)|Mermaids]]'' || [[Orion Pictures]] || [[Richard Benjamin]] (director); June Roberts (screenplay); [[Cher]], [[Bob Hoskins]], [[Winona Ryder]], [[Christina Ricci]] || [[comedy film|Comedy]], [[drama film|Drama]] || [[Live Action]]
-|-
-| rowspan="2" style="text-align:center; background:#e0f9e0;"| 19
-| ''[[Almost an Angel]]'' || [[Paramount Pictures]] || [[John Cornell]] (director); [[Paul Hogan]] (screenplay); [[Paul Hogan]], [[Elias Koteas]], [[Linda Kozlowski]] || [[crime fiction|Crime]] || [[Live Action]]
-|-
-| ''[[The Russia House (film)|The Russia House]]'' || [[Metro-Goldwyn-Mayer]] || [[Fred Schepisi]] (director); [[Tom Stoppard]] (screenplay); [[Sean Connery]], [[Michelle Pfeiffer]], [[Roy Scheider]], [[James Fox]], [[John Mahoney]], [[J. T. Walsh]], [[Klaus Maria Brandauer]] || [[action film|Action]] || [[Live Action]]
-|-
-| rowspan="1" style="text-align:center; background:#e0f9e0;"| 20
-| ''[[Awakenings]]'' || [[Columbia Pictures]] || [[Penny Marshall]] (director); [[Steven Zaillian]] (screenplay); [[Robert De Niro]], [[Robin Williams]], [[John Heard (actor)|John Heard]], [[Julie Kavner]], [[Penelope Ann Miller]], [[Max von Sydow|Max Von Sydow]] || [[drama film|Drama]] || [[Live Action]]
-|-
-| rowspan="2" style="text-align:center; background:#e0f9e0;"| 21
-| ''[[The Bonfire of the Vanities (film)|The Bonfire of the Vanities]]'' || [[Warner Bros.]] || [[Brian De Palma]] (director); [[Michael Cristofer]] (screenplay); [[Tom Hanks]], [[Bruce Willis]], [[Melanie Griffith]], [[Kim Cattrall]], [[Saul Rubinek]], [[Morgan Freeman]] || [[drama film|Drama]], [[comedy film|Comedy]] || [[Live Action]]
-|-
-| ''[[Kindergarten Cop]]'' || [[Universal Studios]] || [[Ivan Reitman]] (director); Murray Salem, Herschel Weingrod, Timothy Harris (screenplay); [[Arnold Schwarzenegger]], [[Penelope Ann Miller]], [[Pamela Reed]], [[Linda Hunt]], [[Carroll Baker]] || [[comedy film|Comedy]], [[thriller (genre)|Thriller]] || [[Live Action]]
-|-
-| rowspan="1" style="text-align:center; background:#e0f9e0;"| 25
-| ''[[The Godfather Part III]]'' || [[Paramount Pictures]] || [[Francis Ford Coppola]] (director/screenplay); [[Mario Puzo]] (screenplay); [[Al Pacino]], [[Diane Keaton]], [[Talia Shire]], [[Andy García]], [[Eli Wallach]], [[Joe Mantegna]], [[George Hamilton (actor)|George Hamilton]], [[Sofia Coppola]]|| [[crime fiction|Crime]], [[drama film|Drama]] || [[Live Action]]
-|}
-
-==Notable films released in 1990==
-[[American films of 1990|U.S.A.]] unless stated
-
-===A-D===
-'''A'''
-*''[[The Adventures of Ford Fairlane]]''
-*''[[After Dark, My Sweet]]''
-*''[[Air America (film)|Air America]]'', directed by [[Roger Spottiswoode]], starring [[Mel Gibson]] and [[Robert Downey, Jr.]]
-*''[[Alice (1990 film)|Alice]]'', directed by [[Woody Allen]]
-*''[[The Ambulance]]''
-*''[[American Ninja 4: The Annihilation]]''
-*''[[Angel Town (film)|Angel Town'']]
-*''[[Another 48 Hrs.]]'', starring [[Eddie Murphy]] and [[Nick Nolte]]
-*''[[Arachnophobia (film)|Arachnophobia]]'', starring [[Jeff Daniels]]
-*''[[Avalon (1990 film)|Avalon]]'', directed by [[Barry Levinson]]
-*''[[Awakenings]]'', starring [[Robin Williams]] and [[Robert De Niro]]
-
-'''B'''
-*''[[Back to the Future Part III]]'', starring [[Michael J. Fox]], [[Christopher Lloyd]] and [[Mary Steenburgen]]
-*''[[Bad Influence (film)|Bad Influence]]''
-*''[[Betsy's Wedding (film)|Betsy's Wedding]]'', starring [[Molly Ringwald]]
-*''[[Bird on a Wire (film)|Bird on a Wire]]'', starring [[Mel Gibson]] and [[Goldie Hawn]]
-*''[[Blind Fury]]''
-*''[[Blue Steel (1990 film)|Blue Steel]]'', starring [[Jamie Lee Curtis]]
-*''[[Boiling Point (1990 film)|Boiling Point]]'', directed by [[Takeshi Kitano]], starring [[Beat Takeshi]]
-*''[[The Bonfire of the Vanities (film)|The Bonfire of the Vanities]]'', directed by [[Brian De Palma]], starring [[Tom Hanks]], [[Bruce Willis]] and [[Melanie Griffith]]
-*''[[Bride of Re-Animator]]''
-
-'''C'''
-*''[[Cadence (film)|Cadence]]'', starring [[Charlie Sheen]]
-*''[[Cadillac Man]]'', starring [[Robin Williams]] and [[Tim Robbins]]
-*''[[Captain America (1990 film)|Captain America]]''
-*''[[Childhood Days]]'' - Japan Academy Prize for Picture of the Year
-*''[[Child's Play 2]]''
-*''[[China Cry]]''
-*''[[City Hunter: Bay City Wars]]''
-*''[[Class of 1999]]''
-*''[[Close-Up (film)|Close-Up]]''
-*''[[Coins in the Fountain]]'', starring [[Loni Anderson]]
-*''[[Come See the Paradise]]'', starring [[Dennis Quaid]] and [[Tamlyn Tomita]]
-*''[[The Comfort of Strangers (film)|The Comfort of Strangers]]''
-*''[[Crash and Burn (film)|Crash and Burn]]''
-*''[[Cry-Baby]]'', starring [[Johnny Depp]]
-*''[[Cyrano de Bergerac (1990 film)|Cyrano de Bergerac]]'', starring [[Gérard Depardieu]] - Golden Globe Award for Best Foreign Language Film
-
-'''D'''
-*''[[Dances with Wolves]]'', directed by and starring [[Kevin Costner]] - Academy and Golden Globe (drama) Awards for Best Picture
-*''[[Darkman]]'', starring [[Liam Neeson]]
-*''[[Days of Being Wild]]'', directed by [[Wong Kar-wai]], starring [[Leslie Cheung]], [[Maggie Cheung]] and [[Andy Lau]]
-*''[[Days of Thunder]]'', starring [[Tom Cruise]], [[Robert Duvall]] and [[Nicole Kidman]]
-*''[[Death Warrant]]''
-*''[[Dei tau lung]]'' (''Dragon Fighter'')
-*''[[Delta Force 2: The Colombian Connection]]''
-*''[[Denial (1990 film)|Denial]]''
-*''[[Desperate Hours]]'', starring [[Anthony Hopkins]] and [[Mickey Rourke]]
-*''[[Dick Tracy (1990 film)|Dick Tracy]]'', starring [[Warren Beatty]], [[Madonna (entertainer)|Madonna]], [[Glenne Headly]] and [[Al Pacino]]
-*''[[Die Hard 2]]'', starring [[Bruce Willis]]
-*''[[Downtown (film)|Downtown]]'', starring [[Anthony Edwards]] and [[Forest Whitaker]]
-*''[[Dreams (1990 film)|Dreams]]'', directed by [[Akira Kurosawa]]
-*''[[DuckTales the Movie: Treasure of the Lost Lamp]]''
-
-===E-K===
-'''E'''
-*''[[Edward Scissorhands]]'', directed by [[Tim Burton]], starring [[Johnny Depp]], [[Winona Ryder]] and [[Dianne Wiest]]
-*''[[The End of Innocence (film)|The End of Innocence]]''
-*''[[Ernest Goes to Jail]]''
-*''[[Europa Europa]]'' - Golden Globe Award for Best Foreign Language Film (for 1991)
-*''[[The Exorcist III]]'', starring [[George C. Scott]]
-
-'''F'''
-*''[[Fantasia (1940 film)|Fantasia]]'' (restored version)
-*''[[La Femme Nikita]]'', directed by [[Luc Besson]]
-*''[[The Field (film)|The Field]]''
-*''[[Fire Birds]]'', starring [[Nicolas Cage]] and [[Tommy Lee Jones]]
-*''[[The First Power]]''
-*''[[Flashback (1990 film)|Flashback]]'', starring [[Kiefer Sutherland]] and [[Dennis Hopper]]
-*''[[Flatliners]]'', directed by [[Joel Schumacher]], starring [[Kiefer Sutherland]], [[Julia Roberts]] and [[Kevin Bacon]]
-*''[[The Fourth War]]'', starring [[Roy Schneider]] and [[Jürgen Prochnow]]
-*''[[Frankenstein Unbound]]''
-*''[[The Freshman (1990 film)|The Freshman]]'', starring [[Marlon Brando]] and [[Matthew Broderick]]
-*''[[Funny About Love]]'' directed by [[Leonard Nimoy]], starring [[Gene Wilder]] and [[Christine Lahti]]
-
-'''G'''
-*''[[Ghost (1990 film)|Ghost]]'', starring [[Patrick Swayze]], [[Demi Moore]] and [[Whoopi Goldberg]]
-*''[[The Godfather Part III]]'', directed by [[Francis Ford Coppola]], starring [[Al Pacino]], [[Diane Keaton]], [[Talia Shire]], [[Andy García]] and [[Sofia Coppola]]
-*''[[Goodfellas]]'', directed by [[Martin Scorsese]], starring [[Robert De Niro]], [[Ray Liotta]], [[Joe Pesci]], [[Lorraine Bracco]] and [[Paul Sorvino]]
-*''[[Graffiti Bridge (film)|Graffiti Bridge]]'', directed by and starring [[Prince (singer)|Prince]]
-*''[[Green Card (film)|Green Card]]'', starring [[Gérard Depardieu]] and [[Andie MacDowell]] - Golden Globe Award for Best Picture (Musical or Comedy)
-*''[[Gremlins 2: The New Batch]]''
-*''[[The Grifters (film)|The Grifters]]'', starring [[Anjelica Huston]], [[John Cusack]] and [[Annette Bening]]
-*''[[The Guardian (1990 film)|The Guardian]]''
-*''[[The Guyver]]''
-
-'''H'''
-*''[[Hamlet (1990 film)|Hamlet]]'', directed by [[Franco Zeffirelli]], starring [[Mel Gibson]], [[Glenn Close]] and [[Helena Bonham Carter]]
-*''[[The Handmaid's Tale (film)|The Handmaid's Tale]]'', directed by [[Volker Schlondorff]], starring [[Natasha Richardson]], [[Faye Dunaway]] and [[Robert Duvall]]
-*''[[Hard to Kill]]'' starring [[Steven Seagal]]
-*''[[Havana (film)|Havana]]'', starring [[Robert Redford]], [[Lena Olin]] and [[Alan Arkin]]
-*''[[Heart Condition (film)|Heart Condition]]'', starring [[Bob Hoskins]], and [[Denzel Washington]]
-*''[[Heaven and Earth (1990 film)|Heaven and Earth]]''
-*''[[Henry & June]]'', starring [[Fred Ward]], [[Maria de Medeiros]] and [[Uma Thurman]]
-*''[[Henry: Portrait of a Serial Killer]]''
-*''[[Hidden Agenda (1990 film)|Hidden Agenda]]'', directed by [[Ken Loach]], starring [[Frances McDormand]]
-*''[[Home Alone (film)|Home Alone]]'', starring [[Macaulay Culkin]]
-*''[[The Hot Spot]]''
-*''[[House Party (film)|House Party]]''
-*''[[The Hunt for Red October (film)|The Hunt for Red October]]'', starring [[Sean Connery]] and [[Alec Baldwin]], directed by [[John McTiernan]] (Die Hard)
-
-'''I'''
-*''[[I Come in Peace]]''
-*''[[I Love You to Death]]''
-*''[[Internal Affairs (film)|Internal Affairs]]'', directed by [[Mike Figgis]], starring [[Richard Gere]] and [[Andy García]]
-
-'''J'''
-*''[[Jacob's Ladder (film)|Jacob's Ladder]]'', starring [[Tim Robbins]], directed by [[Adrian Lyne]]
-*''[[Jetsons: The Movie]]''
-*''[[Joe Versus the Volcano]]'', starring [[Tom Hanks]] and [[Meg Ryan]]
-*''[[John & Brandy]]
-*''[[Journey of Hope (film)|Journey of Hope]]'' (''Reise der Hoffnung'') - Academy Award for Best Foreign Language Film
-*''[[Ju Dou]]'', directed by [[Zhang Yimou]] and [[Yang Fengliang]], starring [[Gong Li]]
-
-'''K'''
-*''[[Kindergarten Cop]]'', starring [[Arnold Schwarzenegger]]
-*''[[King of New York]]'', directed by [[Abel Ferrara]], starring [[Christopher Walken]] and [[Laurence Fishburne]]
-*''[[The Krays (film)|The Krays]]'', directed by [[Peter Medak]], starring [[Martin Kemp (entertainer)|Martin Kemp]], [[Gary Kemp]] and [[Billie Whitelaw]]
-
-===L-Q===
-'''L'''
-*''[[Larks on a String]]'' (''Skrivánci na niti'') - Golden Bear award
-*''[[Last of the Finest]]''
-*''[[Leatherface: The Texas Chainsaw Massacre III]]''
-*''[[The Lemon Sisters]]''
-*''[[Life Is Sweet (film)|Life Is Sweet]]''
-*''[[Lionheart (1990 film)|Lionheart]]''
-*''[[Longtime Companion]]''
-*''[[The Long Walk Home]]''
-*''[[Look Who's Talking Too]]'', starring [[John Travolta]] and [[Kirstie Alley]]
-*''[[Loose Cannons (1990 film)|Loose Cannons]]''
-*''[[Lord of the Flies (1990 film)|Lord of the Flies]]''
-*''[[Love at Large]]''
-
-'''M'''
-*''[[Mack the Knife (film)|Mack the Knife]]''
-*''[[A Man Called Sarge]]'', starring [[Gary Kroeger]] and [[Marc Singer]]
-*''[[Marked for Death]]'', starring [[Steven Seagal]]
-*''[[The Match Factory Girl]]'', directed by [[Aki Kaurismäki]], starring [[Kati Outinen]]
-*''[[Memories of a River]]''
-*''[[Memphis Belle (film)|Memphis Belle]]'', directed by [[Michael Caton-Jones]], starring [[Matthew Modine]]
-*''[[Men at Work (1990 film)|Men at Work]]''
-*''[[Mermaids (film)|Mermaids]]'', directed by [[Richard Benjamin]], starring [[Cher]], [[Bob Hoskins]], [[Winona Ryder]] and [[Christina Ricci]]
-*''[[Metropolitan (1990 film)|Metropolitan]]''
-*''[[Miami Blues (film)|Miami Blues]]'' starring [[Fred Ward]] and [[Alec Baldwin]]
-*''[[Midnight Ride (film)|Midnight Ride]]''
-*''[[Miller's Crossing]]'', directed by [[Joel and Ethan Coen]], starring [[Gabriel Byrne]], [[Albert Finney]] and [[Marcia Gay Harden]]
-*''[[Milou in May]]''
-*''[[Misery (film)|Misery]]'', directed by [[Rob Reiner]], starring [[James Caan (actor)|James Caan]] and [[Kathy Bates]]
-*''[[Mo' Better Blues]]'', directed by [[Spike Lee]], starring [[Denzel Washington]], [[Wesley Snipes]], Spike Lee and [[Samuel L. Jackson]]
-*''[[Mountains of the Moon (film)|Mountains of the Moon]]'', directed by [[Bob Rafelson]]
-*''[[Movie... In Your Face]]''
-*''[[Mr. and Mrs. Bridge]]'', starring [[Paul Newman]] and [[Joanne Woodward]]
-*''[[Mr. Destiny]]''
-*''[[My Blue Heaven (1990 film)|My Blue Heaven]]'', starring [[Steve Martin]] and [[Rick Moranis]]
-*''[[My Mother's Castle]]'' (''Le Château de ma mère''), directed by [[Yves Robert]], Golden Space Needle award (for 1991) - see novel ''[[Le Château de ma mère]]''
-
-'''N'''
-*''[[Narrow Margin]]''
-*''[[The Nasty Girl]]'' (''Das schreckliche Mädchen'')
-*''[[Navy SEALs (film)|Navy SEALs]]'', starring [[Charlie Sheen]]
-*''[[The NeverEnding Story II: The Next Chapter]]''
-*''[[Nightbreed]]''
-*''[[Nuns on the Run]]''
-*''[[The Nutcracker Prince]]''
-
-'''P'''
-*''[[Pacific Heights (1990 film)|Pacific Heights]]'', directed by [[John Schlesinger]], starring [[Michael Keaton]], [[Melanie Griffith]] and [[Matthew Modine]]
-*''[[Piece of Cake (film)|Piece of Cake]]'', directed by [[Jay Sandrich]], starring [[T. K. Carter]], [[Cleavant Derricks (actor)|Cleavant Derricks]], [[Vanessa Bell Calloway]] and [[Tonya Lee Williams]]
-*''[[Postcards from the Edge (film)|Postcards from the Edge]]'', directed by [[Mike Nichols]], starring [[Meryl Streep]], [[Shirley MacLaine]] and [[Dennis Quaid]]
-*''[[Predator 2]]'', starring [[Danny Glover]]
-*''[[Presumed Innocent (film)|Presumed Innocent]]'', directed by [[Alan J. Pakula]], starring [[Harrison Ford]]
-*''[[Pretty Woman]]'', directed by [[Garry Marshall]], starring [[Julia Roberts]] and [[Richard Gere]]
-*''[[Problem Child (film)|Problem Child]]''
-*''[[Pump Up the Volume (film)|Pump Up the Volume]]'', directed by [[Allan Moyle]], Golden Space Needle award
-
-'''Q'''
-*''[[Q&A (film)|Q&A]]'', starring [[Nick Nolte]], [[Timothy Hutton]]
-*''[[Quick Change]]'', starring [[Bill Murray]], [[Geena Davis]], [[Randy Quaid]]
-*''[[Quigley Down Under]]'', starring [[Tom Selleck]]
-
-===R-Z===
-'''R'''
-*''[[The Reflecting Skin (film)|The Reflecting Skin]]
-*''[[Repossessed]]'', a parody of ''[[The Exorcist (film)|The Exorcist]]''
-*''[[The Rescuers Down Under]]''
-*''[[Revenge (1990 film)|Revenge]]'', starring [[Kevin Costner]]
-*''[[Reversal of Fortune]]'', starring [[Jeremy Irons]], [[Glenn Close]] and [[Ron Silver]]
-*''[[RoboCop 2]]'', starring [[Peter Weller]] and [[Nancy Allen (actress)|Nancy Allen]]
-*''[[Robot Jox]]''
-*''[[Rock 'n' Roll High School Forever]]''
-*''[[Rockula]]''
-*''[[Rocky V]]'', starring [[Sylvester Stallone]], [[Talia Shire]], [[Burt Young]], and [[Burgess Meredith]]
-*''[[Romeo-Juliet]]''
-*''[[The Rookie (1990 film)|The Rookie]]'', starring [[Clint Eastwood]] and [[Charlie Sheen]]
-*''[[Rosencrantz & Guildenstern Are Dead (film)|Rosencrantz & Guildenstern Are Dead]]'' - Golden Lion award
-*''[[The Russia House]]'', starring [[Sean Connery]] and [[Michelle Pfeiffer]]
-
-'''S'''
-*''[[The Sheltering Sky (film)|The Sheltering Sky]]'', directed by [[Bernardo Bertolucci]], starring [[Debra Winger]] and [[John Malkovich]]
-*''[[Shipwrecked (1990 film)|Shipwrecked]]''
-*''[[Short Time]]''
-*''[[A Show of Force]]''
-*''[[Shreck]]''
-*''[[Sibling Rivalry (film)|Sibling Rivalry]]''
-*''[[Side Out]]'', starring [[Courtney Thorne-Smith]]
-*''[[Silent Night, Deadly Night 4: Initiation]]''
-*''[[Silent Scream (1990 film)|Silent Scream]]''
-*''[[Singapore Sling (1990 film)|Singapore Sling]]''
-*''[[Spaced Invaders]]'', directed by [[Patrick Read Johnson]], starring [[Douglas Barr]], [[Royal Dano]], [[Ariana Richards]] and [[J. J. Anderson]]
-*''[[Stanley & Iris]]'', starring [[Robert De Niro]] and [[Jane Fonda]]
-*''[[State of Grace (film)|State of Grace]]'', starring [[Sean Penn]], [[Ed Harris]] and [[Gary Oldman]]
-*''[[Stella (1990 film)|Stella]]''
-
-'''T'''
-*''[[Taking Care of Business]]'', starring [[James Belushi]]
-*''[[Tales from the Darkside: The Movie]]''
-*''[[Tatie Danielle]]'', starring [[Tsilla Chelton]]
-*''[[Teenage Mutant Ninja Turtles (1990 film)|Teenage Mutant Ninja Turtles]]'', directed by [[Steve Barron]]
-*''[[Tekken (1990 film)|Tekken]]''
-*''[[Texasville]]'', directed by [[Peter Bogdanovich]], starring [[Jeff Bridges]], [[Timothy Bottoms]] and [[Cybill Shepherd]]
-*''[[Three Men and a Little Lady]]'', starring [[Tom Selleck]], [[Steve Guttenberg]] and [[Ted Danson]]
-*''[[Tie Me Up! Tie Me Down!]]'', directed by [[Pedro Almodóvar]], starring [[Antonio Banderas]]
-*''[[Tilaï]]''
-*''[[Total Recall (1990 film)|Total Recall]]'', directed by [[Paul Verhoeven]], starring [[Arnold Schwarzenegger]] and [[Sharon Stone]]
-*''[[Treasure Island (1990 film)|Treasure Island]]''
-*''[[Tremors (film)|Tremors]]'' starring [[Kevin Bacon]] and [[Fred Ward]]
-*''[[Truly, Madly, Deeply]]'', directed by [[Anthony Minghella]]
-*''[[The Two Jakes]]'', directed by and starring [[Jack Nicholson]]
-
-'''U'''
-*''[[Uch? no h?soku]]''
-*''[[Ultra Q The Movie: Legend of the Stars]]''
-
-'''V'''
-*''[[Vincent & Theo]]''
-*''[[Vincent and Me]]''
-
-'''W'''
-*''[[Welcome Home, Roxy Carmichael]]''
-*''[[Where the Heart Is (1990 film)|Where the Heart Is]]''
-*''[[White Hunter, Black Heart]]'', directed by and starring [[Clint Eastwood]]
-*''[[White Palace (film)|White Palace]]'', starring [[Susan Sarandon]] and [[James Spader]]
-*''[[Wild at Heart (film)|Wild at Heart]]'', directed by [[David Lynch]], starring [[Nicolas Cage]], [[Laura Dern]] and [[Diane Ladd]]
-*''[[Wild Orchid (film)|Wild Orchid]]''
-*''[[The Witches (1990 film)|The Witches]]'', directed by [[Nicolas Roeg]], starring [[Anjelica Huston]]
-
-'''Y'''
-*''[[Young Guns II]]'', starring [[Emilio Estevez]], [[Kiefer Sutherland]], [[Lou Diamond Phillips]], [[Christian Slater]] and [[William Petersen]]
-
-== Births ==
-* January 13 - [[Liam Hemsworth]], actor
-* February 7 - [[Mustafa Ali]], actor, scientist
-* March 24 - [[Keisha Castle-Hughes]], actress
-* April 9 - [[Kristen Stewart]], actress
-* April 10 - [[Alex Pettyfer]], actor, model
-* April 15 - [[Emma Watson]], actress, model
-* May 14 - [[Sasha Spielberg]], actress, daughter of producer/director [[Steven Spielberg]] and actress [[Kate Capshaw]]
-* June 13 - [[Aaron Taylor-Johnson]], actror
-* July 2 - [[Margot Robbie]], actress
-* July 24 - [[Daveigh Chase]], actress
-* August 15 - [[Jennifer Lawrence]], actress
-* October 22 - [[Jonathan Lipnicki]], actor
-* December 20 - [[JoJo (singer)|JoJo]], [[United States|American]] singer-songwriter and actress
-
-==Notable deaths==
-<!-- This section is in the article 1990 in "film". People that are television actors, television directors (or something like that) but did not have any part of a film don't belong here. Those belong to the "Notable Deaths" section in "1990 in television". -->
-{| cellspacing="0" cellpadding="4" border="0"
-|-  style="background:#dae3e7; text-align:center;"
-|<span style="font-size:100%;"> '''Month'''</span> ||<span style="font-size:100%;"> '''Date'''</span> ||<span style="font-size:100%;"> '''Name'''</span> ||<span style="font-size:100%;"> '''Age'''</span> ||<span style="font-size:100%;">'''Country'''</span> ||<span style="font-size:100%;"> '''Profession''' ||<span style="font-size:100%;"> '''Notable films'''</span>
-|- valign="top"
-| rowspan="12"  style="text-align:center; vertical-align:top;"|<span style="font-size:100%;"> '''January'''</span>
-| style="text-align:center;"| ''2'' || [[Alan Hale, Jr.]] || style="text-align:center;"| 68 || style="text-align:center;"| USA || style="text-align:center;"| Actor ||''[[Hang 'Em High]]'' • ''[[Johnny Dangerously]]'' • ''[[The Fifth Musketeer]]'' • ''[[The West Point Story (film)|The West Point Story]]'' • ''[[It Happens Every Spring]]'' • ''[[Kill the Umpire]]'' • ''[[A Man Alone (film)|A Man Alone]]'' • ''[[Destry (film)|Destry]]'' • ''[[Up Periscope]]''
-|-
-| style="text-align:center;"| ''5'' || [[Arthur Kennedy (actor)|Arthur Kennedy]] || style="text-align:center;"| 75 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[Lawrence of Arabia (film)|Lawrence of Arabia]]'' • ''[[They Died with Their Boots On]]'' • ''[[Peyton Place (film)|Peyton Place]]'' • ''[[Elmer Gantry (film)|Elmer Gantry]]'' • ''[[Champion (1949 film)|Champion]]'' • ''[[The Man from Laramie]]'' • ''[[Some Came Running]]'' • ''[[Fantastic Voyage]]'' • ''[[Nevada Smith]]''
-|-
-| style="text-align:center;"| ''6'' || [[Ian Charleson]] || style="text-align:center;"| 40 || style="text-align:center;"| UK || style="text-align:center;"| Actor || ''[[Chariots of Fire]]'' • ''[[Gandhi (film)|Gandhi]]'' • ''[[Greystoke: The Legend of Tarzan, Lord of the Apes]]''
-|-
-| style="text-align:center;"| ''8'' || [[Terry-Thomas]] || style="text-align:center;"| 78 || style="text-align:center;"| UK || style="text-align:center;"| Actor || ''[[The Mouse on the Moon]]'' • ''[[It's a Mad, Mad, Mad, Mad World]]'' • ''[[Monte Carlo or Bust!]]'' • ''[[The Abominable Dr. Phibes]]'' • ''[[How to Murder Your Wife]]'' • ''[[Bachelor Flat]]'' • ''[[Those Magnificent Men in Their Flying Machines]]''
-|-
-| style="text-align:center;"| ''10'' || [[Lyle R. Wheeler]] || style="text-align:center;"| 84 || style="text-align:center;"| USA || style="text-align:center;"| Art Director || ''[[Gone with the Wind (film)|Gone with the Wind]]'' • ''[[The Day the Earth Stood Still (1951 film)|The Day the Earth Stood Still]]'' • ''[[All About Eve]]'' • ''[[The Diary of Anne Frank (1959 film)|The Diary of Anne Frank]]'' • ''[[Rebecca (1940 film)|Rebecca]]'' • ''[[Broken Lance]]'' • ''[[Twelve O'Clock High]]''
-|-
-| style="text-align:center;"| ''14'' || [[John Witty]] || style="text-align:center;"| 74 || style="text-align:center;"| UK || style="text-align:center;"| Actor || ''[[The Frightened City]]'' • ''[[The Vault of Horror (film)|The Vault of Horror]]''
-|-
-| style="text-align:center;"| ''15'' || [[Gordon Jackson (actor)|Gordon Jackson]] || style="text-align:center;"| 66 || style="text-align:center;"| UK || style="text-align:center;"| Actor || ''[[The Great Escape (film)|The Great Escape]]'' • ''[[The Ipcress File (film)|The Ipcress File]]'' • ''[[Shaka Zulu]]''
-|-
-| style="text-align:center;"| ''18'' || [[Rusty Hamer]] || style="text-align:center;"| 42 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[Dance with Me, Henry]]''
-|-
-| style="text-align:center;"| ''20'' || [[John Maxim]] || style="text-align:center;"| 64 || style="text-align:center;"| UK || style="text-align:center;"| Actor || ''[[The Frightened City]]'' • ''[[Dracula: Prince of Darkness]]''
-|-
-| style="text-align:center;"| ''20'' || [[Barbara Stanwyck]] || style="text-align:center;"| 82 || style="text-align:center;"| USA || style="text-align:center;"| Actress || ''[[Double Indemnity (film)|Double Indemnity]]'' • ''[[Stella Dallas (1937 film)|Stella Dallas]]'' • ''[[Ball of Fire]]'' • ''[[Sorry, Wrong Number]]'' • ''[[The Lady Eve]]'' • ''[[Meet John Doe]]'' • ''[[Annie Oakley (film)|Annie Oakley]]'' • ''[[Golden Boy (film)|Golden Boy]]'' • ''[[The Strange Love of Martha Ivers]]'' • ''[[Clash by Night]]'' • ''[[All I Desire]]'' • ''[[The Violent Men]]'' • ''[[Christmas in Connecticut]]'' • ''[[The Furies (1950 film)|The Furies]]'' • ''[[The Two Mrs. Carrolls]]'' • ''[[There's Always Tomorrow]]'' • ''[[Titanic (1953 film)|Titanic]]'' • ''[[Executive Suite]]'' • ''[[Walk on the Wild Side (film)|Walk on the Wild Side]]'' • ''[[Roustabout (film)|Roustabout]]''
-|-
-| style="text-align:center;"| ''25'' || [[Ava Gardner]] || style="text-align:center;"| 67 || style="text-align:center;"| USA || style="text-align:center;"| Actress || ''[[The Barefoot Contessa]]'' • ''[[The Killers (1946 film)|The Killers]]'' • ''[[Mogambo]]'' • ''[[Show Boat (1951 film)|Show Boat]]'' • ''[[Seven Days in May]]'' • ''[[The Snows of Kilimanjaro (1952 film)|The Snows of Kilimanjaro]]'' • ''[[Earthquake (film)|Earthquake]]'' • ''[[The Night of the Iguana (film)|The Night of the Iguana]]'' • ''[[Bhowani Junction]]'' • ''[[Pandora and the Flying Dutchman]]'' • ''[[The Bribe]]'' • ''[[Knights of the Round Table (film)|Knights of the Round Table]]'' • ''[[55 Days at Peking]]'' • ''[[One Touch of Venus (film)|One Touch of Venus]]'' • ''[[The Cassandra Crossing]]'' • ''[[On the Beach (1959 film)|On the Beach]]''
-|-
-| style="text-align:center;"| ''26'' || [[Dodo Abashidze]] || style="text-align:center;"| 66 || style="text-align:center;"| Soviet Union || style="text-align:center;"| [[Sergei Parajanov]]'s Codirector (Credit Only) || ''[[The Legend of Suram Fortress]]'' • ''[[Ashik Kerib (film)|Ashik Kerib]]''
-|-
-|- valign="top"
-| rowspan="6"  style="text-align:center; vertical-align:top;"|<span style="font-size:100%;"> '''February'''</span>
-| style="text-align:center;"| ''13'' || [[Ken Lynch]] || style="text-align:center;"| 79 || style="text-align:center;"| USA || style="text-align:center;"| Actor ||''[[North by Northwest]]'' • ''[[Bad Charleston Charlie]]'' • ''[[Paratroop Command]]'' • ''[[Willie Dynamite]]'' • ''[[Across 110th Street]]''
-|-
-| style="text-align:center;"| ''14'' || [[Jean Wallace]] || style="text-align:center;"| 66 || style="text-align:center;"| USA || style="text-align:center;"| Actress ||''[[Lancelot and Guinevere]]'' • ''[[No Blade of Grass (film)|No Blade of Grass]]'' • ''[[The Big Combo]]'' • ''[[Beach Red]]''
-|-
-| style="text-align:center;"| ''15'' || [[Henry Brandon (actor)|Henry Brandon]] || style="text-align:center;"| 77 || style="text-align:center;"| Germany || style="text-align:center;"| Actor ||''[[The War of the Worlds (1953 film)|The War of the Worlds]]'' • ''[[The Searchers (film)|The Searchers]]'' • ''[[Assault on Precinct 13 (1976 film)|Assault on Precinct 13]]'' • ''[[To Be or Not to Be (1983 film)|To Be or Not to Be]]''
-|-
-| style="text-align:center;"| ''16'' || [[Kenneth Patterson]] || style="text-align:center;"| 78 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[Being There]]'' • ''[[Invasion of the Body Snatchers]]''
-|-
-| style="text-align:center;"| ''16'' || [[Joshua Shelley]] || style="text-align:center;"| 70 || style="text-align:center;"| USA || style="text-align:center;"| Actor ||''[[All the President's Men (film)|All the President's Men]]'' • ''[[Funny Lady]]'' • ''[[The Front Page (1974 film)|The Front Page]]'' • ''[[Quicksilver (film)|Quicksilver]]'' • ''[[Little Miss Marker (1980 film)|Little Miss Marker]]''
-|-
-| style="text-align:center;"| ''28'' || [[Fabia Drake]] || style="text-align:center;"| 86 || style="text-align:center;"| UK || style="text-align:center;"| Actress ||''[[A Room with a View (1986 film)|A Room with a View]]'' • ''[[Year of the Dragon (film)|Year of the Dragon]]'' • ''[[Valmont (film)|Valmont]]''
-|- valign="top"
-| rowspan="3"  style="text-align:center; vertical-align:top;"|<span style="font-size:100%;"> '''March'''</span>
-| style="text-align:center;"| ''5'' || [[Gary Merrill]] || style="text-align:center;"| 74 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[All About Eve]]'' • ''[[Twelve O'Clock High]]'' • ''[[Clambake]]'' • ''[[Mysterious Island]]'' • ''[[Where the Sidewalk Ends]]'' • ''[[A Blueprint for Murder]]'' • ''[[The Great Impostor]]''
-|-
-| style="text-align:center;"| ''12'' || [[Mona McKinnon]] || style="text-align:center;"| 60 || style="text-align:center;"| USA || style="text-align:center;"| Actress || ''[[Plan 9 from Outer Space]]'' • ''[[Jail Bait (1954 film)|Jail Bait]]''
-|-
-| style="text-align:center;"| ''17'' || [[Capucine]] || style="text-align:center;"| 62 || style="text-align:center;"| Switzerland || style="text-align:center;"| Actress || ''[[The Pink Panther (1963 film)|The Pink Panther]]'' • ''[[Satyricon (1969 film)|Satyricon]]'' • ''[[What's New Pussycat?]]'' • ''[[Red Sun]]'' • ''[[Walk on the Wild Side (film)|Walk on the Wild Side]]'' • ''[[North to Alaska]]'' • ''[[The Honey Pot]]'' • ''[[The Lion (film)|The Lion]]'' • ''[[The 7th Dawn]]'' • ''[[Curse of the Pink Panther]]''
-|- valign="top"
-| rowspan="8"  style="text-align:center; vertical-align:top;"|<span style="font-size:100%;"> '''April'''</span>
-| style="text-align:center;"| ''1'' || [[Anthony Langdon]] || style="text-align:center;"| 50 || style="text-align:center;"| UK || style="text-align:center;"| Actor || ''[[Force 10 from Navarone (film)|Force 10 from Navarone]]'' • ''[[The French Lieutenant's Woman (film)|The French Lieutenant's Woman]]''
-|-
-| style="text-align:center;"| ''8'' || [[Ernest Steward]] || style="text-align:center;"| 79 || style="text-align:center;"| UK || style="text-align:center;"| Cinematographer || ''[[Carry On... Up the Khyber]]'' • ''[[Carry On Camping]]'' • ''[[Ten Little Indians (1965 film)|Ten Little Indians]]'' • ''[[Carry On at Your Convenience]]'' • ''[[Carry On Matron]]'' • ''[[Carry On Up the Jungle]]'' • ''[[Carry On Behind]]'' • ''[[Carry On Dick]]''
-|-
-| style="text-align:center;"| ''11'' || [[Vanda Godsell]] || style="text-align:center;"| 67 || style="text-align:center;"| UK || style="text-align:center;"| Actress || ''[[The Pink Panther Strikes Again]]'' • ''[[A Shot in the Dark (1964 film)|A Shot in the Dark]]'' • ''[[This Sporting Life]]'' • ''[[The Wrong Box]]'' • ''[[The Wrong Arm of the Law]]''
-|-
-| style="text-align:center;"| ''15'' || [[Greta Garbo]] || style="text-align:center;"| 84 || style="text-align:center;"| Sweden || style="text-align:center;"| Actress || ''[[Grand Hotel (film)|Grand Hotel]]'' • ''[[Ninotchka]]'' • ''[[Anna Karenina (1935 film)|Anna Karenina]]'' • ''[[Camille (1936 film)|Camille]]''
-|-
-| style="text-align:center;"| ''20'' || [[Alex McCrindle]] || style="text-align:center;"| 78 || style="text-align:center;"| UK || style="text-align:center;"| Actor, Producer || ''[[Star Wars Episode IV: A New Hope|Star Wars]]'' • ''[[Eye of the Needle (film)|Eye of the Needle]]'' • ''[[The Private Life of Sherlock Holmes]]''
-|-
-| style="text-align:center;"| ''22'' || [[Albert Salmi]] || style="text-align:center;"| 62 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[The Brothers Karamazov (1958 film)|The Brothers Karamazov]]'' • ''[[The Bravados]]'' • ''[[Hour of the Gun]]'' • ''[[Something Big]]'' • ''[[The Ambushers (film)|The Ambushers]]'' • ''[[Lawman (film)|Lawman]]'' • ''[[Escape from the Planet of the Apes]]'' • ''[[Brubaker]]'' • ''[[Caddyshack]]''
-|-
-| style="text-align:center;"| ''23'' || [[Paulette Goddard]] || style="text-align:center;"| 79 || style="text-align:center;"| USA || style="text-align:center;"| Actress || ''[[So Proudly We Hail!]]'' • ''[[Modern Times (film)|Modern Times]]'' • ''[[The Great Dictator]]'' • ''[[The Women (1939 film)|The Women]]'' • ''[[The Ghost Breakers]]'' • ''[[Hold Back the Dawn]]'' • ''[[Reap the Wild Wind]]'' • ''[[Kitty (1945 film)|Kitty]]'' • ''[[Unconquered]]'' • ''[[An Ideal Husband (1947 film)|An Ideal Husband]]'' • ''[[Sins of Jezebel]]'' • ''[[Vice Squad (1953 film)|Vice Squad]]''
-|-
-| style="text-align:center;"| ''26'' || [[Harry Gilliam]] || style="text-align:center;"| ?? || style="text-align:center;"| ?? || style="text-align:center;"| Camera Operator || ''[[Jason and the Argonauts (1963 film)|Jason and the Argonauts]]'' • ''[[To Sir, with Love]]'' • ''[[Alfie (1966 film)|Alfie]]'' • ''[[Saturn 3]]'' • ''[[First Men in the Moon (1964 film)|First Men in the Moon]]''
-|- valign="top"
-| rowspan="7"  style="text-align:center; vertical-align:top;"|<span style="font-size:100%;"> '''May'''</span>
-| style="text-align:center;"| ''?'' || [[Paddy Ryan (actor)|Paddy Ryan]] || style="text-align:center;"| 79 || style="text-align:center;"| UK || style="text-align:center;"| Actor, Stuntman || ''[[Countess Dracula]]'' • ''[[Doomwatch (film)|Doomwatch]]'' • ''[[An American Werewolf in London]]'' • ''[[Monty Python's The Meaning of Life]]''
-|-
-| style="text-align:center;"| ''2'' || [[David Rappaport]] || style="text-align:center;"| 38 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[Time Bandits]]'' • ''[[Turkish Delight (film)|Turkish Delight]]''
-|-
-| style="text-align:center;"| ''10'' || [[Susan Oliver]] || style="text-align:center;"| 58 || style="text-align:center;"| USA || style="text-align:center;"| Actress || ''[[The Disorderly Orderly]]'' • ''[[Your Cheatin' Heart (film)|Your Cheatin' Heart]]'' • ''[[Butterfield 8]]''
-|-
-| style="text-align:center;"| ''16'' || [[Sammy Davis, Jr.]] || style="text-align:center;"| 64 || style="text-align:center;"| USA || style="text-align:center;"| Actor, Singer, Soundtrack || ''[[Ocean's Eleven (1960 film)|Ocean's Eleven]]'' • ''[[Robin and the 7 Hoods]]'' • ''[[Sergeants 3]]'' • ''[[Convicts 4]]'' • ''[[Porgy and Bess (film)|Porgy and Bess]]'' • ''[[Sweet Charity (film)|Sweet Charity]]'' • ''[[Nightmare in the Sun]]'' • ''[[Salt and Pepper (film)|Salt and Pepper]]'' • ''[[One More Time (1970 film)|One More Time]]'' • ''[[A Man Called Adam (film)|A Man Called Adam]]'' • ''[[The Cannonball Run]]'' • ''[[That's Dancing!]]'' • ''[[Tap (film)|Tap]]'' • ''[[Cannonball Run II]]''
-|-
-| style="text-align:center;"| ''16'' || [[Jim Henson]] || style="text-align:center;"| 53 || style="text-align:center;"| USA || style="text-align:center;"| Actor, Writer, Producer || ''[[The Dark Crystal]]'' • ''[[The Muppet Movie]]'' • ''[[The Muppets Take Manhattan]]'' • ''[[The Great Muppet Caper]]''
-|-
-| style="text-align:center;"| ''18'' || [[Jill Ireland]] || style="text-align:center;"| 54 || style="text=align:center;"| UK || style="text-align:center;"| Actress || ''[[Hard Times (1975 film)|Hard Times]]'' • ''[[Breakheart Pass (1975 film)|Breakheart Pass]]'' • ''[[Breakout (1975 film)|Breakout]]'' • ''[[The Valachi Papers]]'' • ''[[The Desperate Man]]'' • ''[[From Noon till Three]]'' • ''[[The Mechanic (1972 film)|The Mechanic]]'' • ''[[Death Wish II]]''
-|-
-| style="text-align:center;"| ''22'' || [[Max Wall]] || style="text-align:center;"| 82 || style="text-align:center;"| UK || style="text-align:center;"| Actor, Writer || ''[[Chitty Chitty Bang Bang (film)|Chitty Chitty Bang Bang]]'' • ''[[Jabberwocky (film)|Jabberwocky]]'' • ''[[Hanover Street (film)|Hanover Street]]'' • ''[[One of Our Dinosaurs Is Missing]]''
-|- valign="top"
-| rowspan="6"  style="text-align:center; vertical-align:top;"|<span style="font-size:100%;"> '''June'''</span>
-| style="text-align:center;"| ''1'' || [[Eric Barker]] || style="text-align:center;"| 78 || style="text-align:center;"| UK || style="text-align:center;"| Actor, Writer || ''[[Those Magnificent Men in their Flying Machines]]'' • ''[[There's a Girl in My Soup]]'' • ''[[Carry On Spying]]'' • ''[[Carry On Emmannuelle]]''
-|-
-| style="text-align:center;"| ''2'' || [[Jack Gilford]] || style="text-align:center;"| 81 || style="text-align:center;"| USA || style="text-align:center;"| Actor, Writer, Soundtrack || ''[[Cocoon (film)|Cocoon]]'' • ''[[Catch-22 (film)|Catch-22]]'' • ''[[Cocoon: The Return]]'' • ''[[A Funny Thing Happened on the Way to the Forum (film)|A Funny Thing Happened on the Way to the Forum]]'' • ''[[Caveman (film)|Caveman]]'' • ''[[Who's Minding the Mint?]]'' • ''[[Save the Tiger]]'' • ''[[Arthur 2: On the Rocks]]''
-|-
-| style="text-align:center;"| ''2'' || [[Rex Harrison]] || style="text-align:center;"| 82 || style="text-align:center;"| UK || style="text-align:center;"| Actor || ''[[My Fair Lady (film)|My Fair Lady]]'' • ''[[Doctor Dolittle (film)|Doctor Dolittle]]'' • ''[[Unfaithfully Yours (1948 film)|Unfaithfully Yours]]'' • ''[[The Honey Pot]]'' • ''[[The Agony and the Ecstasy (film)|The Agony and the Ecstasy]]'' • ''[[Midnight Lace]]'' • ''[[The Ghost and Mrs. Muir]]'' • ''[[Night Train to Munich]]'' • ''[[Major Barbara (film)|Major Barbara]]'' • ''[[Blithe Spirit (film)|Blithe Spirit]]'' • ''[[Anna and the King of Siam (film)|Anna and the King of Siam]]'' • ''[[Staircase (film)|Staircase]]'' • ''[[The Yellow Rolls-Royce]]'' • ''[[Cleopatra (1963 film)|Cleopatra]]''
-|-
-| style="text-align:center;"| ''15'' || [[Leonard Sachs]] || style="text-align:center;"| 80 || style="text-align:center;"| UK || style="text-align:center;"| Actor || ''[[Thunderball (film)|Thunderball]]''
-|-
-| style="text-align:center;"| ''20'' || [[Ina Balin]] || style="text-align:center;"| 52 || style="text-align:center;"| USA || style="text-align:center;"| Actress || ''[[From the Terrace]]'' • ''[[The Patsy (1964 film)|The Patsy]]'' • ''[[The Comancheros (film)|The Comancheros]]'' • ''[[The Young Doctors (film)|The Young Doctors]]'' • ''[[The Black Orchid (film)|The Black Orchid]]'' • ''[[Charro!]]''
-|-
-| style="text-align:center;"| ''23'' || [[Frank Gatliff]] || style="text-align:center;"| 62 || style="text-align:center;"| UK || style="text-align:center;"| Actor || ''[[The Ipcress File (film)|The Ipcress File]]'' • ''[[Operation Daybreak]]''
-|- valign="top"
-| rowspan="3"  style="text-align:center; vertical-align:top;"|<span style="font-size:100%;"> '''July'''</span>
-| style="text-align:center;"| ''8'' || [[Howard Duff]] || style="text-align:center;"| 76 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[Kramer vs. Kramer]]'' • ''[[No Way Out (1987 film)|No Way Out]]'' • ''[[A Wedding]]'' • ''[[The Late Show (film)|The Late Show]]'' • ''[[The Naked City]]'' • ''[[All My Sons (film)|All My Sons]]'' • ''[[Private Hell 36]]'' • ''[[Johnny Stool Pigeon]]'' • ''[[Oh, God! Book II]]'' • ''[[Boys' Night Out (film)|Boys' Night Out]]''
-|-
-| style="text-align:center;"| ''15'' || [[Margaret Lockwood]] || style="text-align:center;"| 73 || style="text-align:center;"| UK || style="text-align:center;"| Actress, Soundtrack || ''[[The Lady Vanishes (1938 film)|The Lady Vanishes]]'' • ''[[Night Train to Munich]]'' • ''[[The Slipper and the Rose]]'' • ''[[The Wicked Lady]]''
-|-
-| style="text-align:center;"| ''20'' || [[Sergei Parajanov]] || style="text-align:center;"| 66 || style="text-align:center;"| Soviet Union || style="text-align:center;"| Director || ''[[Shadows of Forgotten Ancestors]]'' • ''[[The Color of Pomegranates]]'' • ''[[The Legend of Suram Fortress]]'' • ''[[Ashik Kerib (film)|Ashik Kerib]]''
-|- valign="top"
-| rowspan="2"  style="text-align:center; vertical-align:top;"|<span style="font-size:100%;"> '''August'''</span>
-| style="text-align:center;"| ''2'' || [[Edwin Richfield]] || style="text-align:center;"| 68 || style="text-align:center;"| UK || style="text-align:center;"| Actor, Writer || ''[[Ben-Hur (1959 film)|Ben-Hur]]'' • ''[[The Dam Busters (film)|The Dam Busters]]'' • ''[[Quatermass and the Pit (film)|Quatermass and the Pit]]''
-|-
-| style="text-align:center;"| ''27'' || [[Raymond St. Jacques]] || style="text-align:center;"| 60 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[Cotton Comes to Harlem]]'' • ''[[The Green Berets (film)|The Green Berets]]'' • ''[[Madigan]]'' • ''[[Glory (1989 film)|Glory]]'' 
-|- valign="top"
-| rowspan="1"  style="text-align:center; vertical-align:top;"|<span style="font-size:100%;">
-'''September'''</span>
-| style="text-align:center;"| ''4'' || [[Irene Dunne]] || style="text-align:center;"| 91 || style="text-align:center;"| USA || style="text-align:center;"| Actress || ''[[The Awful Truth]]'' • ''[[Cimarron (1931 film)|Cimarron]]'' • ''[[Love Affair (1939 film)|Love Affair]]'' • ''[[A Guy Named Joe]]'' • ''[[Theodora Goes Wild]]'' • ''[[Anna and the King of Siam (film)|Anna and the King of Siam]]'' • ''[[Magnificent Obsession (1935 film)|Magnificent Obsession]]'' • ''[[Show Boat (1936 film)|Show Boat]]'' • ''[[My Favorite Wife]]'' • ''[[Penny Serenade]]'' • ''[[The Mudlark]]'' • ''[[I Remember Mama]]'' • ''[[Life with Father (film)|Life with Father]]''
-|- valign="top"
-| rowspan="3"  style="text-align:center; vertical-align:top;"|<span style="font-size:100%;"> 
-'''October'''</span>
-| style="text-align:center;"| ''4'' || [[Jill Bennett (British actress)|Jill Bennett]] || style="text-align:center;"| 58 || style="text-align:center;"| UK || style="text-align:center;"| Actress, Writer || ''[[For Your Eyes Only (film)|For Your Eyes Only]]'' • ''[[The Sheltering Sky (film)|The Sheltering Sky]]'' • ''[[Lust for Life (film)|Lust for Life]]'' • ''[[Lady Jane (film)|Lady Jane]]'' • ''[[Moulin Rouge (1952 film)|Moulin Rouge]]''
-|-
-| style="text-align:center;"| ''20'' || [[Joel McCrea]] || style="text-align:center;"| 84 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[Sullivan's Travels]]'' • ''[[Foreign Correspondent (film)|Foreign Correspondent]]'' • ''[[The Palm Beach Story]]'' • ''[[The Most Dangerous Game (film)|The Most Dangerous Game]]'' • ''[[Ramrod (film)|Ramrod]]'' • ''[[The Great Moment (1944 film)|The Great Moment]]'' • ''[[Buffalo Bill (film)|Buffalo Bill]]'' • ''[[Union Pacific (film)|Union Pacific]]'' • ''[[Wichita (1955 film)|Wichita]]'' • ''[[The Virginian (1946 film)|The Virginian]]'' • ''[[The Oklahoman (film)|The Oklahoman]]'' • ''[[The First Texan]]'' • ''[[Colorado Territory]]'' • ''[[South of St. Louis]]'' • ''[[The Gunfight at Dodge City]]'' • ''[[Wells Fargo (film)|Wells Fargo]]'' • ''[[Ride the High Country]]''
-|-
-| style="text-align:center;"| ''27'' || [[Ugo Tognazzi]] || style="text-align:center;"| 68 || style="text-align:center;"| Italy || style="text-align:center;"| Actor || ''[[La Cage aux Folles (film)|La Cage aux Folles]]'' • ''[[The Conjugal Bed (1963 film)|The Conjugal Bed]]'' • ''[[Barbarella (film)|Barbarella]]'' • ''[[My Friends (film)|My Friends]]'' • ''[[Ro.Go.Pa.G.]]''
-|- valign="top"
-| rowspan="7"  style="text-align:center; vertical-align:top;"|<span style="font-size:100%;"> '''November'''</span>
-| style="text-align:center;"| ''3'' || [[Mary Martin]] || style="text-align:center;"| 76 || style="text-align:center;"| USA || style="text-align:center;"| Actress || ''[[Peter Pan (1954 musical)|Peter Pan (television)]]'' • ''[[Kiss the Boys Goodbye]]'' • ''[[New York Town]]'' • ''[[Love Thy Neighbor (1940 film)|Love Thy Neighbor]]'' • ''[[Night and Day (1946 film)|Night and Day]]''
-|-
-| style="text-align:center;"| ''10'' || [[Maura McGiveney]] || style="text-align:center;"| 51 || style="text-align:center;"| USA || style="text-align:center;"| Actress || ''[[North by Northwest]]'' • ''[[Do Not Disturb (1965 film)|Do Not Disturb]]''
-|-
-| style="text-align:center;"| ''10'' || [[Dudley Jones]] || style="text-align:center;"| 75 || style="text-align:center;"| UK || style="text-align:center;"| Actor || ''[[Under Milk Wood (film)|Under Milk Wood]]''
-|-
-| style="text-align:center;"| ''12'' || [[Eve Arden]] || style="text-align:center;"| 82 || style="text-align:center;"| USA || style="text-align:center;"| Actress || ''[[Mildred Pierce (film)|Mildred Pierce]]'' • ''[[Anatomy of a Murder]]'' • ''[[Grease (film)|Grease]]'' • ''[[Our Miss Brooks (film)|Our Miss Brooks]]'' • ''[[Stage Door]]'' • ''[[Night and Day (1946 film)|Night and Day]]'' • ''[[Tea for Two (film)|Tea for Two]]'' • ''[[Manpower (1941 film)|Manpower]]'' • ''[[Whiplash (1948 film)|Whiplash]]'' • ''[[Goodbye, My Fancy]]'' • ''[[The Kid from Brooklyn]]'' • ''[[The Dark at the Top of the Stairs]]'' • ''[[Under the Rainbow]]'' • ''[[Grease 2]]''
-|-
-| style="text-align:center;"| ''13'' || [[Don Chaffey]] || style="text-align:center;"| 73 || style="text-align:center;"| New Zealand || style="text-align:center;"| Director || ''[[Jason and the Argonauts (1963 film)|Jason and the Argonauts]]'' • ''[[Pete's Dragon]]'' • ''[[One Million Years B.C.]]''
-|-
-| style="text-align:center;"| ''23'' || [[Roald Dahl]] || style="text-align:center;"| 74 || style="text-align:center;"| UK || style="text-align:center;"| Writer || ''[[Charlie and the Chocolate Factory (film)|Charlie and the Chocolate Factory]]'' • ''[[Fantastic Mr. Fox (film)|Fantastic Mr. Fox]]'' • ''[[Willy Wonka & the Chocolate Factory]]''
-|-
-| style="text-align:center;"| ''24'' || [[Dodie Smith]] || style="text-align:center;"| 94 || style="text-align:center;"| UK || style="text-align:center;"| Writer, Actress || ''[[One Hundred and One Dalmatians]]''
-|- valign="top"
-| rowspan="6"  style="text-align:center; vertical-align:top;"|<span style="font-size:100%;"> '''December'''</span>
-| style="text-align:center;"| ''2'' || [[Robert Cummings]] || style="text-align:center;"| 80 || style="text-align:center;"| USA || style="text-align:center;"| Actor, Director || ''[[Dial M for Murder]]'' • ''[[Saboteur (film)|Saboteur]]'' • ''[[Kings Row]]'' • ''[[Sleep, My Love]]'' • ''[[Beach Party]]'' • ''[[My Geisha]]'' • ''[[The Lost Moment]]'' • ''[[The Carpetbaggers (film)|The Carpetbaggers]]'' • ''[[The Accused (1949 film)|The Accused]]'' • ''[[Stagecoach (1966 film)|Stagecoach]]'' • ''[[What a Way to Go!]]''
-|-
-| style="text-align:center;"| ''4'' || [[Edward Binns]] || style="text-align:center;"| 79 || style-"text-align:center;"| USA || style="text-align:center;"| Actor || ''[[12 Angry Men (1957 film)|12 Angry Men]]'' • ''[[Fail-Safe (1964 film)|Fail-Safe]]'' • ''[[Patton (film)|Patton]]'' • ''[[North by Northwest (film)|North by Northwest]]'' • ''[[Night Moves (1975 film)|Night Moves]]'' • ''[[The Verdict]]''
-|-
-| style="text-align:center;"| ''7'' || [[Joan Bennett]] || style="text-align:center;"| 80 || style="text-align:center;"| USA || style="text-align:center;"| Actress, Soundtrack || ''[[Father of the Bride (1950 film)|Father of the Bride]]'' • ''[[Scarlet Street]]'' • ''[[The Woman in the Window]]'' • ''[[The Man in the Iron Mask (1939 film)|The Man in the Iron Mask]]'' • ''[[Man Hunt (1941 film)|Man Hunt]]'' • ''[[The Woman on the Beach]]'' • ''[[Suspiria]]''
-|-
-| style="text-align:center;"| ''7'' || [[Ray Chabeau]] || style="text-align:center;"| 49 || style="text-align:center;"| USA || style="text-align:center;"| Actor || ''[[Blazing Saddles]]''
-|-
-| style="text-align:center;"| ''8'' || [[Martin Ritt]] || style="text-align:center;"| 76 || style="text-align:center;"| USA || style="text-align:center;"| Director, Producer, Actor || ''[[Hud (film)|Hud]]'' • ''[[The Spy Who Came in from the Cold (film)|The Spy Who Came in from the Cold]]'' • ''[[Hombre (film)|Hombre]]'' • ''[[Norma Rae]]'' • ''[[Murphy's Romance]]'' • ''[[The Great White Hope (film)|The Great White Hope]]'' • ''[[The Slugger's Wife]]'' • ''[[The Long Hot Summer]]'' • ''[[Paris Blues]]'' • ''[[The Molly Maguires (film)|The Molly Maguires]]'' • ''[[Cross Creek (film)|Cross Creek]]'' • ''[[Sounder (film)|Sounder]]'' • ''[[Conrack]]'' • ''[[Pete 'n' Tillie]]'' • ''[[The Front]]'' • ''[[Nuts (film)|Nuts]]'' • ''[[Stanley & Iris]]''
-|-
-| style="text-align:center;"| ''9'' || [[Mike Mazurki]] || style="text-align:center;"| 82 || style="text-align:center;"| USA || style="text-align:center;"| Actor, Technical Advisor || ''[[Some Like It Hot]]'' • ''[[Dick Tracy (1990 film)|Dick Tracy]]'' • ''[[It's a Mad, Mad, Mad, Mad World]]'' • ''[[Around the World in 80 Days (1956 film)|Around the World in 80 Days]]'' • ''[[Amazon Women on the Moon]]'' • ''[[Murder, My Sweet]]'' • ''[[Alligator (film)|Alligator]]''
-|}
-
-==Debuts==
-* [[Hank Azaria]] - ''[[Pretty Woman (film)|Pretty Woman]]''
-* [[Benjamin Bratt]] - ''[[Bright Angel]]''
-* [[Julie Benz]] - ''[[Two Evil Eyes]]''
-* [[Robert Carlyle]] - ''[[Silent Scream (1990 film)|Silent Scream]]''
-* [[Harry Connick, Jr.]] - ''[[Memphis Belle (film)|Memphis Belle]]''
-* [[Kevin Connolly (actor)|Kevin Connolly]] - ''[[Rocky V]]''
-* [[Russell Crowe]] - ''[[Blood Oath (film)|Blood Oath]]''
-* [[Balthazar Getty]] - ''[[Lord of the Flies (1990 film)|Lord of the Flies]]''
-* [[Brendan Gleeson]] - ''[[The Field (film)|The Field]]''
-* [[Djimon Hounsou]] - ''[[Without You I'm Nothing (film)|Without You I'm Nothing]]''
-* [[Charlie Korsmo]] - ''[[Men Don't Leave]]''
-* [[Reba McEntire]] - ''[[Tremors (film)|Tremors]]''
-* [[Julianne Moore]] - ''[[Tales from the Darkside: The Movie]]''
-* [[Chris O'Donnell]] - ''[[Men Don't Leave]]''
-* [[Robert Patrick]] - ''[[Die Hard 2]]''
-* [[Christina Ricci]] - ''[[Mermaids (film)|Mermaids]]''
-* [[Catherine Zeta-Jones]] - ''[[Les 1001 Nuits]]''
-
-== References ==
-{{reflist}}
-
-{{DEFAULTSORT:1990 In Film}}
-[[Category:Years in film]]
-[[Category:1990 in film| ]]
+The Adventures of Ford Fairlane
+After Dark, My Sweet
+Air America (film)
+Alice (1990 film)
+The Ambulance
+American Ninja 4: The Annihilation
+Angel Town (film)
+Another 48 Hrs.
+Arachnophobia (film)
+Avalon (1990 film)
+Awakenings
+Back to the Future Part III
+Bad Influence (film)
+Betsy's Wedding (film)
+Bird on a Wire (film)
+Blind Fury
+Blue Steel (1990 film)
+Boiling Point (1990 film)
+The Bonfire of the Vanities (film)
+Bride of Re-Animator
+Cadence (film)
+Cadillac Man
+Captain America (1990 film)
+Childhood Days
+Child's Play 2
+China Cry
+City Hunter: Bay City Wars
+Class of 1999
+Close-Up (film)
+Coins in the Fountain
+Come See the Paradise
+The Comfort of Strangers (film)
+Crash and Burn (film)
+Cry-Baby
+Cyrano de Bergerac (1990 film)
+Dances with Wolves
+Darkman
+Days of Being Wild
+Days of Thunder
+Death Warrant
+Dei tau lung
+Delta Force 2: The Colombian Connection
+Denial (1990 film)
+Desperate Hours
+Dick Tracy (1990 film)
+Die Hard 2
+Downtown (film)
+Dreams (1990 film)
+DuckTales the Movie: Treasure of the Lost Lamp
+Edward Scissorhands
+The End of Innocence (film)
+Ernest Goes to Jail
+Europa Europa
+The Exorcist III
+Fantasia (1940 film)
+La Femme Nikita
+The Field (film)
+Fire Birds
+The First Power
+Flashback (1990 film)
+Flatliners
+The Fourth War
+Frankenstein Unbound
+The Freshman (1990 film)
+Funny About Love
+Ghost (1990 film)
+The Godfather Part III
+Goodfellas
+Graffiti Bridge (film)
+Green Card (film)
+Gremlins 2: The New Batch
+The Grifters (film)
+The Guardian (1990 film)
+The Guyver
+Hamlet (1990 film)
+The Handmaid's Tale (film)
+Hard to Kill
+Havana (film)
+Heart Condition (film)
+Heaven and Earth (1990 film)
+Henry & June
+Henry: Portrait of a Serial Killer
+Hidden Agenda (1990 film)
+Home Alone (film)
+The Hot Spot
+House Party (film)
+The Hunt for Red October (film)
+I Come in Peace
+I Love You to Death
+Internal Affairs (film)
+Jacob's Ladder (film)
+Jetsons: The Movie
+Joe Versus the Volcano
+John & Brandy
+Journey of Hope (film)
+Ju Dou
+Kindergarten Cop
+King of New York
+The Krays (film)
+Larks on a String
+Last of the Finest
+Leatherface: The Texas Chainsaw Massacre III
+The Lemon Sisters
+Life Is Sweet (film)
+Lionheart (1990 film)
+Longtime Companion
+The Long Walk Home
+Look Who's Talking Too
+Loose Cannons (1990 film)
+Lord of the Flies (1990 film)
+Love at Large
+Mack the Knife (film)
+A Man Called Sarge
+Marked for Death
+The Match Factory Girl
+Memories of a River
+Memphis Belle (film)
+Men at Work (1990 film)
+Mermaids (film)
+Metropolitan (1990 film)
+Miami Blues (film)
+Midnight Ride (film)
+Miller's Crossing
+Milou in May
+Misery (film)
+Mo' Better Blues
+Mountains of the Moon (film)
+Movie... In Your Face
+Mr. and Mrs. Bridge
+Mr. Destiny
+My Blue Heaven (1990 film)
+My Mother's Castle
+Narrow Margin
+The Nasty Girl
+Navy SEALs (film)
+The NeverEnding Story II: The Next Chapter
+Nightbreed
+Nuns on the Run
+The Nutcracker Prince
+Pacific Heights (1990 film)
+Piece of Cake (film)
+Postcards from the Edge (film)
+Predator 2
+Presumed Innocent (film)
+Pretty Woman
+Problem Child (film)
+Pump Up the Volume (film)
+Q&A (film)
+Quick Change
+Quigley Down Under
+The Reflecting Skin (film)
+Repossessed
+The Rescuers Down Under
+Revenge (1990 film)
+Reversal of Fortune
+RoboCop 2
+Robot Jox
+Rock 'n' Roll High School Forever
+Rockula
+Rocky V
+Romeo-Juliet
+The Rookie (1990 film)
+Rosencrantz & Guildenstern Are Dead (film)
+The Russia House
+The Sheltering Sky (film)
+Shipwrecked (1990 film)
+Short Time
+A Show of Force
+Shreck
+Sibling Rivalry (film)
+Side Out
+Silent Night, Deadly Night 4: Initiation
+Silent Scream (1990 film)
+Singapore Sling (1990 film)
+Spaced Invaders
+Stanley & Iris
+State of Grace (film)
+Stella (1990 film)
+Taking Care of Business
+Tales from the Darkside: The Movie
+Tatie Danielle
+Teenage Mutant Ninja Turtles (1990 film)
+Tekken (1990 film)
+Texasville
+Three Men and a Little Lady
+Tie Me Up! Tie Me Down!
+Tilaï
+Total Recall (1990 film)
+Treasure Island (1990 film)
+Tremors (film)
+Truly, Madly, Deeply
+The Two Jakes
+Uch? no h?soku
+Ultra Q The Movie: Legend of the Stars
+Vincent & Theo
+Vincent and Me
+Welcome Home, Roxy Carmichael
+Where the Heart Is (1990 film)
+White Hunter, Black Heart
+White Palace (film)
+Wild at Heart (film)
+Wild Orchid (film)
+The Witches (1990 film)
+Young Guns II

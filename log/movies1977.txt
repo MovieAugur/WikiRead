@@ -1,410 +1,182 @@
-{{Year nav topic5|1977|film|home video|television}}
-{{Yearsinfilm}} <!-- SIDEBAR NAV-BOX -->
-The year '''1977 in film''' involved some significant events.
-
-==Highest-grossing films (U.S.)==
-{{See also|List of 1977 box office number-one films in the United States}}
-The top ten 1977 released films by box office gross in North America are as follows:
-<!-- Note: We only link the studios ONCE and we only include ORIGINAL grosses, not lifetime grosses-->
-{| class="wikitable sortable" style="margin:auto; margin:auto;"
-|+ Highest-grossing films of 1977
-|-
-! Rank!! Title !! Studio !! Domestic gross 
-|-
-| style="text-align:center;"| '''1.'''
-| ''[[Star Wars (film)|Star Wars]]''
-| [[Lucasfilm]] / [[20th Century Fox]]
-| $307,263,857<ref>{{Cite web|url=http://boxofficemojo.com/movies/?id=starwars4.htm|publisher=[[Box Office Mojo]]|title=''Star Wars'', Box Office Information|accessdate=May 26, 2014}}</ref>
-|-
-| style="text-align:center;"| '''2.'''
-| ''[[Smokey and the Bandit]]''
-| [[Universal Pictures]]
-| $126,737,428<ref>{{Cite web|url=http://boxofficemojo.com/movies/?id=smokeyandthebandit.htm|publisher=[[Box Office Mojo]]|title=''Smokey and the Bandit'', Box Office Information|accessdate=January 26, 2012}}</ref>
-|-
-| style="text-align:center;"| '''3.'''
-|''[[Close Encounters of the Third Kind]]''
-| [[Columbia Pictures]]
-| $116,395,460<ref>{{Cite web|url=http://boxofficemojo.com/movies/?id=closeencountersofthethirdkind.htm|publisher=[[Box Office Mojo]]|title=''Close Encounters of the Third Kind'', Box Office Information|accessdate=May 26, 2014}}</ref>
-|-
-| style="text-align:center;"| '''4.'''
-| ''[[The Goodbye Girl]]''
-| [[Metro-Goldwyn-Mayer]] / [[Warner Bros.]] / [[Rastar]]
-| $102,000,000<ref>[http://www.worldwideboxoffice.com/movie.cgi?title=The%20Goodbye%20Girl&year=1977 Box Office Information for ''The Goodbye Girl''.] Worldwide Box Office. September 13, 2013.</ref>
-|-
-| style="text-align:center;"| '''5.'''
-| ''[[Saturday Night Fever]]''
-| [[Paramount Pictures]]
-| $94,213,184<ref>{{Cite web|url=http://boxofficemojo.com/movies/?id=saturdaynightfever.htm|publisher=[[Box Office Mojo]]|title=''Saturday Night Fever'', Box Office Information|accessdate=May 26, 2014}}</ref>
-|-
-| style="text-align:center;"| '''6.'''
-|''[[Oh, God!]]''
-| Warner Bros.
-| $51,061,196<ref>{{Cite web|url=http://www.the-numbers.com/movies/1977/0OHGD.php|publisher=The Numbers|title=Box Office Information for Oh, God!|accessdate=January 26, 2012}}</ref>
-|-
-| style="text-align:center;"| '''7.'''
-|''[[A Bridge Too Far (film)|A Bridge Too Far]]''
-| [[United Artists]]
-| $50,750,000<ref>{{Cite web|url=http://boxofficemojo.com/movies/?id=deep.htm|publisher=[[Box Office Mojo]]|title=''The Deep'', Box Office Information|accessdate=May 26, 2014}}</ref>
-|-
-| style="text-align:center;"| '''8.'''
-| ''[[The Deep (1977 film)|The Deep]]''
-| Columbia Pictures
-| $47,346,365<ref>{{Cite web|url=http://boxofficemojo.com/movies/?id=deep.htm|publisher=[[Box Office Mojo]]|title=''The Deep'', Box Office Information|accessdate=May 26, 2014}}</ref>
-|-
-| style="text-align:center;"| '''9.'''
-| ''[[The Spy Who Loved Me (film)|The Spy Who Loved Me]]''
-| United Artists
-| $46,838,673<ref>{{Cite web|url=http://boxofficemojo.com/movies/?id=spywholovedme.htm|publisher=[[Box Office Mojo]]|title=The Spy Who Loved Me, Box Office Information|accessdate=January 26, 2012}}</ref>
-|-
-| style="text-align:center;"| '''10.'''
-|''[[Annie Hall]]''
-| United Artists
-| $38,251,425<ref>{{Cite web|url=http://boxofficemojo.com/movies/?id=anniehall.htm|publisher=[[Box Office Mojo]]|title=Annie Hall, Box Office Information|accessdate=January 26, 2012}}</ref>
-|-
-|}
-
-==Events==
-* March 28 - At the [[49th Academy Awards]], ''[[Rocky]]'' picks up the [[Academy Award for Best Picture]]. [[Peter Finch]], [[Faye Dunaway]], and [[Beatrice Straight]] all win Oscars for their performances in ''[[Network (film)|Network]]'' for [[Academy Award for Best Actor|Best Actor]], [[Academy Award for Best Actress|Best Actress]], and [[Academy Award for Best Supporting Actress|Best Supporting Actress]], while [[Jason Robards]] wins for [[Academy Award for Best Supporting Actor|Best Supporting Actor]] for his performance in ''[[All the President's Men (film)|All the President's Men]].'' He would win again the following year, becoming the only person to win two consecutive Best Supporting Actor awards.
-*March 11 - [[Walt Disney Productions]] releases ''[[The Many Adventures of Winnie the Pooh]]'', a compilation of three animated shorts.
-* May 25 - ''[[Star Wars (film)|Star Wars]]'' opens in theaters and became one of the [[List of highest-grossing films|highest grossing films]] to date. The film revolutionizes the use of [[special effects]] in film and television production. It also popularizes the notion of omitting any sort of opening credits sequence. Lucas was told by the [[Screen Actors Guild]] that he must have an opening credits sequence, so he instead distributes the film independently, sans the opening credits.
-*June 22 - [[Walt Disney Productions]] releases ''[[The Rescuers]]'', which instantly brought back an interest in animation that had been lost to both film-goers and critics throughout the beginning of the '70s.<ref>http://www.cataroo.com/DBrescu.html</ref>
-* The average price of a movie ticket in the United States is about $2.25.
-
-== Awards ==
-
-'''[[50th Academy Awards|Academy Awards]]:'''
- 
-:[[Academy Award for Best Picture|Best Picture]]: '''''[[Annie Hall]]''''' - Rollins-Joffe, United Artists
-:[[Academy Award for Best Director|Best Director]]: '''[[Woody Allen]]''' - ''Annie Hall''
-:[[Academy Award for Best Actor|Best Actor]]: '''[[Richard Dreyfuss]]''' - ''The Goodbye Girl''
-:[[Academy Award for Best Actress|Best Actress]]: '''[[Diane Keaton]]''' - ''Annie Hall''
-:[[Academy Award for Best Supporting Actor|Best Supporting Actor]]: '''[[Jason Robards]]''' - ''Julia''
-:[[Academy Award for Best Supporting Actress|Best Supporting Actress]]: '''[[Vanessa Redgrave]]''' - ''Julia''
-:[[Academy Award for Best Foreign Language Film|Best Foreign Language Film]]: '''''[[Madame Rosa]]''''' (''La Vie devant soi''), directed by [[Moshé Mizrahi]], France
-
-'''[[35th Golden Globe Awards|Golden Globe Awards]]:'''
-
-:<u>'''Drama:'''</u>
-:[[Golden Globe Award for Best Motion Picture – Drama|Best Picture]]: '''''[[The Turning Point (1977 film)|The Turning Point]]'''''
-:[[Golden Globe Award for Best Actor – Motion Picture Drama|Best Actor]]: '''[[Richard Burton]]''' - ''[[Equus (film)|Equus]]''
-:[[Golden Globe Award for Best Actress – Motion Picture Drama|Best Actress]]: '''[[Jane Fonda]]''' - ''[[Julia (1977 film)|Julia]]''
- 
-:<u>'''Musical or comedy:'''</u>
-:[[Golden Globe Award for Best Motion Picture – Musical or Comedy|Best Picture]]: '''''[[The Goodbye Girl]]'''''
-:[[Golden Globe Award for Best Actor – Motion Picture Musical or Comedy|Best Actor]]: '''Richard Dreyfuss''' - ''The Goodbye Girl''
-:[[Golden Globe Award for Best Actress – Motion Picture Musical or Comedy|Best Actress]] (tie): '''Diane Keaton''' - ''Annie Hall''
-:[[Golden Globe Award for Best Actress – Motion Picture Musical or Comedy|Best Actress]] (tie): '''[[Marsha Mason]]''' - ''The Goodbye Girl''
-
-:<u>'''Other'''</u>
-:[[Golden Globe Award for Best Director – Motion Picture|Best Director]]: '''[[Herbert Ross]]''' - ''The Turning Point''
-:[[Golden Globe Award for Best Foreign Language Film|Best Foreign Language Film]]: '''''[[A Special Day]]''''', Italy
-
-'''[[Palme d'Or]] (Cannes Film Festival):'''
-:'''''[[Father and Master]]''''' (Padre padrone), directed by [[Paolo and Vittorio Taviani]], Italy
-
-'''[[Berlin Film Festival|Golden Bear]] (Berlin Film Festival):'''
-:'''''[[The Ascent]]''''' (''Voskhozhdeniye''), directed by [[Larisa Shepitko]], USSR
-
-==Notable films released in 1977==
-[[American films of 1977|USA]] unless stated
-
-'''#'''
-* ''[[3 Women]]'', directed by [[Robert Altman]], starring [[Shelley Duvall]], [[Sissy Spacek]] and [[Janice Rule]]
-* ''[[21 Up]]'', a TV made documentary film - ([[British films of 1977|U.K.]])
-'''A'''
-* ''[[ABBA: The Movie]]'' - directed by [[Lasse Hallström]] - ([[Swedish films of the 1970s|Sweden]]/[[Australian films of 1977|Australia]])
-* ''[[Airport '77]]'', starring [[Jack Lemmon]], [[Lee Grant]], [[Brenda Vaccaro]], [[Christopher Lee]], [[Olivia de Havilland]], [[Joseph Cotten]], [[James Stewart]]
-* ''[[Alien Prey (1977 film)|Alien Prey]]'', directed by [[Norman J. Warren]], starring [[Glory Annen Clibbery|Glory Annen]] - ([[British films of 1977|U.K.]])
-* ''[[Allegro Non Troppo]]'', a musical animated film - ([[Italian films of 1977|Italy]])
-* ''[[Amar Akbar Anthony]]'', starring [[Amitabh Bachchan]] - ([[Bollywood films of 1977|India]])
-* ''[[The American Friend]]'' (Der amerikanische Freund), directed by [[Wim Wenders]], starring [[Dennis Hopper]] and [[Bruno Ganz]] - ([[List of German films: 1970s|West Germany]])
-* ''[[Andy Warhol's Bad]]'', starring [[Carroll Baker]] and [[Perry King]]
-* ''[[Annie Hall]]'', directed by and starring [[Woody Allen]], with [[Diane Keaton]], [[Tony Roberts (actor)|Tony Roberts]], [[Carol Kane]], [[Paul Simon]]
-* ''[[Audrey Rose (film)|Audrey Rose]]'', directed by [[Robert Wise]], starring [[Marsha Mason]], [[Anthony Hopkins]], [[John Beck (actor)|John Beck]]
-* ''[[The Ascent]]'', directed by [[Larisa Shepitko]] - ([[Soviet films of 1977|U.S.S.R.]])
-* ''[[An Average Little Man]]'' (Un borghese piccolo piccolo), directed by [[Mario Monicelli]], starring [[Alberto Sordi]] - ([[Italian films of 1977|Italy]])
-'''B'''
-* ''[[Backroads (film)|Backroads]]'', directed by [[Phillip Noyce]] - ([[Australian films of 1977|Australia]])
-* ''[[The Bad News Bears in Breaking Training]]'', starring [[Jackie Earle Haley]] and [[William Devane]]
-* ''[[Black Joy (1977 film)|Black Joy]]'', starring [[Norman Beaton]] - (U.K.)
-* ''[[Black Sunday (1977 film)|Black Sunday]]'', directed by [[John Frankenheimer]], starring [[Robert Shaw (British actor)|Robert Shaw]], [[Bruce Dern]], [[Marthe Keller]]
-* ''[[A Bridge Too Far (film)|A Bridge Too Far]]'', directed by [[Richard Attenborough]], starring [[James Caan]], [[Sean Connery]], [[Gene Hackman]], [[Anthony Hopkins]], [[Laurence Olivier]], [[Ryan O'Neal]], [[Robert Redford]] - ([[American films of 1977|U.S.A.]]/[[British films of 1977|U.K.]])
-* ''[[The Brothers Lionheart (film)|The Brothers Lionheart]]'' (Bröderna Lejonhjärta) - ([[Swedish films of the 1970s|Sweden]])
-'''C'''
-* ''[[Candleshoe]]'', starring [[David Niven]], [[Helen Hayes]], [[Jodie Foster]]
-* ''[[The Car]]'', starring [[James Brolin]]
-* ''[[Ceddo]]'', directed by [[Ousmane Sembène]] - ([[List of Senegalese films|Senegal]])
-* ''[[Charleston (film)|Charleston]]'', starring [[Bud Spencer]], [[James Coco]], [[Herbert Lom]]
-* ''[[Shatranj Ke Khilari|The Chess Players]]'' (Shatranj Ke Khilari), directed by [[Satyajit Ray]] - ([[Bengali films of the 1970s|India]])
-* ''[[Chinatown Kid]]'' (Tang ren jie xiao zi), directed by [[Chang Cheh]] - ([[Hong Kong films of 1977|Hong Kong]])
-* ''[[The Choirboys (film)|The Choirboys]]'', directed by [[Robert Aldrich]], starring [[Charles Durning]], [[Louis Gossett Jr.]], [[Perry King]], [[Phyllis Davis]], [[Barbara Rhoades]]
-* ''[[Cinderella (1977 film)|Cinderella]]'', starring [[Rainbeaux Smith|Cheryl Rainbeaux Smith]]
-* ''[[Circuit no ?kami]]'' (The Circuit Wolf) - ([[Japanese films of 1977|Japan]])
-* ''[[Citizen's Band (film)|Citizen's Band]]'', directed by [[Jonathan Demme]], starring [[Paul Le Mat]] and [[Candy Clark]]
-* ''[[Close Encounters of the Third Kind]]'', directed by [[Steven Spielberg]], starring [[Richard Dreyfuss]], [[François Truffaut]], [[Bob Balaban]], [[Melinda Dillon]], [[Teri Garr]]
-* ''[[Cross of Iron]]'', directed by [[Sam Peckinpah]], starring [[James Coburn]], [[Maximilian Schell]], [[James Mason]] - ([[British films of 1977|U.K.]]/[[List of German films: 1970s|West Germany]])
-* ''[[Crossed Swords (1977 film)|Crossed Swords]]'', starring [[Oliver Reed]], [[Raquel Welch]], [[Rex Harrison]], [[Charlton Heston]], [[George C. Scott]]
-'''D'''
-* ''[[Damnation Alley (film)|Damnation Alley]]'', directed by [[Jack Smight]], starring [[George Peppard]] and [[Jan-Michael Vincent]]
-* ''[[Death of a President (1977 film)|Death of a President]]'' (?mier? prezydenta) - ([[List of Polish films of the 1970s|Poland]])
-* ''[[The Deep (1977 film)|The Deep]]'', directed by [[Peter Yates]], starring [[Robert Shaw (British actor)|Robert Shaw]], [[Jacqueline Bisset]], [[Nick Nolte]], [[Louis Gossett, Jr.]]
-* ''[[Demon Seed]]'', directed by [[Donald Cammell]], starring [[Julie Christie]]
-* ''[[Desperate Living]]'', directed by [[John Waters (filmmaker)|John Waters]]''
-* ''[[The Devil Probably]]'' (Le diable probablement), directed by [[Robert Bresson]] - ([[French films of 1977|France]])
-* ''[[Dharam Veer (1977 film)|Dharam Veer]]'', starring [[Dharmendra]] - ([[Bollywood films of 1977|India]])
-* ''[[Dinner for Adele]]'' (Adéla ješt? neve?e?ela) - ([[Czech films of the 1970s|Czechoslovakia]])
-* ''[[The Disappearance]]'', starring [[Donald Sutherland]] and [[David Hemmings]]
-* ''[[The Dog Who Loved Trains]]'' (Pas koji je voleo vozove) - ([[List of Yugoslav films of the 1970s|Yugoslavia]])
-* ''[[The Domino Principle]]'', directed by [[Stanley Kramer]], starring [[Gene Hackman]], [[Candice Bergen]], [[Mickey Rooney]], [[Eli Wallach]], [[Richard Widmark]]
-* ''[[Dot and the Kangaroo]]'' - ([[Australian films of 1977|Australia]])
-* ''[[Double Murder (film)|Double Murder]]'', starring [[Marcello Mastroianni]], [[Ursula Andress]], [[Peter Ustinov]]
-* ''[[The Duellists]]'', directed by [[Ridley Scott]], starring [[Keith Carradine]] and [[Harvey Keitel]] - ([[British films of 1977|U.K.]])
-'''E-F'''
-* ''[[Elisa, vida mía]]'' (Elisa, My Life), directed by [[Carlos Saura]], starring [[Geraldine Chaplin]] and [[Fernando Rey]] - ([[Spanish films of 1977|Spain]])
-* ''[[Equus (film)|Equus]]'', directed by [[Sidney Lumet]], starring [[Richard Burton]] and [[Peter Firth]] - ([[American films of 1977|U.S.A.]]/[[British films of 1977|U.K.]])
-* ''[[Eraserhead]]'', directed by [[David Lynch]], starring [[Jack Nance]]
-* ''[[Executioners from Shaolin]]'' (Hong Xi Guan) - ([[Hong Kong films of 1977|Hong Kong]])
-* ''[[Exorcist II: The Heretic]]'', directed by [[John Boorman]], starring [[Richard Burton]], [[Linda Blair]], [[Louise Fletcher]]
-* ''[[First Love (1977 film)|First Love]]'', starring [[Susan Dey]], [[William Katt]], [[Beverly D'Angelo]]
-* ''[[Full Circle (1977 film)|Full Circle]]'', aka ''The Haunting of Julia'', starring [[Mia Farrow]], [[Keir Dullea]], [[Tom Conti]]
-* ''[[Fun with Dick and Jane (1977 film)|Fun with Dick and Jane]]'', directed by [[Ted Kotcheff]], starring [[Jane Fonda]] and [[George Segal]]
-'''G'''
-* ''[[The Gauntlet (film)|The Gauntlet]]'', directed by and starring [[Clint Eastwood]], with [[Sondra Locke]]
-* ''[[The Getting of Wisdom (film)|The Getting of Wisdom]]'', directed by [[Bruce Beresford]] - ([[Australian films of 1977|Australia]])
-* ''[[Golden Rendezvous]]'', starring [[Richard Harris]], [[Ann Turkel]], [[David Janssen]]
-* ''[[The Goodbye Girl]]'', directed by [[Herbert Ross]], starring [[Richard Dreyfuss]] and [[Marsha Mason]]
-* ''[[Grand Theft Auto (film)|Grand Theft Auto]]'', directed by and starring [[Ron Howard]] with [[Nancy Morgan]]
-* ''[[The Grateful Dead Movie]]'', directed by [[Jerry Garcia]] and [[Leon Gast]]
-* ''[[The Greatest (1977 film)|The Greatest]]'', starring [[Muhammad Ali]] as himself
-'''H'''
-* ''[[Herbie Goes to Monte Carlo]]'', starring [[Dean Jones (actor)|Dean Jones]] and [[Don Knotts]]
-* ''[[Heroes (1977 film)|Heroes]]'', starring [[Henry Winkler]], [[Sally Field]], [[Harrison Ford]]
-* ''[[High Anxiety]]'', directed by and starring [[Mel Brooks]], with [[Madeline Kahn]], [[Harvey Korman]], [[Howard Morris]], [[Cloris Leachman]]
-* ''[[The Hills Have Eyes (1977 film)|The Hills Have Eyes]]'', directed by [[Wes Craven]]
-* ''[[Hitler: A Film from Germany]]'', directed by [[Hans-Jürgen Syberberg]] - ([[List of German films: 1970s|West Germany]])
-* ''[[The Hobbit (1977 film)|The Hobbit]]'', an animated film
-* ''[[House (1977 film)|House]]'' (Hausu) - ([[Japanese films of 1977|Japan]])
-* ''[[The Hunters (1977 film)|The Hunters]]'' (Oi kynigoi), directed by [[Theodoros Angelopoulos]] - ([[Greek films of the 1970s|Greece]])
-'''I-J'''
-* ''[[I Never Promised You a Rose Garden (film)|I Never Promised You a Rose Garden]]'', starring [[Kathleen Quinlan]]
-* ''[[In the Name of the Pope King]]'' (In nome del papa re), starring [[Nino Manfredi]] - ([[Italian films of 1977|Italy]])
-* ''[[Iphigenia (film)|Iphigenia]]'', directed by [[Michael Cacoyannis]] - ([[Greek films of the 1970s|Greece]])
-* ''[[Il prefetto di ferro|The Iron Prefect]]'' (Il prefetto di ferro) - (Italy)
-* ''[[The Iron-Fisted Monk]]'' (San De huo shang yu Chong Mi Liu), directed by and starring [[Sammo Hung]] - ([[Hong Kong films of 1977|Hong Kong]])
-* ''[[The Island of Dr. Moreau (1977 film)|The Island of Dr. Moreau]]'', starring [[Burt Lancaster]], [[Michael York (actor)|Michael York]] and [[Barbara Carrera]]
-* ''[[Islands in the Stream (film)|Islands in the Stream]]'', starring [[George C. Scott]]
-* ''[[J.A. Martin Photographer]]'' (J.A. Martin photographe) - ([[List of Canadian films|Canada]])
-* ''[[Jabberwocky (film)|Jabberwocky]]'', directed by [[Terry Gilliam]], starring [[Michael Palin]] - ([[British films of 1977|U.K.]])
-* ''[[Joseph Andrews (film)|Joseph Andrews]]'', directed by [[Tony Richardson]], starring [[Ann-Margret]]
-* ''[[Jubilee (1978 film)|Jubilee]]'', by [[Derek Jarman]], starring [[Adam Ant]], [[Toyah Willcox]] and [[Nell Campbell|Little Nell]] - (U.K.)
-* ''[[Julia (1977 film)|Julia]]'', directed by [[Fred Zinnemann]], starring [[Jane Fonda]], [[Vanessa Redgrave]] and [[Jason Robards]]
-'''K'''
-* ''[[Kentucky Fried Movie]]'', directed by [[John Landis]], starring [[Bill Bixby]] and [[George Lazenby]]
-* ''[[Killer of Sheep]]'', directed by [[Charles Burnett (director)|Charles Burnett]]
-* ''[[Kingdom of the Spiders]]'', starring [[William Shatner]] and [[Tiffany Bolling]]
-* ''[[The King of the Street Cleaners]]'' (Çöpçüler Kral?) - ([[Turkish films of the 1970s|Turkey]])
-* ''[[Die Konsequenz]]'' (The Consequence), directed by [[Wolfgang Petersen]], starring [[Jürgen Prochnow]] - ([[List of German films: 1970s|West Germany]])
-'''L'''
-* ''[[La Soufrière (film)|La Soufrière]]'', a documentary film directed by [[Werner Herzog]] - ([[List of German films: 1970s|West Germany]])
-* ''[[The Lacemaker]]'' (La Dentellière), starring [[Isabelle Huppert]] - ([[French films of 1977|France]])
-* ''[[The Last Remake of Beau Geste]]'', directed by and starring [[Marty Feldman]]
-* ''[[The Last Wave]]'', directed by [[Peter Weir]] - ([[Australian films of 1977|Australia]])
-* ''[[The Late Show (film)|The Late Show]]'', directed by [[Robert Benton]], starring [[Art Carney]], [[Lily Tomlin]], [[Bill Macy]], [[Eugene Roche]], [[Joanna Cassidy]]
-* ''[[A Little Night Music (film)|A Little Night Music]]'', starring [[Elizabeth Taylor]], [[Lesley-Anne Down]], [[Diana Rigg]]
-* ''[[Looking for Mr. Goodbar]]'', directed by [[Richard Brooks]], starring [[Diane Keaton]], [[Tuesday Weld]], [[Richard Kiley]], [[Richard Gere]]
-* ''[[The Lorry]]'' (Le Camion), directed by and starring [[Marguerite Duras]] with [[Gérard Depardieu]] - ([[French films of 1977|France]])
-'''M'''
-* ''[[MacArthur (film)|MacArthur]]'', starring [[Gregory Peck]]
-* ''[[Madame Rosa]]'', starring [[Simone Signoret]] - Academy Award for Best Foreign Film - ([[French films of 1977|France]])
-* ''[[The Magic Pony]]''
-* ''[[Ma-ma]]'' - ([[List of Romanian films#1970s|Romania]]/[[Soviet films of 1977|U.S.S.R.]]/France)
-* ''[[Mama, I'm Alive]]'' (Mama, ich lebe) - ([[List of East German films#1970s|East Germany]])
-* ''[[Man of Marble]]'' (Cz?owiek z marmuru), directed by [[Andrzej Wajda]] - ([[List of Polish films of the 1970s|Poland]])
-* ''[[The Man Who Loved Women (1977 film)|The Man Who Loved Women]]'' (L'Homme qui aimait les femmes), directed by [[François Truffaut]], starring [[Charles Denner]], [[Brigitte Fossey]], [[Leslie Caron]] - ([[French films of 1977|France]])
-* ''[[Manly Times]]'', directed by [[Eduard Zahariev]], starring [[Grigor Vachkov]], [[Mariana Dimitrova]], Velko Kanev - ([[Bulgarian films of the 1970s|Bulgaria]])
-* ''[[The Many Adventures of Winnie the Pooh]]''
-* ''[[March or Die (film)|March or Die]]'', directed by [[Dick Richards]], starring [[Gene Hackman]], [[Catherine Deneuve]], [[Max von Sydow]]
-* ''[[Martin (film)|Martin]]'', directed by [[George A. Romero]]
-* ''[[Meatcleaver Massacre]]''
-* ''[[Mimino]]'' - ([[Soviet films of 1977|U.S.S.R.]])
-* ''[[Mogliamante]]'' - (''Wifemistress'') - ([[Italian films of 1977|Italy]])
-* ''[[Mr. Billion]]'', starring [[Terence Hill]], [[Valerie Perrine]] and [[Jackie Gleason]]
-'''N-O'''
-* ''[[Nenè]]'' - (Italy)
-* ''[[New York, New York (film)|New York, New York]]'', directed by [[Martin Scorsese]], starring [[Liza Minnelli]] and [[Robert De Niro]]
-* ''[[Což takhle dát si špenát|A Nice Plate of Spinach]]'' (Což takhle dát si špenát) - ([[Czech films of the 1970s|Czechoslovakia]])
-* ''[[Office Romance]]'' (Sluzhebnyy roman) - ([[Soviet films of 1977|U.S.S.R.]])
-* ''[[Oh, God!]]'', directed by [[Carl Reiner]], starring [[George Burns]], [[John Denver]], [[Teri Garr]], [[Paul Sorvino]] 
-* ''[[One on One (film)|One on One]]'', starring [[Robby Benson]], [[Annette O'Toole]], [[G. D. Spradlin]]
-* ''One Sings, the Other Doesn't'', directed by [[Agnès Varda]]
-* ''[[Opening Night (film)|Opening Night]]'', directed by [[John Cassavetes]], starring [[Gena Rowlands]], Cassavetes, [[Ben Gazzara]]
-* ''[[Orca (film)|Orca]]'', starring [[Richard Harris]], [[Charlotte Rampling]], [[Bo Derek]]
-* ''[[The Other Side of Midnight]]'', starring [[Marie-France Pisier]], [[Susan Sarandon]], [[John Beck (actor)|John Beck]], [[Clu Gulager]], [[Raf Vallone]]
-* ''[[Outlaw Blues]]'', starring [[Peter Fonda]] and [[Susan Saint James]]
-'''P-Q'''
-* ''[[Padre Padrone]]'' (Father and Master), directed by [[Paolo and Vittorio Taviani]] - ([[Italian films of 1977|Italy]]) - [[Palme d'Or]] winner
-* ''[[Pafnucio Santo]]'' - ([[Mexican films of 1977|Mexico]])
-* ''[[Pete's Dragon]]'', directed by [[Don Chaffey]], starring [[Helen Reddy]], [[Jim Dale]], [[Mickey Rooney]]
-* ''Picture Show Man'', starring [[Rod Taylor]]
-* ''[[A Piece of the Action (film)|A Piece of the Action]]'', directed by and starring [[Sidney Poitier]], with [[Bill Cosby]] and [[James Earl Jones]]
-* ''[[Plae Kao]]'' (The Scar) - ([[List of Thai films|Thailand]])
-* ''[[Portrait of a Hitman]]'', starring [[Jack Palance]] and [[Rod Steiger]]
-* ''[[Providence (1977 film)|Providence]]'', directed by [[Alain Resnais]], starring [[John Gielgud]], [[Dirk Bogarde]], [[Ellen Burstyn]] - ([[French films of 1977|France]]/[[List of Swiss films|Switzerland]])
-* ''[[Pumping Iron]]'', a [[docudrama]] starring [[Arnold Schwarzenegger]]
-'''R'''
-* ''[[Race for Your Life, Charlie Brown]]
-* ''[[Raggedy Ann & Andy: A Musical Adventure]]'', an animated film with the voices of [[Didi Conn]] and [[Mark Baker (actor)|Mark Baker]]
-* ''[[Rembrandt fecit 1669|Rembrandt 1669]]'' - ([[Dutch films of the 1970s|Netherlands]])
-* ''[[The Report]]'' (Goz?resh), directed by [[Abbas Kiarostami]] - ([[Iranian films of the 1970s|Iran]])
-* ''[[The Rescuers]]'', an animated film with the voices of [[Eva Gabor]] and [[Bob Newhart]]
-* ''[[Rollercoaster (1977 film)|Rollercoaster]]'', starring [[Timothy Bottoms]], [[George Segal]], [[Richard Widmark]], [[Henry Fonda]]
-* ''[[Rolling Thunder (film)|Rolling Thunder]]'', starring [[William Devane]]
-* ''[[Roots (TV miniseries)|Roots]]'', TV mini-series, starring [[LeVar Burton]], [[Louis Gossett, Jr.]], [[John Amos]], [[Cicely Tyson]], [[Georg Stanford Brown]], [[Olivia Cole]], [[Ben Vereen]]
-* ''[[Roseland (film)|Roseland]]'', starring [[Teresa Wright]], [[Geraldine Chaplin]], [[Lou Jacobi]], [[Christopher Walken]]
-* ''[[Ruby (1977 film)|Ruby]]'', starring [[Piper Laurie]]
-'''S'''
-* ''[[Saturday Night Fever]]'', directed by [[John Badham]], starring [[John Travolta]] and [[Karen Lynn Gorney]]
-* ''[[Scott Joplin (film)|Scott Joplin]]'', starring [[Billy Dee Williams]], [[Margaret Avery]], [[Clifton Davis]], [[Art Carney]]
-* ''[[Semi-Tough]]'', directed by [[Michael Ritchie (film director)|Michael Ritchie]], starring [[Burt Reynolds]], [[Kris Kristofferson]], [[Jill Clayburgh]], [[Robert Preston (actor)|Robert Preston]], [[Bert Convy]]
-* ''[[The Sentinel (1977 film)|The Sentinel]]'', starring [[Chris Sarandon]], [[Cristina Raines]], [[José Ferrer]], [[Martin Balsam]], [[Ava Gardner]]
-* ''[[September 30, 1955]]'', directed by [[James Bridges]], starring [[Richard Thomas (actor)|Richard Thomas]], [[Susan Tyrrell]], [[Dennis Quaid]], [[Tom Hulce]], [[Dennis Christopher]]
-* ''[[The Serpent's Egg (film)|The Serpent's Egg]]'', directed by [[Ingmar Bergman]], starring [[David Carradine]] and [[Liv Ullmann]] - ([[American films of 1977|U.S.A.]]/[[List of German films: 1970s|West Germany]])
-* ''[[Short Eyes (film)|Short Eyes]]'', directed by [[Robert M. Young (director)|Robert M. Young]], starring [[Bruce Davison]] and Jose Perez
-* ''[[Sinbad and the Eye of the Tiger]]'', directed by [[Sam Wanamaker]], starring [[Patrick Wayne]] and [[Jane Seymour (actress)|Jane Seymour]] - ([[American films of 1977|U.S.A.]]/[[British films of 1977|U.K.]])
-* ''[[Slap Shot (film)|Slap Shot]]'', directed by [[George Roy Hill]], starring [[Paul Newman]], [[Michael Ontkean]], [[Lindsay Crouse]], [[Strother Martin]]
-* ''[[Smokey and the Bandit]]'', directed by [[Hal Needham]], starring [[Burt Reynolds]], [[Sally Field]], [[Jerry Reed]], [[Jackie Gleason]]
-* ''[[Soldier of Orange]]'' (Soldaat van Oranje), directed by [[Paul Verhoeven]], starring [[Rutger Hauer]] - ([[Dutch films of the 1970s|Netherlands]])
-* ''[[Sorcerer (film)|Sorcerer]]'', directed by [[William Friedkin]], starring [[Roy Scheider]]
-* ''[[A Special Day]]'' (Una giornata particolare), directed by [[Ettore Scola]], starring [[Sophia Loren]], [[Marcello Mastroianni]], [[John Vernon]] - ([[Italian films of 1977|Italy]])
-* ''[[Speedtrap (film)|Speedtrap]]'', starring [[Joe Don Baker]] and [[Tyne Daly]]
-* ''[[Spider-Man (1977 film)|Spider-Man]]'', starring [[Nicholas Hammond]]
-* ''[[The Spy Who Loved Me (film)|The Spy Who Loved Me]]'', starring [[Roger Moore]] (as [[James Bond]]) with [[Barbara Bach]], [[Curt Jurgens]], [[Richard Kiel]] - ([[British films of 1977|U.K.]])
-* ''[[Starship Invasions]]'', starring [[Christopher Lee]], [[Robert Vaughn]], [[Helen Shaver]]
-* ''[[Star Wars Episode IV: A New Hope|Star Wars]]'', directed by [[George Lucas]], starring [[Mark Hamill]], [[Harrison Ford]], [[Carrie Fisher]], [[Alec Guinness]], [[Peter Cushing]]
-* ''[[Stroszek]]'', directed by [[Werner Herzog]], starring [[Bruno S.]] and [[Eva Mattes]] - ([[List of German films: 1970s|West Germany]])
-* ''[[Suspiria]]'', directed by [[Dario Argento]], starring [[Jessica Harper]], [[Stefania Casini]], [[Alida Valli]] - ([[Italian films of 1977|Italy]])
-* ''[[Sweeney!]]'', starring [[John Thaw]] and [[Dennis Waterman]] - ([[British films of 1977|U.K.]])
-'''T'''
-* ''[[A Tale of Sorrow and Sadness]]'' (Hish? monogatari) - ([[Japanese films of 1977|Japan]])
-* ''[[Telefon (film)|Telefon]]'', directed by [[Don Siegel]], starring [[Charles Bronson]] and [[Lee Remick]]
-* ''[[Tenda dos Milagres (film)|Tenda dos Milagres]]'' (Tent of Miracles), directed by [[Nelson Pereira dos Santos]] - ([[Brazilian films of the 1970s#1977|Brazil]])
-* ''[[Tentacles (film)|Tentacles]]'', starring [[John Huston]], [[Shelley Winters]], [[Henry Fonda]]
-* ''[[That Obscure Object of Desire]]'' (Cet obscur objet du désir), directed by [[Luis Buñuel]], starring [[Fernando Rey]], [[Carole Bouquet]], [[Ángela Molina]] - ([[French films of 1977|France]]/[[Spanish films of 1977|Spain]])
-* ''[[That's Carry On!]]'', a compilation film featuring [[Kenneth Williams]] and [[Barbara Windsor]] - ([[British films of 1977|U.K.]])
-* ''[[Thunder and Lightning (film)|Thunder and Lightning]]'', starring [[David Carradine]] and [[Kate Jackson]]
-* ''[[Tomorrow I'll Wake Up and Scald Myself with Tea]]'' ({{lang||Zítra vstanu a opa?ím se ?ajem}}) - ([[Czech films of the 1970s|Czechoslovakia]])
-* ''[[Tongpan]]'' - ([[List of Thai films|Thailand]])
-* ''[[The Turning Point (1977 film)|The Turning Point]]'', directed by [[Herbert Ross]], starring [[Shirley MacLaine]], [[Anne Bancroft]], [[Tom Skerritt]], [[Mikhail Baryshnikov]]
-* ''[[Twilight's Last Gleaming]]'', directed by [[Robert Aldrich]], starring [[Burt Lancaster]], [[Richard Widmark]], [[Charles Durning]], [[Paul Winfield]], [[Burt Young]]
-'''U-V'''
-* ''[[Invisible Adversaries|Unsichtbare Gegner]]'' directed by [[Valie Export]] - (Austria)
-* ''[[I nuovi mostri|Viva l'Italia!]]'' (I nuovi mostri), starring [[Vittorio Gassman]] and [[Ornella Muti]] - ([[Italian films of 1977|Italy]])
-* ''[[Viva Knievel!]]'', featuring [[Evel Knievel]]
-'''W'''
-* ''[[The War in Space]]'' (Wakusei Daisens?: Za u? in Supesu) - ([[Japanese films of 1977|Japan]])
-* ''[[Which Way Is Up?]]'', directed by [[Michael Schultz]], starring [[Richard Pryor]], [[Margaret Avery]], [[Lonette McKee]]
-* ''[[White Bim Black Ear]]'' (Belyy Bim, Chyornoe ukho) - ([[Soviet films of 1977|U.S.S.R.]])
-* ''[[The White Buffalo]]'', starring [[Charles Bronson]], [[Jack Warden]], [[Will Sampson]], [[Slim Pickens]], [[Kim Novak]]
-* ''Wilma'', starring Shirley Jo Finney, [[Cicely Tyson]], [[Denzel Washington]]
-* ''[[Wizards (film)|Wizards]]'' - animated film directed by [[Ralph Bakshi]]
-* ''[[The World's Greatest Lover]]'', directed by and starring [[Gene Wilder]], with [[Carol Kane]], [[Dom DeLuise]]
-* ''[[Wounded Game]]'' (Podranki) - ([[Soviet films of 1977|U.S.S.R.]])
-'''XYZ'''
-* ''[[The Year of the Hare (film)|The Year of the Hare]]'' (Jäniksen vuosi) - ([[List of Finnish films: 1970s|Finland]])
-* ''[[The Yellow Handkerchief]]'' (Shiawase no kiiroi hankachi) - ([[Japanese films of 1977|Japan]])
-* ''[[You Light Up My Life (film)|You Light Up My Life]]'', starring [[Didi Conn]]
-
-==Births==
-*January 7 - [[Dustin Diamond]], actor
-*January 8 - [[Amber Benson]], actress
-*January 13 - [[Orlando Bloom]], English actor
-*January 28 - [[Joey Fatone]], singer and actor
-*January 31 - [[Kerry Washington]], actress
-*February 16 - [[Paul Brittain]], actor and comedian
-*March 2 - [[Heather McComb]], actress
-*March 8 - [[James Van Der Beek]], actor
-*March 24 - [[Jessica Chastain]], actress
-*March 25 - [[Edgar Ramirez]], Venezuelan actor
-*April 2 - [[Michael Fassbender]], Irish-German actor
-*April 14 - [[Sarah Michelle Gellar]], actress
-*April 20 - [[Robert Wilfort]], actor
-*April 23 - [[Kal Penn]], actor
-*April 26 - [[Tom Welling]], actor
-*May 13 - [[Samantha Morton]], English actress
-*May 16 - [[Melanie Lynskey]], New Zealand actress
-*June 2 - [[Zachary Quinto]], actor
-*July 1 - [[Liv Tyler]], actress
-*July 6 - [[Craig Handley]], writer
-*July 8 - [[Milo Ventimiglia]], actor
-*July 27 - [[Jonathan Rhys Meyers]], Irish actor
-*July 30 - [[Jaime Pressly]], actress
-*August 2 - [[Edward Furlong]], actor
-*September 15 - [[Tom Hardy]], English actor
-*September 25 - [[Clea DuVall]], actress
-*October 11 - [[Matthew Bomer]], actor
-*October 26 - [[Jon Heder]], actor
-*November 10 - [[Brittany Murphy]], actress (d. 2009)
-*November 14 - [[Brian Dietzen]], actor
-*November 15 - [[Sean Murray (actor)|Sean Murray]], actor
-*November 16 - [[Maggie Gyllenhaal]], actress
-*December 8 - [[Matthias Schoenaerts]], Belgian actor
-*December 10 - [[Emmanuelle Chriqui]], Canadian actress
-
-==Deaths==
-*January 14 - [[Peter Finch]], 60, British actor, ''[[Network (film)|Network]]'', ''[[The Nun's Story (film)|The Nun's Story]]'', ''[[Sunday Bloody Sunday (film)|Sunday Bloody Sunday]]'', ''[[The Flight of the Phoenix (1965 film)|The Flight of the Phoenix]]'', ''[[Far from the Madding Crowd (1967 film)|Far From the Madding Crowd]]'', ''[[The Sins of Rachel Cade]]'', ''[[Lost Horizon (1973 film)|Lost Horizon]]''
-* January 18 - [[Yvonne Printemps]], 82, French singer, actress
-* February 18 - [[Andy Devine]], 71, American actor, ''[[The Man Who Shot Liberty Valance]]'', ''[[Stagecoach (1939 film)|Stagecoach]]'', ''[[Island in the Sky (1953 film)|Island in the Sky]]'', ''[[The Over-the-Hill Gang]]''
-* February 27 - [[Allison Hayes]], 46, American actress, ''[[Count Three and Pray (film)|Count Three and Pray]]'', ''[[Gunslinger (1956 film)|Gunslinger]]'', ''[[Attack of the 50 Foot Woman]]'', ''[[Mohawk (film)|Mohawk]]'', ''[[The Hypnotic Eye]]''
-* February 28 - [[Eddie "Rochester" Anderson]], 71, American actor, ''[[Gone with the Wind (film)|Gone with the Wind]]'', ''[[Jezebel (film)|Jezebel]]'', ''[[Tales of Manhattan]]'', ''[[You Can't Take It With You (film)|You Can't Take It With You]]'', ''[[It's a Mad, Mad, Mad, Mad World]]''
-*March 25 - [[Nunnally Johnson]], 79, American writer, director, ''[[The Grapes of Wrath (film)|The Grapes of Wrath]]'', ''[[The Dirty Dozen]]'', ''[[How to Marry a Millionaire]]'', ''[[The Three Faces of Eve]]''
-*April 21 - [[Gummo Marx]], 84, American actor and agent
-*April 28 - [[Ricardo Cortez]], 76, American actor, ''[[The Maltese Falcon (1931 film)|The Maltese Falcon]]'', ''[[The Case of the Black Cat]]'', ''[[Tomorrow We Live (1942 film)|Tomorrow We Live]]''
-*May 10 - [[Joan Crawford]], 71, American actress, ''[[Mildred Pierce (film)|Mildred Pierce]]'', ''[[What Ever Happened to Baby Jane? (1962 film)|What Ever Happened to Baby Jane?]]'', ''[[Johnny Guitar]]'', ''[[Grand Hotel (film)|Grand Hotel]]'', ''[[The Women (1939 film)|The Women]]'', ''[[Possessed (1947 film)|Possessed]]'', ''[[Flamingo Road (1949 film)|Flamingo Road]]'', ''[[A Woman's Face]]'', ''[[Strait-Jacket]]''
-*May 31 - [[William Castle]], 63, American producer and director, ''[[Rosemary's Baby (film)|Rosemary's Baby]]'', ''[[House on Haunted Hill]]'', ''[[The Tingler]]'', ''[[Zotz!]]'', ''[[Mr. Sardonicus]]'', ''[[Strait-Jacket]]''
-*June 2 - [[Stephen Boyd]], 45, Irish actor, ''[[Ben-Hur (1959 film)|Ben-Hur]]'', ''[[Fantastic Voyage]]'', ''[[The Fall of the Roman Empire (film)|The Fall of the Roman Empire]]'', ''[[Billy Rose's Jumbo (film)|Billy Rose's Jumbo]]'', ''[[Genghis Khan (1965 film)|Genghis Khan]]'', ''[[The Oscar (film)|The Oscar]]''
-*June 3 - [[Roberto Rossellini]], 71, Italian director, ''[[Rome, Open City]]'', ''[[Germany Year Zero]]'', ''[[Paisan (film)|Paisan]]'', ''[[Escape by Night (1960 film)|Escape by Night]]'', ''[[Europe '51]]''
-*June 5 - [[Luis César Amadori]], 74, Italian/[[Argentina|Argentine]] director, ''[[April in Portugal (film)|April in Portugal]]''
-*June 13 - [[Matthew Garber]], 21, British actor, ''[[Mary Poppins (film)|Mary Poppins]]'', ''[[The Gnome-Mobile]]'', ''[[The Three Lives of Thomasina]]''
-*June 14 - [[Robert Middleton]], 66, American actor, ''[[Friendly Persuasion (film)|Friendly Persuasion]]'', ''[[The Desperate Hours (film)|The Desperate Hours]]'', ''[[Love Me Tender (1956 film)|Love Me Tender]]'', ''[[The Law and Jake Wade]]''
-*June 14 - [[Alan Reed]], 69, American actor, ''[[Breakfast at Tiffany's (film)|Breakfast at Tiffany's]]'', ''[[Viva Zapata!]]'', voice of [[Fred Flintstone]]
-*June 19 - [[Geraldine Brooks (actress)|Geraldine Brooks]], 51, American actress, ''[[Possessed (1947 film)|Possessed]]'', ''[[The Reckless Moment]]'', ''[[Cry Wolf (1947 film)|Cry Wolf]]''
-*July 22 - [[Erik Chitty]], 70, English actor, ''[[Doctor Zhivago (film)|Doctor Zhivago]]'', ''[[Lola (1969 film)|Lola]]'', ''[[The Railway Children (film)|The Railway Children]]'', ''[[Lust for a Vampire]]'', ''[[The Vault of Horror (film)|The Vault of Horror]]'', ''[[One of Our Dinosaurs Is Missing]] '', ''[[A Bridge Too Far (film)|A Bridge Too Far]]''
-*August 3 - [[Alfred Lunt]], 84, American actor, ''[[The Guardsman (1931 film)|The Guardsman]]'', ''[[Sally of the Sawdust]]'', ''[[Second Youth (1924 film)|Second Youth]]'', ''[[The Ragged Edge (1923 film)|The Ragged Edge]]'', ''[[Stage Door Canteen]]''
-*August 16 - [[Elvis Presley]], 42, American singer and actor, ''[[Love Me Tender (film)|Love Me Tender]]'', ''[[Blue Hawaii]]'', ''[[Jailhouse Rock (film)|Jailhouse Rock]]'', ''[[Viva Las Vegas]]'', ''[[Frankie and Johnny (1966 film)|Frankie and Johnny]]'', ''[[King Creole]]'', ''[[Flaming Star]]'', ''[[Girl Happy]]'', ''[[Follow That Dream]]'', ''[[Fun in Acapulco]]'', ''[[Kid Galahad]]'', ''[[Clambake]]'', ''[[Speedway (film)|Speedway]]'', ''[[Spinout]]''
-*August 17 - [[Delmer Daves]], 73, American writer and director, ''[[3:10 to Yuma (1957 film)|3:10 to Yuma]]'', ''[[Dark Passage]]'', ''[[The Petrified Forest]]'', ''[[Broken Arrow (1950 film)|Broken Arrow]]'', ''[[Jubal (film)|Jubal]]'', ''[[Cowboy (1958 film)|Cowboy]]'', ''[[Love Affair (1939 film)|Love Affair]]''
-*August 19 - [[Groucho Marx]], 86, American comedian, ''[[Duck Soup (1933 film)|Duck Soup]]'', ''[[A Night at the Opera (film)|A Night at the Opera]]'', ''[[The House that Shadows Built]]'', ''[[Monkey Business (1931 film)|Monkey Business]]'', ''[[Animal Crackers (film)|Animal Crackers]]'', ''[[A Day at the Races (film)|A Day at the Races]]'', ''[[Love Happy]]'', ''[[Skidoo (film)|Skidoo]]''
-*August 19 - [[Peter Dyneley]], 56, British actor, ''[[Thunderbirds Are Go]]'', ''[[Thunderbird 6]]''
-*August 21 - [[Danny Lockin]], 34, American actor, ''[[Hello, Dolly! (film)|Hello, Dolly!]]''
-*August 22 - [[Sebastian Cabot (actor)|Sebastian Cabot]], 59, British actor, ''[[The Family Jewels (film)|The Family Jewels]]'', ''[[Kismet (1955 film)|Kismet]]'', ''[[The Jungle Book (1967 film)|The Jungle Book]]''
-*August 29 - [[Jean Hagen]], 54, American actress, ''[[Singin' in the Rain (film)|Singin' in the Rain]]'', ''[[The Asphalt Jungle]]'', ''[[Adam's Rib]]'', ''[[The Big Knife]]'', ''[[Dead Ringer (1964 film)|Dead Ringer]]'', ''[[Sunrise at Campobello]]'', ''[[The Shaggy Dog (1959 film)|The Shaggy Dog]]''
-*September 8 - [[Zero Mostel]], 62, American actor, ''[[The Producers (1968 film)|The Producers]]'', ''[[A Funny Thing Happened on the Way to the Forum (film)|A Funny Thing Happened on the Way to the Forum]]'', ''[[The Hot Rock (film)|The Hot Rock]]'', ''[[Rhinoceros (film)|Rhinoceros]]'', ''[[Panic in the Streets (film)|Panic in the Streets]]'', ''[[The Great Bank Robbery (1969 film)|The Great Bank Robbery]]'', ''[[The Front]]''
-*October 3 - [[Tay Garnett]], 83, American director, ''[[The Postman Always Rings Twice (1946 film)|The Postman Always Rings Twice]]'', ''[[Cheers for Miss Bishop]]'', ''[[Bataan (1943 film)|Bataan]]'', ''[[A Connecticut Yankee in King Arthur's Court (1949 film)|A Connecticut Yankee in King Arthur's Court]]''
-*October 14 - [[Bing Crosby]], 74, American singer and actor, ''[[White Christmas (film)|White Christmas]]'', ''[[Robin and the 7 Hoods]]'', ''[[Road to Morocco]]'', ''[[Road to Singapore]]'', ''[[Road to Utopia]]'', ''[[High Society (1956 film)|High Society]]'', ''[[A Connecticut Yankee in King Arthur's Court (1949 film)|A Connecticut Yankee in King Arthur's Court]]'', ''[[The Country Girl (1954 film)|The Country Girl]]'', ''[[Going My Way]]'', ''[[The Bells of St. Mary's]]'', ''[[Holiday Inn (film)|Holiday Inn]]'', ''[[The Road to Hong Kong]]'', ''[[That's Entertainment!]]''
-*November 9 - [[Gertrude Astor]], 90, American actress, ''[[The Strong Man]]'', ''[[The Cat and the Canary (1927 film)|The Cat and the Canary]]'', ''[[Stage Struck (1925 film)|Stage Struck]]'', ''[[Beyond the Rocks (film)|Beyond the Rocks]]'', ''[[The Sound of Music]]''
-*November 30 - [[Olga Petrova]], 90, British silent film and stage actress
-*December 4 - [[Leila Hyams]], 72, American actress, ''[[Freaks]]'', ''[[Island of Lost Souls (1932 film)|Island of Lost Souls]]'', ''[[Ruggles of Red Gap]]'', ''[[The Big House (1930 film)|The Big House]]''
-*December 19 - [[Jacques Tourneur]], French-American film director, ''[[Out of the Past]]'', ''[[Cat People (1942 film)|Cat People]]''
-*December 25 - [[Charlie Chaplin]], 88, British actor, director, writer, ''[[The Great Dictator]]'', ''[[Modern Times (film)|Modern Times]]'', ''[[The Gold Rush (film)|The Gold Rush]]'', ''[[City Lights]]'', ''[[Monsieur Verdoux]]'', ''[[The Tramp (film)|The Tramp]]''
-*December 26 - [[Howard Hawks]], 81, American director, ''[[The Big Sleep (1946 film)|The Big Sleep]]'', ''[[His Girl Friday]]'', ''[[Rio Bravo (film)|Rio Bravo]]'', ''[[To Have and Have Not (film)|To Have and Have Not]]'', ''[[Gentlemen Prefer Blondes (1953 film)|Gentlemen Prefer Blondes]]''
-*December 28 - [[Charlotte Greenwood]], 87, American actress, ''[[Oklahoma! (film)|Oklahoma!]]'', ''[[Palmy Days]]'', ''[[Down Argentine Way]]'', ''[[Parlor, Bedroom and Bath]]''
-
-== Film debuts ==
-* [[Dan Aykroyd]] - ''Love at First Sight''
-* [[Brian Dennehy]] - ''[[Semi-Tough]]''
-* [[Mel Gibson]] - ''[[Summer City]]''
-* [[John Goodman]] - ''Jailbait Babysitter''
-* [[Steve Guttenberg]] - ''[[Rollercoaster (1977 film)|Rollercoaster]]''
-* [[Tom Hulce]] - ''[[September 30, 1955]]''
-* [[Helen Hunt]] - ''Rollercoaster''
-* [[Bruce McGill]] - ''[[Handle with Care (1977 film)|Handle with Care]]''
-* [[Kevin McNally]] - ''[[The Spy Who Loved Me (film)|The Spy Who Loved Me]]''
-* [[Sam Neill]] - ''[[Sleeping Dogs (1977 film)|Sleeping Dogs]]''
-* [[Pete Postlethwaite]] - ''[[The Duellists]]''
-* [[Meryl Streep]] - ''[[Julia (1977 film)|Julia]]''
-* [[Sigourney Weaver]] - ''[[Annie Hall]]''
-
-== References ==
-<references />
-
-[[Category:Years in film]]
-[[Category:1977 in film| ]]
+3 Women
+21 Up
+ABBA: The Movie
+Airport '77
+Alien Prey (1977 film)
+Allegro Non Troppo
+Amar Akbar Anthony
+The American Friend
+Andy Warhol's Bad
+Annie Hall
+Audrey Rose (film)
+The Ascent
+An Average Little Man
+Backroads (film)
+The Bad News Bears in Breaking Training
+Black Joy (1977 film)
+Black Sunday (1977 film)
+A Bridge Too Far (film)
+The Brothers Lionheart (film)
+Candleshoe
+The Car
+Ceddo
+Charleston (film)
+Shatranj Ke Khilari
+Chinatown Kid
+The Choirboys (film)
+Cinderella (1977 film)
+Circuit no ?kami
+Citizen's Band (film)
+Close Encounters of the Third Kind
+Cross of Iron
+Crossed Swords (1977 film)
+Damnation Alley (film)
+Death of a President (1977 film)
+The Deep (1977 film)
+Demon Seed
+Desperate Living
+The Devil Probably
+Dharam Veer (1977 film)
+Dinner for Adele
+The Disappearance
+The Dog Who Loved Trains
+The Domino Principle
+Dot and the Kangaroo
+Double Murder (film)
+The Duellists
+Elisa, vida mía
+Equus (film)
+Eraserhead
+Executioners from Shaolin
+Exorcist II: The Heretic
+First Love (1977 film)
+Full Circle (1977 film)
+Fun with Dick and Jane (1977 film)
+The Gauntlet (film)
+The Getting of Wisdom (film)
+Golden Rendezvous
+The Goodbye Girl
+Grand Theft Auto (film)
+The Grateful Dead Movie
+The Greatest (1977 film)
+Herbie Goes to Monte Carlo
+Heroes (1977 film)
+High Anxiety
+The Hills Have Eyes (1977 film)
+Hitler: A Film from Germany
+The Hobbit (1977 film)
+House (1977 film)
+The Hunters (1977 film)
+I Never Promised You a Rose Garden (film)
+In the Name of the Pope King
+Iphigenia (film)
+Il prefetto di ferro
+The Iron-Fisted Monk
+The Island of Dr. Moreau (1977 film)
+Islands in the Stream (film)
+J.A. Martin Photographer
+Jabberwocky (film)
+Joseph Andrews (film)
+Jubilee (1978 film)
+Julia (1977 film)
+Kentucky Fried Movie
+Killer of Sheep
+Kingdom of the Spiders
+The King of the Street Cleaners
+Die Konsequenz
+La Soufrière (film)
+The Lacemaker
+The Last Remake of Beau Geste
+The Last Wave
+The Late Show (film)
+A Little Night Music (film)
+Looking for Mr. Goodbar
+The Lorry
+MacArthur (film)
+Madame Rosa
+The Magic Pony
+Ma-ma
+Mama, I'm Alive
+Man of Marble
+The Man Who Loved Women (1977 film)
+Manly Times
+The Many Adventures of Winnie the Pooh
+March or Die (film)
+Martin (film)
+Meatcleaver Massacre
+Mimino
+Mogliamante
+Mr. Billion
+Nenè
+New York, New York (film)
+Což takhle dát si špenát
+Office Romance
+Oh, God!
+One on One (film)
+Opening Night (film)
+Orca (film)
+The Other Side of Midnight
+Outlaw Blues
+Padre Padrone
+Pafnucio Santo
+Pete's Dragon
+A Piece of the Action (film)
+Plae Kao
+Portrait of a Hitman
+Providence (1977 film)
+Pumping Iron
+Race for Your Life, Charlie Brown
+Raggedy Ann & Andy: A Musical Adventure
+Rembrandt fecit 1669
+The Report
+The Rescuers
+Rollercoaster (1977 film)
+Rolling Thunder (film)
+Roots (TV miniseries)
+Roseland (film)
+Ruby (1977 film)
+Saturday Night Fever
+Scott Joplin (film)
+Semi-Tough
+The Sentinel (1977 film)
+September 30, 1955
+The Serpent's Egg (film)
+Short Eyes (film)
+Sinbad and the Eye of the Tiger
+Slap Shot (film)
+Smokey and the Bandit
+Soldier of Orange
+Sorcerer (film)
+A Special Day
+Speedtrap (film)
+Spider-Man (1977 film)
+The Spy Who Loved Me (film)
+Starship Invasions
+Star Wars Episode IV: A New Hope
+Stroszek
+Suspiria
+Sweeney!
+A Tale of Sorrow and Sadness
+Telefon (film)
+Tenda dos Milagres (film)
+Tentacles (film)
+That Obscure Object of Desire
+That's Carry On!
+Thunder and Lightning (film)
+Tomorrow I'll Wake Up and Scald Myself with Tea
+Tongpan
+The Turning Point (1977 film)
+Twilight's Last Gleaming
+Invisible Adversaries
+I nuovi mostri
+Viva Knievel!
+The War in Space
+Which Way Is Up?
+White Bim Black Ear
+The White Buffalo
+Wizards (film)
+The World's Greatest Lover
+Wounded Game
+The Year of the Hare (film)
+The Yellow Handkerchief
+You Light Up My Life (film)

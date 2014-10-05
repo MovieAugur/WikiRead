@@ -1,403 +1,182 @@
-{{Year nav topic5|1975|film|home video|television}}
-The year '''1975 in film''' involved some significant events, with [[Steven Spielberg]]'s thriller ''[[Jaws (film)|Jaws]]'' topping the box office.
-
-==Highest-grossing films (U.S.)==
-{{See also|List of 1975 box office number-one films in the United States}}
-The top ten 1975 released films by box office gross in North America are as follows:
-<!-- Note: We only link the studios ONCE and we only include ORIGINAL grosses, not lifetime grosses-->
-{| class="wikitable sortable" style="margin:auto; margin:auto;"
-|+ Highest-grossing films of 1975
-|-
-! Rank!! Title !! Studio !! Domestic gross 
-|-
-| style="text-align:center;"| '''1.'''
-| ''[[Jaws (film)|Jaws]]''
-| [[Universal Pictures]]
-| $260,000,000<ref>{{Cite web|url=http://boxofficemojo.com/movies/?id=jaws.htm|publisher=[[Box Office Mojo]]|title=''Jaws'', Box Office Information|accessdate=January 22, 2012}}</ref>
-|-
-| style="text-align:center;"|''' 2.'''
-|''[[The Rocky Horror Picture Show]]''
-| [[20th Century Fox]]
-| $112,892,319<ref>{{Cite web|url=http://boxofficemojo.com/movies/?id=rockyhorrorpictureshow.htm|publisher=[[Box Office Mojo]]|title=''The Rocky Horror Picture Show'', Box Office Information|accessdate=May 26, 2014}}</ref>
-|-
-| style="text-align:center;"|'''3.'''
-|''[[One Flew Over the Cuckoo's Nest (film)|One Flew Over the Cuckoo's Nest]]''
-| [[United Artists]]
-| $108,981,275<ref>{{Cite web|url=http://boxofficemojo.com/movies/?id=oneflewoverthecuckoosnest.htm|publisher=[[Box Office Mojo]]|title=''One Flew Over the Cuckoo's Nest'', Box Office Information|accessdate=January 22, 2012}}</ref>
-|-
-| style="text-align:center;"|'''4.'''
-| ''[[Dog Day Afternoon]]''
-| [[Warner Bros.]]
-| $50,000,000<ref>{{Cite web|url=http://boxofficemojo.com/movies/?id=dogdayafternoon.htm|publisher=[[Box Office Mojo]]|title=''Dog Day Afternoon'', Box Office Information|accessdate=January 22, 2012}}</ref>
-|-
-| style="text-align:center;"|'''5.'''
-| ''[[Shampoo (film)|Shampoo]]''
-| [[Columbia Pictures]]
-| $49,407,734<ref>{{Cite web|url=http://boxofficemojo.com/movies/?id=shampoo.htm|publisher=[[Box Office Mojo]]|title=''Shampoo'', Box Office Information|accessdate=January 22, 2012}}</ref>
-|-
-| style="text-align:center;"|'''6.'''
-| ''[[The Return of the Pink Panther]]''
-| United Artists
-| $41,833,347<ref>{{Cite web|url=http://boxofficemojo.com/movies/?id=returnofthepinkpanther.htm|publisher=[[Box Office Mojo]]|title=''The Return of the Pink Panther'', Box Office Information|accessdate=January 22, 2012}}</ref>
-|-
-| style="text-align:center;"|'''7.'''
-| ''[[Funny Lady]]''
-| Columbia Pictures
-| $39,000,000<ref>{{Cite web|url=http://boxofficemojo.com/movies/?id=funnylady.htm|publisher=[[Box Office Mojo]]|title=''Funny Lady'', Box Office Information|accessdate=May 26, 2014}}</ref>
-|-
-| style="text-align:center;"|'''8.'''
-| ''[[The Apple Dumpling Gang (film)|The Apple Dumpling Gang]]''
-| [[Walt Disney Pictures|Walt Disney Productions]]
-| $36,853,000<ref>{{Cite web|url=http://boxofficemojo.com/movies/?id=appledumplinggang.htm|publisher=[[Box Office Mojo]]|title=''The Apple Dumpling Gang'', Box Office Information|accessdate=July 7, 2012}}</ref>
-|-
-| style="text-align:center;"|'''9.'''
-| ''[[Aloha, Bobby and Rose]]''
-| Columbia Pictures
-| $35,000,000<ref>{{Cite web|url=http://www.worldwideboxoffice.com/movie.cgi?title=Aloha%20Bobby%20and%20Rose&year=1975|publisher=Worldwide Box Office|title=Aloha, Bobby and Rose, Worldwide Box Office|accessdate=January 22, 2012}}</ref>
-|-
-| style="text-align:center;"|'''10.'''
-| ''[[The Other Side of the Mountain]]''
-| Universal Pictures
-| $34,673,100<ref>{{Cite web|url=http://www.the-numbers.com/movies/1975/0243.php|publisher=The Numbers|title=The Other Side of the Mountain, Box Office Information|accessdate=July 7, 2012}}</ref>
-|-
-|}
-
-==Events==
-*March 26 - The film version of [[The Who]]'s ''[[Tommy (1975 film)|Tommy]]'' premieres in London.
-*July - In order to create the necessary special effects for his film, ''[[Star Wars Episode IV: A New Hope|Star Wars]]'', [[George Lucas]] forms [[Industrial Light and Magic]].
-*August 14 - The cult classic film ''[[Rocky Horror Picture Show]]'' premieres in London.
-*''[[Jaws (film)|Jaws]]'' becomes the first movie to gross $100 million in US [[Gross rental|theatrical rentals]],{{citation needed|date=May 2012}}<!--[http://www.the-numbers.com/movies/index1970.php This page] says "Love Story' & "Airport" both did it in 1970...-->   setting the standard for future blockbusters.
-*November 23 - ''[[Sneak Previews]]'', the first American film review show, premieres and launches the careers of critics [[Gene Siskel]] and [[Roger Ebert]].  They will remain a team, and a staple among film critics, through various programs for the next twenty-four years.
-
-== Awards ==
-
-'''[[48th Academy Awards|Academy Awards]]'''
-
-'''[[33rd Golden Globe Awards|Golden Globe Awards]]'''
-
-'''[[Palme d'Or]] (Cannes Film Festival):'''
-:'''''[[Chronicle of the Years of Fire]]''''' (Chronique des années de braise), directed by [[Mohammed Lakhdar-Hamina]], Algeria
-
-'''[[Berlin Film Festival|Golden Bear]] (Berlin Film Festival):'''
-:'''''[[Adoption (film)|Adoption]]''''' (''Örökbefogadás''), directed by [[Márta Mészáros]], Hungary
-
-== Awards ==
-{| class="wikitable" style="font-size: 90%;"
-|-
-! rowspan="2" style="width:200px;"| Category/Organization !! colspan="2" style="width:250px;"| [[33rd Golden Globe Awards]]<br />January 24, 1976 !! rowspan="2" style="width:250px;"| [[29th British Academy Film Awards|29th BAFTA Awards]]<br />February 29, 1976 !! rowspan="2" style="width:250px;"| [[48th Academy Awards]]<br />March 29, 1976
-|-
-! width=200| Musical or Comedy !! style="width:200px;"| Drama
-|-
-| Best Film || '''''[[The Sunshine Boys (film)|The Sunshine Boys]]''''' || '''''[[One Flew Over the Cuckoo's Nest (film)|One Flew Over the Cuckoo's Nest]]''''' || '''''[[Alice Doesn't Live Here Anymore]]'''''|| '''''One Flew Over the Cuckoo's Nest'''''
-|-
-| Best Director || colspan=2| '''[[Miloš Forman]]'''<br />''[[One Flew Over the Cuckoo's Nest (film)|One Flew Over the Cuckoo's Nest]]''  || '''[[Stanley Kubrick]]'''<br />''[[Barry Lyndon]]'' || '''Miloš Forman'''<br />''One Flew Over the Cuckoo's Nest''
-|-
-| Best Actor || '''[[Walter Matthau]]'''<br />''[[The Sunshine Boys (film)|The Sunshine Boys]]'' || '''[[Jack Nicholson]]'''<br />''[[One Flew Over the Cuckoo's Nest (film)|One Flew Over the Cuckoo's Nest]]'' || '''[[Al Pacino]]'''<br />''[[Dog Day Afternoon]]'' / <br />''[[The Godfather: Part II]]'' || '''Jack Nicholson'''<br />''One Flew Over the Cuckoo's Nest''
-|-
-| Best Actress || '''[[Ann-Margret]]'''<br />''[[Tommy (1975 film)|Tommy]]'' || '''[[Louise Fletcher]]'''<br />''[[One Flew Over the Cuckoo's Nest (film)|One Flew Over the Cuckoo's Nest]]'' || '''[[Ellen Burstyn]]'''<br />''Alice Doesn't Live Here Anymore'' || '''Louise Fletcher'''<br />''One Flew Over the Cuckoo's Nest''
-|-
-| Best Supporting Actor || colspan=2| '''[[Richard Benjamin]]'''<br />''[[The Sunshine Boys (film)|The Sunshine Boys]]'' || '''[[Fred Astaire]]'''<br />''[[The Towering Inferno]]'' || '''[[George Burns]]'''<br />''The Sunshine Boys''
-|-
-| Best Supporting Actress || colspan=2| '''[[Brenda Vaccaro]]'''<br />''[[Jacqueline Susann]]'' || '''[[Diane Ladd]]'''<br />''Alice Doesn't Live Here Anymore || '''[[Lee Grant]]'''<br />''[[Shampoo (film)|Shampoo]]''
-|-
-| Best Screenplay, Adapted || rowspan=2 colspan=2| '''''[[One Flew Over the Cuckoo's Nest (film)|One Flew Over the Cuckoo's Nest]]'''''<br/ >Lawrence Hauben and [[Bo Goldman]] || rowspan=2| '''''Alice Doesn't Live Here Anymore'''''<br />[[Robert Getchell]] || '''''One Flew Over the Cuckoo's Nest'''''<br />Lawrence Hauben and Bo Goldman
-|-
-| Best Screenplay, Original || '''''Dog Day Afternoon'''''<br />[[Frank Pierson]]
-|}
-
-==Notable films released in 1975==
-[[American films of 1975|U.S.A.]] unless stated
-
-'''#'''
-*''[[92 in the Shade (film)|92 in the Shade]]'', starring [[Peter Fonda]], [[Warren Oates]], [[Elizabeth Ashley]], [[Margot Kidder]]
-'''A'''
-*''[[Aaron Loves Angela]]'', directed by [[Gordon Parks, Jr.]], starring [[Moses Gunn]]
-*''[[Adoption (film)|Adoption]]'' (Örökbefogadás), winner of [[Golden Bear]] - ([[List of Hungarian films 1948-1989|Hungary]])
-*''[[The Adventure of Sherlock Holmes' Smarter Brother]]'', directed by and starring [[Gene Wilder]], with [[Madeline Kahn]] and [[Marty Feldman]] - ([[American films of 1975|U.S.A.]]/[[British films of 1975|U.K.]])
-*''[[The Adventures of the Wilderness Family]]'', starring [[Robert Logan]]
-*''[[Afonya]]'' - ([[Soviet films of 1975|U.S.S.R.]])
-*''[[Aloha, Bobby and Rose]]'', starring [[Paul LeMat]]
-*''[[Apoorva Raagangal]]'' (Rare Melodies) - ([[Tamil films of the 1970s|India]])
-*''[[Attilas '74]]'', documentary - ([[List of Cypriot films|Cyprus]])
-*''[[The Apple Dumpling Gang (film)|The Apple Dumpling Gang]]'', starring [[Don Knotts]] and [[Tim Conway]]
-*''[[At Long Last Love]]'', directed by [[Peter Bogdanovich]], starring [[Burt Reynolds]] and [[Cybill Shepherd]]
-*''[[Autobiography of a Princess]]'', directed by [[James Ivory (director)|James Ivory]], starring [[James Mason]] and [[Madhur Jaffrey]] - ([[British films of 1975|U.K.]])
-'''B'''  
-*''[[Barry Lyndon]]'', directed by [[Stanley Kubrick]], starring [[Ryan O'Neal]] and [[Marisa Berenson]] - ([[American films of 1975|U.S.A.]]/[[British films of 1975|U.K.]])
-*''[[Bim]]'' - ([[List of Trinidadian films|Trinidad]])
-*''[[Bite the Bullet (film)|Bite the Bullet]]'', directed by [[Richard Brooks]], starring [[Gene Hackman]], [[James Coburn]], [[Candice Bergen]], [[Jan-Michael Vincent]], [[Ben Johnson (actor)|Ben Johnson]]
-*''[[The Black Bird]]'', starring [[George Segal]]
-*''[[A Boy and His Dog]]'', starring [[Don Johnson]]
-*''[[Breakheart Pass (1975 film)|Breakheart Pass]]'', starring [[Charles Bronson]], [[Jill Ireland]], [[Ben Johnson (actor)|Ben Johnson]], [[Richard Crenna]]
-*''[[Breakout (1975 film)|Breakout]]'', starring [[Charles Bronson]], [[Jill Ireland]], [[Robert Duvall]]
-*''[[Brother, Can You Spare a Dime? (film)|Brother, Can You Spare a Dime?]]'', a documentary film about the [[Great Depression]] - (U.K.)
-*''[[Bugs Bunny Superstar]]''
-'''C'''
-*''[[Chronicle of the Years of Fire]]'' (Chronique des Années de Braise) - ([[List of Algerian films|Algeria]])
-*''[[Chupke Chupke]]'' (Hush Hush), starring [[Dharmendra]] - ([[Bollywood films of 1975|India]])
-*''[[The Claws of Light]]'' (Maynila... sa mga Kuko ng Liwanag) - ([[Philippine films of the 1970s|Philippines]])
-*''[[Cleopatra Jones and the Casino of Gold]]'', starring [[Tamara Dobson]] and [[Stella Stevens]]
-*''[[Cooley High]]'', starring [[Glynn Turman]]
-*''[[Coonskin (film)|Coonskin]]'', an animated film by [[Ralph Bakshi]]
-*''[[Conduct Unbecoming (film)|Conduct Unbecoming]]'', directed by [[Michael Anderson (director)|Michael Anderson]], starring [[Michael York (actor)|Michael York]], [[Richard Attenborough]], [[Trevor Howard]] - ([[British films of 1975|U.K.]])
-*''[[Crazy Mama]]'', directed by [[Jonathan Demme]], starring [[Cloris Leachman]], [[Ann Sothern]], [[Linda Purl]]
-*''[[The Cycle (1975 film)|The Cycle]]'' (Dayereh-ye Mina) - ([[Iranian films of the 1970s|Iran]])
-'''D'''
-*''[[The Day of the Locust (film)|The Day of the Locust]]'', directed by [[John Schlesinger]], starring [[Donald Sutherland]], [[William Atherton]], [[Karen Black]]
-*''[[Death Race 2000]]'', directed by [[Paul Bartel]], starring [[David Carradine]], [[Simone Griffeth]], [[Sylvester Stallone]]
-*''[[Deep Red]]'', directed by [[Dario Argento]], starring [[David Hemmings]] and [[Daria Nicolodi]] - ([[Italian films of 1975|Italy]])
-*''[[Dersu Uzala (1975 film)|Dersu Uzala]]'', directed by [[Akira Kurosawa]] - ([[Soviet films of 1975|U.S.S.R.]]/[[Japanese films of 1975|Japan]])
-*''[[Deewaar (1975 film)|Deewaar]]'' (The Wall), starring [[Shashi Kapoor]] - ([[Bollywood films of 1975|India]])
-*''[[Dialogues of Exiles]]'' (Diálogos de exiliados) - ([[List of Chilean films|Chile]])
-*''[[Diamonds (1975 film)|Diamonds]]'', starring [[Robert Shaw (British actor)|Robert Shaw]], [[Richard Roundtree]], [[Barbara Hershey]]
-*''[[Doc Savage (film)|Doc Savage: The Man of Bronze]]'', starring [[Ron Ely]]
-*''[[Dog Day Afternoon]]'', directed by [[Sidney Lumet]], starring [[Al Pacino]], [[John Cazale]], [[Chris Sarandon]], [[Charles Durning]]
-*''[[The Drowning Pool (film)|The Drowning Pool]]'', directed by [[Stuart Rosenberg]], starring [[Paul Newman]], [[Joanne Woodward]], [[Anthony Franciosa]], [[Melanie Griffith]]
-'''E'''
-*''[[The Eiger Sanction (film)|The Eiger Sanction]]'', directed by and starring [[Clint Eastwood]], with [[George Kennedy]] and [[Jack Cassidy]]
-*''[[The Empress Dowager]]'' (Qing guo qing cheng), starring [[Lisa Lu]] - ([[Hong Kong films of 1975|Hong Kong]])
-*''[[End of the Game]]'', starring [[Maximilian Schell]], [[Jon Voight]], [[Jacqueline Bisset]], [[Martin Ritt]], [[Robert Shaw (British actor)|Robert Shaw]]
-* ''[[Earthquake in Chile (film)|Das Erdbeben in Chili]]'', directed by [[Helma Sanders-Brahms]] - ([[List of German films: 1970s|West Germany]])
-*''[[Escape to Witch Mountain (1975 film)|Escape to Witch Mountain]]'', starring [[Eddie Albert]], [[Ray Milland]], [[Donald Pleasence]]
-'''F'''
-*''[[Fantozzi (film)|Fantozzi]]'' (a.k.a. White Collar Blues) - ([[Italian films of 1975|Italy]])
-*''[[Farewell, My Lovely (1975 film)|Farewell, My Lovely]]'', starring [[Robert Mitchum]], [[Charlotte Rampling]], [[Jack O'Halloran]], [[Sylvia Miles]], [[John Ireland (actor)|John Ireland]]
-*''[[Slade In Flame|Flame]]'', starring [[Slade]] - ([[British films of 1975|U.K.]])
-*''[[The Flower in His Mouth]]'' (Gente di rispetto), starring [[Jennifer O'Neill]] and [[Franco Nero]] - ([[Italian films of 1975|Italy]])
-*''[[The Fortune]]'', directed by [[Mike Nichols]], starring [[Jack Nicholson]], [[Warren Beatty]], [[Stockard Channing]]
-*''[[Fox (1975 film)|Fox]]'' (Faustrecht der Freiheit), directed by and starring [[Rainer Werner Fassbinder]] - ([[List of German films: 1970s|West Germany]])
-*''[[Framed (1975 film)|Framed]]'', directed by [[Phil Karlson]], starring [[Joe Don Baker]]
-*''[[French Connection II]]'', directed by [[John Frankenheimer]], starring [[Gene Hackman]], [[Fernando Rey]], [[Bernard Fresson]], [[Philippe Leotard]]
-*''[[Funny Lady]]'', directed by [[Herbert Ross]], starring [[Barbra Streisand]], [[James Caan]], [[Omar Sharif]]
-*''[[Furtivos]]'' (Poachers) - ([[Spanish films of 1975|Spain]])
-'''G'''
-*''[[Galileo (1975 film)|Galileo]]'', directed by [[Joseph Losey]], starring [[Chaim Topol|Topol]], [[Edward Fox (actor)|Edward Fox]], [[John Gielgud]] - ([[British films of 1975|U.K.]])
-*''[[The Giant Spider Invasion]]'', starring [[Barbara Hale]], [[Leslie Parrish]], [[Alan Hale, Jr.]]
-*''[[Give 'em Hell, Harry!]]'', a [[biopic]] of [[Harry S. Truman]] starring [[James Whitmore]]
-*''[[God's Gun]]'', starring [[Lee Van Cleef]] and [[Jack Palance]] - ([[Italian films of 1975|Italy]]/[[1975 in Israeli film|Israel]])
-*''[[Graveyard of Honor (1975 film)|Graveyard of Honor]]'' (Jingi no hakaba) - ([[Japanese films of 1975|Japan]])
-*''[[Great (1975 film)|Great]]'', animated short - ([[British films of 1975|U.K.]])
-*''[[The Great Waldo Pepper]]'', directed by [[George Roy Hill]], starring [[Robert Redford]], [[Bo Svenson]], [[Margot Kidder]], [[Susan Sarandon]]
-*''[[Grey Gardens]]'', a documentary film
-'''H'''
-*''[[Hababam sinifi]]'' (Outrageous Class) - ([[Turkish films of the 1970s|Turkey]])
-*''[[Hagiga B'Snuker]]'' (Party at the Snooker) - ([[1975 in Israeli film|Israel]])
-*''[[Hans Christian Andersen's The Little Mermaid]]'' (Anderusen D?wa Ningyo hime) - ([[Japanese films of 1975|Japan]])
-*''[[The Happy Hooker (film)|The Happy Hooker]]'', starring [[Lynn Redgrave]] and [[Jean-Pierre Aumont]]
-*''[[Hard Times (1975 film)|Hard Times]]'', directed by [[Walter Hill (filmmaker)|Walter Hill]], starring [[Charles Bronson]] and [[James Coburn]]
-*''[[Hearts of the West]]'', starring [[Jeff Bridges]], [[Alan Arkin]], [[Andy Griffith]]
-*''[[Hedda (film)|Hedda]]'', directed by [[Trevor Nunn]], starring [[Peter Eyre]] and [[Glenda Jackson]] - ([[British films of 1975|U.K.]])
-*''[[Hedgehog in the Fog]]'' (Yozhik v tumane) - ([[Soviet films of 1975|U.S.S.R.]])
-*''[[Hello, I'm Your Aunt!]]'' (Zdravstvuyte, ya vasha tyotya!) - (U.S.S.R.)
-*''[[Hennessy (film)|Hennessy]]'', starring [[Rod Steiger]] and [[Lee Remick]]
-*''[[Hester Street (film)|Hester Street]]'', starring [[Carol Kane]]
-*''[[The Hiding Place (film)|The Hiding Place]]'', starring [[Julie Harris]]
-*''[[The Hindenburg (film)|The Hindenburg]]'', directed by [[Robert Wise]], starring [[George C. Scott]], [[Anne Bancroft]], [[William Atherton]], [[Gig Young]]
-*''[[The 'Human' Factor]]'', directed by [[Edward Dmytryk]], starring [[George Kennedy]], [[John Mills]], [[Rita Tushingham]]
-*''[[Hustle (1975 film)|Hustle]]'', directed by [[Robert Aldrich]], starring [[Burt Reynolds]], [[Catherine Deneuve]], [[Ben Johnson (actor)|Ben Johnson]]
-'''I'''
-*''[[In Celebration (film)|In Celebration]]'', directed by [[Lindsay Anderson]], starring [[Alan Bates]] and [[Brian Cox (actor)|Brian Cox]] - (U.K.)
-*''[[Inserts (film)|Inserts]]'', starring [[Richard Dreyfuss]], [[Jessica Harper]], [[Veronica Cartwright]], [[Bob Hoskins]] - ([[British films of 1975|U.K.]])
-*''[[The Irony of Fate]]'' (Ironiya sudby, ili S lyogkim parom!) - ([[Soviet films of 1975|U.S.S.R.]])
-'''J'''
-*''[[Jacob the Liar (1975 film)|Jacob the Liar]]'' (Jakob, der Lügner) - ([[List of East German films|East Germany]]/[[Czech films of the 1970s|Czechoslovakia]])
-* ''[[Jaws (film)|Jaws]]'', directed by [[Steven Spielberg]], starring [[Roy Scheider]], [[Richard Dreyfuss]], [[Robert Shaw (British actor)|Robert Shaw]]
-*''[[Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles]]'', starring [[Delphine Seyrig]] - ([[French films of 1975|France]]/[[List of Belgian films: 1970s|Belgium]])
-*''[[Journey into Fear (1975 film)|Journey into Fear]]'', starring [[Sam Waterston]], [[Zero Mostel]], [[Yvette Mimieux]] - ([[Canada]])
-'''K'''
-*''[[Karayuki-san, the Making of a Prostitute]]'', documentary by [[Sh?hei Imamura]] - ([[Japanese films of 1975|Japan]])
-*''[[Kaddu Beykat]]'' (a.k.a. Letter from My Village) - ([[List of Senegalese films|Senegal]])
-*''[[Keetje Tippel]]'' (Katie Tippel), directed by [[Paul Verhoeven]], starring [[Monique van de Ven]] and [[Rutger Hauer]] - ([[Dutch films of the 1970s|Netherlands]])
-'''L'''
-*''[[L'important c'est d'aimer]]'' (That Most Important Thing: Love), starring [[Romy Schneider]] - ([[French films of 1975|France]])
-*''[[The Land That Time Forgot (1975 film)|The Land That Time Forgot]]'', starring [[Doug McClure]] - ([[British films of 1975|U.K.]])
-*''[[Walking Tall Part 2|Legend of the Lawman]]'' (a.k.a. Walking Tall Part 2), starring [[Bo Svenson]]
-*''[[Legend of the Werewolf]]'', starring [[Peter Cushing]] - (U.K.)
-*''[[Let Joy Reign Supreme]]'' (Que la Fete Commence), directed by [[Bertrand Tavernier]] - ([[French films of 1975|France]])
-*''[[Let's Do It Again (1975 film)|Let's Do It Again]]'', directed by and starring [[Sidney Poitier]] with [[Bill Cosby]]
-*''[[Lies My Father Told Me]]'', directed by [[Jan Kadar]] - ([[List of Canadian films|Canada]])
-*''[[The Lion Roars Again]]'', documentary short
-*''[[Lisztomania (film)|Lisztomania]]'', directed by [[Ken Russell]], starring [[Roger Daltrey]], [[Sara Kestelman]], [[Paul Nicholas]] - ([[British films of 1975|U.K.]])
-*''[[The Lost Honour of Katharina Blum (film)|The Lost Honour of Katharina Blum]]'', directed by [[Volker Schlöndorff]] and [[Margarethe von Trotta]] - ([[List of German films: 1970s|West Germany]])
-*''[[Love and Death]]'', directed by and starring [[Woody Allen]], with [[Diane Keaton]]
-*''[[Lucky Lady]]'', directed by [[Stanley Donen]], starring [[Gene Hackman]], [[Liza Minnelli]], [[Burt Reynolds]]
-'''M'''
-*''[[The Magic Flute (1975 film)|The Magic Flute]]'' (Trollflöjten), a film version of the [[Mozart]] opera directed by [[Ingmar Bergman]] - ([[Swedish films of the 1970s|Sweden]])
-*''[[Mahogany (1975 film)|Mahogany]]'', directed by [[Berry Gordy]], starring [[Diana Ross]], [[Billy Dee Williams]], [[Jean-Pierre Aumont]]
-*''[[La Maldicion de la Bestia]]'' (Horror of the Werewolf), starring [[Paul Naschy]] - ([[Spanish films of 1975|Spain]])
-*''[[The Man in the Glass Booth]]'', directed by [[Arthur Hiller]], starring [[Maximilian Schell]] and [[Lois Nettleton]]
-*''[[The Man Who Would Be King (film)|The Man Who Would Be King]]'', directed by [[John Huston]], starring [[Sean Connery]], [[Michael Caine]], [[Christopher Plummer]], [[Saeed Jaffrey]] - ([[British films of 1975|U.K.]]/[[American films of 1975|U.S.A.]])
-*''[[Mandingo (film)|Mandingo]]'', directed by [[Richard Fleischer]], starring [[James Mason]], [[Susan George (actress)|Susan George]], [[Ken Norton]], [[Perry King]]
-*''[[Milestones (1975 film)|Milestones]]''
-*''[[The Mirror (1975 film)|The Mirror]]'' (Zerkalo), directed by [[Andrei Tarkovsky]] - ([[Soviet films of 1975|U.S.S.R.]])
-*''[[Mitchell (film)|Mitchell]]'', starring [[Joe Don Baker]], [[Linda Evans]], [[Martin Balsam]], [[Merlin Olsen]]
-*''[[Monty Python and the Holy Grail]]'', directed by [[Terry Gilliam]] and [[Terry Jones]], starring [[Graham Chapman]], [[John Cleese]], [[Eric Idle]], [[Michael Palin]], Gilliam and Jones - ([[British films of 1975|U.K.]])
-*''[[Moonrunners]]'', starring [[James Mitchum]]
-*''[[Mother Küsters' Trip to Heaven]]'' (Mutter Küsters' Fahrt zum Himmel), directed by [[Rainer Werner Fassbinder]] - ([[List of German films: 1970s|West Germany]])
-*''[[Mr. Ricco]]'', starring [[Dean Martin]]
-*''[[My Friends (film)|My Friends]]'' (Amici miei), directed by [[Mario Monicelli]] - ([[Italian films of 1975|Italy]])
-'''N'''
-*''[[Nashville (film)|Nashville]]'', directed by [[Robert Altman]], starring [[Lily Tomlin]], [[Keith Carradine]], [[Ronee Blakley]], [[Karen Black]], [[Michael Murphy (actor)|Michael Murphy]], [[Barbara Harris (actress)|Barbara Harris]], [[Ned Beatty]]
-*''[[Night Moves (1975 film)|Night Moves]]'', directed by [[Arthur Penn]], starring [[Gene Hackman]], [[Melanie Griffith]], [[Susan Clark]], [[Jennifer Warren]]
-*''[[Nights and Days]]'' (Noce i dnie) - ([[List of Polish films of the 1970s|Poland]])
-*''[[Numéro deux]]'' (aka ''Number Two'') directed by [[Jean-Luc Godard]] - ([[French films of 1975|France]])
-*''[[The Noah]], starring [[Robert Strauss (actor)|Robert Strauss]]
-'''O'''
-*''[[Le vieux fusil|The Old Gun]]'' (Le vieux fusil), starring [[Philippe Noiret]] and [[Romy Schneider]] - (France)
-*''[[Once Is Not Enough (film)|Once Is Not Enough]]'', starring [[Kirk Douglas]], [[David Janssen]], [[Brenda Vaccaro]], [[Deborah Raffin]], [[George Hamilton (actor)|George Hamilton]]
-*''[[One Flew Over the Cuckoo's Nest (film)|One Flew Over the Cuckoo's Nest]]'', directed by [[Miloš Forman]], starring [[Jack Nicholson]], [[Louise Fletcher]], [[Brad Dourif]], [[William Redfield (actor)|William Redfield]], [[Will Sampson]], [[Danny DeVito]]
-*''[[One of Our Dinosaurs is Missing]]'', starring [[Peter Ustinov]] and [[Helen Hayes]] - ([[American films of 1975|U.S.A.]]/[[British films of 1975|U.K.]])
-*''[[Operation Daybreak]]'', starring [[Timothy Bottoms]], [[Anthony Andrews]], [[Martin Shaw]] - (U.S./[[Czech films of the 1970s|Czechoslovakia]])
-*''[[Osadeni Dushi]]'' (Doomed Souls) - ([[Bulgarian films of the 1970s|Bulgaria]])
-*''[[The Other Side of the Mountain]]'', starring [[Marilyn Hassett]] and [[Beau Bridges]]
-*''[[Overlord (film)|Overlord]], directed by [[Stuart Cooper]] - ([[British films of 1975|U.K.]])
-'''P'''
-*''[[The Passenger (1975 film)|The Passenger]]'', directed by [[Michelangelo Antonioni]], starring [[Jack Nicholson]], [[Maria Schneider (actress)|Maria Schneider]], [[Steven Berkoff]] - ([[Italian films of 1975|Italy]]/[[French films of 1975|France]])
-*''[[Peeper (film)|Peeper]]'', directed by [[Peter Hyams]], starring [[Michael Caine]]
-*''[[Picnic at Hanging Rock (film)|Picnic at Hanging Rock]]'', directed by [[Peter Weir]], starring [[Rachel Roberts (actress)|Rachel Roberts]], [[Vivean Gray]], [[Helen Morse]] - ([[Australian films of 1975|Australia]])
-*''[[Pick-Up (1975 film)|Pick-Up]]'', starring [[Jill Senter]], [[Alan Long]] and [[Gini Eastwood]]
-*''[[Pinchcliffe Grand Prix]]'' (Flåklypa Grand Prix) - ([[Norwegian films of the 1970s|Norway]])
-*''[[Posse (1975 film)|Posse]]'', directed by and starring [[Kirk Douglas]]
-*''[[The Prisoner of Second Avenue]]'', directed by [[Melvin Frank]], starring [[Jack Lemmon]] and [[Anne Bancroft]]
-*''[[The Promised Land (1975 film)|The Promised Land]]'' (Ziemia Obiecana), directed by [[Andrzej Wajda]] - ([[List of Polish films of the 1970s|Poland]])
-'''Q'''
-*''[[Queen of the Gypsies]]'' (Tabor ukhodit v nebo) - ([[Soviet films of 1975|U.S.S.R.]])
-*''[[Queen of the Stardust Ballroom]]'', starring [[Maureen Stapleton]] and [[Charles Durning]]
-'''R'''
-*''[[Race with the Devil]]'', starring [[Peter Fonda]], [[Warren Oates]], [[Loretta Swit]], [[Lara Parker]]
-*''[[Rafferty and the Gold Dust Twins]]'', starring [[Alan Arkin]], [[Sally Kellerman]], [[Mackenzie Phillips]]
-*''[[Rancho Deluxe]]'', starring [[Jeff Bridges]], [[Sam Waterston]], [[Elizabeth Ashley]], [[Clifton James]], [[Harry Dean Stanton]], [[Slim Pickens]]
-*''[[The Reincarnation of Peter Proud]]'', directed by [[J. Lee Thompson]], starring [[Michael Sarrazin]], [[Margot Kidder]], [[Jennifer O'Neill]]
-*''[[The Return of the Pink Panther]]'', directed by [[Blake Edwards]], starring [[Peter Sellers]], [[Christopher Plummer]], [[Herbert Lom]] - ([[British films of 1975|U.K.]])
-*''[[The Return of the Sister Street Fighter]]'' (Kaette kita onna hissatsu ken) - ([[Japanese films of 1975|Japan]])
-*''[[The Rocky Horror Picture Show]]'', directed by [[Jim Sharman]], starring [[Tim Curry]], [[Susan Sarandon]], [[Richard O'Brien]], [[Barry Bostwick]] - (U.S./U.K.)
-*''[[Rollerball (1975 film)|Rollerball]]'', directed by [[Norman Jewison]], starring [[James Caan]], [[John Houseman]], [[John Beck (actor)|John Beck]], [[Maud Adams]]
-*''[[The Romantic Englishwoman]]'', directed by [[Joseph Losey]], starring [[Glenda Jackson]], [[Michael Caine]], [[Helmut Berger]] - ([[British films of 1975|U.K.]])
-*''[[Rooster Cogburn (film)|''Rooster Cogburn'']]'', starring [[John Wayne]] and [[Katharine Hepburn]]
-*''[[Royal Flash (film)|Royal Flash]]'', directed by [[Richard Lester]], starring [[Malcolm McDowell]], [[Oliver Reed]], [[Alan Bates]] - (U.K.)
-'''S'''
-*''[[Salò o le 120 giornate di Sodoma]]'' (aka ''Salo, or the 120 Days of Sodom''), directed by [[Pier Paolo Pasolini]] - (Italy/France)
-*''[[Le Sauvage]]'' (a.k.a. Lovers Like Us), starring [[Catherine Deneuve]] and [[Yves Montand]] - ([[French films of 1975|France]])
-*''[[The Sensuous Nurse]]'' (L'Infermiera), starring [[Ursula Andress]], [[Luciana Paluzzi]], [[Jack Palance]] - ([[Italian films of 1975|Italy]])
-*''[[Seven Beauties]]'' (Pasqualino Settebellezze), directed by [[Lina Wertmüller]] - (Italy)
-*''[[Shampoo (film)|Shampoo]]'', directed by [[Hal Ashby]], starring [[Warren Beatty]], [[Julie Christie]], [[Goldie Hawn]], [[Lee Grant]], [[Jack Warden]], [[Carrie Fisher]]
-*''[[Shivers (film)|Shivers]]'' (a.k.a. They Came from Within) - ([[List of Canadian films|Canada]])
-*''[[Sholay]]'', the highest grossing Bollywood film of all time - ([[Bollywood films of 1975|India]])
-*''[[Smile (1975 film)|Smile]]'', directed by [[Michael Ritchie (film director)|Michael Ritchie]], starring [[Bruce Dern]] and [[Barbara Feldon]]
-*''[[Section spéciale|Special Section]]'' (Section spéciale), directed by [[Costa Gavras]] - (France)
-*''[[The Stepford Wives (1975 film)|The Stepford Wives]]'', directed by [[Bryan Forbes]], starring [[Katharine Ross]], [[Paula Prentiss]], [[Peter Masterson]], [[Tina Louise]]
-*''[[The Story of Adele H.]]'' (L'Histoire d'Adèle H.), directed by [[François Truffaut]], starring [[Isabelle Adjani]] and [[Bruce Robinson]] - ([[French films of 1975|France]])
-*''[[The Strongest Man in the World]]'', starring [[Kurt Russell]]
-*''[[Sunday Too Far Away]]'', starring [[Jack Thompson (actor)|Jack Thompson]] - ([[Australian films of 1975|Australia]])
-*''[[The Sunshine Boys (film)|The Sunshine Boys]]'', directed by [[Herbert Ross]], starring [[Walter Matthau]], [[George Burns]], [[Richard Benjamin]]
-*''[[Supervixens]]'', cult adult film directed by [[Russ Meyer]]
-*''[[Switchblade Sisters]]'' (a.k.a. The Jezebels), directed by [[Jack Hill]]
-'''T'''
-*''[[Terror of Mechagodzilla]] (Mekagojira no gyakushu), directed by [[Ishir? Honda]] - ([[Japanese films of 1975|Japan]])
-*''[[They Fought for Their Country]]'' (??? ????????? ?? ??????), directed by [[Sergei Bondarchuk]] - ([[Soviet films of 1975|U.S.S.R.]])
-*''[[Three Days of the Condor]]'', directed by [[Sydney Pollack]], starring [[Robert Redford]], [[Faye Dunaway]], [[Cliff Robertson]]
-*''[[Tommy (1975 film)|Tommy]]'', directed by [[Ken Russell]], starring [[Oliver Reed]], [[Ann-Margret]], [[Jack Nicholson]], [[Roger Daltrey]] - ([[British films of 1975|U.K.]])
-*''[[The Travelling Players]]'' (? ??????; O Thiassos), directed by [[Theo Angelopoulos]] - ([[Greek films of the 1970s|Greece]])
-'''U'''
-*''[[The Ultimate Warrior (1975 film)|The Ultimate Warrior]]'', starring [[Yul Brynner]]
-*''[[Under the Pavement Lies the Strand|Unter dem Pflaster ist der Strand]]'', directed by [[Helma Sanders-Brahms]] - ([[List of German films: 1970s|West Germany]])
-'''V'''
-*''[[Villa Zone]]'' (Vilna Zona), directed by [[Eduard Zahariev]], starring [[Itzhak Fintzi]], [[Katya Paskaleva]], [[Naum Shopov]] - ([[Bulgarian films of the 1970s|Bulgaria]])
-'''W'''
-*''[[W.W. and the Dixie Dancekings]]'', directed by [[John G. Avildsen]], starring [[Burt Reynolds]] and [[Art Carney]]
-*''[[White Line Fever (film)|White Line Fever]]'', starring [[Jan-Michael Vincent]] and [[Kay Lenz]]
-*''[[The Wilby Conspiracy]]'', directed by [[Ralph Nelson]], starring [[Sidney Poitier]] and [[Michael Caine]] - ([[British films of 1975|U.K.]])
-*''[[The Wild Party (1975 film)|The Wild Party]]'', directed by [[James Ivory (director)|James Ivory]], starring [[Raquel Welch]], [[James Coco]], [[Perry King]]
-*''[[The Wind and the Lion]]'', directed by [[John Milius]], starring [[Sean Connery]] and [[Candice Bergen]]
-*''[[A Woman's Decision]]'' (Bilans kwartalny) - ([[List of Polish films of the 1970s|Poland]])
-*''[[The Wrong Move]]'', directed by [[Wim Wenders]], starring [[Rudiger Vogler]] and [[Hanna Schygulla]] - ([[List of German films: 1970s|West Germany]])
-'''XYZ'''
-*''[[Zakl?te rewiry]]'' (a.k.a. Hotel Pacific) - (Poland)
-*''[[Xala]]'', directed by [[Ousmane Sembène]] - ([[List of Senegalese films|Senegal]])
-*''[[The Yakuza]]'', directed by [[Sydney Pollack]], starring [[Robert Mitchum]] and [[Ken Takakura]] - (U.S./[[Japanese films of 1975|Japan]])
-
-==Births==
-*January 3
-**[[Jason Marsden]], actor
-**[[Danica McKellar]], American actress
-*January 5 - [[Bradley Cooper]], American actor
-*February 14 - [[Malik Zidi]], French actor
-*February 22 - [[Drew Barrymore]], American actress and director
-*March 27 - [[Fergie (singer)|Stacy Ferguson]], American actress/singer
-*May 3 - [[Christina Hendricks]], American actress
-*June 4 - [[Angelina Jolie]], American actress
-*June 25 - [[Linda Cardellini]], American actress
-*June 27 - [[Tobey Maguire]], American actor
-*July 11
-**[[Bridgette Andersen]], American actress (d. 1997)
-**[[Cecile de France]], Belgian actress
-*July 23 - [[Surya Sivakumar]], Indian actor
-*August 7 - [[Charlize Theron]], South African actress
-*August 12 - [[Casey Affleck]], American actor
-*September 30 - [[Marion Cotillard]], French actress
-*October 5
-**[[Parminder Nagra]], English actress
-**[[Kate Winslet]], English actress
-*October 7 - [[Kaspars Znoti?š]], Latvian actor
-*November 6 - Sean Patrick Maclam, Scottish Grindhouse film director
-*November 19 - [[Sushmita Sen]], Indian actress
-*December 17 - [[Milla Jovovich]], Ukrainian-American actress
-*December 27 - [[Heather O'Rourke]], American actress (d.1988)
-
-==Notable deaths==
-*January 9 - [[Pierre Fresnay]], 77, French actor, ''[[La Grande Illusion]]'', ''[[Le Corbeau]]'', ''[[The Man Who Knew Too Much (1934 film)|The Man Who Knew Too Much]]'', ''[[Monsieur Vincent]]''
-*January 18 - [[Gertrude Olmstead]], 77, American actress, ''[[The Boob]]'', ''[[The Monster (1925 film)|Monster]]'', ''[[Cameo Kirby]]'', ''[[Cobra (1925 film)|Cobra]]''
-*January 24 - [[Larry Fine]], 72, American actor, [[Three Stooges]] original member, ''[[It's a Mad, Mad, Mad, Mad World]]'', ''[[4 for Texas]]'', ''[[Disorder in the Court]]'', ''[[Dancing Lady]]'', ''[[My Sister Eileen (1942 film)|My Sister Eileen]]''
-*January 24 - [[Neil Wilson (actor)|Neil Wilson]], 58, British actor, ''[[A Clockwork Orange (film)|A Clockwork Orange]]'', ''[[The Ladykillers]]'', ''[[Alfie (1966 film)|Alfie]]'', ''[[The Lavender Hill Mob]]'', ''[[The Battle of the River Plate (film)|The Battle of the River Plate]]'', ''[[The Damned (1963 film)|The Damned]]''
-*January 27 - [[Bill Walsh (producer)|Bill Walsh]], 61, American producer, ''[[Mary Poppins (film)|Mary Poppins]]'', ''[[Bedknobs and Broomsticks]]'', ''[[The Love Bug]]'', ''[[The Absent-Minded Professor]]'', ''[[Herbie Rides Again]]'', ''[[That Darn Cat!]]''
-*February 1 - [[Richard Wattis]], 62,  British actor, ''[[The Longest Day (film)|The Longest Day]]'', ''[[The Man Who Knew Too Much (1956 film)|The Man Who Knew Too Much]]'', ''[[Kind Hearts and Coronets]]'', ''[[Chitty Chitty Bang Bang]]'', ''[[Casino Royale (1967 film)|Casino Royale]]'', ''[[Around the World in 80 Days (1956 film)|Around the World in 80 Days]]'', ''[[The Lavender Hill Mob]]'', ''[[The Prince and the Showgirl]]'', ''[[Bunny Lake Is Missing]]'', ''[[The Importance of Being Earnest (1952 film)|The Importance of Being Earnest]]''
-*February 11 - [[Maria Balcerkiewiczówna]], 71, Polish actress, ''[[Vampires of Warsaw]]''
-*February 17 - [[George Marshall (director)|George Marshall]], 83, American director, ''[[How the West Was Won (film)|How the West Was Won]]'', ''[[Destry Rides Again]]'', ''[[Scared Stiff (1953 film)|Stared Stiff]]'', ''[[Fancy Pants (film)|Fancy Pants]]'', ''[[You Can't Cheat an Honest Man]]'', ''[[The Sheepman]]'', ''[[The Blue Dahlia]]'' 
-*February 20 – [[Robert Strauss (actor)|Robert Strauss]], 61, American actor, ''[[Stalag 17]]'', ''[[The Seven Year Itch]]'', ''[[The Man with the Golden Arm]]'', ''[[Attack (film)|Attack]]'', ''[[Frankie and Johnny (1966 film)|Frankie and Johnny]]'', ''[[Li'l Abner (1959 film)|Li'l Abner]]''
-*March 4 - [[Renée Björling]], 76, Swedish actress, ''[[Summer Interlude]]'', ''[[Fröken Fob]]'', ''[[A Lesson in Love]]'', ''[[The Monastery of Sendomir]]''
-*March 7 - [[Ben Blue]], 73, Canadian-born American actor, ''[[It's a Mad, Mad, Mad, Mad World]]'', ''[[The Russians Are Coming, the Russians Are Coming]]'', ''[[For Me and My Gal (film)|For Me and My Gal]]'', ''[[Thousands Cheer]]'', ''[[Panama Hattie]]''
-*March 14 - [[Susan Hayward]], 57, American actress, ''[[I Want to Live!]]'', ''[[The Snows of Kilimanjaro (1952 film)|The Snows of Kilimanjaro]]'', ''[[I'll Cry Tomorrow]]'', ''[[With a Song in My Heart (film)|With a Song in My Heart]]'', ''[[Valley of the Dolls (film)|Valley of the Dolls]]'', ''[[I Married a Witch]]'', ''[[Ada (film)|Ada]]''
-*April 4 - [[Mary Ure]], 42, Scottish actress, ''[[Where Eagles Dare]]'', ''[[Look Back in Anger (film)|Look Back in Anger]]'', ''[[Sons and Lovers (1960 film)|Sons and Lovers]]'', ''[[Custer of the West]]'', ''[[Storm Over the Nile]]''
-*April 10 - [[Marjorie Main]], 85, American actress, ''[[Meet Me in St. Louis (film)|Meet Me in St. Louis]]'', ''[[Heaven Can Wait (1943 film)|Heaven Can Wait]]'', ''[[The Long, Long Trailer]]'', ''[[The Women (1939 film)|The Women]]'', ''[[Summer Stock]]'', ''[[The Egg and I (film)|The Egg and I]]'', ''[[Another Thin Man]]''
-*April 13 - [[Larry Parks]], 60, American actor, ''[[The Jolson Story]]'', ''[[Jolson Sings Again]]'', ''[[Freud (film)|Freud]]'', ''[[Down to Earth (1947 film)|Down to Earth]]'', ''[[You Were Never Lovelier]]''
-*April 14 - [[Fredric March]], 77, American actor, ''[[A Star Is Born (1937 film)|A Star Is Born]]'', ''[[The Best Years of Our Lives]]'', ''[[I Married a Witch]]'', ''[[Executive Suite]]'', ''[[The Man in the Grey Flannel Suit]]'', ''[[Death of a Salesman (1951 film)|Death of a Salesman]]'', ''[[Middle of the Night]]'', ''[[Inherit the Wind (1960 film)|Inherit the Wind]]'', ''[[Seven Days in May]]'', ''[[The Desperate Hours (film)|The Desperate Hours]]'', ''[[Hombre (film)|Hombre]]'' 
-*April 15 - [[Richard Conte]], 65, American actor, ''[[The Godfather]]'', ''[[Ocean's Eleven (1960 film)|Ocean's Eleven]]'', ''[[The Greatest Story Ever Told]]'', ''[[The Big Combo]]'', ''[[House of Strangers]]'', ''[[Whirlpool (1949 film)|Whirlpool]]'', ''[[Hotel (1967 film)|Hotel]]'', ''[[Tony Rome]]''
-*April 23 - [[William Hartnell]], 67, British actor, ''[[Hell Drivers (film)|Hell Drivers]]'', ''[[Carry On Sergeant]]'', ''[[The Mouse That Roared (film)|The Mouse That Roared]]'', ''[[This Sporting Life]]''
-*May 4 - [[Moe Howard]], 77, American actor, [[Three Stooges]] original member, ''[[Punch Drunks]]'', ''[[Men in Black (1934 film)|Men in Black]]'', ''[[Disorder in the Court]]'', ''[[Three Little Pigskins]]'', ''[[It's a Mad, Mad, Mad, Mad World]]''
-*June 4 - [[Evelyn Brent]], 75, American actress, ''[[Underworld (1927 film)|Underworld]]'', ''[[The Last Command (1928 film)|The Last Command]]'', ''[[The Seventh Victim]]'', ''[[The Silver Horde (1930 film)|The Silver Horde]]''
-*June 6 - [[Larry Blyden]], 49, American actor, ''[[On a Clear Day You Can See Forever (film)|On a Clear Day You Can See Forever]]'', ''[[Kiss Them for Me (film)|Kiss Them for Me]]''
-*June 28 - [[Rod Serling]], 50, American writer and creator of ''[[The Twilight Zone (1959 TV series)|The Twilight Zone]]'' (1959–64) and ''[[Night Gallery]]'' (1969-73); screenwriter for ''[[Seven Days in May]]'' and ''[[Requiem for a Heavyweight]]''
-*July 2 - [[James Robertson Justice]], 68, British actor, ''[[The Guns of Navarone (film)|The Guns of Navarone]]'', ''[[Moby Dick (1956 film)|Moby Dick]]'', ''[[Chitty Chitty Bang Bang]]'', ''[[Murder, She Said]]'', ''[[Those Magnificent Men in Their Flying Machines]]''
-*September 9 - [[John McGiver]], 61, American actor, ''[[The Manchurian Candidate (1962 film)|The Manchurian Candidate]]'', ''[[Midnight Cowboy]]'', ''[[Man's Favorite Sport?]]'', ''[[Who's Got the Action?]]'', ''[[Fitzwilly]]'', ''[[Mr. Hobbs Takes a Vacation]]'', ''[[Breakfast at Tiffany's (film)|Breakfast at Tiffany's]]'', ''[[Mame (film)|Mame]]''
-*September 24 - [[Clive Morton]],  71, English actor,  ''[[The Moonraker]]'', ''[[Kind Hearts and Coronets]]'', ''[[The Lavender Hill Mob]]'', ''[[Richard III (1955 film)|Richard III]]'', ''[[Goodbye Mr. Chips]]'', ''[[Lawrence of Arabia (film)|Lawrence of Arabia]]''
-*October 18 - [[Al Lettieri]], 47, American actor, ''[[The Godfather (film)|The Godfather]]'', ''[[The Getaway (1972 film)|The Getaway]]'', ''[[Mr. Majestyk]]'', ''[[The Bobo]]'', ''[[McQ]]'' 
-*October 24 - [[Martin Boddey]], 68, Scottish actor, ''[[Carry On Sergeant]]'', ''[[Carry On Nurse]]'', ''[[Tales from the Crypt (film)|Tales from the Crypt]]'', ''[[Psychomania]]''
-*October 31 - [[Joseph Calleia]], 78, Maltese actor, ''[[Touch of Evil]]'', ''[[Gilda]]'', ''[[Jungle Book (1942 film)|Jungle Book]]'', ''[[The Alamo (1960 film)|The Alamo]]'', ''[[My Little Chickadee]]'', ''[[After the Thin Man]]''
-*November 2 - [[Pier Paolo Pasolini]], 53, Italian director, ''[[Teorema (film)|Teorema]]'', ''[[Accattone]]'', ''[[The Hawks and the Sparrows]]'', ''[[Salò, or the 120 Days of Sodom]]''
-*November 4 - [[Sheila Ryan]], 54, American actress, ''[[Dressed to Kill (1941 film)|Dressed to Kill]]'', ''[[Song of Texas]]'', ''[[Railroaded!]]''
-*November 5 - [[Annette Kellerman]], 88, Australian swimmer and silent film actress, portrayed by [[Esther Williams]], ''[[Venus of the South Seas]]''
-*December 13 - [[Cyril Delevanti]], 88, British actor, ''[[Mary Poppins (film)|Mary Poppins]]'', ''[[Soylent Green]]'', ''[[Bedknobs and Broomsticks]]'', ''[[Limelight (1952 film)|Limelight]]'', ''[[Monsieur Verdoux]]'', ''[[The Night of the Iguana (film)|The Night of the Iguana]]'', ''[[The Greatest Story Ever Told]]'', ''[[Bye Bye Birdie (film)|Bye Bye Birdie]]'', ''[[Frankenstein Meets the Wolf Man]]'', ''[[Ministry of Fear]]''
-*December 24 - [[Bernard Herrmann]], 64, American composer, orchestrator, ''[[Taxi Driver]]'', ''[[Psycho (1960 film)|Psycho]]'', ''[[Citizen Kane]]'', ''[[Vertigo (film)|Vertigo]]'', ''[[North by Northwest]]'', ''[[The Day the Earth Stood Still]]'', ''[[The Man Who Knew Too Much (1956 film)|The Man Who Knew Too Much]]'', ''[[Marnie (film)|Marine]]'', ''[[Fahrenheit 451 (1966 film)|Fahrenheit 451]]'', ''[[The Trouble with Harry]]'', ''[[Cape Fear (1962 film)|Cape Fear]]'', ''[[The Wrong Man]]'', ''[[The Magnificent Ambersons (film)|The Magnificent Ambersons]]'', ''[[Jason and the Argonauts (1963 film)|Jason and the Argonauts]]'', ''[[The Ghost and Mrs. Muir]]'', ''[[Journey to the Center of the Earth (1959 film)|Journey to the Center of the Earth]]''
-
-==Film debuts==
-*[[Kim Cattrall]] - ''[[Rosebud (film)|Rosebud]]''
-*[[Tim Curry]] - ''[[The Rocky Horror Picture Show]]''
-*[[Brad Dourif]] - ''[[W.W. and the Dixie Dancekings]]''
-*[[Laurence Fishburne]] - ''[[Cornbread, Earl and Me]]''
-*[[Nastassja Kinski]] - ''[[The Wrong Move]]''
-*[[Christopher Lloyd]] - ''[[One Flew Over the Cuckoo's Nest (film)|One Flew Over the Cuckoo's Nest]]''
-*[[Mary Stuart Masterson]] - ''[[The Stepford Wives (1975 film)|The Stepford Wives]]''
-*[[Bill Murray]] - ''[[Shame of the Jungle]]''
-*[[Bill Paxton]] - ''[[Crazy Mama]]''
-*[[Dennis Quaid]] - ''Crazy Mama''
-*[[Chris Sarandon]] - ''[[Dog Day Afternoon]]''
-*[[Patrick Stewart]] - ''[[Hennessy (film)|Hennessy]]''
-*[[John Travolta]] - ''[[The Devil's Rain]]''
-*[[Treat Williams]] - ''[[Deadly Hero]]'' (filmed in 1975, released in May 1976)
-
-==References==
-{{reflist}}
-
-{{DEFAULTSORT:1975 In Film}}
-[[Category:Years in film]]
-[[Category:1975 in film| ]]
+92 in the Shade (film)
+Aaron Loves Angela
+Adoption (film)
+The Adventure of Sherlock Holmes' Smarter Brother
+The Adventures of the Wilderness Family
+Afonya
+Aloha, Bobby and Rose
+Apoorva Raagangal
+Attilas '74
+The Apple Dumpling Gang (film)
+At Long Last Love
+Autobiography of a Princess
+Barry Lyndon
+Bim
+Bite the Bullet (film)
+The Black Bird
+A Boy and His Dog
+Breakheart Pass (1975 film)
+Breakout (1975 film)
+Brother, Can You Spare a Dime? (film)
+Bugs Bunny Superstar
+Chronicle of the Years of Fire
+Chupke Chupke
+The Claws of Light
+Cleopatra Jones and the Casino of Gold
+Cooley High
+Coonskin (film)
+Conduct Unbecoming (film)
+Crazy Mama
+The Cycle (1975 film)
+The Day of the Locust (film)
+Death Race 2000
+Deep Red
+Dersu Uzala (1975 film)
+Deewaar (1975 film)
+Dialogues of Exiles
+Diamonds (1975 film)
+Doc Savage (film)
+Dog Day Afternoon
+The Drowning Pool (film)
+The Eiger Sanction (film)
+The Empress Dowager
+End of the Game
+Earthquake in Chile (film)
+Escape to Witch Mountain (1975 film)
+Fantozzi (film)
+Farewell, My Lovely (1975 film)
+Slade In Flame
+The Flower in His Mouth
+The Fortune
+Fox (1975 film)
+Framed (1975 film)
+French Connection II
+Funny Lady
+Furtivos
+Galileo (1975 film)
+The Giant Spider Invasion
+Give 'em Hell, Harry!
+God's Gun
+Graveyard of Honor (1975 film)
+Great (1975 film)
+The Great Waldo Pepper
+Grey Gardens
+Hababam sinifi
+Hagiga B'Snuker
+Hans Christian Andersen's The Little Mermaid
+The Happy Hooker (film)
+Hard Times (1975 film)
+Hearts of the West
+Hedda (film)
+Hedgehog in the Fog
+Hello, I'm Your Aunt!
+Hennessy (film)
+Hester Street (film)
+The Hiding Place (film)
+The Hindenburg (film)
+The 'Human' Factor
+Hustle (1975 film)
+In Celebration (film)
+Inserts (film)
+The Irony of Fate
+Jacob the Liar (1975 film)
+Jaws (film)
+Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles
+Journey into Fear (1975 film)
+Karayuki-san, the Making of a Prostitute
+Kaddu Beykat
+Keetje Tippel
+L'important c'est d'aimer
+The Land That Time Forgot (1975 film)
+Walking Tall Part 2
+Legend of the Werewolf
+Let Joy Reign Supreme
+Let's Do It Again (1975 film)
+Lies My Father Told Me
+The Lion Roars Again
+Lisztomania (film)
+The Lost Honour of Katharina Blum (film)
+Love and Death
+Lucky Lady
+The Magic Flute (1975 film)
+Mahogany (1975 film)
+La Maldicion de la Bestia
+The Man in the Glass Booth
+The Man Who Would Be King (film)
+Mandingo (film)
+Milestones (1975 film)
+The Mirror (1975 film)
+Mitchell (film)
+Monty Python and the Holy Grail
+Moonrunners
+Mother Küsters' Trip to Heaven
+Mr. Ricco
+My Friends (film)
+Nashville (film)
+Night Moves (1975 film)
+Nights and Days
+Numéro deux
+The Noah
+Le vieux fusil
+Once Is Not Enough (film)
+One Flew Over the Cuckoo's Nest (film)
+One of Our Dinosaurs is Missing
+Operation Daybreak
+Osadeni Dushi
+The Other Side of the Mountain
+Overlord (film)
+The Passenger (1975 film)
+Peeper (film)
+Picnic at Hanging Rock (film)
+Pick-Up (1975 film)
+Pinchcliffe Grand Prix
+Posse (1975 film)
+The Prisoner of Second Avenue
+The Promised Land (1975 film)
+Queen of the Gypsies
+Queen of the Stardust Ballroom
+Race with the Devil
+Rafferty and the Gold Dust Twins
+Rancho Deluxe
+The Reincarnation of Peter Proud
+The Return of the Pink Panther
+The Return of the Sister Street Fighter
+The Rocky Horror Picture Show
+Rollerball (1975 film)
+The Romantic Englishwoman
+Rooster Cogburn (film)
+Royal Flash (film)
+Salò o le 120 giornate di Sodoma
+Le Sauvage
+The Sensuous Nurse
+Seven Beauties
+Shampoo (film)
+Shivers (film)
+Sholay
+Smile (1975 film)
+Section spéciale
+The Stepford Wives (1975 film)
+The Story of Adele H.
+The Strongest Man in the World
+Sunday Too Far Away
+The Sunshine Boys (film)
+Supervixens
+Switchblade Sisters
+Terror of Mechagodzilla
+They Fought for Their Country
+Three Days of the Condor
+Tommy (1975 film)
+The Travelling Players
+The Ultimate Warrior (1975 film)
+Under the Pavement Lies the Strand
+Villa Zone
+W.W. and the Dixie Dancekings
+White Line Fever (film)
+The Wilby Conspiracy
+The Wild Party (1975 film)
+The Wind and the Lion
+A Woman's Decision
+The Wrong Move
+Zakl?te rewiry
+Xala
+The Yakuza

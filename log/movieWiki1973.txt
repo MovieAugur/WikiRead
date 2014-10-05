@@ -1,0 +1,416 @@
+{{Year nav topic5|1973|film|home video|television}}
+{{Yearsinfilm}} <!-- SIDEBAR NAV-BOX -->
+The year '''1973 in film''' involved some significant events.
+
+==Highest-grossing films (U.S.)==
+{{See also|List of 1973 box office number-one films in the United States}}
+The top ten 1973 released films by box office gross in North America are as follows:
+<!-- Note: We only link the studios ONCE and we only include ORIGINAL grosses, not lifetime grosses-->
+{| class="wikitable sortable" style="margin:auto; margin:auto;"
+|+ Highest-grossing films of 1973
+|-
+! Rank!! Title !! Studio !! Domestic gross 
+|-
+| style="text-align:center;"| '''1.'''
+|''[[The Sting]]''
+| [[Universal Pictures]]
+| $156,000,000<ref>{{cite web|url=http://boxofficemojo.com/movies/?id=sting.htm|title=The Sting (1973)|work=[[Box Office Mojo]]|accessdate=May 26, 2014}}</ref>
+|-
+| style="text-align:center;"| '''2.'''
+| ''[[The Exorcist (film)|The Exorcist]]''
+| [[Warner Bros.]]
+| $128,000,000<ref name="Phillips">{{cite book |last=Phillips|first=Kendall|year=2005|title=Projected Fears: Horror Films and American Culture|publisher=[[ABC-CLIO]]|isbn=9780313017964|ref=harv|page=[http://books.google.com/books?id=axFSjNH1oRkC&pg=PA102 102]|quote=''The Exorcist'' grossed $128 million in its initial release, a figure that, when adjusted for inflation, would make it the most successful R-rated film in American history.}}</ref>
+|-
+| style="text-align:center;"| '''3.'''
+|''[[American Graffiti]]''
+| Universal Pictures
+| $96,300,000<ref name="Block & Wilson">{{cite book |editor1-last=Block|editor1-first=Alex Ben|editor2-last=Wilson|editor2-first=Lucy Autrey|year=2010|title=George Lucas's Blockbusting: A Decade-By-Decade Survey of Timeless Movies Including Untold Secrets of Their Financial and Cultural Success|publisher=[[HarperCollins]]|isbn=9780061778896|ref=harv}}
+*''The Sting'': p.717. $156.0 million (Initial Release Domestic Box office)
+*''American Graffiti'': p.421. $96.3 million (1973 Release Wave)</ref>
+|-
+| style="text-align:center;"| '''4.'''
+| ''[[Papillon (film)|Papillon]]''
+| [[Monogram Pictures|Allied Artists Pictures]]
+| $53,267,000<ref>{{Cite web|url=http://boxofficemojo.com/movies/?id=papillon.htm|publisher=[[Box Office Mojo]]|title=Papillon, Box Office Information|accessdate=May 26, 2014}}</ref>
+|-
+| style="text-align:center;"| '''5.'''
+| ''[[The Way We Were]]''
+| [[Columbia Pictures]]
+| $45,000,000<ref>{{Cite web|url=http://boxofficemojo.com/movies/?id=waywewere.htm|publisher=[[Box Office Mojo]]|title=The Way We Were (1973) |accessdate=May 26, 2014}}</ref>
+|-
+| style="text-align:center;"| '''6.'''
+|''[[Magnum Force]]''
+| Warner Bros.
+| $39,768,000<ref>{{Cite web|url=http://boxofficemojo.com/movies/?id=magnumforce.htm|publisher=[[Box Office Mojo]]|title=Magnum Force (1973) |accessdate=May 26, 2014}}</ref>
+|-
+| style="text-align:center;"| '''7.'''
+| ''[[Last Tango in Paris]]''
+| [[United Artists]]
+| $36,144,000<ref>{{Cite web|url=http://boxofficemojo.com/movies/?id=lasttangoinparis.htm|publisher=[[Box Office Mojo]]|title=Last Tango in Paris, Box Office Information|accessdate=May 26, 2014}}</ref>
+|-
+| style="text-align:center;"| '''8.'''
+| ''[[Live and Let Die (film)|Live and Let Die]]''
+| United Artists
+| $35,377,836<ref>{{Cite web|url=http://boxofficemojo.com/movies/?id=liveandletdie.htm|publisher=[[Box Office Mojo]]|title=Live and Let Die, Box Office Information|accessdate=May 26, 2014}}</ref>
+|-
+| style="text-align:center;"| '''9.'''
+| ''[[Robin Hood (1973 film)|Robin Hood]]''
+| [[Walt Disney Pictures|Walt Disney Productions]]
+| $32,056,467<ref>{{Cite web|url=http://www.the-numbers.com/movies/1973/00246.php|publisher=The Numbers|title=Robin Hood, Box Office Information|accessdate=January 16, 2012}}</ref>
+|-
+| style="text-align:center;"| '''10.'''
+| ''[[Paper Moon (film)|Paper Moon]]''
+| [[Paramount Pictures]]
+| $30,933,743<ref>{{Cite web|url=http://www.the-numbers.com/movies/1973/0PMON.php|publisher=The Numbers|title=Paper Moon, Box Office Information|accessdate=January 16, 2012}}</ref>
+|-
+|}
+
+==Events==
+*[[The Marx Brothers]]' [[Zeppo Marx]] divorces his second wife, [[Barbara Blakely]]. Blakely would later marry actor/singer [[Frank Sinatra]].
+*Martial arts legend [[Bruce Lee]] dies before ''[[Enter the Dragon]]'' was released.
+*''[[The Exorcist (film)|The Exorcist]]'' reawakens the horror film genre and becomes one of the most popular and controversial films ever released.
+
+== Awards ==
+
+'''[[46th Academy Awards|Academy Awards]]:'''
+ 
+:[[Academy Award for Best Picture|Best Picture]]: '''''[[The Sting]]''''' - Bill/Phillips-Hill, Zanuck/Brown, Universal
+:[[Academy Award for Best Director|Best Director]]: '''[[George Roy Hill]]''' - ''The Sting''
+:[[Academy Award for Best Actor|Best Actor]]: '''[[Jack Lemmon]]''' - ''[[Save the Tiger]]''
+:[[Academy Award for Best Actress|Best Actress]]: '''[[Glenda Jackson]]''' - ''[[A Touch of Class (film)|A Touch of Class]]''
+:[[Academy Award for Best Supporting Actor|Best Supporting Actor]]:  '''[[John Houseman]]''' - ''[[The Paper Chase (film)|The Paper Chase]]''
+:[[Academy Award for Best Supporting Actress|Best Supporting Actress]]: '''[[Tatum O'Neal]]''' - ''[[Paper Moon (film)|Paper Moon]]''
+:[[Academy Award for Best Foreign Language Film|Best Foreign Language Film]]: '''''[[Day for Night (film)|Day for Night]]''''' (''La Nuit américaine''), directed by [[François Truffaut]], France
+
+'''[[31st Golden Globe Awards|Golden Globe Awards]]:'''
+
+:<u>'''Drama:'''</u>
+:[[Golden Globe Award for Best Motion Picture – Drama|Best Picture]]: '''''[[The Exorcist (film)|The Exorcist]]'''''
+:[[Golden Globe Award for Best Actor – Motion Picture Drama|Best Actor]]: '''[[Al Pacino]]''' – ''[[Serpico]]''
+:[[Golden Globe Award for Best Actress – Motion Picture Drama|Best Actress]]: '''[[Marsha Mason]]''' – ''[[Cinderella Liberty]]''
+ 
+:<u>'''Musical or comedy:'''</u>
+:[[Golden Globe Award for Best Motion Picture – Musical or Comedy|Best Picture]]: '''''[[American Graffiti]]'''''
+:[[Golden Globe Award for Best Actor – Motion Picture Musical or Comedy|Best Actor]]: '''[[George Segal]]''' – ''A Touch of Class''
+:[[Golden Globe Award for Best Actress – Motion Picture Musical or Comedy|Best Actress]]: '''Glenda Jackson''' – ''A Touch of Class''
+
+:<u>'''Other'''</u>
+:[[Golden Globe Award for Best Director – Motion Picture|Best Director]]: '''[[William Friedkin]]''' – ''The Exorcist''
+:[[Golden Globe Award for Best Foreign Language Film|Best Foreign Language Film]]: '''''[[The Pedestrian (film)|The Pedestrian]]''''' (''Der Fußgänger''), W. Germany
+
+'''[[Palme d'Or]] (Cannes Film Festival):'''
+:'''''[[The Hireling]]''''', directed by [[Alan Bridges]], United Kingdom
+:'''''[[Scarecrow (1973 film)|Scarecrow]]''''', directed by [[Jerry Schatzberg]], United States
+
+'''[[Berlin Film Festival|Golden Bear]] (Berlin Film Festival):'''
+:'''''[[Ashani Sanket]]''''' (''Distant Thunder''), directed by [[Satyajit Ray]], India
+
+==Notable films released in 1973==
+[[American films of 1973|U.S.A.]] unless stated
+
+'''#'''
+*''[[The 14]]'', directed by [[David Hemmings]], starring [[Jack Wild]] - ([[British films of 1973|U.K.]])
+'''A'''
+*''[[Abhimaan (1973 film)|Abhimaan]]'' (Pride) - ([[Bollywood films of 1973|India]])
+*''[[Ace Eli and Rodger of the Skies]]'', starring [[Cliff Robertson]] and [[Pamela Franklin]]
+*''[[The Adventures of Rabbi Jacob]]'' (Les Aventures de Rabbi Jacob) - ([[French films of 1973|France]])
+*''[[All Nudity Shall Be Punished]]'' (Toda Nudez Será Castigada) - ([[Brazilian films of the 1970s|Brazil]])
+*''[[The Alpha Caper]]'', starring [[Henry Fonda]]
+*''[[Alvin Purple]]'' - ([[Australian films of the 1970s|Australia]])
+*''[[Amarcord]]'', directed by [[Federico Fellini]] - ([[Italian films of 1973|Italy]])
+*''[[American Graffiti]]'', directed by [[George Lucas]], starring [[Richard Dreyfuss]], [[Ron Howard]], [[Cindy Williams]], [[Paul Le Mat]], [[Candy Clark]], [[Harrison Ford]]
+*''[[Ana and the Wolves]]'' (Ana y los lobos), starring [[Geraldine Chaplin]] - ([[Spanish films of 1973|Spain]])
+*''[[And Now the Screaming Starts!]]'', starring [[Peter Cushing]], [[Stephanie Beacham]], [[Herbert Lom]]
+*''[[Ashani Sanket]]'' (Distant Thunder), directed by [[Satyajit Ray]] - Golden Bear winner - ([[Bengali films of 1973|India]])
+'''B'''
+*''[[The Baby (film)|The Baby]]'', starring [[Anjanette Comer]] and [[Ruth Roman]]
+*''[[Badlands (film)|Badlands]]'', directed by [[Terrence Malick]], starring [[Martin Sheen]] and [[Sissy Spacek]]
+*''[[Bang the Drum Slowly (film)|Bang the Drum Slowly]]'', starring [[Robert De Niro]] and [[Michael Moriarty]]
+*''[[Battle for the Planet of the Apes]]'', starring [[Roddy McDowall]], [[Claude Akins]], [[Natalie Trundy]], [[John Huston]]
+*''[[Battles Without Honour and Humanity]]'' (ingi naki tatakai) - ([[Japanese films of 1973|Japan]])
+*''[[Baxter!]]'', starring [[Patricia Neal]] and [[Britt Ekland]] - ([[British films of 1973|U.K.]])
+*''[[Black Holiday]]'' (La Villeggiatura), starring [[Adolfo Celi]] - ([[Italian films of 1973|Italy]])
+*''[[Blood Brothers (1973 film)|Blood Brothers]]'' (Ci Ma), directed by [[Chang Cheh]] - ([[Hong Kong films of 1973|Hong Kong]])
+*''[[Blood in the Streets]]'', aka ''Revolver'', starring [[Oliver Reed]] - ([[Italian films of 1973|Italy]]/[[French films of 1973|France]]/[[List of German films: 1970s|West Germany]])
+*''[[Blood of the Dragon (film)|Blood of the Dragon]]'' (Zhui ming qiang) - (Hong Kong)
+*''[[Blue Blood (1973 film)|Blue Blood]]'', starring [[Oliver Reed]], [[Fiona Lewis]] and [[Derek Jacobi]]- ([[British films of 1973|U.K.]])
+*''[[Blume in Love]]'', starring [[George Segal]], [[Susan Anspach]], [[Kris Kristofferson]]
+*''[[Bobby (1973 film)|Bobby]]'', starring [[Rishi Kapoor]] - ([[Bollywood films of 1973|India]])
+*''[[Il Boss]]'', starring [[Henry Silva]] and [[Richard Conte]] - (Italy)
+*''[[Breezy]]'', directed by [[Clint Eastwood]], starring [[William Holden]] and [[Kay Lenz]]
+*''[[A Brief Vacation]]'' (Una breve vacanza), directed by [[Vittorio de Sica]] - ([[Italian films of 1973|Italy]])
+*''[[Brother of the Wind]]''
+'''C'''
+*''[[Cahill U.S. Marshal]]'', starring [[John Wayne]] and [[George Kennedy]]
+*''[[Can Dialectics Break Bricks?]]'' (La Dialectique Peut-Elle Casser Des Briques?) - ([[French films of 1973|France]])
+*''[[The Candy Snatchers]]'', starring [[Tiffany Bolling]]
+*''[[Charley and the Angel]]'', starring [[Fred MacMurray]], [[Cloris Leachman]], [[Kurt Russell]]
+*''[[Charley Varrick]]'', directed by [[Don Siegel]], starring [[Walter Matthau]], [[John Vernon]], [[Joe Don Baker]], [[Andy Robinson (actor)|Andy Robinson]], [[Sheree North]]
+*''[[Charlotte's Web (1973 film)|Charlotte's Web]]'', an animated film directed by [[Charles August Nichols|Charles A. Nichols]] and [[Iwao Takamoto]], with the voices of [[Debbie Reynolds]] and [[Henry Gibson]]
+*''[[Chino (film)|Chino]]'', directed by [[John Sturges]], starring [[Charles Bronson]]
+*''[[Cinderella Liberty]]'', directed by [[Mark Rydell]], starring [[James Caan]] and [[Marsha Mason]]
+*''[[Class of '44]]'', starring [[Gary Grimes]]
+*''[[Cleopatra Jones]]'', starring [[Tamara Dobson]] and [[Shelley Winters]]
+*''[[Coffy]]'', starring [[Pam Grier]]
+*''[[Cops and Robbers (1973 film)|Cops and Robbers]]'', starring [[Joseph Bologna]] and [[Cliff Gorman]]
+*'[[Country Blue]]'', starring [[Dub Taylor]], [[Jack Conrad]] and [[Rita George]]
+*''[[The Crazies (1973 film)|The Crazies]]'', directed by [[George A. Romero]]
+*''[[The Creeping Flesh]]'', starring [[Christopher Lee]] and [[Peter Cushing]] - ([[British films of 1973|U.K.]])
+'''D'''
+*''[[Dark Places]]'', starring [[Christopher Lee]], [[Joan Collins]], [[Jane Birkin]] - (U.K.)
+*''[[Day for Night (film)|Day for Night]]'', directed by [[François Truffaut]], starring [[Jacqueline Bisset]], [[Valentina Cortese]], [[Jean-Pierre Aumont]] - [[Academy Award]] and [[Bafta]] winner - ([[French films of 1973|France]])
+*''[[The Day of the Dolphin]]'', directed by [[Mike Nichols]], starring [[George C. Scott]], [[Trish Van Devere]], [[Paul Sorvino]]
+*''[[The Day of the Jackal (film)|The Day of the Jackal]]'', directed by [[Fred Zinnemann]], starring [[Edward Fox (actor)|Edward Fox]], [[Michael Lonsdale]], [[Delphine Seyrig]] - (U.K./France)
+*''[[The Death of a Lumberjack]]'' (La Mort d'un bûcheron) - ([[List of Canadian films|Canada]])
+*''[[A Delicate Balance (film)|A Delicate Balance]]'', starring [[Katharine Hepburn]], [[Paul Scofield]], [[Lee Remick]], [[Kate Reid]], [[Betsy Blair]]
+*''[[The Devil in Miss Jones]]'', directed by [[Gerard Damiano]]
+*''[[Dillinger (1973 film)|Dillinger]]'', starring [[Warren Oates]], [[Harry Dean Stanton]], [[Richard Dreyfuss]], [[Geoffrey Lewis (actor)|Geoffrey Lewis]]
+*''[[A Doll's House (1973 Garland film)|A Doll's House]]'', starring [[Claire Bloom]] and [[Anthony Hopkins]] - ([[British films of 1973|U.K.]])
+*''[[The Don Is Dead]]'', starring [[Anthony Quinn]], [[Robert Forster]], [[Al Lettieri]], [[Ina Balin]]
+*''[[Don't Be Afraid of the Dark (1973 film)|Don't Be Afraid of the Dark]]'', starring [[Kim Darby]] and [[Jim Hutton]]
+*''[[Don't Look Now]]'', directed by [[Nicolas Roeg]], starring [[Julie Christie]] and [[Donald Sutherland]] - ([[British films of 1973|U.K.]]/[[Italian films of 1973|Italy]])
+'''E'''
+*''[[Electra Glide in Blue]]'', starring [[Robert Blake (actor)|Robert Blake]]
+*''[[Emperor of the North Pole]]'', directed by [[Robert Aldrich]], starring [[Lee Marvin]], [[Ernest Borgnine]], [[Keith Carradine]]
+*''[[England Made Me (film)|England Made Me]]'', starring [[Peter Finch]] and [[Michael York (actor)|Michael York]] - ([[British films of 1973|U.K.]])
+*''[[Enter the Dragon]]'', starring [[Bruce Lee]], [[John Saxon (actor)|John Saxon]], [[Jim Kelly (martial artist)|Jim Kelly]] - ([[Hong Kong films of 1973|Hong Kong]]/[[American films of 1973|U.S.A.]])
+*''[[Executive Action (film)|Executive Action]]'', starring [[Burt Lancaster]] and [[Robert Ryan]]
+*''[[The Exorcist (film)|The Exorcist]]'', directed by [[William Friedkin]], starring [[Ellen Burstyn]], [[Linda Blair]], [[Jason Miller (playwright)|Jason Miller]], [[Max von Sydow]]—winner of 5 [[Golden Globes]] and 2 [[Oscars]]
+'''F'''
+*''[[Fantastic Planet]]'' (La Planète Sauvage) - ([[French films of 1973|France]]/[[Czech films of the 1970s|Czechoslovakia]])
+*''[[Fé, Esperanza y Caridad]]'' (Faith, Hope and Charity), starring [[Katy Jurado]] - ([[Mexican films of 1973|Mexico]])
+*''[[The Final Programme]]'',starring [[Jon Finch]], [[Jenny Runacre]] and [[Graham Crowden]] - ([[British films of 1973|U.K.]])
+*''[[Five on the Black Hand Side]]'', starring [[Godfrey Cambridge]]
+*''[[The Friends of Eddie Coyle]]'', directed by [[Peter Yates]], starring [[Robert Mitchum]], [[Richard Jordan]], [[Steven Keats]], [[Peter Boyle]]
+*''[[From the Mixed-Up Files of Mrs. Basil E. Frankweiler (1973 film)|From the Mixed-Up Files of Mrs. Basil E. Frankweiler]]'' (a.k.a. The Hideaways), starring [[Ingrid Bergman]]
+'''G'''
+*''[[Godspell (film)|Godspell]]'', starring [[Victor Garber]]
+*''[[Godzilla vs. Megalon]]'', directed by [[Jun Fukuda]] - ([[Japanese films of 1973|Japan]])
+*''[[La Grande Bouffe]]'' (Blow-Out), starring [[Marcello Mastroianni]], [[Ugo Tognazzi]], [[Michel Piccoli]], [[Philippe Noiret]] - ([[French films of 1973|France]]/[[Italian films of 1973|Italy]])
+'''H'''
+*''[[The Hare Census (film)|The Hare Census]]'' (Prebroyavane na Divite Zaytsi), directed by [[Eduard Zahariev]], starring [[Itzhak Fintzi]], [[Nikola Todev]], [[Georgi Rusev]] - ([[Bulgarian films of the 1970s|Bulgaria]])
+*''[[The Harrad Experiment]]'', starring [[Don Johnson]], [[Tippi Hedren]], [[James Whitmore]]
+*''[[Heavy Traffic]]'', an animated film by [[Ralph Bakshi]]
+*''[[Hell Up in Harlem]]'', starring [[Fred Williamson]]
+*''[[High Plains Drifter]]'', directed by and starring [[Clint Eastwood]], with [[Verna Bloom]], [[Marianna Hill]], [[Geoffrey Lewis (actor)|Geoffrey Lewis]]
+*''[[The Hireling]]'', directed by [[Alan Bridges]], starring [[Robert Shaw (British actor)|Robert Shaw]] and [[Sarah Miles]] - Palme d'Or winner - ([[British films of 1973|U.K.]])
+*''[[Hitler: The Last Ten Days]]'', starring [[Alec Guinness]] - (U.K./[[Italian films of 1973|Italy]])
+*''[[The Holy Mountain (1973 film)|The Holy Mountain]]'' (La Montaña Sagrada), directed by [[Alejandro Jodorowsky]] - ([[Mexican films of 1973|Mexico]]/U.S.)
+*''[[Home Sweet Home (1973 film)|Home Sweet Home]]'' (La fête à Jules) - ([[List of Belgian films: 1970s|Belgium]])
+*''[[The Homecoming (film)|The Homecoming]]'', directed by [[Peter Hall (director)|Peter Hall]], starring [[Cyril Cusack]], [[Ian Holm]], [[Vivien Merchant]] - ([[British films of 1973|U.K.]])
+*''[[Garm Hava|Hot Winds]]'' (Garm Hava), directed by [[M.S. Sathyu]] - ([[Bollywood films of 1973|India]])
+*''[[The Hour-Glass Sanatorium]]'' (Sanatorium pod klepsydr?), directed by [[Wojciech Has]] - ([[List of Polish films of the 1970s|Poland]])
+*''[[The House in Nightmare Park]]'', directed by Peter Skyes, starring [[Frankie Howerd]] and [[Ray Milland]] - ([[British films of 1973|U.K.]])
+*''[[The House on Chelouche Street]]'' (Ha-Bayit Berechov Chelouche) - ([[1973 in Israeli film|Israel]])
+*''[[Hugo the Hippo]]'' (Hugó, a víziló) - ([[List of Hungarian films 1948-1989#1970-1979|Hungary]])
+'''I'''
+*''[[The Iceman Cometh (1973 film)|The Iceman Cometh]]'', directed by [[John Frankenheimer]], starring [[Lee Marvin]], [[Fredric March]], [[Robert Ryan]]
+*''[[Idaho Transfer]]'', directed by [[Peter Fonda]]
+*''[[Indian Summer (1973 film)|Indian Summer]]'', directed by Milen Nikolov, starring [[Georgi Partsalev]], Leda Taseva, [[Tatyana Lolova]] - ([[Bulgarian films of the 1970s|Bulgaria]])
+*''[[Interval (1973 film)|Interval]]'', starring [[Merle Oberon]]
+*''[[L' Invitation]]'' (The Invitation), directed by [[Claude Goretta]] - Academy Award for Best Foreign Film - ([[French films of 1973|France]]/[[List of Swiss films|Switzerland]])
+*''[[Ivan Vasilievich: Back to the Future]]'' (Ivan Vasilyevich menyayet professiyu) - ([[Soviet films of 1973|U.S.S.R.]])
+'''J'''
+*''[[Jesus Christ Superstar (film)|Jesus Christ Superstar]]'', directed by [[Norman Jewison]], starring [[Ted Neeley]] and [[Yvonne Elliman]], music by [[Andrew Lloyd Webber]]
+*''[[Jeremy (film)|Jeremy]]'', starring [[Robby Benson]] and [[Glynnis O'Connor]]
+*''[[Jonathan Livingston Seagull (film)|Jonathan Livingston Seagull]]'', featuring the voices of [[James Franciscus]] and [[Juliet Mills]]
+'''K'''
+*''[[Kanashimi no Belladonna]]'' (Belladonna of Sadness), Anime feature film - ([[Japanese films of 1973|Japan]])
+*''[[Kid Blue]]'', starring [[Dennis Hopper]] and [[Warren Oates]]
+'''L'''
+*''[[Lady Ice]]'', starring [[Donald Sutherland]] and [[Jennifer O'Neill]]
+*''[[Lady Snowblood (film)|Lady Snowblood]]'' (Shurayukihime) - ([[Japanese films of 1973|Japan]])
+*''[[The Land of Our Ancesters]]'' (Maa on syntinen laulu) - ([[List of Finnish films: 1970s|Finland]])
+*''[[The Last American Hero]]'', starring [[Jeff Bridges]]
+*''[[The Last Detail]]'', directed by [[Hal Ashby]], starring [[Jack Nicholson]], [[Randy Quaid]], [[Otis Young]]
+*''[[The Last of Sheila]]'', written by [[Stephen Sondheim]] and [[Anthony Perkins]], starring [[Raquel Welch]], [[Dyan Cannon]], [[James Mason]], [[James Coburn]], [[Richard Benjamin]]
+*''[[The Laughing Policeman (film)|The Laughing Policeman]]'', starring [[Walter Matthau]], [[Bruce Dern]], [[Louis Gossett, Jr.]], [[Cathy Lee Crosby]]
+*''[[The Legend of Hell House]]'', starring [[Pamela Franklin]] and [[Gayle Hunnicutt]]
+*''[[The Legend of Paul and Paula]]'' (Die Legende von Paul und Paula) - ([[List of East German films#1970s|East Germany]])
+*''[[Le Magnifique]]'', starring [[Jean-Paul Belmondo]] and [[Jacqueline Bisset]] - ([[France]])
+*''[[Little Tiger of Canton]]'' (Guang dong xiao lao hu), starring [[Jackie Chan]] - ([[Hong Kong films of 1973|Hong Kong]])
+*''[[Live and Let Die (film)|Live and Let Die]]'', starring [[Roger Moore]] (as [[James Bond]]), with [[Jane Seymour (actress)|Jane Seymour]] and [[Yaphet Kotto]] - ([[British films of 1973|U.K.]])
+*''[[Lolly-Madonna XXX]]'', starring [[Rod Steiger]], [[Robert Ryan]], [[Jeff Bridges]]
+*''[[The Long Goodbye (film)|The Long Goodbye]]'', directed by [[Robert Altman]], starring [[Elliott Gould]], [[Nina Van Pallandt]], [[Sterling Hayden]], [[Mark Rydell]], [[Jim Bouton]]
+*''[[Lost Horizon (1973 film)|Lost Horizon]]'', starring [[Peter Finch]], [[John Gielgud]], [[Liv Ullmann]], [[George Kennedy]], [[Olivia Hussey]]
+*''[[Love and Anarchy]]'' (d'amore e d'anarchia), directed by [[Lina Wertmüller]] - ([[Italian films of 1973|Italy]])
+*''[[Love and Pain and the Whole Damn Thing]]'', directed by [[Alan J. Pakula]], starring [[Timothy Bottoms]] and [[Maggie Smith]]
+*''[[Luther (1973 film)|Luther]]'', a [[biopic]] of [[Martin Luther]], starring [[Stacy Keach]] - (U.K./U.S.A./Canada)
+'''M'''
+*''[[The Mackintosh Man]]'', starring [[Paul Newman]] - ([[British films of 1973|U.K.]]/[[American films of 1973|U.S.A.]])
+*''[[Magnum Force]]'', directed by [[Ted Post]], starring [[Clint Eastwood]], [[Hal Holbrook]], [[David Soul]], [[Tim Matheson]], [[Robert Urich]]
+*''[[Malizia (1973 film)|Malizia]]'' (Malicious) - (Italy)
+*''[[Le Magnifique]]''', directed by [[Philippe de Broca]], starring [[Jean-Paul Belmondo]] and [[Jacqueline Bisset]] - ([[French films of 1973|France]])
+*''[[Manson (film)|Manson]]'', a documentary film about [[Charles Manson]]
+*''[[Massacre in Rome]]'' (Rappresaglia), directed by [[George Pan Cosmatos]], starring [[Richard Burton]] and [[Marcello Mastroianni]] - ([[Italian films of 1973|Italy]])
+*''[[Maurie]]'', directed by [[Daniel Mann]], starring [[Bo Svenson]] and [[Bernie Casey]]
+*''[[Mean Streets]]'', directed by [[Martin Scorsese]], starring [[Harvey Keitel]] and [[Robert De Niro]]
+*''[[The Mother and the Whore]]'' (La Maman et la Putain) - ([[French films of 1973|France]])
+*''[[My Name is Nobody]]'' (Il mio nome è Nessuno), starring [[Terence Hill]] and [[Henry Fonda]] - ([[Italian films of 1973|Italy]])
+'''N'''
+*''[[The Neptune Factor]]'', starring [[Ben Gazzara]], [[Yvette Mimieux]], [[Ernest Borgnine]]
+*''[[The No Mercy Man]]'', starring [[Sid Haig]] and [[Ron Thompson (actor)|Ron Thompson]]
+*''[[Night Flight from Moscow]]'', starring [[Yul Brynner]], [[Henry Fonda]], [[Dirk Bogarde]] - (France/Italy/Germany)
+*''[[Night Watch (1973 film)|Night Watch]]'', starring [[Elizabeth Taylor]] and [[Laurence Harvey]] - ([[British films of 1973|U.K.]])
+*''[[The Night Strangler (film)|The Night Strangler]]'', TV movie sequel to [[The Night Stalker (film)]] starring [[Darren McGavin]], [[Simon Oakland]], [[Jo Ann Pflug]], [[Scott Brady]]. [[Wally Cox]], [[John Carradine]], [[Margaret Hamilton]], [[Al Lewis (actor)|Al Lewis]] and [[Richard Anderson]]
+*''[[The Nutcracker (1973 film)|The Nutcracker]]'' (Schelkunchik) - ([[Soviet films of 1973|U.S.S.R.]])
+'''O'''
+*''[[Oklahoma Crude]]'', directed by [[Stanley Kramer]], starring [[Faye Dunaway]] and [[George C. Scott]]
+*''[[O Lucky Man!]]'', directed by [[Lindsay Anderson]], starring [[Malcolm McDowell]], [[Ralph Richardson]], [[Rachel Roberts (actress)|Rachel Roberts]] - ([[British films of 1973|U.K.]])
+*''[[The Olsen Gang Goes Crazy]]'' (Olsen-banden går amok) - ([[Danish films of the 1970s|Denmark]])
+'''P'''
+*''[[The Paper Chase (film)|The Paper Chase]]'', starring [[Timothy Bottoms]], [[Lindsay Wagner]], [[John Houseman]]
+*''[[Paper Moon (film)|Paper Moon]]'', directed by [[Peter Bogdanovich]], starring [[Ryan O'Neal]], [[Tatum O'Neal]], [[Madeline Kahn]]
+*''[[Paperback Hero (1973 film)|Paperback Hero]]'', starring [[Keir Dullea]] and [[Elizabeth Ashley]] - ([[List of Canadian films|Canada]])
+*''[[Papillon (film)|Papillon]]'', directed by [[Franklin J. Schaffner]], starring [[Steve McQueen]] and [[Dustin Hoffman]]
+*''[[Pat Garrett and Billy the Kid]]'', directed by [[Sam Peckinpah]], starring [[James Coburn]], [[Kris Kristofferson]], [[Bob Dylan]], with music by Dylan
+*''[[The Pedestrian (film)|The Pedestrian]]'' (Der Fußgänger), directed by [[Maximilian Schell]], starring [[Peggy Ashcroft]] - Golden Globe for best foreign film - ([[List of German films: 1970s|West Germany]]/[[List of Swiss films|Switzerland]]/[[Israeli films of the 1970s|Israel]])
+*''[[Property Is No Longer a Theft]]'' (La proprietà non è più un furto), starring [[Ugo Tognazzi]] - ([[Italian films of 1973|Italy]])
+'''R'''
+*''[[El Retorno de Walpurgis]]'' (a.k.a. The Curse of the Devil) - ([[Spanish films of 1973|Spain]]/[[Mexican films of 1973|Mexico]])
+*''[[Robin Hood (1973 film)|Robin Hood]]'' ([[Walt Disney]]) with the voices of [[Roger Miller]], [[Phil Harris]], [[Andy Devine]], [[Peter Ustinov]], [[Terry-Thomas]] set in 1192
+'''S'''
+*''[[Save the Tiger]]'', directed by [[John G. Avildsen]], starring [[Jack Lemmon]]
+*''[[Scarecrow (1973 film)|Scarecrow]]'', directed by [[Jerry Schatzberg]], starring [[Gene Hackman]] and [[Al Pacino]] - Palme d'Or winner
+*''[[Scenes from a Marriage]]'' (Scener ur ett äktenskap), directed by [[Ingmar Bergman]], starring [[Liv Ullmann]] and [[Erland Josephson]] - ([[Swedish films of the 1970s|Sweden]])
+*''[[Scorpio (film)|Scorpio]]'', starring [[Burt Lancaster]], [[Alain Delon]], [[Paul Scofield]], [[Gayle Hunnicutt]]
+*''[[Scream Blacula Scream]]'', starring [[William H. Marshall]] and [[Pam Grier]]
+*''[[Serpico]]'', directed by [[Sidney Lumet]], starring [[Al Pacino]]
+*''[[The Seven Madmen]]'' (Los siete locos), directed by [[Leopoldo Torre Nilsson]] - ([[Argentine films of 1973|Argentina]])
+*''[[The Seven-Ups]]'', starring [[Roy Scheider]]
+*''[[Shamus (film)|Shamus]]'', starring [[Burt Reynolds]], [[Dyan Cannon]] and [[John P. Ryan]] 
+*''[[Showdown (1973 film)|Showdown]]'', starring [[Dean Martin]] and [[Rock Hudson]]
+*''[[Sisters (1973 film)|Sisters]]'', directed by [[Brian De Palma]]
+*''[[Slaughter's Big Rip-Off]]'', starring [[Jim Brown]], [[Brock Peters]], [[Ed McMahon]]
+*''[[Sleeper (1973 film)|Sleeper]]'', directed by and starring [[Woody Allen]], with [[Diane Keaton]]
+*''[[Slither (1973 film)|Slither]]'', starring [[James Caan]], [[Sally Kellerman]], [[Peter Boyle]]
+*''[[The Society of the Spectacle (film)|The Society of the Spectacle]]'' (La Société du Spectacle) - ([[French films of 1973|France]])
+*''[[Soul Hustler]]'', directed by Bert Topper, starring [[Fabian Forte]], [[Nai Bonet]], [[Tony Russel]], [[Casey Kasem]]
+*''[[Soylent Green]]'', directed by [[Richard Fleischer]], starring [[Charlton Heston]], [[Leigh Taylor-Young]], [[Edward G. Robinson]]
+*''[[The Spirit of the Beehive]]'' (El espíritu de la colmena) - ([[Spanish films of 1973|Spain]])
+*''[[Stateline Motel]]'', starring [[Eli Wallach]], [[Ursula Andress]] and [[Fabio Testi]]- Canada/Italy
+*''[[Steelyard Blues]]'', starring [[Donald Sutherland]] and [[Jane Fonda]]
+*''[[Steptoe and Son Ride Again]]'', starred [[Wilfrid Brambell]] and [[Harry H. Corbett]] - ([[British films of 1973|U.K.]])
+*''[[The Sting]]'', directed by [[George Roy Hill]], starring [[Paul Newman]], [[Robert Redford]], [[Robert Shaw (British actor)|Robert Shaw]], [[Eileen Brennan]], [[Charles Durning]], [[Ray Walston]] - winner of 7 [[Academy Awards]]
+*''[[The Stone Killer]]'', starring [[Charles Bronson]]
+*''[[Superdad]]'', starring [[Bob Crane]], [[Barbara Rush]], [[Kurt Russell]]
+*''[[Sweet Kill]]'', starring [[Tab Hunter]]
+'''T'''
+*''[[The Tenderness of Wolves (film)|The Tenderness of Wolves]]'' (Die Zärtlichkeit der Wölfe) - ([[List of German films: 1970s|West Germany]])
+*''[[Theatre of Blood]]''
+*''[[That'll Be the Day (film)|That´ll Be the Day]]'', starring [[David Essex]], [[Rosemary Leach]], [[Ringo Starr]] - ([[British films of 1973|U.K.]])
+*''[[Themroc]]'', starring [[Michel Piccoli]] - (France)
+*''[[Il n'y a pas de fumée sans feu|There's No Smoke Without Fire]]'' (Il n'y a pas de fumée sans feu), starring [[Annie Girardot]] - ([[French films of 1973|France]])
+*''[[The Thief Who Came to Dinner]]'', starring [[Ryan O'Neal]], [[Jacqueline Bisset]], [[Warren Oates]]
+*''[[The Three-Day Reign]]'' (Samil cheonha) - ([[South Korean films of 1973|South Korea]])
+*''[[The Three Musketeers (1973 film)|The Three Musketeers]]'', directed by [[Richard Lester]], starring [[Michael York (actor)|Michael York]] and [[Oliver Reed]] - (U.K./U.S.)
+*''[[T?i o?íšky pro Popelku|Three Nuts for Cinderella]]'' (T?i o?íšky pro Popelku) - ([[Czech films of the 1970s|Czechoslovakia]]/[[List of East German films#1970s|East Germany]])
+*''[[A Touch of Class (film)|A Touch of Class]]'', starring [[George Segal]] and [[Glenda Jackson]] - ([[British films of 1973|U.K.]])
+*''[[Tom Sawyer (1973 film)|Tom Sawyer]]'', starring [[Johnny Whitaker]] and [[Jodie Foster]]
+*''[[Touki Bouki]]'' (Journey of the Hyena) - ([[List of Senegalese films|Senegal]])
+*''[[The Train Robbers]]'', starring [[John Wayne]] and [[Ann-Margret]]
+*''[[Tsugaru Folk Song]]'' (Tsugaru Jongarabushi) - ([[Japanese films of 1973|Japan]])
+*''[[Turkish Delight (film)|Turkish Delight]]'' (Turks Fruit), directed by [[Paul Verhoeven]], starring [[Rutger Hauer]] - ([[Dutch films of the 1970s|Holland]])
+*''[[Two Men in Town (1973 film)|Two Men in Town]]'' (Deux hommes dans la ville), starring [[Jean Gabin]] and [[Alain Delon]] - ([[French films of 1973|France]])
+*''[[Two People (film)|Two People]]'', directed by [[Robert Wise]], starring [[Peter Fonda]] and [[Lindsay Wagner]]
+'''U'''
+*''[[Ultimul cartu?]]'' (The Last Bullet) - ([[List of Romanian films#1970s|Romania]])
+'''V'''
+*''[[The Vault of Horror (film)|The Vault of Horror]]'', starring [[Glynis Johns]], [[Terry-Thomas]], [[Curd Jurgens]] - ([[British films of 1973|U.K.]])
+*''[[Voices (1973 film)|Voices]]'', starring [[David Hemmings]] and [[Gayle Hunnicutt]] - ([[British films of 1973|U.K.]])
+'''W'''
+*''[[Walking Tall (1973 film)|Walking Tall]]'', starring [[Joe Don Baker]]
+*''[[The Way We Were]]'', directed by [[Sydney Pollack]], starring [[Barbra Streisand]] and [[Robert Redford]]
+*''[[We Want the Colonels]]'' (Vogliamo i colonnelli), starring [[Ugo Tognazzi]] - ([[Italian films of 1973|Italy]])
+*''[[Wedding in Blood]]'' (Les Noces rouges), directed by [[Claude Chabrol]], starring [[Stéphane Audran]] and [[Michel Piccoli]] - ([[French films of 1973|France]])
+*''[[Westworld]]'', directed by [[Michael Crichton]], starring [[Yul Brynner]], [[Richard Benjamin]], [[James Brolin]]
+*''[[White Lightning (1973 film)|White Lightning]]'', starring [[Burt Reynolds]]
+*''[[Wicked, Wicked]]'', starring [[David Bailey]], [[Edd Byrnes]], [[Tiffany Bolling]]
+*''[[The Wicker Man (1973 film)|The Wicker Man]]'', directed by [[Robin Hardy (film director)|Robin Hardy]], starring [[Edward Woodward]], [[Christopher Lee]], [[Diane Cilento]] - ([[British films of 1973|U.K.]])
+*''[[The World's Greatest Athlete]]'', starring [[Jan-Michael Vincent]] and [[John Amos]]
+'''Z'''
+*''[[Zanjeer (1973 film)|Zanjeer]]'' (Shackles) - ([[Bollywood films of 1973|India]])
+
+==Births==
+*January 18 - Umie Aida, Malaysian actress
+*February 12 - [[Tara Strong]], [[voice actor]]
+*March 18 - [[Luci Christian]], voice actress
+*March 20 - [[Jane March]], actress and model
+*April 10 - [[Guillaume Canet]], actor
+*April 14 - [[Adrien Brody]], actor
+*April 22 - [[Christopher Sabat]], voice actor
+*April 30 - [[Antonino Isordia]], Mexican director
+*May 5 - [[Tina Yothers]], actress
+*May 10 - [[Tora Sudiro]], Indonesian actor
+*June 15 - [[Neil Patrick Harris]], actor
+*June 21 - [[Juliette Lewis]], actress
+*July 26 - [[Kate Beckinsale]], actress
+*August 24 - [[Dave Chappelle]], actor
+*September 12 - [[Paul Walker]], actor and producer (died 2013)
+*September 26 - [[Julienne Davis]], actress and model
+*October 3
+**[[Neve Campbell]], actress
+**[[Richard Ian Cox]], voice actor
+*October 26 - [[Seth MacFarlane]], actor, voice actor, animator, screenwriter, comedian, television producer, director and singer
+*November 26 - [[Peter Facinelli]], actor
+*November 27 - [[Sharlto Copley]], actor
+
+==Deaths==
+*January 19 - [[Max Adrian]], 69, Northern Irish actor, ''[[Dr. Terror's House of Horrors]]'', ''[[The Terrornauts]]'', ''[[The Devils (film)|The Devils]]'', ''[[The Boy Friend (1971 film)|The Boy Friend]]''
+*January 24 - [[J. Carrol Naish]], 77, American actor, ''[[Sahara (1943 film)|Sahara]]'', ''[[A Medal for Benny]]'', ''[[House of Frankenstein (1944 film)|House of Frankenstein]]'', ''[[Rio Grande (film)|Rio Grande]]'', ''[[Humoresque (film)|Humoresque]]'', ''[[Annie Get Your Gun (film)|Annie Get Your Gun]]'', ''[[Sitting Bull (film)|Sitting Bull]]''
+*January 26 - [[Edward G. Robinson]], 79, Romanian actor, ''[[Double Indemnity (film)|Double Indemnity]]'', ''[[The Stranger (1946 film)|The Stranger]]'', ''[[Key Largo (film)|Key Largo]]'', ''[[The Ten Commandments (1956 film)|The Ten Commandments]]'', ''[[Little Caesar (film)|Little Caesar]]'', ''[[Brother Orchid]]'', ''[[Soylent Green]]'', ''[[The Cincinnati Kid]]''
+*February 13 - [[David Bauer (actor)|David Bauer]], 55, American actor, ''[[Torture Garden (film)|Torture Garden]]'', ''[[Patton (film)|Patton]]'', ''[[Diamonds Are Forever (film)|Diamonds Are Forever]]''
+*February 15 - [[Wally Cox]], 48, American actor, ''[[Morituri (1965 film)|Morituri]]'', ''[[The Bedford Incident]]'', ''[[Fate Is the Hunter (film)|Fate Is the Hunter]]'', ''[[The Yellow Rolls-Royce]]''
+*February 15 - [[Tim Holt]], 54, American actor, ''[[The Treasure of the Sierra Madre (film)|The Treasure of the Sierra Madre]]'', ''[[The Magnificent Ambersons (film)|The Magnificent Ambersons]]'', ''[[Stagecoach (1939 film)|Stagecoach]]'', ''[[My Darling Clementine]]''
+*February 22 - [[Katina Paxinou]], 72, Greek actress, ''[[Rocco and His Brothers]]'', ''[[For Whom the Bell Tolls (film)|For Whom the Bell Tolls]]'', ''[[Confidential Report]]'', ''[[Mourning Becomes Electra (film)|Mourning Becomes Electra]]''
+*February 24 - [[Art Smith (actor)|Art Smith]], 73, American actor, ''[[In a Lonely Place]]'', ''[[Body and Soul (1947 film)|Body and Soul]]'', ''[[Quicksand (1950 film)|Quicksand]]''
+*February 28 - [[Cecil Kellaway]], 82, South African actor, ''[[Guess Who's Coming to Dinner]]'', ''[[The Postman Always Rings Twice (1946 film)|The Postman Always Rings Twice]]'', ''[[Wuthering Heights (1939 film)|Wuthering Heights]]'', ''[[I Married a Witch]]''
+*March 10 - [[Robert Siodmak]], 72, German director, ''[[The Killers (1946 film)|The Killers]]'', ''[[The Spiral Staircase (1946 film)|The Spiral Staircase]]'', ''[[Criss Cross (1949 film)|Criss Cross]]'', ''[[The Crimson Pirate]]'', ''[[Son of Dracula (1943 film)|Son of Dracula]]''
+*March 16 - [[Carl Benton Reid]], 79, ''[[The Little Foxes (film)|The Little Foxes]]'', ''[[The Trap (1959 film)|The Trap]]'', ''[[Pressure Point (film)|Pressure Point]]'', ''[[Time Limit (film)|Time Limit]]'', ''[[In a Lonely Place]]''
+*March 23 - [[Ken Maynard]], 77, American actor, ''[[Mystery Mountain (serial)|Mystery Mountain]]'', ''[[Tombstone Canyon]]'', ''[[Phantom Rancher]]'', ''[[In Old Santa Fe]]''
+*March 26 - [[Noël Coward]], 73, prolific English actor, playwright and songwriter, ''[[Easy Virtue (1928 film)|Easy Virtue]]'', ''[[In Which We Serve]]'', ''[[Cavalcade (1933 film)|Cavalcade]]'', ''[[Relative Values (film)|Relative Values]]'', ''[[Our Man in Havana (film)|Our Man in Havana]]''
+*April 11 - [[Ted de Corsia]], 69, American actor, ''[[The Killing (film)|The Killing]]'', ''[[The Enforcer (1951 film)|The Enforcer]]'', ''[[Gunfight at the O.K. Corral (film)|Gunfight at the O.K. Corral]]''
+*May 11 - [[Lex Barker]], 54, American actor, ''[[La Dolce Vita]]'', ''[[Apache Gold]]'', ''[[Last of the Renegades]]'', ''[[The Desperado Trail]]'', ''[[Tarzan's Magic Fountain]]''
+*May 29 - [[P. Ramlee]], 44, Malaysian actor, playwright, director, composer and singer
+*June 10 - [[William Inge]], 60, American playwright and screenwriter, ''[[Splendor in the Grass]]'', ''[[Picnic (1955 film)|Picnic]]'', ''[[All Fall Down (film)|All Fall Down]]''
+*June 18 - [[Roger Delgado]], 55, English actor, ''[[The Terror of the Tongs]]'', ''[[Hot Enough for June]]'', ''[[The Assassination Bureau]]''
+*June 23 - [[Fay Holden]], 79, British actress, ''[[Love Finds Andy Hardy]]'', ''[[Samson and Delilah (1949 film)|Samson and Delilah]]'', ''[[Blossoms in the Dust]]'', ''[[Canyon Passage]]''
+*July 2 - [[Betty Grable]], 56, American actress, ''[[How to Marry a Millionaire]]'', ''[[I Wake Up Screaming]]'', ''[[The Gay Divorcee]]'', ''[[That Lady in Ermine]]'', ''[[The Dolly Sisters]]'', ''[[Call Me Mister (film)|Call Me Mister]]'', ''[[Million Dollar Legs (1939 film)|Million Dollar Legs]]''
+*July 2 - [[George Macready]], 73, American actor, ''[[Gilda]]'', ''[[Paths of Glory]]'', ''[[Seven Days in May]]'', ''[[Detective Story (1951 film)|Detective Story]]'', ''[[Dead Ringer (1964 film)|Dead Ringer]]'', ''[[Knock on Any Door]]'', ''[[The Big Clock (film)|The Big Clock]]''
+*July 6 - [[Joe E. Brown (comedian)|Joe E. Brown]], 80, American actor, ''[[Some Like It Hot]]'', ''[[Show Boat (1951 film)|Show Boat]]'', ''[[It's a Mad, Mad, Mad, Mad World]]'', ''[[Hollywood Canteen (film)|Hollywood Canteen]]'', ''[[Pin Up Girl (film)|Pin Up Girl]]'', ''[[Elmer, the Great]]'', ''[[Alibi Ike]]''
+*July 7 - [[Veronica Lake]], 50, American actress, ''[[Sullivan's Travels]]'', ''[[This Gun for Hire]]'', ''[[The Blue Dahlia]]'', ''[[I Married a Witch]]'', ''[[Ramrod (film)|Ramrod]]'', ''[[The Glass Key (1942 film)|The Glass Key]]''
+*July 11 - [[Robert Ryan]], 63, American actor, ''[[The Wild Bunch]]'', ''[[Bad Day at Black Rock]]'', ''[[The Dirty Dozen]]'', ''[[The Set-Up (1949 film)|The Set-Up]]'', ''[[Crossfire (film)|Crossfire]]'', ''[[The Iceman Cometh (1973 film)|The Iceman Cometh]]'', ''[[Clash by Night]]'', ''[[The Longest Day (film)|The Longest Day]]'', ''[[Lawman (film)|Lawman]]'', ''[[The Professionals (1966 film)|The Professionals]]''
+*July 12 - [[Lon Chaney, Jr.]], 67, American actor, ''[[High Noon]]'', ''[[The Defiant Ones]]'', ''[[The Wolf Man]]'', ''[[My Favorite Brunette]]'', ''[[House of Dracula]]''
+*July 18 - [[Jack Hawkins]], 62, British actor, ''[[Ben-Hur (1959 film)|Ben-Hur]]'', ''[[Lawrence of Arabia (film)|Lawrence of Arabia]]'', ''[[The Bridge on the River Kwai]]'', ''[[Zulu (1964 film)|Zulu]]'', ''[[Nicholas and Alexandra]]''
+*July 20 - [[Bruce Lee]], 32, American actor, ''[[Enter the Dragon]]'', ''[[Way of the Dragon]]'', ''[[The Chinese Connection]]'', ''[[Fists of Fury]]'', ''[[Marlowe (film)|Marlowe]]''
+*July 30 - [[Guy Middleton]], 66, British actor, ''[[Oh! What a Lovely War]]''
+*August 10 - [[Douglas Kennedy (actor)|Douglas Kennedy]], 57, American actor, ''[[Dark Passage (film)|Dark Passage]]'', ''[[The Amazing Transparent Man]]'', ''[[Montana (1950 film)|Montana]]'', ''[[Possessed (1947 film)|Possessed]]''
+*August 11 - [[Peggie Castle]], 45, American actress, ''[[99 River Street]]'', ''[[I, the Jury (1953 film)|I, the Jury]]'', ''[[Invasion U.S.A. (1952 film)|Invasion U.S.A.]]'', ''[[Finger Man]]'', ''[[Beginning of the End (film)|Beginning of the End]]''
+*August 22 - [[Louise Huff]], 77, American actress, ''[[Disraeli (1921 film)|Disraeli]]'', ''[[Great Expectations (1917 film)|Great Expectations]]''
+*September 13 - [[Betty Field]], 60, American actress, ''[[Picnic (1955 film)|Picnic]]'', ''[[Birdman of Alcatraz (film)|Birdman of Alcatraz]]'', ''[[Of Mice and Men (1939 film)|Of Mice and Men]]'', ''[[Bus Stop (1956 film)|Bus Stop]]'', ''[[Coogan's Bluff (film)|Coogan's Bluff]]'', ''[[7 Women]]''
+*September 21 - [[Diana Sands]], 39, American actress, ''[[A Raisin in the Sun (1961 film)|A Raisin in the Sun]]'', ''[[The Landlord]]'', ''[[Willie Dynamite]]'', ''[[Honeybaby, Honeybaby]]'', ''[[Ensign Pulver]]''
+*September 26 - [[Anna Magnani]], 65, Italian actress, ''[[Rome, Open City]]'', ''[[Mamma Roma]]'', ''[[The Rose Tattoo (film)|The Rose Tattoo]]'', ''[[Bellissima (film)|Bellissima]]'', ''[[Fellini's Roma]]''
+*October 6 - [[Sidney Blackmer]], 78, American actor, ''[[High Society (1956 film)|High Society]]'', ''[[Rosemary's Baby (film)|Rosemary's Baby]]'', ''[[People Will Talk]]'', ''[[The High and the Mighty (film)|The High and the Mighty]]''
+*October 16 - [[Gene Krupa]], 64, American musician, actor, ''[[Raging Bull]]'', ''[[Rounders (film)|Rounders]]'', ''[[Some Like It Hot]]'', ''[[The Benny Goodman Story]]''
+*October 25 - [[Cleo Moore]], 48, American actress, ''[[One Girl's Confession]]'', ''[[Over-Exposed]]'', ''[[Hit and Run (1957 film)|Hit and Run]]'', ''[[Strange Fascination]]'', ''[[Women's Prison (1955 film)|Women's Prison]]''
+*November 23 
+**[[Sessue Hayakawa]], 84, Japanese actor, ''[[The Bridge on the River Kwai]]'', ''[[Swiss Family Robinson (1960 film)|Swiss Family Robinson]]'', ''[[The Cheat (1915 film)|The Cheat]]'', ''[[The Geisha Boy]]''
+**[[Claire Dodd]], 64, American actress, ''[[Roberta (1935 film)|Roberta]]'', ''[[In the Navy (film)|In the Navy]]'', ''[[Footlight Parade]]'', ''[[The Case of the Velvet Claws]]'', ''[[The Black Cat (1941 film)|The Black Cat]]''
+**[[Constance Talmadge]], 75, American actress, ''[[The Duchess of Buffalo]]'', ''[[Dulcy (1923 film)|Dulcy]]'', ''[[Intolerance: Love's Struggle Throughout the Ages]]''
+*November 25 - [[Laurence Harvey]], 45, Lithuanian actor, ''[[The Manchurian Candidate (1962 film)|The Manchurian Candidate]]'', ''[[The Alamo (1960 film)|The Alamo]]'', ''[[Darling (1965 film)|Darling]]'', ''[[Room at the Top (1959 film)|Room at the Top]]'', ''[[Of Human Bondage (film)|Of Human Bondage]]'', ''[[Walk on the Wild Side (film)|Walk on the Wild Side]]''
+*December 20 - [[Bobby Darin]], 37, American actor, ''[[Captain Newman, M.D.]]'', ''[[If a Man Answers]]'', ''[[Come September]]'', ''[[Pressure Point (film)|Pressure Point]]'', ''[[State Fair (1962 film)|State Fair]]''
+*December 26 - [[William Haines]], 73, American actor, ''[[Show People]]'', ''[[West Point (film)|West Point]]'', ''[[Brown of Harvard (1926 film)|Brown of Harvard]]'', ''[[The Smart Set (1928 film)|The Smart Set]]'', ''[[Way Out West (1930 film)|Way Out West]]''
+
+==Debuts==
+*[[John Candy]] - ''[[Class of '44]]''
+*[[Bernadette Peters]] - ''[[Ace Eli and Rodger of the Skies]]''
+*[[Victor Garber]] - ''[[Godspell (film)|Godspell]]''
+
+==Notes==
+{{reflist |group="nb"}}
+
+==References==
+{{reflist}}
+
+[[Category:Years in film]]
+[[Category:1973 in film| ]]

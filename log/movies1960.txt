@@ -1,408 +1,203 @@
-{{Year nav topic5|1960|film|television|radio }}
-{{Yearsinfilm}} <!-- SIDEBAR NAV-BOX -->
-The year '''1960 in film''' involved some significant events.
-__TOC__
-
-==Events==
-*  March 5 - for the first time since coming home from military service in  Germany, [[Elvis Presley]] returns to [[Hollywood, California]] to film ''[[G.I. Blues]]'' 
-* August 10 - Filming of ''[[West Side Story (film)|West Side Story]]'' begins.
-* November 4 - Filming wraps on ''[[The Misfits (film)|The Misfits]]'', starring [[Marilyn Monroe]] and [[Clark Gable]] (this was the last film either performed in)
-
-==Top grossing films (US)==
-{| class="wikitable"
-|-
-! Rank || Title || Studio || Actors || Gross rental
-|-
-| 1.
-|''[[Spartacus (1960 film)|Spartacus]]''
-| Universal
-| [[Kirk Douglas]], [[Laurence Olivier]], [[Jean Simmons]], [[Tony Curtis]]
-| $14,000,000<ref name=Finler/>
-|-
-|2.
-| ''[[Psycho (1960 film)|Psycho]]''
-| [[Paramount Pictures|Paramount]]
-| [[Anthony Perkins]], [[Vera Miles]], [[John Gavin]], [[Martin Balsam]], [[Janet Leigh]] 
-| $9,100,000<ref name=Finler>{{cite book |last=Finler |first=Joel Waldo |year=2003 |title=The Hollywood Story |publisher=Wallflower Press |isbn=978-1-903364-66-6 |pages=[http://books.google.co.uk/books?id=rvVhEJmbfrsC&pg=PA358#v=twopage 358–359]}}</ref>
-|-
-|3.
-| ''[[Exodus (1960 film)|Exodus]]''
-| [[United Artists]]
-| [[Paul Newman]], [[Ralph Richardson]], [[Eva Marie Saint]], [[Sal Mineo]], [[Jill Haworth]]
-| $8,500,000<ref name=Finler/>
-|-
-|4.
-| ''[[Swiss Family Robinson (film)|Swiss Family Robinson]]''
-| [[Walt Disney Productions]]
-| [[John Mills]] and [[Dorothy McGuire]]
-| $7,900,000<ref name=Finler/>
-|-
-| 5.
-| ''[[The Alamo (1960 film)|The Alamo]]''
-| United Artists
-| [[John Wayne]] and [[Richard Widmark]]
-| $7,900,000<ref name=Finler/>
-|-
-| 6.
-| ''[[The Apartment]]''
-| United Artists
-| [[Jack Lemmon]] and [[Shirley MacLaine]]
-| $6,700,000<ref name=Finler/>
-|-
-| 7.
-|''[[BUtterfield 8]]''
-| [[MGM]]
-| [[Elizabeth Taylor]] and [[Laurence Harvey]]
-| $6,000,000<ref name=Finler/>
-|-
-| 8.
-| ''[[Ocean's Eleven (1960 film)|Ocean's 11]]''
-| [[Warner Bros.]]
-| [[Frank Sinatra]], [[Dean Martin]], [[Sammy Davis Jr.]]
-| $5,500,000<ref name=Finler/>
-|-
-| 9.
-| ''[[Please Don't Eat the Daisies (film)|Please Don't Eat the Daisies]]''
-| MGM
-| [[Doris Day]] and [[David Niven]]
-| $5,300,000<ref name=Finler/>
-|-
-| 10.
-| ''[[From the Terrace]]''
-| 20th Century Fox
-| [[Paul Newman]] and [[Joanne Woodward]]
-| $5,200,000<ref name=Finler/>
-|}
-(*) After theatrical re-issue(s)
-
-== Awards ==
-
-'''[[33rd Academy Awards|Academy Awards]]:'''
-
-:[[Academy Award for Best Picture|Best Picture]]: '''''[[The Apartment]]''''' - Mirisch, United Artists
-:[[Academy Award for Directing|Best Director]]: '''[[Billy Wilder]]''' - ''The Apartment''
-:[[Academy Award for Best Actor|Best Actor]]: '''[[Burt Lancaster]]''' - ''[[Elmer Gantry (film)|Elmer Gantry]]''
-:[[Academy Award for Best Actress|Best Actress]]: '''[[Elizabeth Taylor]]''' - ''[[BUtterfield 8]]''
-:[[Academy Award for Best Supporting Actor|Best Supporting Actor]]: '''[[Peter Ustinov]]''' - ''Spartacus''
-:[[Academy Award for Best Supporting Actress|Best Supporting Actress]]: '''[[Shirley Jones]]''' - ''Elmer Gantry''
-:[[Academy Award for Best Foreign Language Film|Best Foreign Language Film]]: '''''[[The Virgin Spring]]''''' (''Jungfrukällan''), directed by [[Ingmar Bergman]], Sweden
-
-'''[[18th Golden Globe Awards|Golden Globe Awards]]:'''
-
-:'''Drama:'''
-:[[Golden Globe Award for Best Motion Picture – Drama|Best Picture]]: '''''[[Spartacus (1960 film)|Spartacus]]'''''
-:[[Golden Globe Award for Best Actor – Motion Picture Drama|Best Actor]]: '''Burt Lancaster''' – ''Elmer Gantry''
-:[[Golden Globe Award for Best Actress – Motion Picture Drama|Best Actress]]: '''[[Greer Garson]]''' – ''[[Sunrise at Campobello]]''
-
-:'''Musical or comedy:'''
-:[[Golden Globe Award for Best Motion Picture – Musical or Comedy|Best Picture]] (tie): '''''The Apartment'''''
-:[[Golden Globe Award for Best Motion Picture – Musical or Comedy|Best Picture]] (tie): '''''[[Song Without End]]'''''
-:[[Golden Globe Award for Best Actor – Motion Picture Musical or Comedy|Best Actor]]: '''[[Jack Lemmon]]''' – ''The Apartment''
-:[[Golden Globe Award for Best Actress – Motion Picture Musical or Comedy|Best Actress]]: '''[[Shirley MacLaine]]''' – ''The Apartment''
-
-{{globalize/US|date=December 2010}}
-:'''Other'''
-:[[Golden Globe Award for Best Director – Motion Picture|Best Director]]: '''[[Jack Cardiff]]''' – ''[[Sons and Lovers (1960 film)|Sons and Lovers]]''
-
-'''[[Palme d'Or]] (Cannes Film Festival):'''
-:'''''[[La Dolce Vita]]''''', directed by [[Federico Fellini]], Italy
-
-'''[[Golden Lion]] (Venice Film Festival):'''
-:'''''[[Le passage du Rhin]]''''' (''The Crossing of the Rhine''), directed by [[André Cayatte]],   Italy / France / W.Germany
-
-'''[[Berlin Film Festival|Golden Bear]] (Berlin Film Festival):'''
-:'''''[[El lazarillo de tormes]]''''', directed by [[César Fernández Ardavín]], Spain / Italy
-
-==Notable films released in 1960==
-[[American films of 1960|U.S.A.]] unless stated
-
-'''#'''
-*''[[The 3rd Voice]]'', starring [[Edmond O'Brien]], [[Laraine Day]], [[Julie London]]
-*''[[5 Branded Women]]'', directed by [[Martin Ritt]], starring [[Vera Miles]] and [[Barbara Bel Geddes]]
-*''[[13 Ghosts]]'', directed by [[William Castle]]
-'''A'''
-*''[[Adua and Friends]]'' (Adua e le compagne), starring [[Simone Signoret]] - ([[Italian films of 1960|Italy]])
-*''[[Alakazam the Great]]'' (Saiyu-ki), an [[anime]] film - ([[Japanese films of 1960|Japan]])
-*''[[The Alamo (1960 film)|The Alamo]]'', directed by and starring [[John Wayne]], co-starring [[Richard Widmark]], [[Laurence Harvey]], [[Chill Wills]], [[Frankie Avalon]], [[Richard Boone]]
-*''[[Ali Baba Bujang Lapok]]'' - ([[List of Malaysian films#1960s|Malaysia]]/[[List of Singaporean films#1960s|Singapore]])
-*''[[The Angry Silence]]'', starring [[Richard Attenborough]] - ([[British films of 1960|U.K.]])
-*''[[Anuradha (1960 film)|Anuradha]]'' - ([[Bollywood films of 1960|India]])
-*''[[The Apartment]]'', directed by [[Billy Wilder]], starring [[Jack Lemmon]], [[Shirley MacLaine]], [[Fred MacMurray]], [[Ray Walston]], [[Edie Adams]]
-*''[[Autumn Has Already Started]]'' (Aki tachinu), directed by [[Mikio Naruse]] - ([[Japanese films of 1960|Japan]])
-*''[[L'avventura]]'' (The Adventure), directed by [[Michelangelo Antonioni]] - (Italy)
-'''B'''
-*''[[Bad Luck (film)|Bad Luck]]'' (Zezowate szcz??cie) - ([[List of Polish films of the 1960s|Poland]])
-*''[[The Bad Sleep Well]]'' (Warui yatsu hodo yoku nemuru), directed by [[Akira Kurosawa]], starring [[Toshiro Mifune]] - (Japan)
-*''[[Beat Girl]]'', starring [[David Farrar (actor)|David Farrar]] and [[Gillian Hills]] - ([[British films of 1960|U.K.]])
-*''[[The Bellboy]]'', starring [[Jerry Lewis]]
-*''[[Bells Are Ringing (film)|Bells Are Ringing]]'', starring [[Dean Martin]] and [[Judy Holliday]]
-*''[[The Big Risk]]'' (Classe tous risques), starring [[Lino Ventura]], [[Sandra Milo]] and [[Jean-Paul Belmondo]] - ([[French films of 1960|France]])
-*''[[Black Sunday (1960 film)|Black Sunday]]'' (La maschera del demonio) - ([[Italian films of 1960|Italy]])
-*''[[Les Bonnes Femmes]]'' (The Girls), directed by [[Claude Chabrol]] - (France)
-*''[[The Bramble Bush]]'', starring [[Richard Burton]] and [[Angie Dickinson]]
-*''[[Breathless (1960 film)|Breathless]]'' (À bout de souffle), directed by [[Jean-Luc Godard]], starring [[Jean-Paul Belmondo]] and [[Jean Seberg]] - (France)
-*''[[The Brides of Dracula]]'', starring [[Peter Cushing]] - ([[British films of 1960|U.K.]])
-*''[[The Broken Pots]]'' (K?r?k Çanaklar) - ([[Turkish films of the 1960s|Turkey]])
-*''[[BUtterfield 8]]'', directed by [[Daniel Mann]], starring [[Elizabeth Taylor]] and [[Laurence Harvey]]
-'''C'''
-*''[[Can-Can (film)|Can-Can]]'', starring [[Frank Sinatra]], [[Shirley MacLaine]], [[Louis Jourdan]]
-*''[[Carry On Constable]]'', starring [[Sid James]] and [[Eric Barker]] - ([[U.K.]])
-*''[[Cash McCall]]'', starring [[James Garner]] and [[Natalie Wood]]
-*''[[The Challenge (1960 film)|The Challenge]]'', aka ''It Takes A Thief'', starring [[Jayne Mansfield]] - ([[British films of 1960|U.K.]])
-*''[[Cidade Ameaçada]]'' (aka Jerry the Gangster) - ([[Brazilian films of the 1960s|Brazil]])
-*''[[Cimarron (1960 film)|Cimarron]]'', directed by [[Anthony Mann]], starring [[Glenn Ford]], [[Maria Schell]], [[Anne Baxter]]
-*''[[Cinderfella]]'', starring [[Jerry Lewis]] and [[Anna Maria Alberghetti]]
-*''[[Circus of Horrors]]'', starring [[Anton Diffring]] and [[Donald Pleasence]] - ([[U.K.]])
-*''[[Cleopatra's Daughter]]'', starring [[Debra Paget]]
-*''[[El Cochecito]]'' (The Little Coach), directed by [[Marco Ferreri]] - ([[Spanish films of 1960|Spain]])
-*''[[College Confidential (film)|College Confidential]]'', starring [[Mamie Van Doren]]
-*''[[Comanche Station]]'', directed by [[Budd Boetticher]],  starring [[Randolph Scott]]
-*''[[Come Back, Africa]]'', documentary film - ([[List of South African films|South Africa]])
-*''[[Crack in the Mirror]]'', directed by [[Richard Fleischer]], starring [[Orson Welles]], [[Bradford Dillman]], [[Juliette Gréco]]
-*''[[The Criminal]]'', directed by [[Joseph Losey]], starring [[Stanley Baker]] - ([[British films of 1960|U.K.]])
-*''[[Cruel Story of Youth]]'' (Seishun Zankoku Monogatari), directed by [[Nagisa Oshima]] - ([[Japanese films of 1960|Japan]])
-'''D'''
-*''[[The Dark at the Top of the Stairs]]'', starring [[Dorothy McGuire]], [[Shirley Knight]], [[Robert Preston (actor)|Robert Preston]]
-*''[[Dentist in the Chair]]'', starring [[Bob Monkhouse]] and [[Kenneth Connor]] - ([[British films of 1960|U.K.]])
-*''[[Desire in the Dust]]'', starring [[Joan Bennett]], [[Martha Hyer]], [[Raymond Burr]]
-*''[[Devi (1960 film)|Devi]]'' (aka The Goddess), directed by [[Satyajit Ray]] - ([[Bengali films of the 1960s|India]])
-*''[[The Devil's Eye]]'' (Djävulens öga), directed by [[Ingmar Bergman]], starring [[Bibi Andersson]] - ([[Swedish films of the 1960s|Sweden]])
-*''[[La Dolce Vita]]'' (The Sweet Life), directed by [[Federico Fellini]], starring [[Marcello Mastroianni]] and [[Anita Ekberg]] - ([[Italian films of 1960|Italy]])
-'''E'''
-*''[[Elmer Gantry (film)|Elmer Gantry]]'', directed by [[Richard Brooks]], starring [[Burt Lancaster]], [[Jean Simmons]], [[Arthur Kennedy (actor)|Arthur Kennedy]], [[Shirley Jones]]
-*''[[The Enchanting Shadow]]'' (Ching nu yu hun) - ([[Hong Kong films of 1960|Hong Kong]])
-*''[[The Entertainer (film)|The Entertainer]]'', directed by [[Tony Richardson]], starring [[Laurence Olivier]] - ([[British films of 1960|U.K.]])
-*''[[Esther and the King]]'', starring [[Joan Collins]] and [[Richard Egan (actor)|Richard Egan]] - ([[American films of 1960|U.S.]]/[[Italian films of 1960|Italy]])
-*''[[Everybody Go Home]]'' (Tutti a casa), directed by [[Luigi Comencini]] - ([[Italian films of 1960|Italy]])
-*''[[Exodus (1960 film)|Exodus]]'', directed by [[Otto Preminger]], starring [[Paul Newman]], [[Eva Marie Saint]], [[Sal Mineo]], [[Peter Lawford]], [[Lee J. Cobb]]
-*''[[Eyes Without a Face]]'' (Les yeux sans visage), starring [[Pierre Brasseur]] and [[Alida Valli]] - ([[French films of 1960|France]])
-'''F'''
-*''[[The Facts of Life (film)|The Facts of Life]]'', starring [[Bob Hope]] and [[Lucille Ball]]
-*''[[A False Student]]'' (Nise daigakusei) - ([[Japanese films of 1960|Japan]])
-*''[[Faust (1960 film)|Faust]]'' - ([[List of German films: 1960s|West Germany]])
-*''[[Five Cartridges]]'' (Fünf Patronenhülsen) - ([[List of East German films#1960s|East Germany]])
-*''[[Flaming Star]]'', starring [[Elvis Presley]] and [[Barbara Eden]]
-*''[[Fortunat]]'' (Fortunate), starring [[Bourvil]] and [[Michèle Morgan]] - ([[French films of 1960|France]]/[[Italian films of 1960|Italy]])
-*''[[From the Terrace]]'', starring [[Paul Newman]], [[Joanne Woodward]], [[Ina Balin]], [[George Grizzard]], [[Myrna Loy]]
-'''G'''
-*''[[G.I. Blues]]'', starring [[Elvis Presley]] and [[Juliet Prowse]]
-*''[[The Gallant Hours]]'', a [[biopic]] of [[William F. Halsey|Admiral "Bull" Halsey]] starring [[James Cagney]]
-*''[[Girl of the Night]]'', starring [[Anne Francis]] and [[John Kerr (actor)|John Kerr]]
-*''[[Go to Hell, Hoodlums!]]'' (Kutabare gurentai) - ([[Japanese films of 1960|Japan]])
-*''[[Goliath II]]'', a [[Disney]] animated short
-*''[[The Grass Is Greener]]'', starring [[Cary Grant]], [[Deborah Kerr]], [[Robert Mitchum]], [[Jean Simmons]]
-*''[[Guns of the Timberland]]'', starring [[Alan Ladd]]
-'''H'''
-*''[[Hell Bent for Leather (film)|Hell Bent for Leather]]'', starring [[Audie Murphy]] and [[Felicia Farr]]
-*''[[Hell is a City]]'', starring [[Stanley Baker]] - ([[British films of 1960|U.K.]])
-*''[[Heller in Pink Tights]]'', starring [[Sophia Loren]] and [[Anthony Quinn]]
-*''[[Hell to Eternity]]'', starring [[Jeffrey Hunter]] and [[David Janssen]]
-*''[[Her Brother]]'' (Otôto), directed by [[Kon Ichikawa]] - ([[Japanese films of 1960|Japan]])
-*''[[High Time (film)|High Time]]'', starring [[Bing Crosby]]
-*''[[Hobbi al-Wahid]]'' (My Only Love), starring [[Omar Sharif]] - ([[Egyptian films of the 1960s|Egypt]])
-*''[[The Hole (1960 film)|The Hole]]'' (Le Trou) (aka The Night Watch), directed by [[Jacques Becker]] - ([[French films of 1960|France]])
-*''[[Home from the Hill (film)|Home from the Hill]]'', directed by [[Vincente Minnelli]], starring [[Robert Mitchum]], [[Eleanor Parker]], [[George Peppard]]
-*''[[House of Usher (film)|House of Usher]]'', directed by [[Roger Corman]], starring [[Vincent Price]]
-*''[[The Housemaid (1960 film)|The Housemaid]]'' (Hanyeo) - ([[List of South Korean films of 1960|South Korea]])
-*''[[The Human Vapor]]'' (Gasu Ningen dai Ichigo), directed by [[Ishir? Honda]] - ([[Japanese films of 1960|Japan]])
-'''I'''
-*''[[Il Mattatore]]'', directed by [[Dino Risi]]
-*''[[I Aim at the Stars]]'', directed by [[J. Lee Thompson]], starring [[Curd Jurgens]], [[Herbert Lom]], [[Gia Scala]]
-*''[[Ice Palace (film)|Ice Palace]]'', starring [[Richard Burton]], [[Robert Ryan]] and [[Carolyn Jones]]
-*''[[Inherit the Wind (1960 film)|Inherit the Wind]]'', directed by [[Stanley Kramer]], starring [[Spencer Tracy]], [[Fredric March]], [[Gene Kelly]], [[Harry Morgan]], [[Dick York]]
-*''[[It Started in Naples]]'', starring [[Clark Gable]] and [[Sophia Loren]]
-'''J'''
-*''[[Jigoku (film)|Jigoku]]'' (Hell) - ([[Japanese films of 1960|Japan]])
-*''[[Jis Desh Mein Ganga Behti Hai]]'' (The Land Where the Ganges Flows), starring [[Raj Kapoor]] - ([[Bollywood films of 1960|India]])
-'''K'''
-*''[[Kanoon]]'' (The Law), starring [[Ashok Kumar]] - ([[Bollywood films of 1960|India]])
-*''[[Knights of the Teutonic Order (film)|Knights of the Teutonic Order]]'' (Krzy?acy), directed by [[Aleksander Ford]] - ([[List of Polish films of the 1960s|Poland]])
-'''L'''
-*''[[The Lady with the Dog (film)|The Lady with the Dog]]'' (Dama s sobachkoy) - ([[Soviet films of 1960|U.S.S.R.]])
-*''[[The Last Voyage]]'', starring [[Robert Stack]] and [[Dorothy Malone]]
-*''[[The Last Witness (1960 film)|The Last Witness]]'' (Der Letzte Zeuge) - ([[List of German films: 1960s|West Germany]])
-*''[[Last Woman on Earth]]'', directed by [[Roger Corman]]
-*''[[Late Autumn (1960 film)|Late Autumn]]'' (Akibiyori), directed by [[Yasujir? Ozu]] - ([[Japanese films of 1960|Japan]])
-*''[[The League of Gentlemen (film)|The League of Gentlemen]]'', directed by [[Basil Dearden]], starring [[Jack Hawkins]] - ([[British films of 1960|U.K.]])
-*''[[Let's Make Love]]'', starring [[Marilyn Monroe]] and [[Yves Montand]]
-*''[[The Little Soldier]]'' (Le petit soldat), directed by [[Jean-Luc Godard]], starring [[Anna Karina]] - ([[French films of 1960|France]])
-*''[[The Little Shop of Horrors]]'', directed by [[Roger Corman]]
-*''[[Linda (film)|Linda]]'', starring [[Carol White]] - (U.K.)
-*''[[The Lost World (1960 film)|The Lost World]]'', starring [[Michael Rennie]] and [[Jill St. John]]
-*''[[Love in Simla]]'', starring [[Joy Mukherjee]] and [[Sadhana (actress)|Sadhana]] - ([[Bollywood films of 1960|India]])
-'''M'''
-*''[[Macario (film)|Macario]]'', directed by [[Roberto Gavaldón]] - ([[Mexican films of 1960|Mexico]])
-*''[[Macumba Love]]'' - ([[American films of 1960|U.S.A.]]/[[Brazilian films of the 1960s|Brazil]])
-*''[[The Magnificent Seven]]'', directed by [[John Sturges]], starring [[Yul Brynner]], [[Steve McQueen]], [[Charles Bronson]], [[Eli Wallach]], [[Robert Vaughn]], [[James Coburn]], [[Brad Dexter]], [[Horst Buchholz]]
-*''[[Make Mine Mink]]'', starring [[Terry-Thomas]] - (U.K.)
-*''[[Makkers Staakt uw Wild Geraas]]'' (aka That Joyous Eve), directed by [[Fons Rademakers]] - ([[Dutch films of the 1960s|Netherlands]])
-*''[[Man in the Moon (film)|Man in the Moon]]'', starring [[Kenneth More]] - (U.K.)
-*''[[Manzil (1960 film)|Manzil]]'' (Destination), starring [[Dev Anand]] - ([[Bollywood films of 1960|India]])
-*''[[Midnight Lace]]'', starring [[Doris Day]], [[Rex Harrison]], [[John Gavin]], [[Myrna Loy]]
-*''[[The Millionairess]]'', directed by [[Anthony Asquith]], starring [[Sophia Loren]] and [[Peter Sellers]] - ([[British films of 1960|U.K.]])
-*''[[The Mountain Road]]'', starring [[James Stewart]]
-* ''[[Mrs. Warren's Profession (film)|Mrs. Warren's Profession]]'' (Frau Warrens Gewerbe), starring [[Lilli Palmer]] ([[List of German films: 1960s|West Germany]])
-*''[[Mughal-e-Azam]]'' (The Greatest of the Mughals), starring [[Dilip Kumar]] and [[Madhubala]] - ([[Bollywood films of 1960|India]])
-*''[[Murder, Inc. (film)|Murder, Inc.]]'', starring [[Peter Falk]], [[Stuart Whitman]], [[May Britt]], [[Henry Morgan (comedian)|Henry Morgan]]
-'''N'''
-*''[[The Naked Island]]'' (Hadaka no shima) - ([[Japanese films of 1960|Japan]])
-*''[[Never on Sunday]]'', directed by [[Jules Dassin]], starring [[Melina Mercouri]] - ([[Greek films of the 1960s|Greece]]/[[American films of 1960|U.S.A.]])
-*''[[Never Take Sweets from a Stranger]]'', starring [[Patrick Allen]] and [[Gwen Watford]] - ([[British films of 1960|U.K.]])
-*''[[Night and Fog in Japan]]'' (Nihon no yoru to kiri), directed by [[Nagisa Oshima]] - ([[Japanese films of 1960|Japan]])
-*''[[The Ninth Circle]]'' (Deveti krug) - ([[List of Yugoslav films of the 1960s|Yugoslavia]])
-*''[[North to Alaska]]'', starring [[John Wayne]], [[Stewart Granger]], [[Ernie Kovacs]], [[Capucine]], [[Fabian Forte]]
-'''O'''
-*''[[Obaltan]]'' (aka The Stray Bullet) - ([[List of South Korean films of 1960|South Korea]])
-*''[[Ocean's Eleven (1960 film)|Ocean's Eleven]]'', starring [[Frank Sinatra]], [[Dean Martin]], [[Sammy Davis Jr.]], [[Peter Lawford]], [[Joey Bishop]], [[Angie Dickinson]]
-*''[[Once More, with Feeling!]]'', directed by [[Stanley Donen]], starring [[Yul Brynner]]
-*''[[Our Last Spring]]'' (aka Eroica), directed by [[Michael Cacoyannis]] - ([[Greek films of the 1960s|Greece]])
-'''P'''
-*''[[Parakh (1960 film)|Parakh]]'', directed by [[Bimal Roy]] - ([[Bollywood films of 1960|India]])
-*''[[The Party Is Over]]'' (Fin de fiesta) - ([[List of Argentine films of 1960|Argentina]])
-*''[[Le Passage du Rhin]]'', starring [[Charles Aznavour]] - ([[French films of 1960|France]]/[[Italian films of 1960|Italy]]/[[List of German films: 1960s|West Germany]])
-*''[[Peeping Tom (film)|Peeping Tom]]'', directed by [[Michael Powell]] - ([[British films of 1960|U.K.]])
-*''[[Pepe (film)|Pepe]]'', starring [[Cantinflas]]
-*''[[Please Don't Eat the Daisies (film)|Please Don't Eat the Daisies]]'', starring [[Doris Day]] and [[David Niven]]
-*''[[Pollyanna (1960 film)|Pollyanna]]'', starring [[Hayley Mills]]
-*''[[Portrait in Black]]'', starring [[Lana Turner]], [[Anthony Quinn]], [[Sandra Dee]]
-*''[[The Private Lives of Adam and Eve (film)|The Private Lives of Adam and Eve]]'', starring [[Mickey Rooney]] and [[Mamie Van Doren]]
-*''[[Psycho (1960 film)|Psycho]]'', directed by [[Alfred Hitchcock]], starring [[Anthony Perkins]], [[Vera Miles]], [[Janet Leigh]], [[Martin Balsam]], [[John Gavin]]
-*''[[The Pure Hell of St Trinian's]]'', starring [[Cecil Parker]] and [[Joyce Grenfell]] - ([[British films of 1960|U.K.]])
-*''[[Purple Noon]]'' (Plein Soleil), aka ''Blazing Sun'', directed by [[René Clément]], starring [[Alain Delon]] - ([[French films of 1960|France]])
-'''Q'''
-*''[[The Queen of Spades (1960 film)|The Queen of Spades]]'' (Pikovaya dama) - ([[Soviet films of 1960|U.S.S.R.]])
-'''R'''
-*''[[The Rat Race]]'', starring [[Debbie Reynolds]], [[Tony Curtis]], [[Don Rickles]]
-*''[[The Rise and Fall of Legs Diamond]]'', directed by [[Budd Boetticher]], starring [[Ray Danton]] and [[Karen Steele]]
-*''[[Rocco and His Brothers]]'' (Rocco e i suoi fratelli), directed by [[Luchino Visconti]], starring [[Alain Delon]] - ([[Italian films of 1960|Italy]]/[[French films of 1960|France]])
-*''[[Romeo, Juliet and Darkness]]'' (Romeo, Julie a tma) - ([[Czech films of the 1960s|Czechoslovakia]])
-*''[[The Running Jumping & Standing Still Film]]'', directed by [[Richard Lester]] and [[Peter Sellers]] - ([[British films of 1960|U.K.]])
-'''S'''
-*''[[Saturday Night and Sunday Morning (film)|Saturday Night and Sunday Morning]]'', directed by [[Karel Reisz]], starring [[Albert Finney]], [[Shirley Anne Field]], [[Rachel Roberts (actress)|Rachel Roberts]] - (U.K.)
-*''[[The Savage Innocents]]'', directed by [[Nicholas Ray]], starring [[Anthony Quinn]]
-*''[[Scent of Mystery]]'', starring [[Denholm Elliott]] and [[Elizabeth Taylor]]
-*''[[School for Scoundrels (1960 film)|School for Scoundrels]]'', directed by [[Robert Hamer]], starring [[Ian Carmichael]] and [[Terry-Thomas]] - ([[British films of 1960|U.K.]])
-*''[[September Storm]]'', starring [[Joanne Dru]]
-*''[[Sergeant Rutledge]]'', starring [[Jeffrey Hunter]] and [[Woody Strode]]
-*''[[Seven Days... Seven Nights]]'' (Moderato cantabile), starring [[Jeanne Moreau]] - ([[French films of 1960|France]])
-*''[[Seven Thieves]]'', starring [[Edward G. Robinson]], [[Rod Steiger]], [[Eli Wallach]], [[Joan Collins]]
-*''[[Shoot the Pianist]]'' (Tirez sur le pianiste), directed by [[François Truffaut]], starring [[Charles Aznavour]] - ([[French films of 1960|France]])
-*''[[Sink the Bismarck!]]'', starring [[Kenneth More]] - (U.K.)
-*''[[El Esqueleto de la señora Morales|The Skeleton of Mrs. Morales]]'' (El Esqueleto de la señora Morales), starring [[Arturo de Córdova]] - ([[Mexican films of 1960|Mexico]])
-*''[[Song Without End]]'', starring [[Dirk Bogarde]], [[Capucine]], [[Patricia Morison]]
-*''[[Sons and Lovers (1960 film)|Sons and Lovers]]'', directed by [[Jack Cardiff]], starring [[Dean Stockwell]] and [[Trevor Howard]] - ([[British films of 1960|U.K.]])
-*''[[Spartacus (film)|Spartacus]]'', directed by [[Stanley Kubrick]], starring [[Kirk Douglas]], [[Laurence Olivier]], [[Jean Simmons]], [[Charles Laughton]], [[John Gavin]], [[Peter Ustinov]], [[Tony Curtis]]
-*''[[The Spider's Web (1960 film)|The Spider's Web]]'', directed by [[Godfrey Grayson]]. Based on an [[Agatha Christie]] play ([[British films of 1960|U.K.]])
-*''[[The Story of Ruth]]'', a Biblical drama starring [[Stuart Whitman]] and [[Peggy Wood]]
-*''[[Strangers When We Meet (film)|Strangers When We Meet]]'', starring [[Kim Novak]], [[Kirk Douglas]], [[Ernie Kovacs]]
-*''[[Struggle for Eagle Peak]]'' (Venner) - ([[Norwegian films of the 1960s|Norway]])
-*''[[The Sundowners]]'', directed by [[Fred Zinnemann]], starring [[Deborah Kerr]] and [[Robert Mitchum]] - ([[American films of 1960|U.S.A.]]/[[British films of 1960|U.K.]]/[[Australian films of the 1960s|Australia]])
-*''[[Summer of the Seventeenth Doll]]'', aka ''Season of Passion'', starring [[Anne Baxter]], [[Angela Lansbury]], [[Ernest Borgnine]], [[John Mills]]
-*''[[Sunrise at Campobello]]'', starring [[Ralph Bellamy]] (as [[Franklin D. Roosevelt]]) and [[Greer Garson]]
-*''[[Surprise Package (film)|Surprise Package]]'', directed by [[Stanley Donen]], starring [[Yul Brynner]], [[Mitzi Gaynor]], [[Noël Coward]]
-*''[[Swiss Family Robinson (film)|Swiss Family Robinson]]'', starring [[John Mills]] and [[Dorothy McGuire]]
-'''T'''
-*''[[Tall Story]]'', starring [[Jane Fonda]] and [[Anthony Perkins]]
-*''[[Tarzan the Magnificent]]'', starring [[Gordon Scott]], [[Jock Mahoney]], [[John Carradine]]
-*''[[A Terrible Beauty (film)|A Terrible Beauty]]'', directed by [[Tay Garnett]], starring [[Robert Mitchum]] and [[Anne Heywood]]
-*''[[Testament of Orpheus]]'' (Le Testament d'Orphée), directed by [[Jean Cocteau]] - ([[French films of 1960|France]])
-*''[[There Was a Crooked Man (film)|There Was a Crooked Man]]'', starring [[Norman Wisdom]] - ([[British films of 1960|U.K.]])
-*''[[The Thousand Eyes of Dr. Mabuse]]'' (Die tausend Augen des Dr. Mabuse), directed by [[Fritz Lang]] - ([[List of German films: 1960s|West Germany]])
-*''[[The Three Worlds of Gulliver]]'', starring [[Kerwin Mathews]]
-*''[[The Time Machine (1960 film)|The Time Machine]]'', starring [[Rod Taylor]] and [[Yvette Mimieux]]
-*''[[Too Hot to Handle (1960 film)|Too Hot to Handle]]'', starring [[Jayne Mansfield]] - (U.K.)
-*''[[The Trials of Oscar Wilde]]'', starring [[Peter Finch]] - (U.K.)
-*''[[La Vérité (film)|The Truth]]'' (La Vérité), directed by [[Henri-Georges Clouzot]], starring [[Brigitte Bardot]] - ([[French films of 1960|France]])
-*''[[Tunes of Glory]]'', directed by [[Ronald Neame]], starring [[Alec Guinness]] - ([[British films of 1960|U.K.]])
-*''[[Twelve Hours to Kill]]'', starring [[Nico Mirandos]] and [[Barbara Eden]]
-*''[[Two-Way Stretch]]'', starring [[Peter Sellers]] - (U.K.)
-*''[[Two Women]]'', directed by [[Vittorio De Sica]], starring [[Sophia Loren]] - ([[Italian films of 1960|Italy]])
-'''U'''
-*''[[The Unforgiven (1960 film)|The Unforgiven]]'', starring [[Burt Lancaster]] and [[Audrey Hepburn]]
-*''[[Universe (1960 film)|Universe]]'' - ([[List of Canadian films#1960s|Canada]])
-'''V'''
-*''[[Vice Raid]]'', starring [[Mamie Van Doren]]
-*''[[Village of the Damned (1960 film)|Village of the Damned]]'', starring [[George Sanders]] and [[Barbara Shelley]] - ([[British films of 1960|U.K.]])
-*''[[The Virgin Spring]]'' (Jungfrukällan), directed by [[Ingmar Bergman]], starring [[Max von Sydow]] - ([[Swedish films of the 1960s|Sweden]])
-*''[[Visit to a Small Planet]]'', starring [[Jerry Lewis]]
-'''W'''
-*''[[The Wackiest Ship in the Army (film)|The Wackiest Ship in the Army]]'', starring [[Jack Lemmon]] and [[Ricky Nelson]]
-*''[[Watch Your Stern]]'', starring [[Eric Barker]] and [[Leslie Phillips]] - ([[British films of 1960|U.K.]])
-*''[[When a Woman Ascends the Stairs]]'' (Onna ga kaidan wo agaru toki), directed by [[Mikio Naruse]] - ([[Japanese films of 1960|Japan]])
-*''[[Where the Boys Are]]'', starring [[George Hamilton (actor)|George Hamilton]], [[Paula Prentiss]], [[Connie Francis]]
-*''[[The White Horse Inn]]'' (Im weißen Rößl) - ([[List of German films: 1960s|West Germany]]/[[Austrian films of the 1960s|Austria]])
-*''[[Who Was That Lady?]]'', starring [[Dean Martin]], [[Tony Curtis]] and [[Janet Leigh]]
-*''[[Wild River (film)|Wild River]]'', directed by [[Elia Kazan]], starring [[Montgomery Clift]]
-*''[[The World of Suzie Wong (film)|The World of Suzie Wong]]'', starring [[Nancy Kwan]] and [[William Holden]] - ([[British films of 1960|U.K.]]/U.S.)
-'''Y'''
-*''[[Ta kitrina gantia|The Yellow Gloves]]'' (Ta kitrina gantia) - ([[Greek films of the 1960s|Greece]])
-*''[[The Young One]]'' (La Joven), directed by [[Luis Buñuel]] - ([[Mexican films of 1960|Mexico]]/[[American films of 1960|U.S.A.]])
-'''Z'''
-*''[[Zazie dans le Métro]]'', directed by [[Louis Malle]] - ([[French films of 1960|France]])
-
-==Short Film Series==
-*''[[Looney Tunes]]'' ([[1930 in film|1930]]&ndash;[[1969 in film|1969]])
-*''[[Terrytoons]]'' ([[1930 in film|1930]]&ndash;[[1964 in film|1964]])
-*''[[Merrie Melodies]]'' ([[1931 in film|1931]]&ndash;[[1969 in film|1969]])
-*''[[Bugs Bunny]]'' ([[1940 in film|1940]]&ndash;[[1962 in film|1962]])
-*''[[Yosemite Sam]]'' ([[1945 in film|1945]]&ndash;[[1963 in film|1963]])
-*''[[Speedy Gonzales]]'' ([[1953 in film|1953]]&ndash;[[1968 in film|1968]])
-
-==Births==
-*January 12 - [[Oliver Platt]], Canadian actor
-*January 13 - [[Kevin Anderson (actor)|Kevin Anderson]], actor
-*February 7 - [[James Spader]], actor
-*February 18 - [[Tony Anselmo]], American animator and cartoon voice actor
-*February 28 - [[Dorothy Stratten]], Canadian model and actress (died 1980)
-*April 4 - [[Hugo Weaving]], Nigerian-born actor
-*April 14 – [[Brad Garrett]], American actor, voice actor, stand-up comedian & professional poker-player
-*March 31 - [[Michelle Nicastro]], actress and singer (died 2010)
-*May 21 - [[Mohanlal]] , Indian actor
-*May 24 - [[Kristin Scott Thomas]], English actress
-*May 31 - [[Chris Elliott]], actor and comedian
-*June 17- [[Thomas Haden Church]], actor
-*July 14- [[Jane Lynch]], actress
-*August 7 - [[David Duchovny]], actor
-*August 16 - [[Timothy Hutton]], actor
-*August 10 - [[Antonio Banderas]], Spanish actor
-*August 17 - [[Sean Penn]], actor
-*September 9 - [[Hugh Grant]], English actor
-*September 10 - [[Colin Firth]], English actor
-*October 18 - [[Jean-Claude Van Damme]], Belgian actor
-*November 5 - [[Tilda Swinton]], English actress
-*November 11 - [[Stanley Tucci]], actor and film director
-*December 3 
-**[[Daryl Hannah]], actress
-**[[Julianne Moore]], actress
-*December 10 - [[Kenneth Branagh]], Northern Irish actor and film director
-
-==Deaths==
-*January 1 - [[Margaret Sullavan]], 50, American actress, ''[[The Shop Around the Corner]]'', ''[[The Mortal Storm]]'', ''[[Three Comrades (film)|Three Comrades]]'', ''[[The Good Fairy (film)|The Good Fairy]]'', ''[[The Shopworn Angel]]''
-*January 3 – [[Victor Sjöström]], 80, Swedish film actor and director, ''[[The Phantom Carriage]]'', ''[[Wild Strawberries (film)|Wild Strawberries]]'', ''[[A Man There Was]]'', ''[[The Scarlet Letter (1926 film)|The Scarlet Letter]]''
-*January 20 - [[Matt Moore (actor)|Matt Moore]], 72, Irish-American actor, ''[[Seven Brides for Seven Brothers]]'', ''[[Coquette (film)|Coquette]]'', ''[[The Unholy Three (1925 film)|The Unholy Three]]'', ''[[The Front Page (1931 film)|The Front Page]]'', ''[[An Affair to Remember]]'', ''[[That Forsyte Woman]]'', ''[[Spellbound (1945 film)|Spellbound]]'', ''[[Wilson (film)|Wilson]]'', ''[[Anything Goes (1936 film)|Anything Goes]]''
-*February 3 - [[Fred Buscaglione]], 38, Italian actor and singer
-*April 25 - [[Hope Emerson]], 62, American actress, ''[[Caged]]'', ''[[Adam's Rib]]'', ''[[Cry of the City]]''
-*May 27 - [[George Zucco]], 74, British actor, ''[[The Adventures of Sherlock Holmes (film)|The Adventures of Sherlock Holmes]]'', ''[[My Favorite Blonde]]'', ''[[Scared to Death]]'', ''[[Sherlock Holmes in Washington]]''
-*November 3 - [[Paul Willis (actor)|Paul Willis]], 59, American silent-film actor
-*November 5 
-**[[Ward Bond]], 57, American actor, ''[[It's a Wonderful Life]]'', ''[[Gone with the Wind (film)|Gone with the Wind]]'', ''[[The Maltese Falcon (1941 film)|The Maltese Falcon]]'', ''[[Sergeant York (film)|Sergeant York]]'', ''[[Bringing Up Baby]]'', ''[[The Quiet Man]]'', ''[[The Searchers (film)|The Searchers]]'', ''[[Rio Bravo (film)|Rio Bravo]]''
-**[[Mack Sennett]], 80, Canadian-American producer and director, ''[[Tillie's Punctured Romance (1914 film)|Tillie's Punctured Romance]]'', ''[[Tango Tangles]]'', ''[[The Fatal Mallet]]'', ''[[Mabel at the Wheel]]'', ''[[Girl Crazy (1929 film)|Girl Crazy]]''
-*November 16 - [[Clark Gable]], 59, American actor, ''[[It Happened One Night]]'', ''[[Gone with the Wind (film)|Gone with the Wind]]'', ''[[The Misfits (film)|The Misfits]]'', ''[[Mutiny on the Bounty (1935 film)|Mutiny on the Bounty]]'', ''[[Never Let Me Go (1953 film)|Never Let Me Go]]'', ''[[Cain and Mabel]]'', ''[[Wife vs. Secretary]]'', ''[[The Call of the Wild (1935 film)|The Call of the Wild]]'', ''[[Manhattan Melodrama]]'', ''[[Teacher's Pet (1958 film)|Teacher's Pet]]'', ''[[Mogambo]]'', ''[[Boom Town (film)|Boom Town]]''
-*November 19 -  [[Phyllis Haver]], 61, American actress, ''[[Chicago (1927 film)|Chicago]]'', ''[[Sal of Singapore]]'', ''[[The Battle of the Sexes (1928 film)|The Battle of the Sexes]]'', ''[[The Way of All Flesh (film)|The Way of All Flesh]]''
-
-== Film debuts ==
-*[[Alan Bates]] - ''[[The Entertainer (film)|The Entertainer]]''
-*[[Albert Finney]] - The Entertainer
-*[[Jane Fonda]] - ''[[Tall Story]]''
-*[[Norman Jewison]] - director, ''[[The Fabulous Fifties]]''
-*[[Peter O'Toole]] - ''[[Kidnapped (1960 film)|Kidnapped]]''
-*[[Robert Redford]] - ''Tall Story''
-*[[Gian Maria Volonte]] - ''[[Under Ten Flags]]''
-*[[Susannah York]] - ''[[Tunes of Glory]]''
-
-== References ==
-{{reflist}}
-
-{{DEFAULTSORT:1960 In Film}}
-[[Category:1960 in film| ]]
-[[Category:Years in film]]
+The 3rd Voice
+5 Branded Women
+13 Ghosts
+Adua and Friends
+Alakazam the Great
+The Alamo (1960 film)
+Ali Baba Bujang Lapok
+The Angry Silence
+Anuradha (1960 film)
+The Apartment
+Autumn Has Already Started
+L'avventura
+Bad Luck (film)
+The Bad Sleep Well
+Beat Girl
+The Bellboy
+Bells Are Ringing (film)
+The Big Risk
+Black Sunday (1960 film)
+Les Bonnes Femmes
+The Bramble Bush
+Breathless (1960 film)
+The Brides of Dracula
+The Broken Pots
+BUtterfield 8
+Can-Can (film)
+Carry On Constable
+Cash McCall
+The Challenge (1960 film)
+Cidade Ameaçada
+Cimarron (1960 film)
+Cinderfella
+Circus of Horrors
+Cleopatra's Daughter
+El Cochecito
+College Confidential (film)
+Comanche Station
+Come Back, Africa
+Crack in the Mirror
+The Criminal
+Cruel Story of Youth
+The Dark at the Top of the Stairs
+Dentist in the Chair
+Desire in the Dust
+Devi (1960 film)
+The Devil's Eye
+La Dolce Vita
+Elmer Gantry (film)
+The Enchanting Shadow
+The Entertainer (film)
+Esther and the King
+Everybody Go Home
+Exodus (1960 film)
+Eyes Without a Face
+The Facts of Life (film)
+A False Student
+Faust (1960 film)
+Five Cartridges
+Flaming Star
+Fortunat
+From the Terrace
+G.I. Blues
+The Gallant Hours
+Girl of the Night
+Go to Hell, Hoodlums!
+Goliath II
+The Grass Is Greener
+Guns of the Timberland
+Hell Bent for Leather (film)
+Hell is a City
+Heller in Pink Tights
+Hell to Eternity
+Her Brother
+High Time (film)
+Hobbi al-Wahid
+The Hole (1960 film)
+Home from the Hill (film)
+House of Usher (film)
+The Housemaid (1960 film)
+The Human Vapor
+Il Mattatore
+I Aim at the Stars
+Ice Palace (film)
+Inherit the Wind (1960 film)
+It Started in Naples
+Jigoku (film)
+Jis Desh Mein Ganga Behti Hai
+Kanoon
+Knights of the Teutonic Order (film)
+The Lady with the Dog (film)
+The Last Voyage
+The Last Witness (1960 film)
+Last Woman on Earth
+Late Autumn (1960 film)
+The League of Gentlemen (film)
+Let's Make Love
+The Little Soldier
+The Little Shop of Horrors
+Linda (film)
+The Lost World (1960 film)
+Love in Simla
+Macario (film)
+Macumba Love
+The Magnificent Seven
+Make Mine Mink
+Makkers Staakt uw Wild Geraas
+Man in the Moon (film)
+Manzil (1960 film)
+Midnight Lace
+The Millionairess
+The Mountain Road
+Mrs. Warren's Profession (film)
+Mughal-e-Azam
+Murder, Inc. (film)
+The Naked Island
+Never on Sunday
+Never Take Sweets from a Stranger
+Night and Fog in Japan
+The Ninth Circle
+North to Alaska
+Obaltan
+Ocean's Eleven (1960 film)
+Once More, with Feeling!
+Our Last Spring
+Parakh (1960 film)
+The Party Is Over
+Le Passage du Rhin
+Peeping Tom (film)
+Pepe (film)
+Please Don't Eat the Daisies (film)
+Pollyanna (1960 film)
+Portrait in Black
+The Private Lives of Adam and Eve (film)
+Psycho (1960 film)
+The Pure Hell of St Trinian's
+Purple Noon
+The Queen of Spades (1960 film)
+The Rat Race
+The Rise and Fall of Legs Diamond
+Rocco and His Brothers
+Romeo, Juliet and Darkness
+The Running Jumping & Standing Still Film
+Saturday Night and Sunday Morning (film)
+The Savage Innocents
+Scent of Mystery
+School for Scoundrels (1960 film)
+September Storm
+Sergeant Rutledge
+Seven Days... Seven Nights
+Seven Thieves
+Shoot the Pianist
+Sink the Bismarck!
+El Esqueleto de la señora Morales
+Song Without End
+Sons and Lovers (1960 film)
+Spartacus (film)
+The Spider's Web (1960 film)
+The Story of Ruth
+Strangers When We Meet (film)
+Struggle for Eagle Peak
+The Sundowners
+Summer of the Seventeenth Doll
+Sunrise at Campobello
+Surprise Package (film)
+Swiss Family Robinson (film)
+Tall Story
+Tarzan the Magnificent
+A Terrible Beauty (film)
+Testament of Orpheus
+There Was a Crooked Man (film)
+The Thousand Eyes of Dr. Mabuse
+The Three Worlds of Gulliver
+The Time Machine (1960 film)
+Too Hot to Handle (1960 film)
+The Trials of Oscar Wilde
+La Vérité (film)
+Tunes of Glory
+Twelve Hours to Kill
+Two-Way Stretch
+Two Women
+The Unforgiven (1960 film)
+Universe (1960 film)
+Vice Raid
+Village of the Damned (1960 film)
+The Virgin Spring
+Visit to a Small Planet
+The Wackiest Ship in the Army (film)
+Watch Your Stern
+When a Woman Ascends the Stairs
+Where the Boys Are
+The White Horse Inn
+Who Was That Lady?
+Wild River (film)
+The World of Suzie Wong (film)
+Ta kitrina gantia
+The Young One
+Zazie dans le Métro
+Looney Tunes
+Terrytoons
+Merrie Melodies
+Bugs Bunny
+Yosemite Sam
+Speedy Gonzales

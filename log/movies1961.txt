@@ -1,408 +1,182 @@
-{{Year nav topic5|1961|film|television|radio }}
-{{Yearsinfilm}}<!-- SIDEBAR NAV-BOX -->
-The year '''1961 in film''' involved some significant events, with ''[[West Side Story]]'' winning 10 [[Academy Awards]].
-<!--
-==Events==
-Any events? -->
-
-==Top grossing films (U.S.)==
-{| class="wikitable"
-! Rank || Title || Studio || Actors || Gross 
-|-
-| 1. 
-|''[[West Side Story (film)|West Side Story]]''
-| [[United Artists]]
-| [[Natalie Wood]], [[Richard Beymer]], [[Rita Moreno]], [[George Chakiris]], and [[Russ Tamblyn]]
-| '''$43,656,822'''<ref>[http://boxofficemojo.com/movies/?id=westsidestory.htm Box Office Information for ''West Side Story''.] [[Box Office Mojo]]. Retrieved September 7, 2013.</ref>
-|-
-| 2.
-|''[[The Guns of Navarone (film)|The Guns of Navarone]]''
-| [[Columbia Pictures|Columbia]]
-| [[Gregory Peck]], [[Anthony Quinn]], and [[David Niven]]
-| '''$28,900,000'''<ref>[http://www.the-numbers.com/movies/1961/0GOFN.php Box Office Information for ''|The Guns of Navarone''.] The Numbers. Retrieved September 7, 2013.</ref>
-|-
-| 3.
-| ''[[El Cid (film)|El Cid]]''
-| [[Monogram Pictures|Allied Artists]]
-| [[Charlton Heston]] and [[Sophia Loren]]
-| '''$26,600,000'''<ref>[http://www.the-numbers.com/movies/1961/0LCID.php Box Office Information for ''El Cid''.] The Numbers. Retrieved September 7, 2013.</ref>
-|-
-| 4.
-| ''[[The Absent-Minded Professor]]''
-| [[Walt Disney Productions]]
-| [[Fred MacMurray]], [[Nancy Olson]], [[Keenan Wynn]], [[Tommy Kirk]], [[Leon Ames (actor)|Leon Ames]], [[Elliot Reid]], and [[Ed Wynn]]
-| '''$25,381,407'''<ref>[http://www.the-numbers.com/movies/1961/0AMPR.php Box Office Information for ''The Absent-Minded Professor''.] The Numbers. Retrieved September 7, 2013.</ref>
-|-
-| 5.
-|''[[The Parent Trap (1961 film)|The Parent Trap]]''
-| [[Walt Disney Productions]]
-| [[Hayley Mills]], [[Maureen O'Hara]], and [[Brian Keith]]
-| '''$25,150,385'''<ref>[http://www.the-numbers.com/movies/1961/0PT61.php Box Office Information for ''The Parent Trap''.] The Numbers. Retrieved September 7, 2013.</ref>
-|-
-| 6.
-| ''[[La Dolce Vita]]''
-| [[Koch-Lorber Films]]
-| [[Marcello Mastroianni]] and [[Anita Ekberg]]
-| '''$19,516,000'''<ref>[http://www.the-numbers.com/movies/1961/0AMPR.php Box Office Information for ''The Absent-Minded Professor''.] The Numbers. Retrieved September 7, 2013.</ref>
-|-
-| 7.
-| ''[[Lover Come Back (1961 film)|Lover Come Back]]''
-| [[Universal Pictures|Universal]]
-| [[Doris Day]] and [[Rock Hudson]]
-| '''$16,937,969'''<ref>[http://www.the-numbers.com/movies/1961/00240.php Box Office Information for ''Lover Come Back''.] The Numbers. Retrieved September 7, 2013.</ref>
-|-
-| 8.
-| ''[[King of Kings (1961 film)|King of Kings]]''
-| [[MGM]]
-| [[Jeffrey Hunter]]
-| '''$14,483,352'''<ref>[http://www.the-numbers.com/movies/1961/0KOKG.php Box Office Information for ''King of Kings''.] The Numbers. Retrieved September 7, 2013.</ref>
-|-
-| 9.
-| ''[[One Hundred and One Dalmatians]]''
-| [[Walt Disney Productions]]
-| voices of [[Rod Taylor]], [[Ben Wright (actor)|Ben Wright]], [[Betty Lou Gerson]], [[Cate Bauer]], and [[J. Pat O'Malley]]
-| '''$14,000,000'''<ref>[http://boxofficemojo.com/movies/?id=101dalmations.htm Box Office Information for ''One Hundred and One Dalmatians''.] [[Box Office Mojo]]. Retrieved September 7, 2013.</ref>
-|-
-| 10.
-| ''[[Splendor in the Grass]]''
-| [[Warner Bros.]]
-| [[Natalie Wood]] and [[Warren Beatty]]
-| '''$11,426,000'''
-|-
-| 11.
-| ''[[Blue Hawaii]]''
-| [[Paramount Pictures|Paramount]]
-| [[Elvis Presley]]
-| '''$10,440,453'''<ref>[http://www.the-numbers.com/movies/1961/0BHWI.php Box Office Information for ''Blue Hawaii''.] The Numbers. Retrieved September 7, 2013.</ref>
-|-
-| 12.
-| ''[[Judgment at Nuremberg]]''
-| [[United Artists]]
-| [[Spencer Tracy]], [[Maximilian Schell]], [[Burt Lancaster]], [[Judy Garland]], [[Marlene Dietrich]]
-| '''$10,000,000'''<ref>[http://www.the-numbers.com/movies/1961/0JDNR.php Box Office Information for ''Judgment at Nuremberg.''] The Numbers. Retrieved April 14, 2012.</ref>
-|-
-| 13.
-|''[[Breakfast at Tiffany's (film)|Breakfast at Tiffany's]]''
-| [[Paramount Pictures|Paramount]]
-| [[Audrey Hepburn]] and [[George Peppard]]
-| '''$9,551,904'''<ref>[http://www.the-numbers.com/movies/1961/0BFTI.php Box Office Information for ''Breakfast at Tiffany's''.] The Numbers. Retrieved September 7, 2013.</ref>
-|-
-| 14.
-| ''[[The Misfits (film)|The Misfits]]''
-| [[MGM]]
-| [[Clark Gable]], [[Marilyn Monroe]], and [[Montgomery Clift]]
-|'''$8,200,000'''<ref>[http://www.the-numbers.com/movies/1961/0MSFT.php Box Office Information for ''The Misfits''.] The Numbers. Retrieved September 7, 2013.</ref>
-|-
-|}
-
-== Awards ==
- 
-'''[[34th Academy Awards|Academy Awards]]:'''
-
-:[[Academy Award for Best Picture|Best Picture]]: '''''[[West Side Story (film)|West Side Story]]''''' - Mirisch-B&P Enterprises, United Artists
-:[[Academy Award for Directing|Best Director]]: '''[[Robert Wise]]''' and '''[[Jerome Robbins]]''' - ''West Side Story''
-:[[Academy Award for Best Actor|Best Actor]]: '''[[Maximilian Schell]]''' - ''[[Judgment at Nuremberg]]''
-:[[Academy Award for Best Actress|Best Actress]]: '''[[Sophia Loren]]''' - ''[[Two Women]]''
-:[[Academy Award for Best Supporting Actor|Best Supporting Actor]]: '''[[George Chakiris]]''' - ''West Side Story''
-:[[Academy Award for Best Supporting Actress|Best Supporting Actress]]: '''[[Rita Moreno]]''' - ''West Side Story''
-:[[Academy Award for Best Foreign Language Film|Best Foreign Language Film]]: '''''[[Through a Glass Darkly (film)|Through a Glass Darkly]]''''' (''Såsom i en spegel''), directed by [[Ingmar Bergman]], Sweden
-
-'''[[19th Golden Globe Awards|Golden Globe Awards]]:'''
-
-:<u>'''Drama:'''</u>
-:[[Golden Globe Award for Best Motion Picture – Drama|Best Picture]]: '''''[[The Guns of Navarone (film)|The Guns of Navarone]]'''''
-:[[Golden Globe Award for Best Actor – Motion Picture Drama|Best Actor]]: '''Maximilian Schell''' - ''[[Judgement at Nuremberg]]''
-:[[Golden Globe Award for Best Actress – Motion Picture Drama|Best Actress]]: '''[[Geraldine Page]]''' - ''[[Summer and Smoke (film)|Summer and Smoke]]''
- 
-:<u>'''Musical or comedy:'''</u>
-:[[Golden Globe Award for Best Motion Picture – Musical or Comedy|Best Picture]] (tie): '''''[[A Majority of One]]'''''
-:[[Golden Globe Award for Best Motion Picture – Musical or Comedy|Best Picture]] (tie): '''''West Side Story'''''
-:[[Golden Globe Award for Best Actor – Motion Picture Musical or Comedy|Best Actor]]: '''[[Glenn Ford]]''' - ''[[Pocketful of Miracles]]''
-:[[Golden Globe Award for Best Actress – Motion Picture Musical or Comedy|Best Actress]]: '''[[Rosalind Russell]]''' - ''A Majority of One''
-
-:<u>'''Other'''</u>
-:[[Golden Globe Award for Best Director – Motion Picture|Best Director]]: '''[[Stanley Kramer]]''' - ''Judgment at Nuremberg''
-
-'''[[Palme d'Or]] (Cannes Film Festival):'''
-:'''''[[The Long Absence]]''''' (''Une aussi longue absence''), directed by [[Henri Colpi]], France
-:'''''[[Viridiana]]''''', directed by [[Luis Buñuel]], Spain
-
-'''[[Golden Lion]] (Venice Film Festival):'''
-:'''''[[Last Year at Marienbad]]''''' (''L'année dernière à Marienbad''), directed by [[Alain Resnais]], France
-
-'''[[Berlin Film Festival|Golden Bear]] (Berlin Film Festival):'''
-:'''''[[La Notte]]''''' (''The Night''), directed by [[Michelangelo Antonioni]], Italy
-
-==Notable films released in 1961==
-[[American films of 1961|U.S.A.]] unless stated
-
-'''A'''
-* ''[[The Absent-Minded Professor]]'', starring [[Fred MacMurray]]
-* ''[[Accattone]]'', directed by [[Pier Paolo Pasolini]] - ([[Italian films of 1961|Italy]])
-* ''[[Ada (film)|Ada]]'', starring [[Dean Martin]] and [[Susan Hayward]]
-* ''[[All in a Night's Work (film)|All in a Night's Work]]'', starring [[Dean Martin]] and [[Shirley MacLaine]]
-* ''[[And Love Has Vanished]]'' (Dvoje) - ([[List of Yugoslav films of the 1960s|Yugoslavia]])
-* ''[[Angel Baby (1961 film)|Angel Baby]]'', starring [[Salome Jens]] and [[Mercedes McCambridge]]
-* ''[[Antigone (film)|Antigone]]'', starring [[Irene Papas]] - ([[Greek films of the 1960s|Greece]])
-* ''[[Armored Command]]'', starring [[Howard Keel]] and [[Tina Louise]]
-* ''[[Ogniomistrz Kale?|The Artillery Sergeant Kalen]]'' (Ogniomistrz Kale?) - ([[List of Polish films of the 1960s|Poland]])
-* ''[[The Assassin (1961 film)|The Assassin]]'' (L'Assassino), starring [[Marcello Mastroianni]] - ([[Italian films of 1961|Italy]])
-* ''[[Atlantis, the Lost Continent]]'', starring [[John Dall]]
-'''B'''
-* ''[[Babes in Toyland (1961 film)|Babes in Toyland]]'', starring [[Ray Bolger]], [[Tommy Sands (entertainer)|Tommy Sands]], [[Annette Funicello]]
-* ''[[Bachelor in Paradise (film)|Bachelor in Paradise]]'', starring [[Bob Hope]], [[Lana Turner]], [[Janis Paige]], [[Jim Hutton]], [[Paula Prentiss]]
-* ''[[Back Street (1961 film)|Back Street]]'', starring [[Susan Hayward]], [[John Gavin]], [[Vera Miles]]
-* ''[[Banditi a Orgosolo|Bandits of Orgosolo]]'' ({{lang|it|Banditi a Orgosolo}}) - (Italy)
-* ''[[Barabbas (1961 film)|Barabbas]]'', starring [[Anthony Quinn]], [[Silvana Mangano]] and [[Jack Palance]] - ([[Italian films of 1961|Italy]])
-* ''[[The Big Bankroll]]'', aka ''King of the Roaring 20's'', starring [[David Janssen]], [[Mickey Rooney]], [[Diana Dors]]
-* ''[[The Big Gamble (1961 film)|The Big Gamble]]'', starring [[Stephen Boyd]]
-* ''[[Black Silk]]'' (Prae Dum) - ([[List of Thai films#1060s|Thailand]])
-* ''[[Blast of Silence]]'', directed by and starring [[Allen Baron]]
-* ''[[Una Americana en Buenos Aires|The Blonde from Buenos Aires]]'' (Una Americana en Buenos Aires), starring [[Mamie Van Doren]] and [[Jean-Pierre Aumont]] - ([[Argentine films of the 1960s|Argentina]]/[[French films of 1961|France]])
-* ''[[Blue Hawaii]]'', starring [[Elvis Presley]]  (his biggest box-office success), with [[Joan Blackman]] and [[Angela Lansbury]]
-* ''[[Boatmen of Thessaloniki (film)|Boatmen of Thessaloniki]]'' (?????????? ??????????) - ([[List of Yugoslav films of the 1960s|Yugoslavia]])
-* ''[[A Bomb Was Stolen]]'' (S-a furat o bomb?) - ([[List of Romanian films#1960s|Romania]])
-* ''[[Bootleggers (film)|Bootleggers]]'' (Samogonshchiki) - ([[Soviet films of 1961|USSR]])
-* ''[[Breakfast at Tiffany's (film)|Breakfast at Tiffany's]]'', directed by [[Blake Edwards]], starring [[Audrey Hepburn]], [[George Peppard]], [[Patricia Neal]], [[Buddy Ebsen]]
-* ''[[Bridge to the Sun]]'', starring [[Carroll Baker]] and [[James Shigeta]] - ([[French films of 1961|France]]/[[American films of 1961|U.S.]])
-* ''[[By Love Possessed (film)|By Love Possessed]]'', starring [[Lana Turner]], [[Efrem Zimbalist, Jr.]], [[George Hamilton (actor)|George Hamilton]]
-'''C'''
-* ''[[Carry On Regardless]]'', starring [[Sid James]], [[Kenneth Connor]], [[Charles Hawtrey (film actor)|Charles Hawtrey]] - ([[British films of 1961|U.K.]])
-* ''[[Cash on Demand]]'', starring [[Peter Cushing]] and [[André Morell]]  - (U.K.)
-* ''[[A cavallo della tigre]]'' (aka On the Tiger's Back), starring [[Nino Manfredi]] - ([[Italian films of 1961|Italy]])
-* ''[[The Children's Hour (film)|The Children's Hour]]'', starring [[Audrey Hepburn]], [[Shirley MacLaine]], [[James Garner]] and [[Miriam Hopkins]] (who also starred in the original film ''[[These Three]]'')
-* ''[[Chronicle of Flaming Years]]'' (Povest plamennykh let) - ([[Soviet films of 1961|USSR]])
-* ''[[The Coachman (film)|The Coachman]]'' (Mabu) - ([[List of South Korean films of 1961|South Korea]])
-* ''[[The Colossus of Rhodes (film)|The Colossus of Rhodes]]'', directed by [[Sergio Leone]], starring [[Rory Calhoun]] - ([[Italian films of 1961|Italy]])
-* ''[[The Comancheros (film)|The Comancheros]]'', starring [[John Wayne]], [[Stuart Whitman]], [[Lee Marvin]], [[Ina Balin]]
-* ''[[Come September]]'', starring [[Rock Hudson]] and [[Gina Lollobrigida]]
-* ''[[Cry for Happy]]'', starring [[Glenn Ford]], [[Miyoshi Umeki]], [[Donald O'Connor]]
-* ''[[The Curse of the Werewolf]]'', starring [[Clifford Evans]] and [[Oliver Reed]] - ([[British films of 1961|U.K.]])
-'''D'''
-* ''[[The Day the Earth Caught Fire]]'', starring [[Edward Judd]] - ([[British films of 1961|U.K.]])
-* ''[[The Deadly Companions]]'', directed by [[Sam Peckinpah]], starring [[Maureen O'Hara]] and [[Brian Keith]]
-* ''[[Dersu Uzala (1961 film)|Dersu Uzala]]'' - ([[Soviet films of 1961|USSR]])
-* ''[[The Devil at 4 O'Clock]]'', directed by [[Mervyn LeRoy]], starring [[Frank Sinatra]], [[Spencer Tracy]], [[Gregoire Aslan]]
-* ''[[A Difficult Life]]'' (Una vita difficile), directed by [[Dino Risi]], starring [[Alberto Sordi]] - (Italy)
-* ''[[Divorce Italian Style]]'' (Divorzio all'italiana), directed by [[Pietro Germi]], starring [[Marcello Mastroianni]] - ([[Italian films of 1961|Italy]])
-* ''[[Dondi]]'', starring [[David Janssen]]
-'''E'''
-* ''[[El Cid (film)|El Cid]]'', directed by [[Anthony Mann]], starring [[Charlton Heston]] and [[Sophia Loren]] - (U.S./Italy)
-* ''[[The End of Summer]]'' (Kohayagawa-ke no aki), directed by [[Yasujir? Ozu]] - ([[Japanese films of 1961|Japan]])
-* ''[[A Morte Comanda o Cangaço|The End of the Cancageiros]]'' (A Morte Comanda o Cangaço) - ([[Brazilian films of the 1960s|Brazil]])
-* ''[[The Errand Boy]]'', directed by and starring [[Jerry Lewis]]
-* ''[[The Exiles (1961 film)|The Exiles]]'' - documentary
-* ''[[The Explosive Generation]]'', starring [[William Shatner]] and [[Patty McCormack]]
-'''F'''
-* ''[[Fanny (1961 film)|Fanny]]'', starring [[Charles Boyer]] and [[Leslie Caron]]
-* ''[[The Fascist (film)|The Fascist]]'' (Il Federale), starring [[Ugo Tognazzi]] - ([[Italian films of 1961|Italy]])
-* ''[[A Fever in the Blood]]'', starring [[Efrem Zimbalist, Jr.]], [[Angie Dickinson]], [[Don Ameche]], [[Jack Kelly (actor)|Jack Kelly]], [[Carroll O'Connor]]
-* ''[[Los Inundados|Flooded Out]]'' (Los Inundados) - ([[List of Argentine films of 1961|Argentina]])
-* ''[[Flower Drum Song (film)|Flower Drum Song]]'', starring [[Nancy Kwan]]
-* ''[[Francis of Assisi (film)|Francis of Assisi]]'', directed by [[Michael Curtiz]], starring [[Bradford Dillman]] and [[Dolores Hart]]
-* ''[[The Frightened City]]'', starring [[Sean Connery]], [[John Gregson]], [[Yvonne Romain]]
-'''G'''
-* ''[[The George Raft Story (film)|The George Raft Story]]'', starring [[Jayne Mansfield]] and [[Ray Danton]]
-* ''[[Gidget Goes Hawaiian]]'', starring [[Deborah Walley]]
-* ''[[Girl with a Suitcase]]'' (La Ragazza con la valigia), starring [[Claudia Cardinale]] - ([[Italian films of 1961|Italy]])
-* ''[[Go Naked in the World]]'', starring [[Gina Lollobrigida]] and [[Anthony Franciosa]] - (Italy)
-* ''[[Goodbye Again (1961 film)|Goodbye Again]]'', starring [[Ingrid Bergman]] and [[Yves Montand]] - ([[French films of 1961|France]]/[[American films of 1961|U.S.]])
-* ''[[Gorgo (film)|Gorgo]]'', starring [[Bill Travers]] - (U.K.)
-* ''[[The Great Impostor]]'', starring [[Tony Curtis]]
-* ''[[The Greengage Summer]]'', starring [[Kenneth More]] and [[Susannah York]] - (U.K.)
-* ''[[Gunga Jumna]]'', starring [[Dilip Kumar]] and [[Vyjayanthimala]] - ([[Bollywood films of 1961|India]])
-* ''[[The Guns of Navarone (film)|The Guns of Navarone]]'', directed by [[J. Lee Thompson]], starring [[Gregory Peck]], [[David Niven]], [[Anthony Quinn]] - ([[British films of 1961|U.K.]])
-'''H'''
-* ''[[Harry and the Butler]]'' (Harry og kammertjeneren) - ([[Danish films of the 1960s|Denmark]])
-* ''[[Havoc in Heaven]]'' (aka The Monkey King), an animated films - ([[Chinese films of the 1960s|China]])
-* ''[[Hogs and Warships]]'' (Buta to gunkan), directed by [[Sh?hei Imamura]] - ([[Japanese films of 1961|Japan]])
-* ''[[Homicidal]]'', directed by [[William Castle]]
-* ''[[The Honeymoon Machine]]'', starring [[Steve McQueen]], [[Brigid Bazlen]], [[Jim Hutton]], [[Paula Prentiss]]
-* ''[[Hoodlum Priest (film)|Hoodlum Priest]]'', starring [[Don Murray (actor)|Don Murray]]
-* ''[[The Human Condition (film trilogy)|The Human Condition]]'' (Ningen no j?ken), directed by [[Masaki Kobayashi]] - (Japan)
-* ''[[The Houseguest and My Mother]]'' (Sarangbang sonnimgwa eomeoni) - ([[List of South Korean films of 1961|South Korea]])
-* ''[[The Hustler (film)|The Hustler]]'', directed by [[Robert Rossen]], starring [[Paul Newman]], [[Piper Laurie]], [[George C. Scott]], [[Jackie Gleason]]
-'''I'''
-* ''[[Immortal Love]]'' (Eien no hito) - ([[Japanese films of 1961|Japan]])
-* ''[[The Innocents (1961 film)|The Innocents]]'', starring [[Deborah Kerr]] - ([[British films of 1961|U.K.]])
-'''J'''
-* ''[[Judgment at Nuremberg]]'', directed by [[Stanley Kramer]], starring [[Spencer Tracy]], [[Burt Lancaster]], [[Marlene Dietrich]], [[Maximilian Schell]], [[Judy Garland]], [[Montgomery Clift]], [[Richard Widmark]], [[William Shatner]]
-'''K'''
-* ''[[King of Kings (1961 film)|King of Kings]]'', directed by [[Nicholas Ray]], starring [[Jeffrey Hunter]], [[Robert Ryan]], [[Siobhan McKenna]], [[Hurd Hatfield]], [[Rita Gam]], [[Rip Torn]]
-* ''[[The Knife (film)|The Knife]]'' (Het Mes), directed by [[Fons Rademakers]] - ([[Dutch films of the 1960s|Netherlands]])
-'''L'''
-* ''[[The Ladies Man]]'', directed by and starring [[Jerry Lewis]]
-* ''[[The Last Judgement (1961 film)|The Last Judgement]]'' (Il Giudizio universale), directed by [[Vittorio De Sica]] - ([[Italian films of 1961|Italy]])
-* ''[[The Last Sunset (film)|The Last Sunset]]'', starring [[Rock Hudson]], [[Kirk Douglas]], [[Dorothy Malone]], [[Joseph Cotten]], [[Carol Lynley]]
-* ''[[The Last Time I Saw Archie]]'', starring [[Robert Mitchum]] and [[Jack Webb]]
-* ''[[The Last War (1961 film)|The Last War]]'' (Sekai Daisens?) - ([[Japanese films of 1961|Japan]])
-* ''[[Last Year at Marienbad]]'' (L'Année dernière à Marienbad), directed by [[Alain Resnais]], starring [[Delphine Seyrig]] - [[Golden Lion]] winner - ([[French films of 1961|France]])
-* ''[[Leon Morin, Priest]]'' (Léon Morin, prêtre), starring [[Jean-Paul Belmondo]] - (France)
-* ''[[Lola (1961 film)|Lola]]'', directed by [[Jacques Demy]], starring [[Anouk Aimée]] - (France)
-* ''[[The Long Absence]]'' (Une aussi longue absence) - [[Palme d'Or]] winner - ([[French films of 1961|France]])
-* ''[[The Long and the Short and the Tall (film)|The Long and the Short and the Tall]]'', starring [[Laurence Harvey]] and [[Richard Harris]] - ([[British films of 1961|U.K.]])
-* ''[[Look in Any Window]]'', starring [[Paul Anka]] and [[Ruth Roman]]
-* ''[[The Lovemakers (film)|The Lovemakers]]'' (La Viaccia), starring [[Claudia Cardinale]] and [[Jean-Paul Belmondo]] - ([[Italian films of 1961|Italy]])
-* ''[[Lover Come Back (1961 film)|Lover Come Back]]'', starring [[Doris Day]] and [[Rock Hudson]]
-'''M'''
-* ''[[Mad Dog Coll (1961 film)|Mad Dog Coll]]'' ([[Gene Hackman]]'s debut)
-* ''[[A Majority of One]]'', starring [[Rosalind Russell]] and [[Alec Guinness]]
-* ''[[Man-Trap]]'', starring [[Jeffrey Hunter]], [[David Janssen]], [[Stella Stevens]]
-* ''[[Marines, Let's Go]]'', starring [[Tom Tryon]] and [[David Hedison]]
-* ''[[The Mark (1961 film)|The Mark]]'', starring [[Stuart Whitman]] and [[Maria Schell]] - ([[British films of 1961|U.K.]])
-* ''[[The Mask (1961 film)|The Mask]]'', starring [[Paul Stevens (actor)|Paul Stevens]] - ([[List of Canadian films|Canada]])
-* ''[[The Miracle of Father Malachia]]'' (Das Wunder des Malachias), directed by [[Bernhard Wicki]] - ([[List of German films: 1960s|West Germany]])
-* ''[[The Misfits (film)|The Misfits]]'', directed by [[John Huston]], starring [[Marilyn Monroe]], [[Clark Gable]] (in both their last screen roles) and [[Montgomery Clift]]
-* ''[[Mother Joan of the Angels]]'' (Matka Joanna od Anio?ów) - ([[List of Polish films of the 1960s|Poland]])
-* ''[[Mothra (film)|Mothra]]'', directed by [[Ishir? Honda]] - (Japan)
-* ''[[Murder, She Said]]'', starring [[Margaret Rutherford]], [[Arthur Kennedy (actor)|Arthur Kennedy]], [[James Robertson Justice]], [[Stringer Davis]] - (U.K.)
-* ''[[Mysterious Island (1961 film)|Mysterious Island]]'', starring [[Michael Craig (actor)|Michael Craig]], [[Michael Callan]], [[Joan Greenwood]]
-'''N'''
-* ''[[The Naked Edge]]'', starring [[Gary Cooper]] (in his final film) and [[Deborah Kerr]]
-* ''[[Nazrana (1961 film)|Nazrana]]'' (Gift), starring [[Raj Kapoor]] and [[Vyjayanthimala]] - ([[Bollywood films of 1961|India]])
-* ''[[Nefertiti, Queen of the Nile]]'' (Nefertiti, regina del Nilo), starring [[Jeanne Crain]] and [[Vincent Price]] - ([[Italian films of 1961|Italy]])
-* ''[[No Love for Johnnie]]'', starring [[Peter Finch]] - ([[British films of 1961|U.K.]])
-* ''[[La Notte]]'' (The Night), directed by [[Michelangelo Antonioni]], starring [[Marcello Mastroianni]] and [[Jeanne Moreau]] - Golden Bear winner - ([[Italian films of 1961|Italy]]/[[French films of 1961|France]])
-* ''[[Nude on the Moon]]'', directed by [[Doris Wishman]]
-'''O'''
-* ''[[One-Eyed Jacks]]'', directed by and starring [[Marlon Brando]], with [[Karl Malden]], [[Katy Jurado]], [[Ben Johnson (actor)|Ben Johnson]]
-* ''[[One Hundred and One Dalmatians]]'', featuring the voices of [[Rod Taylor]] and [[Betty Lou Gerson]]
-* ''[[One, Two, Three]]'', directed by [[Billy Wilder]], starring [[James Cagney]], [[Horst Buchholz]], [[Pamela Tiffin]], [[Arlene Francis]]
-* ''[[The Outsider (1961 film)|The Outsider]]'', a biography starring [[Tony Curtis]] as World War II Marine [[Ira Hayes]]
-'''P'''
-* ''[[The Parent Trap (1961 film)|The Parent Trap]]'', starring [[Hayley Mills]], [[Maureen O'Hara]], [[Brian Keith]]
-* ''[[Paris Belongs to Us]]'' (Paris nous appartient), directed by [[Jacques Rivette]] - ([[French films of 1961|France]])
-* ''[[Paris Blues]]'', starring [[Sidney Poitier]], [[Paul Newman]], [[Joanne Woodward]], [[Diahann Carroll]]
-* ''[[Parrish (film)|Parrish]]'', starring [[Troy Donahue]], [[Connie Stevens]], [[Claudette Colbert]]
-* ''[[Peace to Him Who Enters]]'' (Mir vkhodyashchemu) - ([[Soviet films of 1961|USSR]])
-* ''[[Pigs and Battleships]]'' (Buta to gunkan), directed by [[Shohei Imamura]] - ([[Japanese films of 1961|Japan]])
-* ''[[The Pit and the Pendulum (1961 film)|The Pit and the Pendulum]]'', with [[Vincent Price]]
-* ''[[Placido (film)|Plácido]]'', directed by [[Luis García Berlanga]] - ([[Spanish films of 1961|Spain]])
-* ''[[Please, Not Now!]]'' (La Bride sur le cou), starring [[Brigitte Bardot]] - ([[French films of 1961|France]])
-* ''[[The Pleasure of His Company]]'', starring [[Fred Astaire]] and [[Debbie Reynolds]]
-* ''[[Pocketful of Miracles]]'', final film of director [[Frank Capra]], starring [[Bette Davis]], [[Glenn Ford]], [[Hope Lange]], [[Peter Falk]], [[Ann-Margret]]
-* ''[[Portrait of a Mobster]]'', starring [[Vic Morrow]]
-* ''[[Il Posto]]'' (The Errand Boy), directed by [[Ermanno Olmi]] - ([[Italian films of 1961|Italy]])
-* ''[[Professor Mamlock (1961 film)|Professor Mamlock]]'' - ([[List of East German films#1960s|East Germany]])
-'''Q'''
-* ''[[Question 7]]'', directed by [[Stuart Rosenberg]] - (U.S./[[List of German films: 1960s|West Germany]])
-'''R'''
-* ''[[A Raisin in the Sun (1961 film)|A Raisin in the Sun]]'', starring [[Sidney Poitier]] and [[Ruby Dee]]
-* ''[[The Rebel (1961 film)|The Rebel]]'', starring [[Tony Hancock]] - ([[British films of 1961|U.K.]])
-* ''[[Return to Peyton Place (film)|Return to Peyton Place]]'', directed by [[José Ferrer]], starring [[Carol Lynley]], [[Tuesday Weld]], [[Eleanor Parker]]
-* ''[[The Right Approach]]'', starring [[Martha Hyer]] and [[Juliet Prowse]]
-* ''[[The Roman Spring of Mrs. Stone]]'', starring [[Vivien Leigh]] and [[Warren Beatty]] - (U.K.)
-'''S'''
-* ''[[Sail a Crooked Ship]]'', starring [[Ernie Kovacs]], [[Robert Wagner]], [[Dolores Hart]], [[Frank Gorshin]]
-* ''[[Scarlet Sails (film)|Scarlet Sails]]'' (???? ??????) - ([[Soviet films of 1961|U.S.S.R.]])
-* ''[[The Second Time Around (film)|The Second Time Around]]'', starring [[Debbie Reynolds]], [[Andy Griffith]], [[Juliet Prowse]]
-* ''[[The Secret Ways]]'', starring [[Richard Widmark]]
-* ''[[Seetharama Kalyanam|Seetha Rama Kalynam]]'', directed by and starring [[N. T. Rama Rao]] - ([[Telugu films of 1961|India]])
-* ''[[Sennin Buraku (film)|Sennin Buraku]]'' (Hermit Village) - ([[Japanese films of 1961|Japan]])
-* ''[[The Sins of Rachel Cade]]'', starring [[Angie Dickinson]]
-* ''[[A Soldier's Prayer]]'' (Ningen no jôken), directed by [[Masaki Kobayashi]] - (Japan)
-* ''[[Something Wild (1961 film)|Something Wild]]'', starring [[Carroll Baker]] and [[Ralph Meeker]]
-* ''[[A Song About the Gray Pigeon]]'' (Piesen o sivém holubovi) - ([[Czech films of the 1960s|Czechoslovakia]])
-* ''[[Splendor in the Grass]]'', starring [[Natalie Wood]] and [[Warren Beatty]]
-* ''[[The Steamroller and the Violin]]'' (Katok i skripka), directed by [[Andrei Tarkovsky]] - (U.S.S.R.)
-* ''[[Summer and Smoke (film)|Summer and Smoke]]'', starring [[Geraldine Page]] and [[Laurence Harvey]]
-* ''[[Susan Slade]]'', starring [[Troy Donahue]] and [[Connie Stevens]]
-'''T'''
-* ''[[Taste of Fear]]'', starring [[Susan Strasberg]] - (U.K.)
-* ''[[Then Nilavu]]'' (Honeymoon), starring [[Gemini Ganesan]] and [[Vyjayanthimala]] - ([[Tamil films of 1961|India]])
-* ''[[A Taste of Honey (film)|A Taste of Honey]]'', directed by [[Tony Richardson]], starring [[Rita Tushingham]] - ([[British films of 1961|U.K.]])
-* ''[[Three Daughters]]'' (Teen Kanya), directed by [[Satyajit Ray]] - ([[Bengali films of the 1960s|India]])
-* ''[[Through a Glass Darkly (film)|Through a Glass Darkly]]'' (Såsom i en spegel), directed by [[Ingmar Bergman]] - ([[Swedish films of the 1960s|Sweden]])
-* ''[[A Thunder of Drums]]'', starring [[Richard Boone]], [[George Hamilton (actor)|George Hamilton]], [[Luana Patten]]
-* ''[[Town Without Pity]]'', starring [[Kirk Douglas]], [[Christine Kaufmann]], [[E. G. Marshall]], [[Frank Sutton]], [[Robert Blake (actor)|Robert Blake]]
-* ''[[Two Living, One Dead]]'', directed by [[Anthony Asquith]], starring [[Patrick McGoohan]] - (UK/Sweden)
-* ''[[Two Rode Together]]'', starring [[James Stewart]] and [[Richard Widmark]]
-'''U'''
-* ''[[Underworld U.S.A.]]'', directed by [[Samuel Fuller]], starring [[Cliff Robertson]]
-'''V'''
-* ''[[Victim (1961 film)|Victim]]'', directed by [[Basil Dearden]], starring [[Dirk Bogarde]] and [[Sylvia Sims]] - ([[British films of 1961|U.K.]])
-* ''[[Viridiana]]'', directed by [[Luis Buñuel]] - [[Palme d'Or]] winner - ([[Mexican films of 1961|Mexico]]/[[Spanish films of 1961|Spain]])
-* ''[[Voyage to the Bottom of the Sea]]'', starring [[Walter Pidgeon]], [[Joan Fontaine]], [[Robert Sterling]], [[Peter Lorre]], [[Barbara Eden]]
-'''W'''
-* ''[[We Were Young]]'' (A byahme mladi) - ([[Bulgarian films of the 1960s|Bulgaria]])
-* ''[[West Side Story (film)|West Side Story]]'', starring [[Natalie Wood]], [[Richard Beymer]], [[Russ Tamblyn]], [[Rita Moreno]], [[George Chakiris]]
-* ''[[When the Trees Were Tall]]'' (Kogda derevya byli bolshimi) - ([[Soviet films of 1961|U.S.S.R.]])
-* ''[[Whistle Down the Wind (film)|Whistle Down the Wind]]'', directed by [[Bryan Forbes]], starring [[Hayley Mills]] and [[Alan Bates]] - ([[British films of 1961|U.K.]])
-* ''[[Wife Number 13]]'' (Al zouga talattashar) - ([[Egyptian films of the 1960s|Egypt]])
-* ''[[Wild in the Country]]'', starring [[Elvis Presley]] with [[Hope Lange]], [[Tuesday Weld]], [[Millie Perkins]]
-* ''[[A Woman Is a Woman]]'' (Une Femme est une femme), directed by [[Jean-Luc Godard]], starring [[Jean-Paul Belmondo]] and [[Anna Karina]] - ([[French films of 1961|France]])
-'''Y'''
-* ''[[Yojimbo (film)|Yojimbo]]'', directed by [[Akira Kurosawa]], starring [[Toshiro Mifune]] - ([[Japanese films of 1961|Japan]])
-* ''[[The Young Ones (1961 film)|The Young Ones]]'', starring [[Cliff Richard]] and [[The Shadows]] - ([[British films of 1961|U.K.]])
-* ''[[The Young Savages]]'', starring [[Burt Lancaster]] and [[Dina Merrill]]
-
-==Short film series==
-* ''[[Looney Tunes]]'' ([[1930 in film|1930]]&ndash;[[1969 in film|1969]])
-* ''[[Terrytoons]]'' ([[1930 in film|1930]]&ndash;[[1964 in film|1964]])
-* ''[[Merrie Melodies]]'' ([[1931 in film|1931]]&ndash;[[1969 in film|1969]])
-* ''[[Bugs Bunny]]'' ([[1940 in film|1940]]&ndash;[[1962 in film|1962]])
-* ''[[Yosemite Sam]]'' ([[1945 in film|1945]]&ndash;[[1963 in film|1963]])
-* ''[[Speedy Gonzales]]'' ([[1953 in film|1953]]&ndash;[[1968 in film|1968]])
-* ''[[Goofy]]'' ('''1961''')
-
-==Births==
-* January 13 - [[Julia Louis-Dreyfus]], American actress
-* January 24 - [[Nastassja Kinski]], German actress
-* February 11 - [[Carey Lowell]], American actress
-* February 21 - [[Christopher Atkins]], American actor
-* April 3 - [[Eddie Murphy]], American actor and comedian
-* April 6 - [[Gene Eugene]], Canadian actor, lead singer of [[Adam Again]] (died 2000)
-* April 14 - [[Robert Carlyle]], Scottish actor
-* April 23 - [[Þröstur Leó Gunnarsson]], Icelandic actor
-* May 6 - [[George Clooney]] American actor, writer, director, producer
-* May 14 - [[Tim Roth]], English actor
-* June 9 - [[Michael J. Fox]], Canadian actor
-* July 15 - [[Forest Whitaker]], American actor
-* July 18 - [[Elizabeth McGovern]], American actress
-* July 30 - [[Laurence Fishburne]], American actor
-* August 2 - Bruce Mahoney, Irish-American actor and film director
-* August 5 - [[Janet McTeer]], English actress
-* September 18 - [[James Gandolfini]], American actor (died 2013)
-* October 31 - [[Peter Jackson]], New Zealand director
-* November 4 - [[Ralph Macchio]], American actor
-* November 14 - [[D. B. Sweeney]], American actor
-* November 19 - [[Meg Ryan]], American actress
-* November 29 - [[Tom Sizemore]], American actor
-
-==Deaths==
-* January 13 - [[Blanche Ring]], 89, American singer and actress, ''[[The Yankee Girl]]'', ''[[It's the Old Army Game]]'', ''[[If I Had My Way]]''
-* January 14 - [[Barry Fitzgerald]], 72, Irish actor, ''[[Going My Way]]'', ''[[The Quiet Man]]'', ''[[The Naked City]]'', ''[[How Green Was My Valley (film)|How Green Was My Valley]]'', ''[[And Then There Were None (1945 film)|And Then There Were None]]''
-* February 2 - [[Anna May Wong]], 56, American actress, ''[[Shanghai Express (film)|Shanghai Express]]'', ''[[The Thief of Bagdad (1924 film)|The Thief of Baghdad]]'', ''[[Daughter of Shanghai]]'', ''[[Piccadilly (film)|Piccadilly]]'', ''[[A Study in Scarlet (1933 film)|A Study in Scarlet]]'', ''[[Peter Pan (1924 film)|Peter Pan]]''
-* February 17 - [[Nita Naldi]], 63, American actress, ''[[Blood and Sand (1922 film)|Blood and Sand]]'', ''[[Dr. Jekyll and Mr. Hyde (1920 film)|Dr. Jekyll and Mr. Hyde]]'', ''[[Cobra (1925 film)|Cobra]]''
-* March 6 - [[George Formby, Jr.|George Formby]], 56, British actor, entertainer, ''[[It's in the Air]]'', ''[[Off the Dole]]'', ''[[Come On George!]]'', ''[[Much Too Shy]]''
-* March 12 - [[Belinda Lee]], 25, British actress, ''[[Long Night in 1943]]'', ''[[The Belles of St. Trinian's]]''
-* May 4 - [[Anita Stewart]], 66, American silent-film actress
-* May 13 - [[Gary Cooper]], 60, American actor, ''[[High Noon (film)|High Noon]]'', ''[[Meet John Doe]]'', ''[[Mr. Deeds Goes to Town]]'', ''[[Sergeant York (film)|Sergeant York]]'', ''[[Love in the Afternoon (1957 film)|Love in the Afternoon]]'', ''[[The Pride of the Yankees]]'', ''[[The Lives of a Bengal Lancer (film)|The Lives of a Bengal Lancer]]'', ''[[Alice in Wonderland (1933 film)|Alice in Wonderland]]'', ''[[For Whom the Bell Tolls (film)|For Whom the Bell Tolls]]'', ''[[Friendly Persuasion (film)|Friendly Persuasion]]'', ''[[The Virginian (1929 film)|The Virginian]]'', ''[[Ten North Frederick (film)|Ten North Frederick]]'', ''[[The Fountainhead (film)|The Fountainhead]]'', ''[[Man of the West]]''
-* May 22 - [[Joan Davis]], 53, American actress, ''[[Hold That Ghost]]'', ''[[Just Around the Corner]]'', ''[[Sun Valley Serenade]]'', ''[[You Can't Have Everything]]''
-* June 17 - [[Jeff Chandler (actor)|Jeff Chandler]], 42, American actor, ''[[Broken Arrow (1950 film)|Broken Arrow]]'', ''[[Merrill's Marauders (film)|Merrill's Marauders]]'', ''[[Away All Boats]]'', ''[[The Plunderers]]'', ''[[Female on the Beach]]'', ''[[The Day the Earth Stood Still]]''
-* August 4 - [[Maurice Tourneur]], 85, French director, ''[[The Last of the Mohicans (1920 American film)|The Last of the Mohicans]]'', ''[[The Poor Little Rich Girl]]'', ''[[The Wishing Ring]]'', ''[[The Blue Bird (1918 film)|The Blue Bird]]'', ''[[Lorna Doone (1922 film)|Lorna Doone]]''
-* August 17 - [[Violet Kemble-Cooper]], 74, British actress, ''[[The Invisible Ray (1936 film)|The Invisible Ray]]'', ''[[David Copperfield (1935 film)|David Copperfield]]'', ''[[Our Betters]]'', ''[[Romeo and Juliet (1936 film)|Romeo and Juliet]]'', ''[[The Invisible Man (1933 film)|The Invisible Man]]''
-* August 27 - [[Gail Russell]], 36, American actress, ''[[Angel and the Badman]]'', ''[[Seven Men from Now]]'', ''[[Wake of the Red Witch]]'', ''[[Moonrise (film)|Moonrise]]''
-* August 30 - [[Charles Coburn]], 84, American actor, ''[[Gentlemen Prefer Blondes (film)|Gentlemen Prefer Blondes]]'', ''[[The Lady Eve]]'', ''[[Monkey Business (1952 film)|Monkey Business]]'', ''[[Wilson (film)|Wilson]]'', ''[[Around the World in Eighty Days (1956 film)|Around the World in Eighty Days]]'', ''[[A Royal Scandal (film)|A Royal Scandal]]'', ''[[Heaven Can Wait (1943 film)|Heaven Can Wait]]''
-* September 10 - [[Leo Carrillo]], 81, American actor, ''[[Viva Villa!]]'', ''[[Phantom of the Opera (1943 film)|Phantom of the Opera]]'', ''[[Manhattan Melodrama]]'', ''[[The Girl of the Golden West (1938 film)|The Girl of the Golden West]]''
-* September 22 - [[Marion Davies]], 64, American actress, ''[[Show People]]'', ''[[Cain and Mabel]]'', ''[[The Patsy (1928 film)|The Patsy]]'', ''[[Operator 13]]'', ''[[Peg o' My Heart (1933 film)|Peg o' My Heart]]'', ''[[The Red Mill (film)|The Red Mill]]''
-* October 11 - [[Chico Marx]], 74, American actor, member of the [[Marx Brothers]], ''[[A Night at the Opera (film)|A Night at the Opera]]'', ''[[Duck Soup (1933 film)|Duck Soup]]'', ''[[A Day at the Races (film)|A Day at the Races]]'', ''[[Animal Crackers (film)|Animal Crackers]]'', ''[[At the Circus]]'', ''[[Monkey Business (1931 film)|Monkey Business]]''
-* October 13 - [[Maya Deren]], 44, American experimental filmmaker, ''[[Meshes of the Afternoon]]'', ''[[At Land]]''
-* October 18 - [[Tsuru Aoki]], 69, Japanese-born American actress, ''[[The Dragon Painter]]''
-* October 22 - [[Joseph Schenck]], 82, Russian-born American pioneer motion picture executive, ''[[The General (1926 film)|The General]]'', ''[[Sherlock Jr.]]'', ''[[Steamboat Bill, Jr.]]'', ''[[Neighbors (1920 film)|Neighbors]]'', ''[[Reaching for the Moon (1930 film)|Reaching for the Moon]]'', ''[[Our Hospitality]]''
-* November 15 - [[Elsie Ferguson]], 78, American stage and film actress, ''[[Scarlet Pages]]''
-* November 24 - [[Ruth Chatterton]], 68, American actress, ''[[Dodsworth (film)|Dodsworth]]'', ''[[Female (1933 film)|Female]]'', ''[[Frisco Jenny]]'', ''[[Sarah and Son]]''
-
-==Film debuts==
-* [[Warren Beatty]] - ''[[Splendor in the Grass]]''
-* [[Louis Gossett, Jr.]] - ''[[A Raisin in the Sun (1961 film)|A Raisin in the Sun]]''
-* [[Gene Hackman]] - ''[[Mad Dog Coll (film)|Mad Dog Coll]]''
-* [[Joe Pesci]] - ''[[Hey, Let's Twist!]]
-* [[Burt Reynolds]] - ''[[Angel Baby (1961 film)|Angel Baby]]''
-
-== References ==
-{{reflist}}
-
-
-[[Category:1961 in film| ]]
-[[Category:Years in film]]
+The Absent-Minded Professor
+Accattone
+Ada (film)
+All in a Night's Work (film)
+And Love Has Vanished
+Angel Baby (1961 film)
+Antigone (film)
+Armored Command
+Ogniomistrz Kale?
+The Assassin (1961 film)
+Atlantis, the Lost Continent
+Babes in Toyland (1961 film)
+Bachelor in Paradise (film)
+Back Street (1961 film)
+Banditi a Orgosolo
+Barabbas (1961 film)
+The Big Bankroll
+The Big Gamble (1961 film)
+Black Silk
+Blast of Silence
+Una Americana en Buenos Aires
+Blue Hawaii
+Boatmen of Thessaloniki (film)
+A Bomb Was Stolen
+Bootleggers (film)
+Breakfast at Tiffany's (film)
+Bridge to the Sun
+By Love Possessed (film)
+Carry On Regardless
+Cash on Demand
+A cavallo della tigre
+The Children's Hour (film)
+Chronicle of Flaming Years
+The Coachman (film)
+The Colossus of Rhodes (film)
+The Comancheros (film)
+Come September
+Cry for Happy
+The Curse of the Werewolf
+The Day the Earth Caught Fire
+The Deadly Companions
+Dersu Uzala (1961 film)
+The Devil at 4 O'Clock
+A Difficult Life
+Divorce Italian Style
+Dondi
+El Cid (film)
+The End of Summer
+A Morte Comanda o Cangaço
+The Errand Boy
+The Exiles (1961 film)
+The Explosive Generation
+Fanny (1961 film)
+The Fascist (film)
+A Fever in the Blood
+Los Inundados
+Flower Drum Song (film)
+Francis of Assisi (film)
+The Frightened City
+The George Raft Story (film)
+Gidget Goes Hawaiian
+Girl with a Suitcase
+Go Naked in the World
+Goodbye Again (1961 film)
+Gorgo (film)
+The Great Impostor
+The Greengage Summer
+Gunga Jumna
+The Guns of Navarone (film)
+Harry and the Butler
+Havoc in Heaven
+Hogs and Warships
+Homicidal
+The Honeymoon Machine
+Hoodlum Priest (film)
+The Human Condition (film trilogy)
+The Houseguest and My Mother
+The Hustler (film)
+Immortal Love
+The Innocents (1961 film)
+Judgment at Nuremberg
+King of Kings (1961 film)
+The Knife (film)
+The Ladies Man
+The Last Judgement (1961 film)
+The Last Sunset (film)
+The Last Time I Saw Archie
+The Last War (1961 film)
+Last Year at Marienbad
+Leon Morin, Priest
+Lola (1961 film)
+The Long Absence
+The Long and the Short and the Tall (film)
+Look in Any Window
+The Lovemakers (film)
+Lover Come Back (1961 film)
+Mad Dog Coll (1961 film)
+A Majority of One
+Man-Trap
+Marines, Let's Go
+The Mark (1961 film)
+The Mask (1961 film)
+The Miracle of Father Malachia
+The Misfits (film)
+Mother Joan of the Angels
+Mothra (film)
+Murder, She Said
+Mysterious Island (1961 film)
+The Naked Edge
+Nazrana (1961 film)
+Nefertiti, Queen of the Nile
+No Love for Johnnie
+La Notte
+Nude on the Moon
+One-Eyed Jacks
+One Hundred and One Dalmatians
+One, Two, Three
+The Outsider (1961 film)
+The Parent Trap (1961 film)
+Paris Belongs to Us
+Paris Blues
+Parrish (film)
+Peace to Him Who Enters
+Pigs and Battleships
+The Pit and the Pendulum (1961 film)
+Placido (film)
+Please, Not Now!
+The Pleasure of His Company
+Pocketful of Miracles
+Portrait of a Mobster
+Il Posto
+Professor Mamlock (1961 film)
+Question 7
+A Raisin in the Sun (1961 film)
+The Rebel (1961 film)
+Return to Peyton Place (film)
+The Right Approach
+The Roman Spring of Mrs. Stone
+Sail a Crooked Ship
+Scarlet Sails (film)
+The Second Time Around (film)
+The Secret Ways
+Seetharama Kalyanam
+Sennin Buraku (film)
+The Sins of Rachel Cade
+A Soldier's Prayer
+Something Wild (1961 film)
+A Song About the Gray Pigeon
+Splendor in the Grass
+The Steamroller and the Violin
+Summer and Smoke (film)
+Susan Slade
+Taste of Fear
+Then Nilavu
+A Taste of Honey (film)
+Three Daughters
+Through a Glass Darkly (film)
+A Thunder of Drums
+Town Without Pity
+Two Living, One Dead
+Two Rode Together
+Underworld U.S.A.
+Victim (1961 film)
+Viridiana
+Voyage to the Bottom of the Sea
+We Were Young
+West Side Story (film)
+When the Trees Were Tall
+Whistle Down the Wind (film)
+Wife Number 13
+Wild in the Country
+A Woman Is a Woman
+Yojimbo (film)
+The Young Ones (1961 film)
+The Young Savages
+Looney Tunes
+Terrytoons
+Merrie Melodies
+Bugs Bunny
+Yosemite Sam
+Speedy Gonzales
+Goofy

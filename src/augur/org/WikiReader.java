@@ -29,8 +29,10 @@ public class WikiReader {
 
 		List<String> movieList = new ArrayList<String>();
 
-		for (int i = 1950; i < 2014; i++) {
-			movieList.addAll(findMoviesByYear(i));
+		for (int year = 1950; year < 2014; year++) {
+			List<String> yearList = findMoviesByYear(year);
+			movieList.addAll(yearList);
+			dumpToLog(String.join("\n", yearList), "log\\movies" + year + ".txt");
 		}
 
 		dumpToLog(String.join("\n", movieList), "log\\movieList.txt");
@@ -63,25 +65,36 @@ public class WikiReader {
 	}
 
 	private static List<String> getMovieByYearTable(String pageText, int year) throws IOException {
-		dumpToLog(pageText, "log\\movies" + year + ".txt");
+		dumpToLog(pageText, "log\\movieWiki" + year + ".txt");
 		int i, begin = 0, end = 0;
 		List<String> table = new ArrayList<String>();
 
 		String[] lines = pageText.split("\\n");
+		begin = lines.length;
 		for (i = 0; i < lines.length; i++) {
+			if(lines[i].contains("==#==")) {
+				begin = (i < begin) ? i : begin;
+			}
+			if(lines[i].contains("== # ==")) {
+				begin = (i < begin) ? i : begin;
+			}
 			if (lines[i].contains("==" + year + " films==")) {
-				begin = i;
+				begin = (i < begin) ? i : begin;
 			}
 			if(lines[i].contains("==Notable films released in " + year + "=="))
 			{
-				begin = i;
+				begin = (i < begin) ? i : begin;
+			}
+			if(lines[i].contains("==" + year + " Wide-release films=="))
+			{
+				begin = (i < begin) ? i : begin;
 			}
 			if(lines[i].contains("== " + year + " Wide-release films =="))
 			{
-				begin = i;
+				begin = (i < begin) ? i : begin;
 			}
 			if (lines[i].contains("==") && (lines[i].contains("Births") || lines[i].contains("death")) && (i > begin) && (begin != 0)) {
-				end = i - 1;
+				end = i;
 				break;
 			}
 		}
