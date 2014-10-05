@@ -33,7 +33,7 @@ public class WikiReader {
 			movieList.addAll(findMoviesByYear(i));
 		}
 
-		dumpToLog(String.join("\n", movieList), "movieList.txt");
+		dumpToLog(String.join("\n", movieList), "log\\movieList.txt");
 
 		// findMoviesByYear(2012);
 	}
@@ -63,7 +63,7 @@ public class WikiReader {
 	}
 
 	private static List<String> getMovieByYearTable(String pageText, int year) throws IOException {
-		dumpToLog(pageText, "movies" + year + ".txt");
+		dumpToLog(pageText, "log\\movies" + year + ".txt");
 		int i, begin = 0, end = 0;
 		List<String> table = new ArrayList<String>();
 
