@@ -8,6 +8,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 import org.wikipedia.Wiki;
@@ -23,21 +24,117 @@ public class WikiReader {
 	 * @throws Exception
 	 */
 	public static void main(String[] args) throws Exception {
-		// Wiki reader = new Wiki();
+		Wiki reader = new Wiki();
 		// String pageTitle = "Augur";
 		// System.out.println(reader.getPageText(pageTitle));
 
 		List<String> movieList = new ArrayList<String>();
+		List<String> movieRevenueList = new ArrayList<String>();
 
-		for (int year = 1940; year < 2014; year++) {
-			List<String> yearList = findMoviesByYear(year);
-			movieList.addAll(yearList);
-			dumpToLog(String.join("\n", yearList), "log\\movies" + year + ".txt");
+		// for (int year = 2007; year < 2009; year++) {
+		// List<String> yearList = findMoviesByYear(year);
+		// movieList.addAll(yearList);
+		// for(String movie : yearList)
+		// {
+		// movieRevenueList.add(year + " " + movie + " " + getRevenue(movie));
+		// }
+		// // dumpToLog(String.join("\n", yearList), "log\\movies" + year +
+		// // ".txt");
+		// }
+		//
+		// dumpToLog(String.join("\n", movieRevenueList),
+		// "log\\movieRevenue.txt");
+
+		// dumpToLog(String.join("\n", movieList), "log\\movieList.txt");
+		//
+		int revenue = getRevenue("Nick and Norah's Infinite Playlist");
+		System.out.println(revenue);
+		// findMoviesByYear(2012);
+	}
+
+	/**
+	 * Calculates the revenue made by a movie.
+	 * 
+	 * @param movieName
+	 *            The Wikipedia page name of the movie
+	 * @return The revenue made. Returns 0 if the page/info was not found
+	 * @throws IOException
+	 */
+	public static int getRevenue(String movieName) throws IOException {
+		Wiki reader = new Wiki();
+		if (!reader.exists(new String[] { movieName })[0]) {
+			return 0;
+		}
+		String pageText = reader.getPageText(movieName);
+		if (pageText.contains("#REDIRECT")) {
+			String[] temp = pageText.split("\\[\\[");
+			String[] text = temp[1].split("\\]\\]");
+			pageText = reader.getPageText(text[0]);
 		}
 
-		dumpToLog(String.join("\n", movieList), "log\\movieList.txt");
+		List<String> textList = new ArrayList<String>();
+		textList = Arrays.asList(pageText.split("\n"));
+		int braces = -1;
+		for (String line : textList) {
+			if (line.contains("{{Infobox")) {
+				braces = 1;
+			} else if (line.contains("{{")) {
+				braces++;
+			} else if (line.contains("}}")) {
+				braces--;
+			}
+			if (braces == 0) {
+				break;
+			}
+			if (line.contains("gross")) {
+				if (!line.contains("$")) {
+					return 0;
+				}
+				return extractNumber(line.substring(line.indexOf("$")));
+			}
+		}
 
-		// findMoviesByYear(2012);
+		return 0;
+	}
+
+	/**
+	 * Converts the text into a number
+	 * 
+	 * @param text
+	 *            The text in the form 1,000 or 1,234 million or 3 billion
+	 * @return The integer value that this number represents. Truncates decimal
+	 *         point
+	 */
+	public static int extractNumber(String text) {
+		int base = 0, multiplier = 1;
+		if (text.contains("million")) {
+			multiplier = 1000000;
+		}
+		if (text.contains("billion")) {
+			multiplier = 1000000000;
+		}
+		String number = new String(text.substring(1,
+				endOfNumbers(text.substring(1)))).replaceAll(",", "");
+		base = Integer.parseInt(number);
+		return base * multiplier;
+	}
+
+	/**
+	 * Used by extractNumber to parse the string input
+	 * 
+	 * @param numString
+	 *            The numeric string
+	 * @return The index of the last number in the string
+	 */
+	public static int endOfNumbers(String numString) {
+		char[] charArray = numString.toLowerCase().replaceAll(",", "")
+				.toCharArray();
+		for (char c : charArray) {
+			if (!Character.isDigit(c)) {
+				return numString.indexOf(c) + 1;
+			}
+		}
+		return numString.length();
 	}
 
 	/**
@@ -64,7 +161,18 @@ public class WikiReader {
 		return table;
 	}
 
-	private static List<String> getMovieByYearTable(String pageText, int year) throws IOException {
+	/**
+	 * Gets the table corresponding to the wiki page with movies of a given year
+	 * 
+	 * @param pageText
+	 *            The text of the page
+	 * @param year
+	 *            The year the movies were released
+	 * @return The list of movie names
+	 * @throws IOException
+	 */
+	public static List<String> getMovieByYearTable(String pageText, int year)
+			throws IOException {
 		dumpToLog(pageText, "log\\movieWiki" + year + ".txt");
 		int i, begin = 0, end = 0;
 		List<String> table = new ArrayList<String>();
@@ -72,28 +180,27 @@ public class WikiReader {
 		String[] lines = pageText.split("\\n");
 		begin = lines.length;
 		for (i = 0; i < lines.length; i++) {
-			if(lines[i].contains("==#==")) {
+			if (lines[i].contains("==#==")) {
 				begin = (i < begin) ? i : begin;
 			}
-			if(lines[i].contains("== # ==")) {
+			if (lines[i].contains("== # ==")) {
 				begin = (i < begin) ? i : begin;
 			}
 			if (lines[i].contains("==" + year + " films==")) {
 				begin = (i < begin) ? i : begin;
 			}
-			if(lines[i].contains("==Notable films released in " + year + "=="))
-			{
+			if (lines[i].contains("==Notable films released in " + year + "==")) {
 				begin = (i < begin) ? i : begin;
 			}
-			if(lines[i].contains("==" + year + " Wide-release films=="))
-			{
+			if (lines[i].contains("==" + year + " Wide-release films==")) {
 				begin = (i < begin) ? i : begin;
 			}
-			if(lines[i].contains("== " + year + " Wide-release films =="))
-			{
+			if (lines[i].contains("== " + year + " Wide-release films ==")) {
 				begin = (i < begin) ? i : begin;
 			}
-			if (lines[i].contains("==") && (lines[i].contains("Births") || lines[i].contains("death")) && (i > begin) && (begin != 0)) {
+			if (lines[i].contains("==")
+					&& (lines[i].contains("Births") || lines[i]
+							.contains("death")) && (i > begin) && (begin != 0)) {
 				end = i;
 				break;
 			}
@@ -117,7 +224,16 @@ public class WikiReader {
 		return table;
 	}
 
-	private static void dumpToLog(String text, String filePath)
+	/**
+	 * Write text to a log file. Rewrites if file is already present
+	 * 
+	 * @param text
+	 *            The text to write
+	 * @param filePath
+	 *            The path of the file to write
+	 * @throws IOException
+	 */
+	public static void dumpToLog(String text, String filePath)
 			throws IOException {
 		Path file = Paths.get(filePath);
 		Files.write(file, text.getBytes());
