@@ -37,8 +37,8 @@ public class WikiReader {
 					"Cannot load credentials from the file", e);
 		}
 
-		if (args.length != 2) {
-			System.out.println("Usage: \"<exec> <yearBeg> <yearEnd>\"");
+		if (args.length != 5) {
+			System.out.println("Usage: \"<exec> <yearBeg> <yearEnd> <bucket-name> <movielistfolder/prefix> <movierevenuefolder/prefix>\"");
 			return;
 		}
 
@@ -71,13 +71,13 @@ public class WikiReader {
 			// dumpToLog(yearMovies, "movielist\\movies" + year + ".txt");
 			File movieFile = new File("movielist/movies" + year + ".txt");
 			dumpToLog(yearMovies, movieFile.toPath());
-			s3.putObject("augurframework", "trainingmovielist/movies" + year,
+			s3.putObject(args[2], args[3] + year,
 					movieFile);
 
 			File file = new File("revenuelist/revenues" + year + ".txt");
 			dumpToLog(yearRevenues, file.toPath());
-			s3.putObject("augurframework",
-					"mapreduceInput/train/movies" + year, file);
+			s3.putObject(args[2],
+					args[4] + year, file);
 			// dumpToLog(String.join("\n",movieList), "log\\movies" + year +
 			// ".txt");
 		}
