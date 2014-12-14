@@ -1,5 +1,7 @@
-/**
- * 
+/*
+ * This parses Wikipedia for a list of movies, and returns the list of movies released in a year,
+ * along with their box-office collections. It also parses Wikipedia to retrieve a list of all 
+ * movies made since 1950. This uses Google's API wrapper for Wikipedia.
  */
 package augur.org;
 
